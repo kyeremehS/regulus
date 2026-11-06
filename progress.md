@@ -82,7 +82,7 @@ Legend: `TODO` · `WIP` · `DONE` · `BLOCKED`
 ### Phase 0 — Decisions & skeleton *(current phase)*
 
 - [x] Rewrite design doc as `DESIGN.md` with all GRRA references renamed to **Regulus**; resolve §20 open questions with the defaults in §1 above; fold the empty `designdoc.md` into it *(old docs deleted; §20 now a Resolved section)*
-- [ ] Make the first git commit *(pending — this session)*
+- [x] Make the first git commit ✅ `5d8d975` *(26 files; `.env` excluded via gitignore, `.env.example` tracked)*
 - [x] Write `SPEC.md` (§10.1): scope (Ghana tax and business regulation only), tool contracts, risk tiers (calculator results higher risk than definitions), when to abstain / tell user to consult a professional, answer contract, hard limits
 - [x] Scaffold Next.js app *(Next.js 16.4.5 App Router, TypeScript, Tailwind 4, ESLint flat config — v16 notes: Turbopack default, async-only `params`/`headers`, `next lint` removed, `middleware`→`proxy`)*
 - [x] Prisma schema per §12: Document, Chunk, Conversation, Message, Trace, EvalSet, EvalCase, EvalRun, EvalResult — `prisma validate` passes, client generated to `app/generated/prisma`
