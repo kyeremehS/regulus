@@ -7,7 +7,7 @@
 **Source of truth:** `C:\Users\Samuel Kyeremeh\Desktop\regulus\Design Doc Ghana Regulatory Research Assistant.md`
 (referenced below as §N). To be rewritten as `DESIGN.md` under the name **Regulus** in Phase 0.
 
-**Repo:** `C:\Users\Samuel Kyeremeh\Desktop\regulus` (git repo, currently zero commits)
+**Repo:** `C:\Users\Samuel Kyeremeh\Desktop\regulus` → https://github.com/kyeremehS/regulus (public, `main`)
 
 **Status:** Planning complete → ready for Phase 0.
 
@@ -292,6 +292,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 | 2026-11-06 | Expanded to full end-to-end: Phases 2–6 broken into checklists, §9/§10.6/§10.7/§13/§14/§16/§17/§21 gaps filled, cross-cutting section added | planning session |
 | 2026-11-06 | Phase 0 in progress: DESIGN.md (Regulus rename + §20 resolved), SPEC.md, Next 16.4.5 scaffold, Prisma §12 schema (valid), lib/gateway.ts, sources/manifest.json (6 candidates), smoke:gateway script. Verified: typecheck/lint/build pass, dev server HTTP 200. Blocked: DATABASE_URL (Neon vs Supabase) + OPENAI_API_KEY. Old docs deleted. | implementation session |
 | 2026-11-06 | **Stack change (owner decision): Prisma → Drizzle.** Removed prisma/@prisma/client; added drizzle-orm/drizzle-kit/pg. `db/schema.ts` = §12 (9 tables, pgvector custom type), `db/index.ts` client, `drizzle.config.ts`, migration `0000` (+`CREATE EXTENSION vector`), npm scripts `db:generate/migrate/push/studio`. DESIGN.md §6/§12 wording updated. Typecheck/lint/build pass. | implementation session |
+| 2026-11-06 | **Pushed to GitHub:** https://github.com/kyeremehS/regulus (public, `main`). 4 commits: Phase 0 skeleton → tracker → Drizzle switch → cleanup. | implementation session |
 
 ---
 
