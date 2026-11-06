@@ -9,7 +9,7 @@
 
 **Repo:** `C:\Users\Samuel Kyeremeh\Desktop\regulus` → https://github.com/kyeremehS/regulus (public, `main`)
 
-**Status:** Planning complete → ready for Phase 0.
+**Status:** Phase 0 nearly complete — **owner adding `OPENAI_API_KEY` + `DATABASE_URL` to `.env` manually**. Resume point: run `npm run smoke:gateway` and `npm run db:migrate`, then start Phase 1 (fetcher → parse inspection gate). Planned continuation: weekend of 2026-11-07/08.
 
 ---
 
@@ -278,10 +278,10 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 
 ## 5. Open questions for the user
 
-- [ ] Daily budget cap for model + hosting costs (dollar figure)?
-- [ ] Neon vs Supabase for the Postgres instance?
-- [ ] Confirm the exact v1 source list and verify each source's terms of use/licensing (§5 — human check, required before ingest)
-- [ ] Which specific acts and guidance notes make the v1 cut
+- [ ] **`OPENAI_API_KEY` in `.env`** — owner will add manually; then run `npm run smoke:gateway` (Phase 0 exit)
+- [ ] **`DATABASE_URL` in `.env`** — owner picks Neon vs Supabase (or says "provision it"); then `npm run db:migrate` (Phase 0 exit)
+- [ ] Daily budget cap for model + hosting costs (dollar figure)? (`.env.example` defaults to 5 USD)
+- [ ] Confirm the exact v1 source list and verify each source's terms of use/licensing (§5 — human check, required before Phase 1 ingest: flip `termsChecked: true` in `sources/manifest.json`)
 
 ---
 
@@ -295,6 +295,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 | 2026-11-06 | **Stack change (owner decision): Prisma → Drizzle.** Removed prisma/@prisma/client; added drizzle-orm/drizzle-kit/pg. `db/schema.ts` = §12 (9 tables, pgvector custom type), `db/index.ts` client, `drizzle.config.ts`, migration `0000` (+`CREATE EXTENSION vector`), npm scripts `db:generate/migrate/push/studio`. DESIGN.md §6/§12 wording updated. Typecheck/lint/build pass. | implementation session |
 | 2026-11-06 | **Pushed to GitHub:** https://github.com/kyeremehS/regulus (public, `main`). 4 commits: Phase 0 skeleton → tracker → Drizzle switch → cleanup. | implementation session |
 | 2026-11-06 | README written (Veritas-style) then eval-harness section promoted to a lead section (owner priority: evals are the most important part). **Versioning adopted (D5):** SemVer tags, MAJOR = phase complete. Tagged `v0.1.0` = Phase 0 skeleton. | implementation session |
+| 2026-11-06 | Session paused. Owner will add OPENAI_API_KEY + DATABASE_URL to `.env` manually; project resumes weekend of 2026-11-07/08. Resume point: smoke:gateway + db:migrate → Phase 1. | implementation session |
 
 ---
 
