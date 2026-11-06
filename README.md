@@ -90,6 +90,10 @@ npm run dev               # http://localhost:3000
 | `npm run db:generate` / `db:migrate` / `db:push` | Drizzle migrations |
 | `npm run db:studio` | Browse tables in a GUI |
 
+## Versioning
+
+SemVer git tags: **`vMAJOR.MINOR.PATCH`** — MAJOR = a phase from the roadmap completes, MINOR = new capability within a phase, PATCH = fixes and docs. Each tag ships with a GitHub Release. `v0.1.0` = Phase 0 skeleton. See [progress.md](progress.md) §1 (decision D5).
+
 ## Roadmap
 
 The build follows [DESIGN.md §18](DESIGN.md) — each phase has exit criteria recorded in [progress.md](progress.md):

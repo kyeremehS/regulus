@@ -33,6 +33,7 @@
 | D2 | Codebase shape | **Single Next.js app** — UI, route handlers, orchestrator, ingestion CLI, eval runner as scripts. One deployable, reproducible in under an hour (§17). |
 | D3 | Corpus | **Agent writes a fetcher + starter source list** into `sources/manifest.json`; user verifies availability/licensing *together* with the agent before ingest (§5). |
 | D4 | First milestone | **Phase 0 + Phase 1 only**: skeleton, ingestion, naive single-call RAG with streaming citations. Stop, run it, then decide. |
+| D5 | Versioning (decided 2026-11-06) | **SemVer git tags** (`vMAJOR.MINOR.PATCH`). MAJOR = phase completed per §18 exit criteria (`v1.0.0` = production, Phase 6). MINOR = new capability within a phase. PATCH = fixes/docs/refactors. Every tag gets a GitHub Release whose notes come from the tracker's change log. Nothing marked `DONE` in this tracker without its version tag. |
 
 ### Stack (implied by D1/D2)
 
@@ -293,6 +294,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 | 2026-11-06 | Phase 0 in progress: DESIGN.md (Regulus rename + §20 resolved), SPEC.md, Next 16.4.5 scaffold, Prisma §12 schema (valid), lib/gateway.ts, sources/manifest.json (6 candidates), smoke:gateway script. Verified: typecheck/lint/build pass, dev server HTTP 200. Blocked: DATABASE_URL (Neon vs Supabase) + OPENAI_API_KEY. Old docs deleted. | implementation session |
 | 2026-11-06 | **Stack change (owner decision): Prisma → Drizzle.** Removed prisma/@prisma/client; added drizzle-orm/drizzle-kit/pg. `db/schema.ts` = §12 (9 tables, pgvector custom type), `db/index.ts` client, `drizzle.config.ts`, migration `0000` (+`CREATE EXTENSION vector`), npm scripts `db:generate/migrate/push/studio`. DESIGN.md §6/§12 wording updated. Typecheck/lint/build pass. | implementation session |
 | 2026-11-06 | **Pushed to GitHub:** https://github.com/kyeremehS/regulus (public, `main`). 4 commits: Phase 0 skeleton → tracker → Drizzle switch → cleanup. | implementation session |
+| 2026-11-06 | README written (Veritas-style) then eval-harness section promoted to a lead section (owner priority: evals are the most important part). **Versioning adopted (D5):** SemVer tags, MAJOR = phase complete. Tagged `v0.1.0` = Phase 0 skeleton. | implementation session |
 
 ---
 
@@ -304,3 +306,4 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 3. A phase is only `DONE` when its **exit criteria** are met and verified by running the code.
 4. When context feels stale, re-read section 1 and section 2 — they are the compressed plan.
 5. Section 3 is the checklist of record: nothing ships that isn't checked off here first.
+6. **Versioning (D5):** tag SemVer when phases/capabilities land — `git tag -a vX.Y.Z -m "..."` + `git push origin --tags`. GitHub Release notes come from the change log below. Nothing marked `DONE` without its tag.
