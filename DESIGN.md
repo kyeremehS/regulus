@@ -86,7 +86,7 @@ Before ingesting, confirm each source's terms of use and record its URL, publica
 * **Orchestrator:** runs the agent graph for each query and emits trace events.  
 * **Retrieval service:** hybrid search (vector plus keyword), reranking, and context assembly.  
 * **Model gateway:** a single wrapper around the model API providing model selection, retries, timeouts, caching, token and cost accounting, and prompt version tagging.  
-* **Postgres (Prisma \+ pgvector):** documents, chunks, embeddings, conversations, traces, eval runs.  
+* **Postgres (Drizzle \+ pgvector):** documents, chunks, embeddings, conversations, traces, eval runs.  
 * **Eval runner:** a CLI plus CI job that executes the golden set against a given prompt and model configuration.  
 * **Observability:** structured logs and traces for every model call and tool call.
 
@@ -250,7 +250,7 @@ Starting hypotheses to confirm or discard during labeling:
 
 These targets are starting points. Revise them after the first baseline measurements.
 
-## **12\. Data Model (Prisma, simplified)**
+## **12\. Data Model (Drizzle, simplified)**
 
 * Document: id, title, sourceUrl, publisher, publishedAt, version, contentHash  
 * Chunk: id, documentId, sectionPath, text, pageNumber, tokenCount, embedding (vector), supersededAt  

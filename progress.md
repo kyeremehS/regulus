@@ -40,7 +40,7 @@
 |---|---|
 | App | Next.js (App Router) + TypeScript |
 | DB | Postgres + pgvector (Neon or Supabase, free tier) |
-| ORM | Prisma — schema per §12 verbatim |
+| ORM | **Drizzle** (owner's preference, decided 2026-11-06 — overrides doc's original "Prisma") — schema per §12 in `db/schema.ts`, pgvector via custom type |
 | Streaming | Vercel AI SDK (`streamText`, SSE citation/trace events) |
 | LLM access | OpenAI via AI SDK, ALL calls go through one `lib/gateway.ts` with token/cost accounting + prompt-version tagging (build it now, retrofitting is painful) |
 | PDF parsing | `unstructured` or `pdfjs-dist` + structure-aware splitter — inspect output early (§19 risk #1) |
@@ -61,7 +61,7 @@ Legend: `TODO` · `WIP` · `DONE` · `BLOCKED`
 
 | Phase | Scope | Exit criteria (§18) | Status |
 |---|---|---|---|
-| **0. Decisions & skeleton** | Rename to Regulus, `DESIGN.md`, `SPEC.md`, scaffold, Prisma schema, gateway, DB | App runs ✅ / schema migrates ⏳ (needs DB) / traced gateway call ⏳ (needs API key) | WIP |
+| **0. Decisions & skeleton** | Rename to Regulus, `DESIGN.md`, `SPEC.md`, scaffold, Drizzle schema, gateway, DB | App runs ✅ / schema migrates ⏳ (needs DB) / traced gateway call ⏳ (needs API key) | WIP |
 | **1. Foundations** | Ingestion pipeline, naive RAG with citations, chat UI | 20 documents ingested, citations render correctly | TODO |
 | **2. Eval harness** | SPEC, trace model, facts.yaml, 60+ labeled traces, taxonomy, evaluators, CI gate | Baseline failure-mode prevalence with CIs recorded for the naive pipeline | TODO |
 | **3. Retrieval upgrade** | Hybrid search, reranking, query rewriting | Recall@k improves against baseline | TODO |
@@ -85,7 +85,7 @@ Legend: `TODO` · `WIP` · `DONE` · `BLOCKED`
 - [x] Make the first git commit ✅ `5d8d975` *(26 files; `.env` excluded via gitignore, `.env.example` tracked)*
 - [x] Write `SPEC.md` (§10.1): scope (Ghana tax and business regulation only), tool contracts, risk tiers (calculator results higher risk than definitions), when to abstain / tell user to consult a professional, answer contract, hard limits
 - [x] Scaffold Next.js app *(Next.js 16.4.5 App Router, TypeScript, Tailwind 4, ESLint flat config — v16 notes: Turbopack default, async-only `params`/`headers`, `next lint` removed, `middleware`→`proxy`)*
-- [x] Prisma schema per §12: Document, Chunk, Conversation, Message, Trace, EvalSet, EvalCase, EvalRun, EvalResult — `prisma validate` passes, client generated to `app/generated/prisma`
+- [x] DB schema per §12: Document, Chunk, Conversation, Message, Trace, EvalSet, EvalCase, EvalRun, EvalResult — **Drizzle** (`db/schema.ts`, 9 tables, pgvector custom type), first migration generated (`db/migrations/0000_*` incl. `CREATE EXTENSION vector`); replaces the Prisma version after owner decision 2026-11-06
 - [ ] Provision Postgres with pgvector (Neon or Supabase) + `.env`; secrets in env vars only, never client-side (§15) — **BLOCKED: owner must pick Neon vs Supabase (§5) and supply `DATABASE_URL`**
 - [x] `lib/gateway.ts`: model selection (named tiers), retries with backoff, timeouts, token/cost accounting, prompt version tagging, structured trace log per call
 - [x] `sources/manifest.json` structure (`url, publisher, publishedAt, termsChecked, contentHash`) + starter candidate source list (6 candidates, all `termsChecked: false`)
@@ -291,6 +291,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 | 2026-11-06 | Plan drafted: D1–D4 decisions locked, Phase 0+1 scoped, progress tracker created | planning session |
 | 2026-11-06 | Expanded to full end-to-end: Phases 2–6 broken into checklists, §9/§10.6/§10.7/§13/§14/§16/§17/§21 gaps filled, cross-cutting section added | planning session |
 | 2026-11-06 | Phase 0 in progress: DESIGN.md (Regulus rename + §20 resolved), SPEC.md, Next 16.4.5 scaffold, Prisma §12 schema (valid), lib/gateway.ts, sources/manifest.json (6 candidates), smoke:gateway script. Verified: typecheck/lint/build pass, dev server HTTP 200. Blocked: DATABASE_URL (Neon vs Supabase) + OPENAI_API_KEY. Old docs deleted. | implementation session |
+| 2026-11-06 | **Stack change (owner decision): Prisma → Drizzle.** Removed prisma/@prisma/client; added drizzle-orm/drizzle-kit/pg. `db/schema.ts` = §12 (9 tables, pgvector custom type), `db/index.ts` client, `drizzle.config.ts`, migration `0000` (+`CREATE EXTENSION vector`), npm scripts `db:generate/migrate/push/studio`. DESIGN.md §6/§12 wording updated. Typecheck/lint/build pass. | implementation session |
 
 ---
 
