@@ -1,0 +1,84 @@
+{
+  "$comment": "Regulus v1 corpus manifest — DESIGN.md §5. Every source needs termsChecked=true (confirmed with the owner) BEFORE ingest. contentHash is filled at fetch time; fetchedAt when downloaded. Status: candidate | verified | fetched | ingested | rejected.",
+  "corpusVersion": "0.1.0",
+  "sources": [
+    {
+      "id": "income-tax-act-2015-act-896",
+      "title": "Income Tax Act, 2015 (Act 896)",
+      "publisher": "Parliament of Ghana / Ghana Publishing Company",
+      "url": "https://mofep.gov.gh/sites/default/files/downloads/INCOME%20TAX%20ACT%202015%20ACT%20896.pdf",
+      "publishedAt": "2015-12-31",
+      "type": "pdf",
+      "termsChecked": false,
+      "termsNotes": "Public Act of Parliament — confirm reproduction terms with owner before ingest.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    },
+    {
+      "id": "vat-act-2013-act-870",
+      "title": "Value Added Tax Act, 2013 (Act 870)",
+      "publisher": "Parliament of Ghana / Ghana Publishing Company",
+      "url": "https://mofep.gov.gh/sites/default/files/downloads/VAT%20ACT%202013%20ACT%20870.pdf",
+      "publishedAt": "2013-12-18",
+      "type": "pdf",
+      "termsChecked": false,
+      "termsNotes": "Public Act of Parliament — confirm reproduction terms with owner before ingest.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    },
+    {
+      "id": "companies-act-2019-act-992",
+      "title": "Companies Act, 2019 (Act 992)",
+      "publisher": "Parliament of Ghana / Ghana Publishing Company",
+      "url": "https://rgd.gov.gh/sites/default/files/Companies%20Act%202019%20Act%20992.pdf",
+      "publishedAt": "2019-08-02",
+      "type": "pdf",
+      "termsChecked": false,
+      "termsNotes": "Public Act of Parliament — confirm reproduction terms with owner before ingest.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    },
+    {
+      "id": "gra-vat-guidance-note",
+      "title": "GRA VAT Guidance Note",
+      "publisher": "Ghana Revenue Authority",
+      "url": "https://gra.gov.gh/services/downloads",
+      "publishedAt": null,
+      "type": "pdf",
+      "termsChecked": false,
+      "termsNotes": "URL is a landing page — resolve to the actual guidance-note PDF during fetch. GRA copyright: confirm terms with owner.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    },
+    {
+      "id": "gra-income-tax-guidance-note",
+      "title": "GRA Income Tax Guidance Note",
+      "publisher": "Ghana Revenue Authority",
+      "url": "https://gra.gov.gh/services/downloads",
+      "publishedAt": null,
+      "type": "pdf",
+      "termsChecked": false,
+      "termsNotes": "URL is a landing page — resolve to the actual guidance-note PDF during fetch. GRA copyright: confirm terms with owner.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    },
+    {
+      "id": "rgd-incorporation-guidance",
+      "title": "Registrar General's Department — Company Incorporation Guidance",
+      "publisher": "Registrar General's Department, Ghana",
+      "url": "https://rgd.gov.gh/",
+      "publishedAt": null,
+      "type": "html",
+      "termsChecked": false,
+      "termsNotes": "Landing page — locate incorporation requirements page during fetch. Confirm terms with owner.",
+      "status": "candidate",
+      "contentHash": null,
+      "fetchedAt": null
+    }
+  ]
+}

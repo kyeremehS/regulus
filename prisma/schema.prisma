@@ -1,0 +1,141 @@
+// Regulus data model — DESIGN.md §12.
+// Note: generator output lives in app/generated/prisma (gitignored).
+
+generator client {
+  provider        = "prisma-client"
+  output          = "../app/generated/prisma"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  extensions = [vector]
+}
+
+// --- Corpus ---------------------------------------------------------------
+
+model Document {
+  id           String   @id @default(cuid())
+  title        String
+  sourceUrl    String
+  publisher    String
+  publishedAt  DateTime?
+  version      String   @default("1")
+  contentHash  String
+  createdAt    DateTime @default(now())
+  chunks       Chunk[]
+
+  @@index([contentHash])
+  @@map("documents")
+}
+
+model Chunk {
+  id           String    @id @default(cuid())
+  documentId   String
+  document     Document  @relation(fields: [documentId], references: [id])
+  sectionPath  String
+  text         String
+  pageNumber   Int?
+  tokenCount   Int
+  // pgvector embedding; set at ingest time (Phase 1). Nullable until embedded.
+  embedding    Unsupported("vector(1536)")?
+  // Set when a newer document version supersedes this chunk; never deleted (§5.6).
+  supersededAt DateTime?
+  createdAt    DateTime  @default(now())
+
+  @@index([documentId])
+  @@index([sectionPath])
+  @@map("chunks")
+}
+
+// --- Conversation & answers -----------------------------------------------
+
+model Conversation {
+  id        String    @id @default(cuid())
+  createdAt DateTime  @default(now())
+  messages  Message[]
+}
+
+model Message {
+  id             String       @id @default(cuid())
+  conversationId String
+  conversation   Conversation @relation(fields: [conversationId], references: [id])
+  role           String
+  content        String
+  citations      Json?
+  createdAt      DateTime     @default(now())
+  traces         Trace[]
+
+  @@index([conversationId])
+  @@map("messages")
+}
+
+model Trace {
+  id            String   @id @default(cuid())
+  messageId     String
+  message       Message   @relation(fields: [messageId], references: [id])
+  promptVersions Json
+  steps         Json
+  totalTokens   Int      @default(0)
+  costUsd       Decimal  @default(0) @db.Decimal(12, 6)
+  latencyMs     Int      @default(0)
+  createdAt     DateTime @default(now())
+
+  @@index([messageId])
+  @@map("traces")
+}
+
+// --- Eval harness ---------------------------------------------------------
+
+model EvalSet {
+  id      String     @id @default(cuid())
+  name    String
+  version String
+  cases   EvalCase[]
+  runs    EvalRun[]
+}
+
+model EvalCase {
+  id             String   @id @default(cuid())
+  evalSetId      String
+  evalSet        EvalSet  @relation(fields: [evalSetId], references: [id])
+  question       String
+  queryType      String
+  reference      String
+  requiredChunks Json?
+  tags           Json?
+  results        EvalResult[]
+
+  @@index([evalSetId])
+  @@map("eval_cases")
+}
+
+model EvalRun {
+  id             String       @id @default(cuid())
+  evalSetId      String
+  evalSet        EvalSet      @relation(fields: [evalSetId], references: [id])
+  configJson     Json
+  gitSha         String
+  startedAt      DateTime     @default(now())
+  summaryMetrics Json?
+  results        EvalResult[]
+
+  @@index([evalSetId])
+  @@map("eval_runs")
+}
+
+model EvalResult {
+  id          String   @id @default(cuid())
+  evalRunId   String
+  evalRun     EvalRun  @relation(fields: [evalRunId], references: [id])
+  evalCaseId  String
+  evalCase    EvalCase @relation(fields: [evalCaseId], references: [id])
+  answer      String
+  scores      Json
+  costUsd     Decimal  @default(0) @db.Decimal(12, 6)
+  latencyMs   Int      @default(0)
+
+  @@index([evalRunId])
+  @@index([evalCaseId])
+  @@map("eval_results")
+}
