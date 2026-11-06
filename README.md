@@ -17,6 +17,31 @@ Built as a production-style RAG and agent system with an eval harness and a cost
 - **Measures itself.** A golden set, binary evaluators (code where objective, LLM judge only where interpretive), and a CI gate that blocks a prompt change from merging if it regresses quality.
 - **Tracks what it costs.** Every model call logs tokens, dollars, latency and prompt version; a dashboard plots quality against cost per configuration.
 
+## The eval harness — the point of the project
+
+Agentic RAG is non-deterministic: an LLM plans, retrieval varies, steps branch. Nothing about it holds in production on vibes alone. Regulus is built so that **no change ships unmeasured** — prompts, retrieval settings, models and agents are all versioned artifacts tested against a fixed workload, and regressions block the merge.
+
+**How quality is defined here:** not with a generic metric list, but with a failure taxonomy built from reading our own traces — start from data, not benchmarks.
+
+| Layer | How it's measured |
+| --- | --- |
+| Failure modes (hallucinated citation, unsupported claim, wrong number, missing calculator call, no abstention, superseded citation, prompt injection) | One **binary evaluator** per mode — code where objective, LLM judge only where interpretive, always validated against human labels (TPR/TNR reported, never accuracy alone) |
+| Retrieval | Recall@k and MRR against required passages |
+| Numbers & calculator | Exact match against `facts.yaml` — deterministic ground truth linked to source passages |
+| Abstention | Correct-abstain rate on the unanswerable subset |
+| Reliability | pass^k (every run passes) and pass@k (any run passes), k = 3–5 |
+| Operations | p50/p95 latency, cost per query, tokens — from gateway logs |
+
+**The loop:**
+
+1. **SPEC.md first** — scope, tool contracts, risk tiers, abstention rules. You can't measure what you haven't specified.
+2. **Traces before traffic** — nested spans for every agent step, retrieval call, model call, tool call, with prompt hashes. Every evaluator reads the same trace format.
+3. **Human-owned error analysis** — read 60+ whole traces, open-code the first failure in each, group into 5–8 binary failure modes. Judges are validated against these labels, never substituted for them.
+4. **CI gate** — deterministic checks on every commit, mocked integration on every PR, full agent evals nightly and on any prompt/retrieval/model change. A regression beyond threshold = merge blocked, summary table posted.
+5. **After deploy** — code checks on all traffic, frozen judges on a ~5% sample, corrected prevalence on a dashboard. Every production failure becomes a new test case.
+
+The naive single-call RAG baseline stays in the codebase forever, so every agent and every optimization has to prove its delta against it — measured, with the numbers documented.
+
 ## How it works
 
 One question, one traced pipeline:
