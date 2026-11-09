@@ -4,7 +4,7 @@ ID: income-tax-act-2015-act-896
 Source: https://www.brr.gov.gh/acc/registry/docs/TAX%20896-INCOME%20TAX%20ACT,%202015%20(ACT%20896)%20AS%20AMENDED%20BY%20ACTS%20902,%20907,%20915,%20924,%20941,%20956,%20967%20AND%20973.pdf
 Published: 2015-12-31
 Content hash: 3afc57797c3bc6e879e2efadaf29c0e6eda5db22479a0dc63ee7a0958a4c6677
-Pages: 111  |  Body font size: 12.0  |  Blocks: 3545  |  Headings detected: 365
+Pages: 111  |  Body font size: 12.0  |  Blocks: 3338  |  Headings detected: 229
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -30,234 +30,9 @@ INCOME TAX (AMENDMENT) (NO. 2) ACT, 2017 (ACT 956)6
 STANDARD FOR AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT
 INFORMATION ACT, 2018 (ACT 967)7
 INCOME TAX (AMENDMENT) ACT, 2018 (ACT 973)8
-ARRANGEMENT OF SECTIONS
-# [p1 fs=12.0] Section
-# [p1 fs=12.0] PART I
-IMPOSITION OF INCOME TAX
-# [p1 fs=12.0] 1. Imposition of income tax
-# [p1 fs=12.0] PART II
-INCOME TAX BASE
-Division I: Chargeable income
-# [p1 fs=12.0] 2. Chargeable income
-Division II: Assessable income
-# [p1 fs=12.0] 3. Assessable income
-# [p1 fs=12.0] 4. Income from employment
-# [p1 fs=12.0] 5. Income from business
-# [p1 fs=12.0] 6. Income from investment
-Division III: Exempt amounts
-# [p1 fs=12.0] 7. Exempt amounts
-Division IV: Deductions
-# [p1 fs=12.0] 8. General principles
-
-===== PAGE 2 =====
-
-# [p2 fs=12.0] 9. Residual deduction rule
-# [p2 fs=12.0] 10. Interest
-# [p2 fs=12.0] 11. Trading stock
-# [p2 fs=12.0] 12. Repairs and improvements
-# [p2 fs=12.0] 13. Research and development expenses
-# [p2 fs=12.0] 14. Capital allowances
-# [p2 fs=12.0] 15. Losses on realisation of assets and liabilities
-# [p2 fs=12.0] 16. Limit on deduction of financial costs
-# [p2 fs=12.0] 17. Losses from business or investment
-# [p2 fs=12.0] PART III
-RULES GOVERING AMOUNTS USED IN CALCULATING THE INCOME TAX BASE
-Division I: Tax accounting and timing
-# [p2 fs=12.0] 18. Year of assessment and basis period
-# [p2 fs=12.0] 19. Method of accounting
-# [p2 fs=12.0] 20. Cash basis accounting
-# [p2 fs=12.0] 21. Accrual basis accounting
-# [p2 fs=12.0] 22. Claim of right
-# [p2 fs=12.0] 23. Reversal of amounts including bad debt
-# [p2 fs=12.0] 24. Long-term contracts
-# [p2 fs=12.0] 25. Foreign currency and financial instruments
-Division II: Quantification, allocation and characterisation of amounts
-# [p2 fs=12.0] 26. Quantification according to market value
-# [p2 fs=12.0] 27. Indirect payments
-# [p2 fs=12.0] 28. Jointly owned investment
-# [p2 fs=12.0] 29. Compensation and recovery payments
-# [p2 fs=12.0] 30. Annuities, instalment sales and finance leases
-# [p2 fs=12.0] 31. Arm's length standard and arrangements between associates
-# [p2 fs=12.0] 32. Income splitting
-
-===== PAGE 3 =====
-
-# [p3 fs=12.0] 33. Thin capitalisation
-# [p3 fs=12.0] 34. General anti-avoidance rule
-# [p3 fs=12.0] PART IV
-ASSETS AND LIABILITIES
-Division I: Central concepts
-# [p3 fs=12.0] 35. Calculation of gains and losses
-# [p3 fs=12.0] 36. Cost of an asset
-# [p3 fs=12.0] 37. Consideration received
-# [p3 fs=12.0] 38. Realisation
-# [p3 fs=12.0] 39. Application of this Division to liabilities
-# [p3 fs=12.0] 40. Reverse, quantification and compensation of amounts
-Division II: Special rules
-# [p3 fs=12.0] 41. Cost of trading stock and other fungible assets
-# [p3 fs=12.0] 42. Realisation with retention of asset
-# [p3 fs=12.0] 43. Transfer of asset to spouse or former spouse
-# [p3 fs=12.0] 44. Transfer of asset on death
-# [p3 fs=12.0] 45. Transfer of asset for no consideration
-# [p3 fs=12.0] 46. Realisation of asset with replacement
-# [p3 fs=12.0] 47. Realisation of an asset due to a merger, amalgamation or re-organisation
-# [p3 fs=12.0] 48. Transfer by way of security, finance lease or instalment sale
-# [p3 fs=12.0] 49. Realisation by separation
-# [p3 fs=12.0] 50. Apportionment of costs and consideration received
-# [p3 fs=12.0] PART V
-RULES GOVERNING TYPES OF PERSONS
-Division 1: Individuals
-# [p3 fs=12.0] 51. Personal reliefs
-Division II: Partnerships
-# [p3 fs=12.0] 52. Principles of Taxation
-
-===== PAGE 4 =====
-
-# [p4 fs=12.0] 53. Partnership income or loss
-# [p4 fs=12.0] 54. Taxation of partners
-# [p4 fs=12.0] 55. Cost of and consideration received for partnership interest
-Division III: Trusts
-# [p4 fs=12.0] 56. Taxation of trusts
-# [p4 fs=12.0] 57. Taxation of a beneficiary of a trust
-Division IV: Companies
-# [p4 fs=12.0] 58. Taxation of companies
-# [p4 fs=12.0] 59. Taxation of shareholders
-# [p4 fs=12.0] 60. Branch profit tax
-Division V: General provisions applicable to entities
-# [p4 fs=12.0] 61. Asset dealings between entities and members
-# [p4 fs=12.0] 62. Change in ownership
-# [p4 fs=12.0] PART VI
-SPECIAL INDUSTRIES
-Division I: Petroleum operations
-# [p4 fs=12.0] 63. Principles of taxation
-# [p4 fs=12.0] 64. Separate petroleum operations
-# [p4 fs=12.0] 65. Exploration and development operations
-# [p4 fs=12.0] 66. Income from petroleum operations
-# [p4 fs=12.0] 67. Deductions for petroleum operations
-# [p4 fs=12.0] 68. Losses from petroleum operations
-# [p4 fs=12.0] 69. Disposal of petroleum rights
-# [p4 fs=12.0] 70. Decommissioning funds
-# [p4 fs=12.0] 71. Withholding tax for petroleum operations
-# [p4 fs=12.0] 72. Furnishing of quarterly return of income
-# [p4 fs=12.0] 73. Furnishing of annual return of income
-# [p4 fs=12.0] 74. Request for further information by Commissioner-General
-
-===== PAGE 5 =====
-
-# [p5 fs=12.0] 75. Payment of tax by quarterly instalment for petroleum operations
-# [p5 fs=12.0] 76. Interpretation
-Division II: Minerals and mining operations
-# [p5 fs=12.0] 77. Principles of taxation
-# [p5 fs=12.0] 78. Separate mineral operations
-# [p5 fs=12.0] 79. Reconnaissance and prospecting operations
-# [p5 fs=12.0] 80. Income from mineral operations
-# [p5 fs=12.0] 81. Deductions for mineral operations
-# [p5 fs=12.0] 82. Losses from mineral operations
-# [p5 fs=12.0] 83. Disposal of mineral rights
-# [p5 fs=12.0] 84. Approved rehabilitation funds
-# [p5 fs=12.0] 85. Withholding tax
-# [p5 fs=12.0] 86. Interpretation
-Division III: Financial institutions
-# [p5 fs=12.0] 87. Banking business
-# [p5 fs=12.0] 88. Provision for a debt claim
-# [p5 fs=12.0] 89. General insurance business
-# [p5 fs=12.0] 90. Life insurance business
-# [p5 fs=12.0] 91. Proceeds from insurance
-# [p5 fs=12.0] 92. Interpretation
-Division IV: Retirement savings
-# [p5 fs=12.0] 93. Application of Act 766
-# [p5 fs=12.0] 94. Taxation of retirement funds
-# [p5 fs=12.0] 95. Retirement payments from retirement funds
-# [p5 fs=12.0] 96. Interpretation
-Division V Public, mutual and non-profit causes
-# [p5 fs=12.0] 97. Approval of charitable organisation
-# [p5 fs=12.0] 98. Clubs and trade associations
-
-===== PAGE 6 =====
-
-# [p6 fs=12.0] 99. Building and friendly societies
-# [p6 fs=12.0] 100. Contributions and donations to a worthwhile cause
-# [p6 fs=12.0] PART VII
-INTERNATIONAL
-Division I: Residence and source
-# [p6 fs=12.0] 101. Resident person
-# [p6 fs=12.0] 102. Change of residence
-# [p6 fs=12.0] 103. Source of income and quarantining of foreign losses
-# [p6 fs=12.0] 104. Source of amounts directly included and deducted
-# [p6 fs=12.0] 105. Payments sourced from the country
-# [p6 fs=12.0] 106. Interpretation
-Division II: Permanent establishment
-# [p6 fs=12.0] 107. Principles of taxation
-# [p6 fs=12.0] 108. Activities, assets and liabilities of a permanent establishment
-# [p6 fs=12.0] 109. Income or loss of a permanent establishment
-# [p6 fs=12.0] 110. Interpretation
-Division III: Foreign source of income of a resident
-# [p6 fs=12.0] 111. Principles of taxation
-# [p6 fs=12.0] 112. Foreign tax credit
-# [p6 fs=12.0] PART VIII
-TAX PAYMENT PROCEDURE
-Division I: General obligations
-# [p6 fs=12.0] 113. Methods and time for payment
-Division II Tax payable by withholding
-# [p6 fs=12.0] 114. Withholding by employers
-# [p6 fs=12.0] 115. Withholding from investment returns
-# [p6 fs=12.0] 116. Withholding from supply of goods, service fees and contract payments
-# [p6 fs=12.0] 117. Statement and payment of tax withheld or treated as withheld
-
-===== PAGE 7 =====
-
-# [p7 fs=12.0] 118. Withholding certificate
-# [p7 fs=12.0] 119. Final withholding payments
-# [p7 fs=12.0] 120. Credit for non-final withholding tax
-Division III: Tax payable by instalment
-# [p7 fs=12.0] 121. Payment of tax by quarterly instalment
-# [p7 fs=12.0] 122. Statement of estimated tax payable
-# [p7 fs=12.0] 123. Statement of estimated tax payable not required
-Division IV: Tax payable on assessment
-# [p7 fs=12.0] 124. Return of income
-# [p7 fs=12.0] 125. Return of income not required
-# [p7 fs=12.0] 126. Assessment
-# [p7 fs=12.0] 127. Regulations
-# [p7 fs=12.0] PART IX
-# [p7 fs=12.0] INTERPRETATION
-# [p7 fs=12.0] 128. Persons in a controlled relationship
-# [p7 fs=12.0] 129. Company
-# [p7 fs=12.0] 130. Domestic and excluded expenditure
-# [p7 fs=12.0] 131. Financial instruments
-# [p7 fs=12.0] 132. Derivative amount
-# [p7 fs=12.0] 133. Interpretation
-# [p7 fs=12.0] PART X
-TEMPORARY AND TRANSITIONAL PROVISIONS
-Division I: Temporary provisions
-# [p7 fs=12.0] 134. Temporary concession
-# [p7 fs=12.0] 135. Agreements affecting tax
-Division II: Repeals, savings, transitional provisions and commencement
-# [p7 fs=12.0] 136. Repeals and savings
-# [p7 fs=12.0] 137. Consequential amendments
 
 ===== PAGE 8 =====
 
-# [p8 fs=12.0] 138. Transitional provisions
-# [p8 fs=12.0] 139. Provisions for tax administration
-FIRST SCHEDULE
-Tax Rates
-SECOND SCHEDULE
-Modified Taxation
-THIRD SCHEDULE
-Capital Allowances
-FOURTH SCHEDULE
-Quantification of benefits
-FIFTH SCHEDULE
-Personal reliefs
-SIXTH SCHEDULE
-Temporary concessions
-SEVENTH SCHEDULE
-Tax Administration
-THE EIGHT HUNDRED AND NINETY-SIXTH
-ACT
-OF THE PARLIAMENT OF THE REPUBLIC OF GHANA
-ENTITLED
-INCOME TAX ACT, 2015
 AN ACT to provide for the imposition of income tax and for related purposes.
 DATE OF ASSENT: 1st September, 2015.
 PASSED by Parliament and assented to by the President:
@@ -281,14 +56,14 @@ relevant rate set out in the First Schedule to each final withholding payment.
 (5) Income tax payable by an individual with respect to assessable income from a business may be
 subject to the modified taxation rules set out in the Second Schedule.
 # [p9 fs=12.0] PART II—INCOME TAX BASE
-Division I: Chargeable income
+# [p9 fs=12.0] Division I: Chargeable income
 # [p9 fs=12.0] Section 2—Chargeable income
 (1) The chargeable income of a person for a year of assessment is the total of the assessable income
 of that person for the year from each employment, business or investment less the total amount of
 deduction allowed that person under this Act.
 (2) A person who determines the chargeable income of that person or of another person shall,
 determine chargeable income from each source separately.
-Division II: Assessable income
+# [p9 fs=12.0] Division II: Assessable income
 # [p9 fs=12.0] Section 3—Assessable income
 (1) The assessable income of a person for each year of assessment is the income of that person
 from any employment, business or investment.
@@ -366,7 +141,7 @@ business for a year of assessment shall
 (i) service fees;
 (ii) consideration received in respect of trading stock;
 (iii) a gain from the realisation of capital assets and liabilities of the business as calculated under
-# [p11 fs=12.0] Part IV;
+Part IV;
 (iv) an amount required by the Third Schedule to be included on the realisation of the depreciable
 assets of the person which are used in the business;
 (v) an amount derived as consideration for accepting a restriction on the capacity of the person to
@@ -403,7 +178,7 @@ derived by the person during the year from the investment; and
 (ii) a final withholding payment; and
 (iii) an amount that is included in calculating the income of the person from an employment or
 business.
-Division III: Exempt amounts
+# [p12 fs=12.0] Division III: Exempt amounts
 # [p12 fs=12.0] Section 7—Exempt amounts
 
 ===== PAGE 13 =====
@@ -491,9 +266,9 @@ tax imposed by this Act in favour of a person.
 (4) Subsection (3) shall apply only where the tax liability of the person has already been
 ascertained.
 (5) Despite any law to the contrary, an exemption shall not be provided from tax imposed by this
-# [p15 fs=12.0] Act and an agreement shall not be entered into that affects or purports to affect the application of
+Act and an agreement shall not be entered into that affects or purports to affect the application of
 this Act, except as provided for by this Act.
-Division IV: Deductions
+# [p15 fs=12.0] Division IV: Deductions
 # [p15 fs=12.0] Section 8—General principles
 (1) Subject to the Sixth Schedule, the Commissioner-General shall not allow a deduction for the
 purpose of ascertaining the income of a person from employment.
@@ -544,7 +319,7 @@ depreciable asset in a particular pool of depreciable assets of a person
 (a) shall not exceed five percent of the written down value of the pool at the end of the year; and
 (b) is allowed in the order in which the expense was incurred.
 (3) An excess expense for which a deduction is not allowed as a result of the limitation in
-# [p16 fs=12.0] subsection (2) shall be added to the depreciation basis of the pool to which it relates.
+subsection (2) shall be added to the depreciation basis of the pool to which it relates.
 # [p16 fs=12.0] Section 13—Research and development expenses
 (1) A research and development expense that meets the requirements of section 9(1) may be
 deducted irrespective of whether the expense is of a capital nature.
@@ -628,7 +403,7 @@ calculating that income; and
 of the person under this section or section 23(5).
 # [p19 fs=12.0] PART III—RULES GOVERNING AMOUNTS USED IN CALCULATING THE INCOME
 TAX BASE
-Division I: Tax accounting and timing
+# [p19 fs=12.0] Division I: Tax accounting and timing
 # [p19 fs=12.0] Section 18—Year of assessment and basis period
 (1) The year of assessment for a person is the calendar year.
 (2) The basis period of a person is,
@@ -700,7 +475,7 @@ amount, even though the person may not be legally entitled to receive that amoun
 (2) A person is treated as incurring an amount if that person claims to be entitled to pay the amount,
 even though the person may not be legally obliged to pay that amount.
 (3) The time at which the person is treated as deriving or incurring an amount referred to in
-# [p21 fs=12.0] subsection (1) or (2) shall be determined in accordance with sections 20 and 21.
+subsection (1) or (2) shall be determined in accordance with sections 20 and 21.
 # [p21 fs=12.0] Section 23—Reversal of amounts including bad debt
 (1) Where a person deducts an expense in calculating the income of that person and that person
 later recovers the expense, the person shall, at the time of recovery, include the amount recovered
@@ -779,7 +554,7 @@ accounting basis irrespective of
 (a) the other provisions of this Division;
 (b) whether or not the amounts have been derived, incurred or realised; and
 (c) whether or not the amount is of a capital or revenue nature.
-Division II: Quantification, allocation and characterisation of amounts
+# [p23 fs=12.0] Division II: Quantification, allocation and characterisation of amounts
 # [p23 fs=12.0] Section 26—Quantification according to market value
 (1) A payment or an amount to be included in income or deducted from income is quantified in
 the amount
@@ -879,7 +654,7 @@ an arrangement that would have been made between independent persons.
 (3) The Minister may, by legislative instrument, make Regulations on matters relating to transfer
 pricing and the application of the arm’s length standard.
 (4) Where in the opinion of the Commissioner-General, a person has failed to comply with
-# [p26 fs=12.0] subsection (1), the Commissioner-General may make adjustments consistent with subsection (2).
+subsection (1), the Commissioner-General may make adjustments consistent with subsection (2).
 (5) The Commissioner-General may, in carrying out an adjustment in subsection (4),
 (a) re-characterise an arrangement made between persons who are in a controlled relationship,
 including re-characterising debt financing as equity financing;
@@ -933,7 +708,7 @@ understanding or undertaking, which is
 “tax avoidance” includes an arrangement, the main purpose of which is to avoid or reduce tax
 liability.
 # [p27 fs=12.0] PART IV—ASSETS AND LIABILITIES
-Division I: Central concepts
+# [p27 fs=12.0] Division I: Central concepts
 # [p27 fs=12.0] Section 35—Calculation of gains and losses
 (1) A gain made by a person from the realisation of an asset or liability is the amount by which
 (a) the sum of the consideration received for the asset exceeds the cost of the asset at the time of
@@ -989,7 +764,7 @@ future in respect of realising that asset.
 (a) an exempt amount;
 (b) a final withholding payment; or
 (c) an amount to be directly included in calculating the income of that person under Division II of
-# [p29 fs=12.0] Part II.
+Part II.
 (3) Subsection (2)(b) does not apply to trading stock.
 # [p29 fs=12.0] Section 38—Realisation
 (1) Subject to this Act, a person who owns an asset realises the asset,
@@ -1040,7 +815,7 @@ amount for
 (b) a loss in value of an asset or increase in a liability.
 (4) Subject to any other adjustment made under this Act, the compensation amount includes the
 consideration received for the asset or liability.
-Division II: Special rules
+# [p30 fs=12.0] Division II: Special rules
 # [p30 fs=12.0] Section 41—Cost of trading stock and other fungible assets
 (1) For purposes of determining the cost of trading stock of a business of a person
 
@@ -1193,11 +968,11 @@ retained according to the market value of the asset on the date of realisation.
 ===== PAGE 35 =====
 
 # [p35 fs=12.0] PART V—RULES GOVERNING TYPES OF PERSONS
-Division I: Individuals
+# [p35 fs=12.0] Division I: Individuals
 # [p35 fs=12.0] Section 51—Personal reliefs
 In arriving at the chargeable income of a resident individual for a year of assessment under section
 2, deduct the personal reliefs specified in the Fifth Schedule.
-Division II: Partnerships
+# [p35 fs=12.0] Division II: Partnerships
 # [p35 fs=12.0] Section 52—Principles of Taxation
 (1) A partnership is not liable to pay income tax with respect to the chargeable income of the
 partnership and is not entitled to any tax credit with respect to that income, but the partnership is
@@ -1242,9 +1017,9 @@ the partner.
 of that partner in the partnership as income from a business and shall include that income in the
 calculation of the income of that partner.
 (4) Subject to the adjustments in section 55, again specified in subsection (3) is calculated under
-# [p36 fs=12.0] Part IV.
+Part IV.
 (5) Income of a partnership or a loss incurred by a partnership and allocated to partners under
-# [p36 fs=12.0] subsection (1)
+subsection (1)
 (a) retains its character as to type and source;
 (b) is treated as an amount derived or expenditure incurred, respectively, by a partner at the end of
 the year of assessment of the partnership; and
@@ -1275,7 +1050,7 @@ of deduction of the amount;
 (b) a distribution made by the partnership to the partner, at the time of distribution; and
 (c) the share of domestic or excluded expenditure of the partner incurred by the partnership at the
 time the expenditure is incurred.
-Division III: Trusts
+# [p37 fs=12.0] Division III: Trusts
 # [p37 fs=12.0] Section 56—Taxation of trusts
 (1) A trust is liable to tax separately from the beneficiaries of the trust.
 (2) Where a group of persons are trustees for more than one trust, the income of each trust shall be
@@ -1304,7 +1079,7 @@ of the trust; and
 (b) of a non-resident trust is included in calculating the income of the beneficiary of the trust.
 (2) A gain on the disposal of the interest of a beneficiary in a trust is included in calculating the
 income of the beneficiary.
-Division IV: Companies
+# [p38 fs=12.0] Division IV: Companies
 # [p38 fs=12.0] Section 58—Taxation of companies
 (1) A company is liable to tax separately from its shareholders.
 (2) An amount derived and an expenditure incurred jointly or severally by the managers or
@@ -1347,7 +1122,7 @@ applicable to subsection (6).
 persons and their associates does not distribute to its shareholders as dividends, a reasonable part
 of the income of the company from all sources for a basis period within a reasonable time after the
 end of the basis period, the Commissioner-General may, by notice in writing treat as dividend, that
-# [p39 fs=12.0] part of the income of that company which the Commissioner-General determines to be dividend
+part of the income of that company which the Commissioner-General determines to be dividend
 paid to its shareholders during that period or any other period.
 (9) The Commissioner-General shall, in determining whether a company has distributed a
 reasonable part of its income from all sources for a basis period, consider
@@ -1366,7 +1141,7 @@ accordance with the prescribed rate within thirty days after the end of the basi
 resident person which corresponds to the interest of the non-resident shareholders as repatriated
 profits and as dividends distributed in accordance with the respective shares of the non-resident
 person in the company.
-Division V: General provisions applicable to entities
+# [p39 fs=12.0] Division V: General provisions applicable to entities
 # [p39 fs=12.0] Section 61—Asset dealing between entities and members
 
 ===== PAGE 40 =====
@@ -1393,10 +1168,10 @@ before the change.
 assessment of an entity, the period before the change and the period after the change shall be
 treated as separate years of assessment.
 # [p40 fs=12.0] PART VI—SPECIAL INDUSTRIES
-Division I: Petroleum operations
+# [p40 fs=12.0] Division I: Petroleum operations
 # [p40 fs=12.0] Section 63—Principles of taxation
 (1) There is imposed a tax on the income of a person from petroleum operations, referred to in this
-# [p40 fs=12.0] Act as the petroleum income tax.
+Act as the petroleum income tax.
 (2) The petroleum income tax payable under subsection (1) shall be calculated for each year of
 assessment, by applying the rate of tax specified in the First Schedule to the chargeable income of
 that person from petroleum operations.
@@ -1493,7 +1268,7 @@ are included in calculating income under other provisions of this Act.
 (2) For the purpose of subsection (1)(a), the market value of petroleum
 (a) is determined in accordance with the method prescribed in the petroleum agreement; and
 (b) shall not be less than the value receivable in a transaction that satisfies the requirements of
-# [p43 fs=12.0] section 31 without any discount, commission or deduction.
+section 31 without any discount, commission or deduction.
 # [p43 fs=12.0] Section 67—Deductions for petroleum operations
 (1) Subject to sections 8, 65 and this section, a person who calculates the income of another person
 from a separate petroleum operation for a year of assessment shall deduct the following from the
@@ -1700,7 +1475,7 @@ works or services including rental of plants and equipment in the country for or
 the petroleum agreement to which the contractor is a party and where specified in a petroleum
 agreement, a non-resident person who provides work or supplies that service under the terms of a
 contract.
-Division II: Minerals and Mining operations
+# [p49 fs=12.0] Division II: Minerals and Mining operations
 # [p49 fs=12.0] Section 77—Principles of taxation
 (1) There is imposed a tax on the income of a person derived from mineral operations, referred to
 in this Act as the "mineral income tax”. [As substituted by the Income Tax (Amendment) (No. 2)
@@ -1748,7 +1523,7 @@ mining lease is
 (4) [As deleted by the Income Tax (Amendment) (No. 2) Act, 2016 (Act 924), s. 6 (b)]
 # [p50 fs=12.0] Section 79—Reconnaissance and prospecting operations
 (1) This section applies to reconnaissance and prospecting operations conducted by a person as
-# [p50 fs=12.0] part of a separate mineral operation before the commencement of production of a commercial find.
+part of a separate mineral operation before the commencement of production of a commercial find.
 (2) A person who incurs a revenue expenditure or a capital expenditure in the course of
 reconnaissance or prospecting operations shall place the expenditure in a single pool and
 (a) a deduction or capital allowance shall not be granted by the Commissioner-General with respect
@@ -1952,7 +1727,7 @@ including collection of necessary environmental data but does not include drilli
 and
 “reconnaissance licence” means a reconnaissance licence granted under section 31 of the Minerals
 and Mining Act, 2006 (Act 703).
-Division III: Financial institutions
+# [p56 fs=12.0] Division III: Financial institutions
 # [p56 fs=12.0] Section 87—Banking business
 (1) For purposes of this Act, any other business activity of a person who engages in a banking
 business is a separate business activity from the banking business engaged in by that person and
@@ -2030,7 +1805,7 @@ referred to in subparagraph (i).
 # [p58 fs=12.0] Section 91—Proceeds from insurance
 (1) Subject to subsection (2) and sections 89 and 90, for the purposes of calculating the income of
 a person, the proceeds derived by that person from insurance is determined in accordance with
-# [p58 fs=12.0] section 29.
+section 29.
 (2) Subject to section 90, a gain of an insured person from life insurance is
 (a) exempt from tax when the proceeds are paid to the insured person, where the proceeds are paid
 by a resident insurer; and
@@ -2056,7 +1831,7 @@ by the insurer before the expiry of five years except in circumstances prescribe
 (c) insurance under which an amount or series of amounts is to become payable to the insured in
 the future; and
 (d) re-insurance of insurance referred to in paragraph (a) to (c).
-Division IV: Retirement savings
+# [p59 fs=12.0] Division IV: Retirement savings
 # [p59 fs=12.0] Section 93—Application of Act 766
 The provisions of this Division are subject to the National Pensions Act, 2008 (Act 766).
 # [p59 fs=12.0] Section 94—Taxation of retirement funds
@@ -2098,7 +1873,7 @@ who is a beneficiary of the entity or a nominated beneficiary of that individual
 pension, made by a person to
 (a) an individual in the event of the retirement of that individual; or
 (b) a nominated beneficiary of an individual in the event of the death of that individual.
-Division V: Public, mutual and non-profit causes
+# [p60 fs=12.0] Division V: Public, mutual and non-profit causes
 # [p60 fs=12.0] Section 97—Approval of charitable organisation
 (1) The Commissioner-General may approve an entity as a charitable organisation for the purposes
 of this Act.
@@ -2185,7 +1960,7 @@ worthwhile cause approved by Government under subsection (2).
 (d) sports development or sports promotion; and
 (e) any other worthwhile cause approved by the Commissioner-General.
 # [p62 fs=12.0] PART VII—INTERNATIONAL
-Division I: Residence and source
+# [p62 fs=12.0] Division I: Residence and source
 
 ===== PAGE 63 =====
 
@@ -2271,7 +2046,7 @@ outside of the country deduct an unrelieved loss.
 (1) An amount that is directly included in the calculation of income has a source in the country if
 it is
 (a) consideration received, a gain or an amount referred to in section 5(2)(a) (ii), (iii) or (iv) or
-# [p65 fs=12.0] section 6(2)(a) (ii) to the extent that a domestic asset or domestic liability is involved; or
+section 6(2)(a) (ii) to the extent that a domestic asset or domestic liability is involved; or
 (b) a payment that has a source in the country.
 (2) An amount that is directly deducted in the calculation of income has a source in the country if
 (a) it is
@@ -2358,7 +2133,7 @@ establishment that is outside of the country and which belongs to that person; o
 (b) a liability attributable to a permanent establishment in the country; and
 “relevant transport business” means a business of land, sea or air transport operator or charterer
 carrying passengers, cargo, mail or other moveable tangible assets.
-Division II: Permanent establishment
+# [p67 fs=12.0] Division II: Permanent establishment
 # [p67 fs=12.0] Section 107—Principles of taxation
 (1) A permanent establishment is an entity separate from its owner and
 (a) is subject to tax under section 1 in the same manner as a resident company, if the permanent
@@ -2459,7 +2234,7 @@ risks situated in the country; but
 (ii) excluding a case involving a general agent of independent status with its own legal personality
 acting in the ordinary course of business; and
 “owner” means a person who owns a permanent establishment.
-Division III: Foreign source of income of a resident
+# [p70 fs=12.0] Division III: Foreign source of income of a resident
 # [p70 fs=12.0] Section 111—Principles of taxation
 (1) The income of a resident person derived from a foreign source is taxable.
 (2) Despite subsection (1), the income of a resident individual from employment exercised in a
@@ -2498,7 +2273,7 @@ year; and
 resident person for a year of assessment from the employment, business or investment of the
 resident person as the case requires.
 # [p71 fs=12.0] PART VIII—TAX PAYMENT PROCEDURE
-Division I: General obligations
+# [p71 fs=12.0] Division I: General obligations
 # [p71 fs=12.0] Section 113—Methods and time for payment
 (1) Tax imposed under section 1 is payable
 (a) by withholding under Division II;
@@ -2510,11 +2285,11 @@ Division I: General obligations
 ===== PAGE 72 =====
 
 (b) in the case of tax payable by instalment, on the date by which the instalment is to be paid under
-# [p72 fs=12.0] section 121;
+section 121;
 (c) in the case of tax payable on assessment, on the date by which the return of income is filed
 under section 124; and
 (d) in any other case not stated in subsection (1), on the date stated in a notice for payment.
-Division II: Tax payable by withholding
+# [p72 fs=12.0] Division II: Tax payable by withholding
 # [p72 fs=12.0] Section 114—Withholding by employer
 (1) An employer shall withhold tax from the payment of an amount to be included in ascertaining
 the income of an employee from the employment.
@@ -2675,18 +2450,18 @@ payments derived through a Ghanaian permanent establishment.
 non-resident, the tax liability of the recipient under section 1(1)(b) with respect to the payment is
 payable by way of instalment and assessment.
 (4 ) For the purposes of applying Divisions III and IV, the liability is treated as a liability under
-# [p76 fs=12.0] section 1 (1 )(a).
+section 1 (1 )(a).
 # [p76 fs=12.0] Section 120—Credit for non-final withholding tax
 (1) A withholdee of a payment which is not a final withholding payment is treated as having paid
 the tax
 (a) withheld from the payment under this Division; or
 (b) with respect to a payment in accordance with section 117(3).
 (2) A withholdee is entitled to a tax credit in an amount equal to the tax treated as paid under
-# [p76 fs=12.0] subsection (1) for the year of assessment in which the payment is derived.
+subsection (1) for the year of assessment in which the payment is derived.
 
 ===== PAGE 77 =====
 
-Division III: Tax payable by instalment
+# [p77 fs=12.0] Division III: Tax payable by instalment
 # [p77 fs=12.0] Section 121—Payment of tax by quarterly instalment
 (1) An instalment payer shall pay tax by quarterly instalments if the person derives or expects to
 derive assessable income during a year of assessment
@@ -2774,9 +2549,9 @@ and
 (b) serve on the instalment payer a written notice stating the estimate of the Commissioner-General
 and the manner in which the estimate is calculated.
 (3) For the purposes of section 121, where the Commissioner-General serves a notice under
-# [p79 fs=12.0] subsection (2), the estimated tax payable by the person for the year of assessment is the amount
+subsection (2), the estimated tax payable by the person for the year of assessment is the amount
 estimated by the Commissioner -General.
-Division IV: Tax payable on assessment
+# [p79 fs=12.0] Division IV: Tax payable on assessment
 # [p79 fs=12.0] Section 124—Return of income
 (1) Subject to section 125, a person shall file with the Commissioner-General not later than four
 months after the end of each basis period a return of income for the year. [As substituted by the
@@ -2801,7 +2576,7 @@ derived by the person during the year; and
 (ii) any other information that the Commissioner-General may require.
 # [p80 fs=12.0] Section 125—Return of income not required
 (1) Subject to subsection (2), a return of income for a year of assessment is not required under
-# [p80 fs=12.0] section 124 from
+section 124 from
 (a) a resident individual who does not have tax payable for the year under section 1(1)(a); or [As
 substituted by the Income Tax (Amendment) (No. 2) Act, 2016 (Act 924), s. 12]
 (b) a non-resident person who has no tax payable for the year under section 1(1)(a).
@@ -3009,7 +2784,7 @@ respect of services performed; and
 “entity” means a company, partnership or trust, but does not include an individual;
 “excluded expenditure” has the meaning assigned in section 130;
 “exempt amount” means an amount exempt by reason of section 7, 57, 59 or 111 or the Sixth
-# [p86 fs=12.0] Schedule;
+Schedule;
 “expense” means a payment made that reduces the assets of the person making the payment;
 “final withholding payment” has the meaning assigned in section 119;
 “financial institution” means
@@ -3164,7 +2939,7 @@ to be withheld under Division II of Part VIII;
 # [p90 fs=12.0] Part VIII; and
 “year of assessment” has the meaning assigned in section 18.
 # [p90 fs=12.0] PART X—TEMPORARY AND TRANSITIONAL PROVISIONS
-Division I: Temporary provisions
+# [p90 fs=12.0] Division I: Temporary provisions
 # [p90 fs=12.0] Section 134—Temporary concession
 (1) The provisions of the Sixth Schedule provide for concessions of a temporary nature.
 (2) Unless expressly stated to the contrary, the provisions of the Sixth Schedule apply strictly and
@@ -3215,7 +2990,7 @@ in subsection (1), but without considering any such modification or exclusion; a
 
 “old tax law” means a tax law as applicable immediately before it is modified or protected by an
 agreement referred to in subsection (1).”
-Division II: Repeals, savings, transitional provisions and commencement
+# [p92 fs=12.0] Division II: Repeals, savings, transitional provisions and commencement
 # [p92 fs=12.0] Section 136—Repeals and savings
 (1) The following enactments are repealed:
 (a) subject to section 138, the Internal Revenue Act, 2000 (Act 592); and
@@ -3255,7 +3030,7 @@ Tax Rates
 # [p93 fs=12.0] 1. Rates of income tax for individuals
 (1) Subject to subparagraph (3) and the Second Schedule, the chargeable income of a resident
 individual for a year of assessment is taxed at the following rates:
-CHARGEABLE INCOMERATE OF TAX (%)
+# [p93 fs=12.0] CHARGEABLE INCOMERATE OF TAX (%)
 1.FIRST GH ¢3,132NIL
 2.NEXT GH ¢8405 percent
 3.NEXT GH ¢ 1,20010 percent
@@ -3525,7 +3300,7 @@ B is the depreciation rate applicable to the pool of depreciable assets; and
 C is the number of days in the basis period of the person.
 (5) The depreciation rates applicable to each pool of depreciable assets referred to in subparagraph
 (3) are
-NO.CLASSRATE
+# [p101 fs=12.0] NO.CLASSRATE
 1.140 percent
 2.230 percent
 3.320 percent
@@ -3686,9 +3461,9 @@ Quantification of benefits
 A benefit consisting of the availability for use or use of a motor vehicle provided by an employer
 to an employee or an entity to a member or manager during a year of assessment is quantified
 according to the following rates:
-NOBENEFITRATE
+# [p105 fs=12.0] NOBENEFITRATE
 1.
-Driver and vehicle with fuel
+# [p105 fs=12.0] Driver and vehicle with fuel
 
 ===== PAGE 106 =====
 
@@ -3696,13 +3471,13 @@ Driver and vehicle with fuel
 2.Vehicle with fuel10 percent of the total cash emoluments of the person up to a
 maximum of GH¢500.00 per month
 3.Vehicle only5 percent of the total cash emoluments of the person up to a maximum of
-GH¢250.00 per month
+# [p106 fs=12.0] GH¢250.00 per month
 4.Fuel only5 percent of the total cash emoluments of the person up to a maximum of
 GH¢250.00 per month
 # [p106 fs=12.0] 2. Accommodation benefits
 A benefit consisting of the provision of premises by an employer for residential occupation of an
 employee during a year of assessment is quantified as follows:
-NOBENEFITRATE
+# [p106 fs=12.0] NOBENEFITRATE
 1.
 Accommodation with furnishing
 10 percent of the total cash emoluments of the person
@@ -3862,7 +3637,7 @@ the company is entitled to an additional deduction as provided in subparagraph (
 wages paid during the year to a fresh graduate from a recognised Ghanaian tertiary institution.
 (2) The additional deduction specified in subparagraph (1) is as follows:
 NO.PERCENTAGE OF FRESH GRADUATES IN WORKFORCEADDITIONAL
-DEDUCTION
+# [p110 fs=12.0] DEDUCTION
 1.Up to 1 percent10 percent of salaries and wages
 
 ===== PAGE 111 =====
@@ -3880,7 +3655,7 @@ operation.
 An importer or manufacturer of excisable goods shall be granted accelerated depreciation over a
 period of two years on affixing machinery and equipment imported for the implementation of the
 Excise Tax Stamp Policy as follows:
-NO.YEAR PERCENTAGE
+# [p111 fs=12.0] NO.YEAR PERCENTAGE
 1.First year50% of initial value
 2.Second year50% of initial value
 [As inserted by the Income Tax (Amendment) (No. 2) Act, 2017 (Act 956), s. 4 (4) (b)]

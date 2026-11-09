@@ -4,7 +4,7 @@ ID: practice-note-vat-flat-rate
 Source: https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-VAT-Flat-Rate-Scheme.pdf
 Published: 2020-09-01
 Content hash: 00b75aa024678f62ee72a23e2cad97a49debf8d64fa4f2832ca72a4247c1c661
-Pages: 12  |  Body font size: 14.0  |  Blocks: 261  |  Headings detected: 19
+Pages: 12  |  Body font size: 14.0  |  Blocks: 261  |  Headings detected: 17
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -22,15 +22,15 @@ REVIEW CHECKLIST (§5 gate):
 # [p1 fs=32.0] GHANA REVENUE AUTHORITY
 # [p1 fs=25.0] Practice Note on
 # [p1 fs=33.0] The Application of VAT Flat Rate
-# [p1 fs=33.0] Scheme under theValue Added Tax Act,
-# [p1 fs=33.0] 2013 (ACT 870)
+Scheme under theValue Added Tax Act,
+2013 (ACT 870)
 # [p1 fs=21.0] Practice Note Number:IDT/2017/001
 1
 # [p1 fs=21.0] Date of Issue:12/05/2017
 
 ===== PAGE 2 =====
 
-Contents
+# [p2 fs=14.0] Contents
 1.Tax Law............................................................................................................3
 2.Interpretation..................................................................................................3
 # [p2 fs=14.0] 2.1 VAT Flat Rate Scheme................................................................................3
@@ -42,7 +42,7 @@ Contents
 # [p2 fs=14.0] 4.3 Mechanics of the VFRS...............................................................................6
 # [p2 fs=14.0] 4.4 Migration of Taxpayers to VFRS…………………………………………………………………8
 # [p2 fs=14.0] 4.5 Situation where a taxpayer is involved in separate supply of Goods and
-Services……………….……………………………………………………………………………………10
+# [p2 fs=14.0] Services……………….……………………………………………………………………………………10
 4.6Treatment of agency fees charged to manufaturers or producers ………….10
 4.7VFRS Return Form……………………………………………………………….……………………11
 # [p2 fs=14.0] 4.8 Record -Keeping Requirements………………………………………………………………….11
@@ -51,7 +51,7 @@ Attachment:APPENDIX 1 - New VFRS Return Form
 
 ===== PAGE 3 =====
 
-# [p3 fs=16.0] 1.Tax Law
+1.Tax Law
 This practice Note applies to the supply of goods by a taxable person
 who is a retailer or a wholesaler and itis based on Section 3(2) of
 the Value Added Tax Act, 2013 (Act 870) as amended by VAT
@@ -59,7 +59,7 @@ the Value Added Tax Act, 2013 (Act 870) as amended by VAT
 2.Interpretation
 In this Practice Note the word “Act” means the Value Added Tax Act,
 2013 (Act 870) as amended.
-# [p3 fs=14.0] Definitions and expressions used in this Practice Note have the same
+Definitions and expressions used in this Practice Note have the same
 meaning as they are in the Act.
 2.1VAT Flat Rate Scheme
 A VAT Flat Rate Scheme (VFRS) is a VAT collection and accounting

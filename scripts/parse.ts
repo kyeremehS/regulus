@@ -69,7 +69,6 @@ export async function parsePdf(
   const doc = await pdfjs.getDocument({
     data,
     useWorkerFetch: false,
-    isEvalSupported: false,
     useSystemFonts: false,
     disableFontFace: true,
     // pdfjs needs the bundled standard font data to resolve Type1/TrueType
@@ -114,36 +113,116 @@ export async function parsePdf(
     page.cleanup();
   }
 
-  await doc.destroy?.();
+  await (doc as { destroy?: () => Promise<void> }).destroy?.();
 
   // Body size = median font size (robust against big headings/footers).
   const bodyFontSize = median(sizes);
 
-  const blocks = raw.map((b) => ({
+  // Drop the "Arrangement of Sections" table of contents: it duplicates every
+  // section title with zero content, which created thousands of empty fake
+  // sections downstream (caught at the gate 2026-11-09).
+  const kept = stripRunningHeaders(stripTableOfContents(raw), pageCount);
+
+  const blocks = kept.map((b) => ({
     ...b,
     kind: isHeading(b.text, b.fontSize, bodyFontSize) ? ("heading" as const) : ("body" as const),
   }));
+
+  // Context pass: acts print the section title on its own line directly above
+  // the numbered section text ("Imposition of tax" / "1.(1) There is imposed…").
+  // The title is plain body-size title case, so promote it when the NEXT line
+  // opens a numbered section. Without this, whole sections got no path.
+  for (let i = 0; i < blocks.length - 1; i++) {
+    const b = blocks[i];
+    const next = blocks[i + 1];
+    if (b.kind !== "body" || next.kind !== "body") continue;
+    if (b.text.length > 60 || /[.;,]$/.test(b.text) || !/^[A-Z]/.test(b.text)) continue;
+    if (b.text.split(/\s+/).length > 8) continue;
+    // Next line opens a numbered section: "1.(1) There is imposed…", "3.Except…"
+    if (!/^\d+\./.test(next.text)) continue;
+    b.kind = "heading";
+  }
 
   return { blocks, pageCount, bodyFontSize };
 }
 
 /**
- * Heading heuristics for legal text: bigger than body, or (same size + short +
- * matches a section/act pattern).
+ * Drop running headers/footers/page numbers: short lines repeated verbatim on
+ * a large share of pages ("Act992", "GRA", standalone page numbers). They were
+ * being classified as headings and became section parents (caught at the gate).
+ * Also collapses immediately-consecutive duplicate lines (double-printed runs).
+ */
+function stripRunningHeaders(
+  raw: { page: number; text: string; fontSize: number }[],
+  pageCount: number,
+) {
+  const pagesByText = new Map<string, Set<number>>();
+  for (const b of raw) {
+    if (b.text.length > 60) continue;
+    const set = pagesByText.get(b.text) ?? new Set<number>();
+    set.add(b.page);
+    pagesByText.set(b.text, set);
+  }
+  const threshold = Math.max(3, Math.ceil(pageCount * 0.25));
+  const isHeader = (t: string) => (pagesByText.get(t)?.size ?? 0) >= threshold;
+
+  const out: typeof raw = [];
+  for (const b of raw) {
+    if (isHeader(b.text)) continue;
+    const prev = out[out.length - 1];
+    if (prev && prev.page === b.page && prev.text === b.text) continue; // double-print
+    out.push(b);
+  }
+  return out;
+}
+
+/**
+ * Remove the TOC region: from an "ARRANGEMENT OF SECTIONS" heading up to the
+ * point where the act re-states its long title ("AN ACT to …"), which marks
+ * where real content begins. If the marker never appears, strip nothing —
+ * never risk eating body text (the gate would catch a leftover TOC).
+ */
+function stripTableOfContents(raw: { page: number; text: string; fontSize: number }[]) {
+  const start = raw.findIndex((b) => /arrangement of sections/i.test(b.text));
+  if (start === -1) return raw;
+  for (let i = start + 1; i < raw.length; i++) {
+    // No trailing \b: some PDFs render it "AN ACTto" (missing space).
+    if (/\bAN\s+ACT/i.test(raw[i].text)) {
+      return [...raw.slice(0, start), ...raw.slice(i)];
+    }
+  }
+  return raw;
+}
+
+/**
+ * Heading heuristics for legal text. Junk guards come first: wrapped prose
+ * fragments ("and", "place;", "Health.", "Schedule undersection 38 (1);")
+ * must never become headings regardless of font size — at the gate they
+ * showed up as section parents of whole chunks (2026-11-09).
  */
 function isHeading(text: string, fontSize: number, bodyFontSize: number): boolean {
+  if (text.length > 110) return false;
+  // Sentence-ending punctuation ⇒ prose, not a title. Numbered headings exempt.
+  if (/[;,]$/.test(text)) return false;
+  if (/\.$/.test(text) && !/^\d+\s*\./.test(text)) return false;
+
   const size = fontSize > 0 ? fontSize : bodyFontSize;
   const biggerThanBody = size >= bodyFontSize + 1.5;
-  const shortLine = text.length <= 110;
 
+  // Case-SENSITIVE keywords. Both title case ("Part II") and the ALL-CAPS
+  // form acts actually print ("PART II", "CHAPTER ONE") must match; lowercase
+  // body lines ("section 51, the application…") must not.
   const headingPattern =
-    /^(part|section|subsection|schedule|chapter|interpretation|definitions)\b/i;
+    /^(Part|Chapter|Division|Schedule|Interpretation|ARRANGEMENT)\b|^(PART|CHAPTER|DIVISION|SCHEDULE)\b/;
+  const sectionKeyword = /^(Section|Subsection)\s+\d/; // "Section 7" but not "section 51, the ..."
   const numberedPattern = /^\d+(\.\d+)*\.?\s+[A-Z]/; // "12. Liability of members"
-  const actPattern = /^(act|l\.i\.|regulations)\s/i;
+  const actPattern = /^Act\s+\d+/; // "Act 896" — not prose "Act and an agreement…"
 
-  if (biggerThanBody && shortLine) return true;
-  if (shortLine && (headingPattern.test(text) || actPattern.test(text))) return true;
-  if (shortLine && numberedPattern.test(text) && size >= bodyFontSize) return true;
+  if (headingPattern.test(text) || sectionKeyword.test(text)) return true;
+  if (numberedPattern.test(text) && size >= bodyFontSize) return true;
+  if (actPattern.test(text)) return true;
+  // Bigger-than-body must still look like a title: starts capitalized.
+  if (biggerThanBody && /^[A-Z]/.test(text)) return true;
 
   return false;
 }

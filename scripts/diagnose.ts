@@ -21,9 +21,11 @@ async function main() {
     const tc = await page.getTextContent();
     const ops = await page.getOperatorList();
     const images = ops.fnArray.filter(
-      (f: number) => f === pdfjs.OPS.paintImageXObject || f === pdfjs.OPS.paintJpegXObject,
+      (f: number) => f === pdfjs.OPS.paintImageXObject || f === pdfjs.OPS.paintInlineImageXObject,
     ).length;
-    const text = tc.items.map((i: { str: string }) => i.str).join("");
+    const text = tc.items
+      .map((i) => ("str" in i ? i.str : ""))
+      .join("");
     console.log(
       `p${p}: items=${tc.items.length} textChars=${text.length} imagePaints=${images} sample="${text.slice(0, 80).replace(/\s+/g, " ")}"`,
     );

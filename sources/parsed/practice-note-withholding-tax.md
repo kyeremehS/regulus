@@ -4,7 +4,7 @@ ID: practice-note-withholding-tax
 Source: https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-Withholding-of-Tax.pdf
 Published: 2020-09-01
 Content hash: 6af2954ad9987a9ad8cd2c6ae1d36b301828476d726dd492331df31527ef78aa
-Pages: 22  |  Body font size: 12.0  |  Blocks: 562  |  Headings detected: 20
+Pages: 22  |  Body font size: 12.0  |  Blocks: 541  |  Headings detected: 21
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -25,13 +25,12 @@ Practice Note on Charitable Organisation
 # [p1 fs=28.0] Withholding of Tax under the Income Tax
 # [p1 fs=28.0] Act, 2015 (ACT 896)
 # [p1 fs=21.0] Practice Note Number:DT/2016/001
-# [p1 fs=13.6] th
+th
 # [p1 fs=21.0] Date of Issue:6October, 2016
 
 ===== PAGE 2 =====
 
-Practice Note on Withholding of Tax
-TABLE OF CONTENT
+# [p2 fs=13.0] TABLE OF CONTENT
 1.0TAX LAW.................................................................................................................1
 2.0PURPOSE...............................................................................................................1
 3.0INTERPRETATION................................................................................................1
@@ -56,7 +55,6 @@ i
 
 ===== PAGE 3 =====
 
-Practice Note on Withholding of Tax
 APPENDIX.......................................................................................................................16
 10.0CONDITIONS FOR GRANTING WITHHOLDING TAXEXEMPTION.....16
 1.Registration..........................................................................................................................16
@@ -77,7 +75,6 @@ ii
 
 ===== PAGE 4 =====
 
-Practice Note on Withholding of Tax
 1.0TAX LAW
 The Commissioner-General of the Ghana Revenue Authority is empowered under
 paragraph 2 of the Seventh Schedule of the Income Tax Act, 2015 (Act 896) to issue
@@ -103,13 +100,12 @@ another resident person;
 (vi) Minerals and Mining Operations.
 3.0INTERPRETATION
 In this Practice Note the word “Act” means the Income Tax Act, 2015 (Act 896).
-# [p4 fs=12.0] Definitions and expressions used in this Practice Note have the same meaning as they
+Definitions and expressions used in this Practice Note have the same meaning as they
 have in the Act.
 1
 
 ===== PAGE 5 =====
 
-Practice Note on Withholding of Tax
 3.1.0Meaning of Goods, Works and Services
 3.1.1Goods
 “Goods”meansobjectsofeverykindanddescriptionincludingraw
@@ -142,7 +138,6 @@ character other than remuneration for employment.
 
 ===== PAGE 6 =====
 
-Practice Note on Withholding of Tax
 Theservicesincludescientific,literary,artistic,trainingactivitiesaswellas
 activitiesofphysicians,surgeon,lawyers,engineers,architects,surveyors,
 dentists, accountants, auditors and other such professional activities.
@@ -162,7 +157,7 @@ The provisions of the Act requires a resident person who pays an amount for work
 or the supply of goods and services to another resident or non-resident person,
 with a source in Ghana, to withhold tax from the payment at the rate specified
 underParagraph8oftheFirstScheduletotheActandpaysametothe
-Commissioner-General
+# [p6 fs=12.0] Commissioner-General
 4.0THE APPLICATION OF THIS PRACTICE NOTE
 This Practice Note considers-
 (i)Withholding tax on investment return
@@ -175,7 +170,6 @@ tax
 
 ===== PAGE 7 =====
 
-Practice Note on Withholding of Tax
 (vi) Source Rule for the Payments.
 (vii)Application to Particular types of Persons.
 (viii)Calculation of withholding tax amounts.
@@ -210,7 +204,6 @@ returns from investment.
 
 ===== PAGE 8 =====
 
-Practice Note on Withholding of Tax
 4.2Withholding
 4.2.1Withholding of Tax on payment of service fee with a source in Ghana
 to a resident individual.
@@ -244,7 +237,6 @@ a payment to another resident person for
 
 ===== PAGE 9 =====
 
-Practice Note on Withholding of Tax
 (iii)the supply of Services,
 in respect of a contract between the payee and the resident person, where the
 contract exceeds 2,000 currency points.
@@ -275,7 +267,6 @@ Example 1
 
 ===== PAGE 10 =====
 
-Practice Note on Withholding of Tax
 XYZ Ghana Branch declares a profit after tax of GHS2,000,000.00 in 2016 year of
 assessment. The branch profit tax will be as follows:
 # [p10 fs=12.0] 2016 YEAR OF ASSESSMENT
@@ -309,7 +300,6 @@ Adjusted Net profit2,500,700.00
 
 ===== PAGE 11 =====
 
-Practice Note on Withholding of Tax
 Tax @ 25%625,175.00
 Net profit after tax1,875,525.00
 Branch Profit Tax @ 8%(1,875,525.00 x 8%) = GHS150,042.00
@@ -323,7 +313,7 @@ the contract obligation to a sub-contractor, the contractor shall withhold
 tax whenmaking paymenttothesub-contractor for theworks or
 services provided by the sub-contractor;
 (b) where a sub-contractor under a petroleum agreement sub-contracts
-# [p11 fs=12.0] part of the obligations under the sub-contract, the sub-contractor shall
+part of the obligations under the sub-contract, the sub-contractor shall
 withhold tax when making payment to the sub-sub-contractor for works
 and services provided by the sub-sub-contractor; or
 (c) where a contractor under a petroleum agreement sub-contracts part of
@@ -343,7 +333,6 @@ services in connection with a petroleum agreement, the sub-contractor
 
 ===== PAGE 12 =====
 
-Practice Note on Withholding of Tax
 shallnotifytheCommissioner-Generalinwritingwithinthirtydaysof
 entering into the contract for the Commissioner-General to determine the
 tax treatment of the income of the non-resident person from that contract in
@@ -376,7 +365,6 @@ regardless of the percentage of control.
 
 ===== PAGE 13 =====
 
-Practice Note on Withholding of Tax
 # [p13 fs=12.0] 4.3 Payment to Non–Resident person
 A resident person shall withhold tax at the rate prescribed in the First Schedule
 when the person makes a payment to a non-resident person in respect of the
@@ -412,7 +400,6 @@ and the purchaser.
 
 ===== PAGE 14 =====
 
-Practice Note on Withholding of Tax
 (iii)The interest or dividend paid or credited to a holder or member on the
 investment in an approved unit trust scheme or mutual fund.
 (iv)Interest paid to a resident financial institution.
@@ -445,7 +432,6 @@ same goods, works or service is to be treated as a single contract for the
 
 ===== PAGE 15 =====
 
-Practice Note on Withholding of Tax
 purpose of determining whether or not the value of the contract exceeds
 the threshold of GHS2,000.00.
 Illustration of the application of the Threshold
@@ -477,7 +463,6 @@ payment.
 
 ===== PAGE 16 =====
 
-Practice Note on Withholding of Tax
 A payment for works has a source in Ghana where the payment is attributable to
 works undertaken in Ghana, regardless of the place of payment.
 Work is undertaken in Ghana where either:
@@ -508,10 +493,9 @@ Amount Exclusive VAT/NHIL100,425,532
 
 ===== PAGE 17 =====
 
-Practice Note on Withholding of Tax
 Withholding Tax @ 5% of 100,425,532=5,021,276.60
 NOTE:The5%withholdingtaxrateisappliedontheamountexclusiveof
-VAT/NHIL
+# [p17 fs=12.0] VAT/NHIL
 5.0DUE DATE FOR PAYMENT OF TAX
 Tax withheld shall be remitted to the Commissioner-General within fifteen (15) days
 after the end of the calendar month in which the tax was withheld.
@@ -534,7 +518,6 @@ after the end of the month in which the tax was withheld.
 
 ===== PAGE 18 =====
 
-Practice Note on Withholding of Tax
 7.0WITHHOLDING TAX CERTIFICATE
 A withholding agent shall prepare and serve on a withholdee a Withholding Tax
 CertificateintheformprescribedinRegulation26oftheIncomeTax
@@ -551,8 +534,7 @@ as having been paid (advance tax) by the partners for the year of assessment.
 
 ===== PAGE 19 =====
 
-Practice Note on Withholding of Tax
-APPENDIX
+# [p19 fs=12.0] APPENDIX
 10.0CONDITIONS FOR GRANTING WITHHOLDING TAX EXEMPTION
 Persons making payments for supply of goods, works and services are required by the
 provision of the Income Tax Act 2015, (Act 896) to withhold taxes on the gross amount
@@ -583,7 +565,6 @@ with this provision disqualifies taxpayer for at least twelve (12) months.
 
 ===== PAGE 20 =====
 
-Practice Note on Withholding of Tax
 4.Submission of all tax returns by due date
 a)TheTaxpayer should have submitted all relevant Tax returns administered by the
 DomesticTaxRevenueDivision(DTRD);suchasAnnualCorporateTax
@@ -611,7 +592,6 @@ renewal of exemption from withholding tax for at least twelve (12) months
 
 ===== PAGE 21 =====
 
-Practice Note on Withholding of Tax
 8.Dishonoured Cheques
 Taxpayers whose cheques are not honoured by their bankers are disqualified for the
 next two (2) years from the grant of exemption or renewal of exemption from
@@ -640,7 +620,6 @@ i) Projected Turnover for the current year
 
 ===== PAGE 22 =====
 
-Practice Note on Withholding of Tax
 ii) Projected Chargeable Income for the year
 iii) Projected Tax for the year.
 19

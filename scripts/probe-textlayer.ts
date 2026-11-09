@@ -42,7 +42,9 @@ async function probe(url: string): Promise<void> {
     for (let p = 1; p <= Math.min(3, doc.numPages); p++) {
       const page = await doc.getPage(p);
       const tc = await page.getTextContent();
-      const text = tc.items.map((i: { str: string }) => i.str).join("");
+      const text = tc.items
+      .map((i) => ("str" in i ? i.str : ""))
+      .join("");
       total += text.length;
       if (sample.length < 2 && text.trim()) sample.push(text.slice(0, 70).replace(/\s+/g, " "));
       page.cleanup();
@@ -50,7 +52,7 @@ async function probe(url: string): Promise<void> {
     const verdict = total > 200 ? "TEXT LAYER OK" : total > 0 ? "THIN/UNCERTAIN" : "SCANNED (no text)";
     console.log(`  pages=${doc.numPages} chars3pg=${total}  => ${verdict}`);
     if (sample.length) console.log(`  sample: "${sample[0]}"`);
-    await doc.destroy?.();
+    await (doc as { destroy?: () => Promise<void> }).destroy?.();
   } catch (err) {
     console.log(`  PARSE FAIL  ${String((err as Error).message).slice(0, 100)}`);
   }

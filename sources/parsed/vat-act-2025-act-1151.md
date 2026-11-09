@@ -4,7 +4,7 @@ ID: vat-act-2025-act-1151
 Source: https://a-tla.org/sites/default/files/2026-03/Ghana%20-%20Value%20Added%20Tax%20Act,%202025%20-%20(ACT%201151)%20CC.pdf
 Published: 2025-12-31
 Content hash: 209a8c588508c641c94ce2dcc77194e9307e4880b276c5a26af1a4e33a6d7951
-Pages: 87  |  Body font size: 12.5  |  Blocks: 2867  |  Headings detected: 118
+Pages: 87  |  Body font size: 12.5  |  Blocks: 2669  |  Headings detected: 93
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -21,145 +21,15 @@ REVIEW CHECKLIST (§5 gate):
 
 Actll51
 VALUE ADDED TAX ACT, 2025
-ARRANGEMENT OF SECTIONS
-# [p1 fs=11.2] Section
-Value Added Tax
-1.Imposition of Value Added Tax
-2.Persons liable to pay the Tax
-3.Rate of the Tax
-Taxable Person and Taxable Activity
-4.Taxable person
-5.Taxable activity
-Registration
-6.Persons required to register
-7.Exceptions regarding thresholds and period for registration
-Period for becoming a taxable person
-8.
-9.Notice of registration
-10.Certificate of registration
-11.Notice of registration or cancellation in respect of turnover
-12.Designation of taxable persons in respect of groups and distinct
-divisions
-13.Voluntary registration
-14.Compulsory registration
-15.Non-resident persons who provide telecommunication services or
-electronic commerce
-16.Sanctions for failure to register
-17.Upfront payment by unregistered importer
-18.Register of taxable persons
-19.Notice of change in business
-20.Cancellation of registration
-Supply of Goods and Services
-"
-21.Supply of goods
-22.Supply of services
-Special Supplies
-23.Repossession of goods as supply of goods
-24.Lay-away agreement as supply of services
-
-===== PAGE 2 =====
-
-# [p2 fs=12.5] Act 1151VALUE ADDED TAX ACT, 2025
-25.Separate supply
-26.Activities that do not constitute supply of goods or services
-2 7.Effect of denial of input tax
-28.Payment of deposit and receipt of claim as supply of goods or
-services
-29.Disposition of taxable activity
-30.Phone cards, prepaid airtime and other prepayments as supply of
-services
-31.Mixed supplies
-32.Supply by agent or auctioneer
-Taxable Supplies
-33.Taxable supply
-34.Payment of Tax on importation of goods or services
-35.Exempt supply
-36.Zero-rated supply
-3 7.Exempt import
-38.Relief from Tax
-Time and Place of Supply
-39.Time of supply
-40.Time of import
-41.Place of supply of goods
-42.Place of supply of services
-Tax Invoice and Sales Receipt
-43.Issue of tax invoice or sales receipt
-Taxable Value
-44.Value of taxable supply
-45.Taxable value for determining Tax on imported goods and services
-46.Adjustments
-4 7.Adjustments on account of bad debts
-Calculation of Tax Payable and Refands
-48.Tax payable for tax period
-2
-
-===== PAGE 3 =====
-
-VALUE ADDED TAX ACT, 2025
-Act1151
-49.Deductible input tax
-50.Qualification for deductible input tax
-51.Other conditions for deductible input tax
-52.Deductible input tax for mixed taxable and exempt supply
-53.Refund or credit for excess tax paid
-54.Time for payment of refund
-Withholding of Value Added Tax
-55.Appointment of Value Added Tax Withholding Agent
-56.Duties of a Value Added Tax Withholding Agent
-57.Scope of Value Added Tax Withholding Agent
-58.Exemption from withholding Tax
-Tax Returns, Records and Assessment
-59.Submission of tax return
-60.Date of payment of Tax
-61.Payment of Tax on import of services
-62.Assessment of Tax
-63.Correction of tax return
-Recovery of Tax Due, Interest and Other Liabilities
-64.Recovery of tax due
-65.Recovery from recipient of a supply
-66.Failure to issue tax invoice
-67.Evasion of Tax
-Miscellaneous Provisions
-68.Tax-inclusive pricing
-69.Declaration of representative
-70.Person acting in a representative capacity
-71.Regulations
-72.Interpretation
-73.Repeals and savings
-74.Transitional provisions
-75.Commencement
-3
-
-===== PAGE 4 =====
-
-# [p4 fs=12.5] Act 1151VALUE ADDED TAX ACT, 2025
-SCHEDULES
-FIRST SCHEDULE
-Exempt Supplies
-SECOND SCHEDULE
-Zero-Rated Supplies
-THIRD SCHEDULE
-Relief Supplies
-FOURTH SCHEDULE
-Tax Credit Note and Tax Debit Note
-FIFTH SCHEDULE
-Apportionment of Input Tax
-4
 
 ===== PAGE 5 =====
 
-Act1151
-THE ONE THOUSAND ONE HUNDRED AND FIFTY-FIRST
-# [p5 fs=30.1] ACT
-OF THE PARLIAMENT OF THE REPUBLIC OF GHANA
-ENTITLED
-VALUE ADDED TAX ACT, 2025
 AN ACTto revise and consolidate the law relating to the imposition of
 the Value Added Tax and to provide for related matters.
 DATE OF ASSENT:9th December, 2025.
 PASSEDby Parliament and assented to by the President:
 Value Added Tax
-Imposition of Value Added Tax
+# [p5 fs=12.2] Imposition of Value Added Tax
 1.(1) There is imposed by this Act, a Value Added Tax to be charged
 on the
 (a)supply of goods or services made in the country, other than
@@ -180,7 +50,7 @@ of that person.
 applicable to the collection of customs duties and other taxes on the
 importation of goods, including the requirement to submit an import
 declaration, apply with the modifications specified in this Act and
-# [p6 fs=12.5] Regulations made under this Act.
+Regulations made under this Act.
 (5) The Tax is chargeable on a supply of goods made by
 (a)a diplomatic mission,
 (b)an international agency,
@@ -189,7 +59,7 @@ declaration, apply with the modifications specified in this Act and
 (e)any other person
 who has obtained a relief from or a refund of the Tax on the importation
 or domestic acquisition of the goods.
-Persons liable to pay the Tax
+# [p6 fs=12.4] Persons liable to pay the Tax
 2.Except as otherwise provided in this Act, the Tax shall be paid, in
 the case of
 (a)a taxable supply, by the taxable person who makes the
@@ -198,27 +68,26 @@ supply;
 (c)an import of services, by the recipient of the service; or
 (d)a non-resident person required to register under section 15,
 by the non-resident person.
-Rate of the Tax
+# [p6 fs=12.4] Rate of the Tax
 3.Except as otherwise provided in this Act, the rate of the Tax is
 fifteen per cent and is calculated on the value of the
 (a)taxable supply of the goods or services; or
 (b)import.
 Taxable Person and Taxable Activity
-Taxable person
+# [p6 fs=13.9] Taxable person
 4.(1)A taxable person is a person who is
 (a)registered for the purposes of this Act; or
 6
 
 ===== PAGE 7 =====
 
-Value Added Tax Act, 2025
 Act1151
 (b)required to register under sections 6 to 17.
 (2) Subject to sections 6 to 9 and 11 to 16, the effective date of
 registration of a person as a taxable person is the date specified in the
 certificate of registration issued by the Commissioner-General under
-# [p7 fs=12.4] section 10.
-Taxable activity
+section 10.
+# [p7 fs=11.9] Taxable activity
 5.(1) For the purposes of this Act, a taxable activity means an activity
 which
 (a)is carried on by a person in the country or partly in the
@@ -245,7 +114,7 @@ proprietary information;
 (i)the exploration of natural resources;
 (j)the export of a traditional product, other than cocoa beans,
 coffee and shea butter; and
-# [p7 fs=14.0] (k)the export of a non-traditional product.
+(k)the export of a non-traditional product.
 (3) A supply is considered to be a supply for consideration where
 the supplier is directly or indirectly entitled to receive payment wholly or
 7
@@ -268,7 +137,7 @@ person to process or treat the goods of the owner, the delivery of the
 goods to the owner or the agent of the owner is considered a supply of
 goods by the person who processes or treats the goods.
 Registration
-Persons required to register
+# [p8 fs=12.4] Persons required to register
 6.(1) Except as otherwise provided in this Act, a person who engages
 in a taxable activity and is not registered for the Tax shall, in the case of
 (a)a taxable supply of services, register within thirty days after
@@ -292,7 +161,6 @@ made, during that period, taxable supplies exceeding one
 
 ===== PAGE 9 =====
 
-Value Added Tax Act, 2025
 Act1151
 hundred and eighty-seven thousand five hundred Ghana
 Cedis; and
@@ -313,34 +181,32 @@ Commissioner-General.
 (5) A person who is required to register under subsection (1) shall
 file the application for registration within thirty days after the end of
 (a)the period under subparagraph (i) of paragraph(b)of
-# [p9 fs=12.3] subsection (l); or
+subsection (l); or
 (b)the month under subparagraph (ii) of paragraph(b)of
-# [p9 fs=12.3] subsection (1).
+subsection (1).
 (6) A person who is required to register under paragraph(a)of
-# [p9 fs=12.3] subsection (2) shall file the application for registration within thirty days
+subsection (2) shall file the application for registration within thirty days
 after the period of three months.
-Exceptions regarding thresholds and period for registration
+# [p9 fs=12.0] Exceptions regarding thresholds and period for registration
 7.(1) Despite the period of registration specified in paragraph(a)of
-# [p9 fs=12.3] subsection (1) of section 6, a promoter of public entertainment shall, not
+subsection (1) of section 6, a promoter of public entertainment shall, not
 less than forty-eight hours before the commencement of the public
 entertainment, apply for registration.
 (2) Despite the threshold rules in paragraph(b)of subsection (1) of
-# [p9 fs=14.0] section 6, an auctioneer that carries on a taxable activity shall, within
+section 6, an auctioneer that carries on a taxable activity shall, within
 thirty days after the date on which the person becomes an auctioneer,
 apply for registration.
 9
 
 ===== PAGE 10 =====
 
-# [p10 fs=12.0] Act 1151
-Value Added Tax Act, 2025
-Period for becoming a taxable person
+# [p10 fs=12.4] Period for becoming a taxable person
 8.A person who is
 (a)not registered for the Tax, and
 (b)required to register under this Act,
 is a taxable person from the beginning of the tax period that immediately
 follows the tax period in which the requirement to register arose.
-Notice ofregistration
+# [p10 fs=12.4] Notice ofregistration
 9.(1) The Commissioner-General shall, within thirty days after the
 receipt of an application for registration, give notice to the applicant of
 the decision to register or not register the applicant.
@@ -352,7 +218,7 @@ satisfied that the person is not eligible for registration, the Commissioner-
 General shall give notice to the applicant of the decision not to register
 the applicant.
 (4) Where, within the period of thirty days specified under
-# [p10 fs=12.5] subsection (1), the Commissioner-General requests for additional
+subsection (1), the Commissioner-General requests for additional
 information from the applicant in order to determine if the applicant is
 eligible to apply for registration,
 (a)the period of thirty days shall cease to run; and
@@ -360,19 +226,18 @@ eligible to apply for registration,
 the receipt of the required information in the form
 prescribed by the Commissioner-General, give notice of the
 decision to register or not register the applicant.
-Certificate ofregistration
+# [p10 fs=12.4] Certificate ofregistration
 10.(1)The Commissioner-General shall issuea certificate of
 registration to each person registered for the Tax.
 (2)A person registered for the Tax shall display the certificate of
 registration at
-# [p10 fs=14.1] (a)the principal place of business of the person; and
+(a)the principal place of business of the person; and
 (b)every other location where the person engages in a taxable
 activity.
 10
 
 ===== PAGE 11 =====
 
-Value Added Tax Act, 2025
 Act1151
 Notice of registration or cancellation in respect of turnover
 11.(1) The Commissioner-General may give notice in writing to a
@@ -381,7 +246,7 @@ supplies
 (a)in excess of a turnover threshold, or
 (b)below a turnover threshold,
 specified in subparagraph (i) or (ii) of paragraph(b)of subsection (1) of
-# [p11 fs=12.4] section 6 and is registrable or not registrable as a taxable person.
+section 6 and is registrable or not registrable as a taxable person.
 (2) The Commissioner-General shall, in accordance with the
 determination under subsection (1), register or cancel the registration of
 the person.
@@ -391,11 +256,11 @@ Commissioner-General, be treated as one designated taxable person for
 the purposes of the Tax.
 (2)Each member of the group referred to in subsection (1) is
 jointly and severally liable for any liability or contravention under this
-# [p11 fs=12.4] Act and Regulations made under this Act.
+Act and Regulations made under this Act.
 (3)A taxable person whose taxable activity is structured into
 distinct divisions may apply to the Commissioner-General to register
 one or more of the divisions for the Tax.
-Voluntary registration
+# [p11 fs=12.0] Voluntary registration
 13.(1) A person who is not required to register may voluntarily apply
 to be registered by the Commissioner-General.
 (2) The Commissioner-General shall not register a person who
@@ -412,10 +277,8 @@ by or under this Act; or
 
 ===== PAGE 12 =====
 
-# [p12 fs=12.4] Act 1151
-Value Added Tax Act, 2025
 (iii) be a fit and proper person to be registered.
-Compulsory registration
+# [p12 fs=12.4] Compulsory registration
 14.Where
 (a}a person required to register under this Act fails to apply
 for registration, or
@@ -453,18 +316,16 @@ any nature bywire,radio,optical or other
 
 ===== PAGE 13 =====
 
-Value Added Tax Act, 2025
-# [p13 fs=12.1] Act 1151
 electromagnetic systems, including the provision of
 access, transmission, emission or reception; and
 (ii)the broadcast of political, social, cultural, artistic,
 sporting, scientific or entertainment events.
-Sanctions for failure to register
+# [p13 fs=12.1] Sanctions for failure to register
 16.A person who fails to apply for registration is liable to a penalty
 of not less than three times the amount of the Tax on taxable supplies
 payable from the time the person is required to apply for registration
 until the person applies for registration with the Commissioner-General.
-Upfront payment by umegistered importer
+# [p13 fs=12.1] Upfront payment by umegistered importer
 17.(1) A person who
 (a)imports taxable goods, and
 (b)is not registered for the Tax
@@ -474,11 +335,11 @@ goods.
 (2)A person may be credited with the upfront payment made
 under subsection (1) after the person registers and files a return for the
 relevant period.
-Register of taxable persons
+# [p13 fs=12.1] Register of taxable persons
 18.The Commissioner-General shall keep a register oftaxable persons
 that contains the particulars of the taxable persons as specified by the
 Commissioner-General.
-Notice of change in business
+# [p13 fs=12.1] Notice of change in business
 19.(1) A taxable person shall give notice m writing to the
 Commissioner-General
 (a)if the taxable person
@@ -517,7 +378,7 @@ to the Commissioner-General not less than fourteen days before the
 acquired, or
 (c)assets of the going concern are transferred,
 whichever date is earliest.
-Cancellation ofregistration
+# [p14 fs=12.4] Cancellation ofregistration
 20.(1) The Commissioner-General shall cancel the registration of a
 taxable person where the Commissioner-General is satisfied that the
 taxable person
@@ -545,7 +406,7 @@ with respect to specific goods on hand if the taxable person was denied
 an input tax deduction on the acquisition of the goods.
 (5) The obligations and liabilities ofa person in respect ofanything
 done or omitted to be done by that person as a taxable person under this
-# [p15 fs=12.3] Act or Regulations made under this Act, including the requirement to
+Act or Regulations made under this Act, including the requirement to
 submit returns under section 59, is not affected by the cancellation of the
 registration of that person.
 (6) The Commissioner-General shall give notice in writing of the
@@ -560,7 +421,7 @@ any unused tax invoice to the Commissioner-General; and
 (b)the Commissioner-General shall remove the particulars of
 that person from the register.
 (8)A person registered for the Tax pursuant to subsection (1) of
-# [p15 fs=12.3] section 13 may apply for cancellation of the registration only after the
+section 13 may apply for cancellation of the registration only after the
 expiration of two years after the date the registration took effect.
 (9)Subject to subsection (8), a taxable person who
 (a)ceases to carry on the business in relation to which the
@@ -569,13 +430,11 @@ registration was made, and
 
 ===== PAGE 16 =====
 
-# [p16 fs=12.4] Act 1151
-Value Added Tax Act, 2025
 (b}is not engaged in any other taxable activity,
 shall apply in writing to the Commissioner-General for cancellation of
 the registration within thirty days after the cessation of the business.
 Supply of Goods and Services
-Supply of goods
+# [p16 fs=12.4] Supply of goods
 21.(1)Except as otherwise provided in this Act and Regulations made
 under this Act, "supply of goods" means
 (a}an arrangement under which an owner of goods parts with
@@ -609,11 +468,10 @@ activity to a different use, including the provision of goods to an employee
 
 ===== PAGE 17 =====
 
-Value Added Tax Act, 2025
 Act1151
 for personal use, is a supply of the goods by the taxable person in the
 course or furtherance of that taxable activity.
-Supply of services
+# [p17 fs=12.4] Supply of services
 22.(1)Except as otherwise provided in this Act and Regulations made
 under this Act, "supply of services" means a supply which is
 (a)not a supply of goods or money; and
@@ -631,7 +489,7 @@ activity to a different use, including the provision of services to an
 employee for personal use, is a supply of the services by the taxable person
 in the course or furtherance of that taxable activity.
 Special Supplies
-Repossession of goods as supply of goods
+# [p17 fs=12.4] Repossession of goods as supply of goods
 23.(1) Where goods are repossessed under a credit agreement, the
 repossession is a supply of the goods by the debtor under the credit
 agreement to the person who exercises the right of repossession.
@@ -639,7 +497,7 @@ agreement to the person who exercises the right of repossession.
 the course or furtherance of the taxable activity of the debtor, unless the
 goods did not form part of the assets held or used by the debtor in
 connection with that taxable activity.
-Lay-away agreement as supply of services
+# [p17 fs=12.4] Lay-away agreement as supply of services
 24.Where a lay-away agreement is terminated or cancelled and the
 seller
 (a)retains an amount paid by the purchaser, or
@@ -647,13 +505,11 @@ seller
 
 ===== PAGE 18 =====
 
-# [p18 fs=12.4] Act 1151
-Value Added Tax Act, 2025
 (b)recovers an amount the purchaser owes under the
 agreement,
 the cancellation or termination is a supply of services by the seller in
 respect of the agreement.
-Separate supply
+# [p18 fs=12.4] Separate supply
 25.Where a supply of goods or services consists of
 (a)a supply that is charged with the Tax at a positive rate, and
 (b)a supply of goods charged with the Tax at a rate of zero
@@ -667,7 +523,7 @@ of the employment of that employee is not a supply of services for the
 purposes of the Tax.
 (2) The transfer of goods to a person acting in a representative
 capacity to the transferor is not a supply of goods.
-Effect of denial of input tax
+# [p18 fs=12.4] Effect of denial of input tax
 27.Except as otherwise provided in this Act, where
 (a)a taxable person supplies goods or services, and
 (b)a deduction for input tax paid on the acquisition of the
@@ -686,7 +542,6 @@ of the agreement that is the subject of the deposit;
 
 ===== PAGE 19 =====
 
-Value Added Tax Act, 2025
 Act1151
 (b)to be applied to the purchase price or returned if the
 depositor performs; and
@@ -701,12 +556,12 @@ taxable person in the course or furtherance of a taxable activity.
 (4) Subsection (3) applies only ifthe supply ofthe non-life insurance
 contract is taxable under section I, other than a supply charged with the
 Tax at a rate of zero per cent under section 36.
-Disposition oftaxable activity
+# [p19 fs=11.9] Disposition oftaxable activity
 29.(1) Subject to subsection (2), where
 (a)the disposition of a taxable activity, including a disposition
 of a part of a taxable activity capable of being operated
 separately, by a taxable person is a supply of goods under
-# [p19 fs=12.3] subsection (3) of section 21,
+subsection (3) of section 21,
 (b)the supply was charged with the Tax at the rate of zero per
 cent in accordance with the Second Schedule, and
 (c)the goods and services comprising the taxable activity were
@@ -725,8 +580,6 @@ cent of the total taxable activity acquired.
 
 ===== PAGE 20 =====
 
-# [p20 fs=12.4] Act 1151
-Value Added Tax Act, 2025
 Phone cards, prepaid airtime and other prepayments as supply of
 services
 30.(1)For the purposes of the Tax,
@@ -747,7 +600,7 @@ Postal and Courier Services Regulatory Commission Act,
 is granted for a consideration or money, the issue of the token, voucher,
 gift certificate or stamp is not a supply except to the extent, if any, that
 the consideration exceeds the monetary value.
-Mixed supplies
+# [p20 fs=12.4] Mixed supplies
 31.(1)A supply of
 (a)services incidental to a supply of goods is part of the supply
 of goods;
@@ -757,7 +610,7 @@ of services; and
 import of the goods.
 (2) Despite paragraphs(a)and(c)of subsection (1), a supply of
 real property does not include the
-# [p20 fs=14.1] (a)supply of services, or
+(a)supply of services, or
 (b)import of services
 incidental to the supply of real property.
 20
@@ -765,7 +618,7 @@ incidental to the supply of real property.
 ===== PAGE 21 =====
 
 Value Added Tax Act, 2025Act1151
-Supply by agent or auctioneer
+# [p21 fs=12.1] Supply by agent or auctioneer
 32.(1) A supply of goods or services made by an agent on behalf of
 the principal is a supply by the principal.
 (2) Subsection (1) does not apply to the supply of the services of
@@ -774,7 +627,7 @@ an agent to the principal.
 considered a supply of goods for consideration by the auctioneer in the
 course or in furtherance of a taxable activity carried on by the auctioneer.
 Taxable Supplies
-Taxable supply
+# [p21 fs=12.1] Taxable supply
 33.(1) Except as otherwise provided in this Act or Regulations made
 under this Act, a taxable supply is a supply of goods or services for
 consideration made by a taxable person in the course of, or as part of a
@@ -805,13 +658,13 @@ under section 61.
 # [p22 fs=12.4] Act 1151Value Added Tax Act; 2025
 (2) The Commissioner-General shall make arrangements for the
 collection of the Tax on an import of goods through the postal services.
-Exempt supply
+# [p22 fs=12.4] Exempt supply
 35.(1)The supply ofgoods or services specified in the First Schedule
 is an exempt supply and not subject to the Tax.
 (2)A supply of goods or services is not an exempt supply if the
 supply is subject to the Tax at the rate of zero per cent in accordance with
-# [p22 fs=12.4] section 36.
-Zero-rated supply
+section 36.
+# [p22 fs=12.4] Zero-rated supply
 36.(I)A taxable supply is taxable at a rate of zero per cent if the
 supply is specified in the Second Schedule.
 (2) Where a taxable person has applied the rate of zero per cent to
@@ -820,20 +673,20 @@ documentary proof that
 (a)is acceptable to the Commissioner-General; and
 (b)substantiates the right of the person to apply the rate of
 zero per cent to the supply.
-Exempt import
+# [p22 fs=12.4] Exempt import
 37.An import of goods is an exempt import if the goods are
 (a)exempt under the First Schedule; or
 (b)classified as an exempt import in conformity with Part C
 of the Third Schedule of the Harmonised Commodity
 Description and Coding System also known as the
 Harmonised System.
-Relief from Tax
+# [p22 fs=12.4] Relief from Tax
 38.(1) The individuals, organisations and matters specified in the
 Third Schedule are entitled to relief from the Tax on
 (a)taxable imports of goods; or
 (b)taxable supplies of goods acquired in the country.
 (2) The Minister may, by legislative instrument, make
-# [p22 fs=13.7] Regulations to specify the method by which the persons entitled to relief
+Regulations to specify the method by which the persons entitled to relief
 from the Tax shall obtain the relief, subject to restrictions that the Minister
 considers necessary.
 22
@@ -855,7 +708,7 @@ the relief is granted.
 (5) Subsection (4) does not apply in the case ofreliefgranted under
 paragraph 8 of the Third Schedule.
 Time and Place of Supply
-Time of supply
+# [p23 fs=12.2] Time of supply
 39.(1)Except as otherwise provided in this Act or Regulations made
 under this Act, a supply of goods or services occurs
 (a)where the goods or services are applied to own use, on the
@@ -879,7 +732,7 @@ the goods are supplied;
 
 # [p24 fs=12.5] Act 1151Value Added Tax Act, 2025
 (2) Where under subparagraphs (iv) and (v) of paragraph(c}of
-# [p24 fs=12.5] subsection (1),
+subsection (1),
 (a}payment is received, or
 (b}a tax invoice or sales receipt is issued
 for part of the supply, this section applies only to the part of the supply
@@ -909,15 +762,13 @@ the letting of goods other than a hire purchase agreement or a finance
 lease.
 (8)Where the supply of goods or services is incidental to another
 supply, the time of supply of the incidental supply shall be considered the
-# [p24 fs=14.3] same as the time of supply for the main goods or services.
+same as the time of supply for the main goods or services.
 (9)A supply of goods in accordance with a lay-away agreement
 occurs when the goods are delivered to the purchaser.
 24
 
 ===== PAGE 25 =====
 
-Value Added Tax Act, 2025
-# [p25 fs=11.7] Act 1151
 (10) A supply of goods that have been repossessed under section
 23 occurs
 (a)when the goods are repossessed; or
@@ -937,13 +788,13 @@ occurs when the token, voucher, gift certificate or stamp is issued.
 (14) The Minister may, by legislative instrument, make Regulations
 to prescribe rules to determine the time of a supply of particular goods
 or services.
-Time of import
+# [p25 fs=12.4] Time of import
 40.(1)An import of goods occurs when the goods are entered for
 the purposes of section 48 of the Customs Act, 2015 (Act 891).
 (2) An import of services occurs at the time determined by the
 application of section 39 to the import on the basis that the import is a
 supply of services.
-Place of supply of goods
+# [p25 fs=12.4] Place of supply of goods
 41.(1) Except as otherwise provided in this Act, the place of a supply
 of goods is
 (a)the place where the goods are delivered or made available
@@ -955,12 +806,10 @@ are when the transportation commences.
 
 ===== PAGE 26 =====
 
-# [p26 fs=12.5] Act 1151
-Value Added Tax Act, 2025
 (2)Asupply of thermal or electrical energy, heating, gas,
 refrigeration, air conditioning or water takes place where the supply is
 received.
-Place of supply of services
+# [p26 fs=12.4] Place of supply of services
 42.(1)Subject to this section and Regulations made under this Act,
 a supply of services takes place at the location of the place of business of
 the supplier from which the services are supplied.
@@ -1013,7 +862,7 @@ the invoice for the supply is issued or is to be issued, is
 ordinarily situated; or
 (b}the place where the effective use and enjoyment occurs.
 (8) In the case of electronic commerce under paragraph(a}of
-# [p27 fs=12.4] subsection (4) of section 15 other than a digital service, the place of supply
+subsection (4) of section 15 other than a digital service, the place of supply
 is the place where the effective use or enjoyment occurs.
 (9) In the case of a digital service, the place of supply is the place
 where the service is supplied, used or enjoyed in the country, if any two
@@ -1033,17 +882,15 @@ or phone number in the country; and
 
 ===== PAGE 28 =====
 
-# [p28 fs=12.4] Act 1151
-Value Added Tax Act, 2025
 (d)the service is received on a terminal located in the country,
 including a computer, tablet, mobile phone or similar device.
 (10) The place of supply of a recharge card or other similar mode
 of recharging is the place where the product is supplied.
 (11) The Commissioner-General shall develop guidelines on
 the activities that amount to the use of a service by a recipient under
-# [p28 fs=12.4] subsection (2).
+subsection (2).
 Tax Invoice and Sales Receipt
-Issue of tax invoice or sales receipt
+# [p28 fs=12.4] Issue of tax invoice or sales receipt
 43.(1) Except as otherwise provided in this Act, a taxable person shall,
 on making a taxable supply of goods or services, issue to the recipient, a
 tax invoice in the form and with the particulars prescribed by the
@@ -1093,7 +940,7 @@ organised by the Ghana Revenue Authority.
 a taxable person shall, on the coming into force of this Act, comply with
 the provisions of this section.
 Taxable Value
-Value of taxable supply
+# [p29 fs=12.2] Value of taxable supply
 44.(I)The value of a taxable supply is,
 (a}where the supply is for monetary consideration, the amount
 of the consideration and all duties and taxes, excluding
@@ -1117,7 +964,7 @@ value of a similar supply, excluding
 of the Tourism Act, 2011 (Act 817).
 (2) For the purposes of this Act, the open market value of a supply
 of goods or services is the value determined under paragraph(a)of
-# [p30 fs=12.3] subsection (1), if the supplier, the purchaser or any other person concerned
+subsection (1), if the supplier, the purchaser or any other person concerned
 in the transaction
 (a)are completely independent of each other; and
 (b)do not in any way influence the transaction.
@@ -1139,15 +986,13 @@ value of that supply is the amount of the consideration paid excluding
 the Tax and the levy imposed under paragraph(b)of section 23 of the
 Tourism Act, 2011 (Act 817).
 (6) For the purposes of subsection (3), "similar supply," in relation
-# [p30 fs=14.2] to a taxable supply, means a supply that is identical to or substantially
+to a taxable supply, means a supply that is identical to or substantially
 resembles the taxable supply, having regard to the characteristics, quality,
 quantity supplied, functional components, reputation of, and materials
 30
 
 ===== PAGE 31 =====
 
-# [p31 fs=12.5] Act 1151
-Value Added Tax Act, 2025
 comprising the goods or services which are the subject of the taxable
 supply.
 (7) Where a supply is made by a taxable person for no consideration
@@ -1184,8 +1029,6 @@ the supply.
 
 ===== PAGE 32 =====
 
-# [p32 fs=12.0] Act 1151
-Value Added Tax Act, 2025
 (13) The value ofa supply ofservices under section 24 is an amount
 equal to the amount referred to in section 24 that is retained or recoverable.
 (14) Where
@@ -1224,7 +1067,6 @@ to 68 of the Customs Act, 2015 (Act 891);
 ===== PAGE 33 =====
 
 Value Added Tax Act; 2025
-# [p33 fs=12.4] Act 1151
 {c)the cost of insurance and freight which is not included in
 the customs value under this subsection.
 (2)Subject to subsection (3), the value of an import of services is
@@ -1239,7 +1081,7 @@ import; and
 Tax imposed by this Act that is not accounted for separately, the value of
 the import is the price reduced by an amount equal to the tax fraction
 multiplied by that price.
-Adjustments
+# [p33 fs=12.0] Adjustments
 46.(1) This section applies where, in relation to a taxable supply by a
 taxable person,
 {a)the supply is cancelled;
@@ -1254,9 +1096,9 @@ person making the supply has
 (a)given a tax invoice in relation to the supply and the amount
 shown on the invoice as the Tax charged on the supply is
 incorrect because of the occurrence of an event specified in
-# [p33 fs=12.5] subsection (1), or
+subsection (1), or
 {b)filed a return for the period in which the supply was made
-# [p33 fs=14.3] and has accounted for an incorrect amount of output tax
+and has accounted for an incorrect amount of output tax
 on that supply because of the occurrence of an event
 specified in subsection (1),
 33
@@ -1304,7 +1146,7 @@ hundred and fifty currency points, whichever is greater.
 ===== PAGE 35 =====
 
 Value Added Tax Act; 2025Act 1151
-Adjustment on account of bad debts
+# [p35 fs=12.4] Adjustment on account of bad debts
 47.(1) Where
 (a}a taxable person issues a tax invoice for the supply of taxable
 goods or services, and
@@ -1346,7 +1188,7 @@ which the bad debt is wholly or partly recovered; and
 following formula:
 Ax B/C where,
 (i)Ais the amount allowed as a deduction under
-# [p36 fs=12.5] subsection (2);
+subsection (2);
 (ii)B is the amount of the bad debt recovered; and
 (iii)C is the amount of the bad debt previously written
 off.
@@ -1358,7 +1200,7 @@ person claiming the deduction under subsection (1) issued
 a tax credit note to the taxable purchaser listing the amount
 claimed under subsection (2).
 Calculation of Tax Payable and Refunds
-Tax payable for tax period
+# [p36 fs=12.4] Tax payable for tax period
 48.(1) The Tax payable by a taxable person for a tax period is the
 total amount of output tax chargeable by the person in respect of the
 taxable supplies made, or considered to have been made during the tax
@@ -1380,7 +1222,7 @@ the taxable activity and calculate the tax payable.
 ===== PAGE 37 =====
 
 Value Added Tax Act, 2025Actll51
-Deductible input tax
+# [p37 fs=12.5] Deductible input tax
 49.(1)Subject to section 52, at the end of the tax period provided for
 in this Act or prescribed by Regulations, a taxable person may deduct the
 following from the output tax due for the period
@@ -1444,7 +1286,7 @@ vendor; and
 respect of which the Taxpayer Identification Number of
 the taxable person has been given to the vendor, before the
 end of the tax period to which the input tax relates.
-Qualification for deductible input tax
+# [p38 fs=12.4] Qualification for deductible input tax
 50.(1)A taxable person does not qualify for deductible input tax in
 respect of a taxable supply or the import of a motor vehicle or vehicle
 spare parts unless
@@ -1472,7 +1314,7 @@ be restricted to that part ofthe supply that relates to the use in connection
 with a taxable activity.
 (5)A non-resident person registered under section15 is not
 qualified for deductible input tax for the supply of a digital service.
-Other conditions for deductible input tax
+# [p39 fs=12.5] Other conditions for deductible input tax
 51.(1) The Commissioner-General may determine the procedure for
 the deduction of input tax by a resident person who uses or enjoys a
 digital service from a non-resident person.
@@ -1544,7 +1386,7 @@ taxable supplies for a tax period, the amount of the input tax allowed as
 a deduction for that period is limited to the amount of input tax payable
 in respect of supplies or imports received which are directly attributable
 to the making of taxable supplies.
-Refund or credit for excess tax paid
+# [p41 fs=12.4] Refund or credit for excess tax paid
 53.(1) Where the amount of input tax which is deductible exceeds
 the amount of output tax due in respect of a tax period,
 (a)the Commissioner-General shall credit the excess amount
@@ -1565,7 +1407,7 @@ Second Schedule, the Commissioner-General may refund
 the excess credit attributable to that period on the receipt
 of an application for refund of the excess credit; or
 (d)in the case of a person who qualifies for a relief under
-# [p41 fs=12.5] section 38, the Commissioner-General may, on receipt of
+section 38, the Commissioner-General may, on receipt of
 an application fora refund, refund the excess credit
 attributable to that person.
 41
@@ -1620,18 +1462,18 @@ for a refund shall submit to the Commissioner-General
 the relevant customs document for Tax paid.
 (10) Where the Commissioner-General rejects the claim for a
 refund, the Commissioner-General may recover in accordance with this
-# [p43 fs=12.5] Act any tax wrongly refunded.
+Act any tax wrongly refunded.
 (11) The Commissioner-General may
 (a)in addition to a Refund Claim Form, direct the claimant to
 submit any other document; and
 (b)specify the manner in which a document under paragraph
 (a)may be submitted.
 (12) Except as otherwise provided in this section, a credit under
-# [p43 fs=12.5] subsection (1) shall be carried forward to the next tax period.
+subsection (1) shall be carried forward to the next tax period.
 (13)A person who makes a claim for refund which that person is
 not entitled to under this section is liable to a penalty of twice the original
 amount of the refund and interest.
-Time for payment of refund
+# [p43 fs=12.4] Time for payment of refund
 54.(1) Where a taxable person is entitled to a refund of the Tax under
 this Act, the Commissioner-General shall pay the refund within thirty
 days after receipt of the application, where
@@ -1656,7 +1498,7 @@ amounts due; and
 within thirty days after receipt of the application.
 (3) Where the Commissioner-General fails to pay a refund of Tax
 relating to an excess under section 53 within the period specified in
-# [p44 fs=12.5] subsection (1), the Commissioner-General shall pay the taxable person
+subsection (1), the Commissioner-General shall pay the taxable person
 entitled to the refund
 (a}an additional amount as interest at the prevailing Bank of
 Ghana discount rate, and
@@ -1666,10 +1508,10 @@ commencing on the day after the period within which the Commissioner-
 General is required to pay the refund and ending on the date that the
 payment of the refund is made.
 Withholding of Value Added Tax
-Appointment of Value Added Tax Withholding Agent
+# [p44 fs=12.5] Appointment of Value Added Tax Withholding Agent
 55.The Commissioner-General may, in writing, appoint a Value
 Added Tax Withholding Agent for the Ghana Revenue Authority.
-Duties of a Value Added Tax Withholding Agent
+# [p44 fs=12.5] Duties of a Value Added Tax Withholding Agent
 56.(1)A Value Added Tax Withholding Agent shall
 (a}withhold from the payment to a person registered for the
 Tax, seven per cent of the taxable output value of supplies;
@@ -1686,9 +1528,7 @@ withheld.
 
 ===== PAGE 45 =====
 
-# [p45 fs=12.4] Act 1151
-Value Added Tax Act, 2025
-Scope of Value Added Tax Withholding Agent
+# [p45 fs=12.4] Scope of Value Added Tax Withholding Agent
 57.(1) The scope of a Value Added Tax Withholding Agent includes
 (a}entities registered for the Tax whose supplies are subject to
 the Tax at a rate of zero per cent; and
@@ -1707,12 +1547,12 @@ Commissioner-General
 is entitled to recover an equal amount from the person who receives or is
 entitled to receive a payment from which the Tax is required to be
 withheld under paragraph(a}of section 56.
-Exemption from withholding Tax
+# [p45 fs=12.4] Exemption from withholding Tax
 58.Where the Commissioner-General is satisfied that a person has a
 satisfactory tax record, the Commissioner-General may, on receipt of an
 application, exempt that person in writing from the withholding Tax.
 Tax Returns, Records and Assessment
-Submission of tax return
+# [p45 fs=12.4] Submission of tax return
 59.(I)Unless otherwise directed in writing by the Commissioner-
 General, a taxable person shall account for the Tax for each tax period on
 a tax return.
@@ -1744,7 +1584,7 @@ has been directed to make a tax return, other than for each tax period, of
 the date by which the return and payment shall be made.
 (7) The Minister may, by legislative instrument, make Regulations
 to provide for further matters relating to a tax return.
-Date of payinent of Tax
+# [p46 fs=12.4] Date of payinent of Tax
 60.(1) The payment of the Tax due for a tax period shall be made to
 the Commissioner-General not later than the date the tax return referred
 to in subsection (5) of section 59 is required to be submitted.
@@ -1773,7 +1613,7 @@ day that the tax return is due.
 (4) Despite section 44 of the Interpretation Act, 2009 (Act 792),
 for the purposes of subsection (3), day includes Saturday, Sunday and a
 public holiday.
-Payment of Tax on import of services
+# [p47 fs=12.4] Payment of Tax on import of services
 61.(1) Where the Tax is payable on an import of services, other than
 as provided under paragraph(c)of subsection (1) of section 31, the person
 liable for the Tax under paragraph(c)of section 2 shall
@@ -1790,13 +1630,13 @@ the Commissioner-General.
 (3) Except as otherwise provided in this Act, a form prescribed by
 the Commissioner-General is enforceable when published in theGazette
 and two daily newspapers of nationwide circulation.
-Assessment of Tax
+# [p47 fs=12.4] Assessment of Tax
 62.(1) Where the Commissioner-General has reason to believe that
 (a)a person will become liable for the payment of an amount
 of the Tax but that person is unlikely to pay the amount;
 (b)a person, other than a taxable person, supplies goods or
 services and represents that Tax is charged on the supply;
-# [p47 fs=14.1] (c)a taxable person supplies goods or services, and
+(c)a taxable person supplies goods or services, and
 (i)the supply is not a taxable supply or is a taxable supply
 charged with Tax at the rate of zero per cent, and
 47
@@ -1808,7 +1648,7 @@ charged with Tax at the rate of zero per cent, and
 rate of Tax above zero per cent is charged on the
 supply,
 (d}a taxable person fails to submit a tax return specified in this
-# [p48 fs=12.6] Act or Regulations made under this Act,
+Act or Regulations made under this Act,
 (e}a tax return is incorrect or any lawful Tax has not been paid,
 or
 (I)section 14 applies to a person,
@@ -1830,9 +1670,9 @@ applies.
 available, estimate the Tax payable by a person for the purposes of making
 an assessment.
 (5)An amount assessed under paragraph(b},(c}or(e}of
-# [p48 fs=12.6] subsection(1)is for the purposes of this Act, a Tax charged under this
+subsection(1)is for the purposes of this Act, a Tax charged under this
 Act.
-Correction of tax return
+# [p48 fs=12.0] Correction of tax return
 63.(1)A person who is not satisfied with a submitted tax return may
 apply to the Commissioner-General in writing for authority to make an
 addition or amendment to the tax return.
@@ -1840,8 +1680,6 @@ addition or amendment to the tax return.
 
 ===== PAGE 49 =====
 
-Value Added Tax Act, 2025
-# [p49 fs=12.2] Act 1151
 (2) An application under subsection (1) shall
 (a}state in detail the grounds on which the application is made;
 and
@@ -1855,7 +1693,7 @@ General, is the amount of Tax payable under this Act.
 (4) Where an assessment has been made under this section,
 (a}the Commissioner-General shall serve a notice of the
 assessment on the person assessed in accordance with
-# [p49 fs=12.5] section 40 of the Revenue Administration Act, 2016 (Act
+section 40 of the Revenue Administration Act, 2016 (Act
 915); and
 (b)the notice under paragraph(a}shall state the
 (i)Tax payable;
@@ -1863,7 +1701,7 @@ assessment on the person assessed in accordance with
 (iii) place for payment of the Tax; and
 (iv)manner of objecting to the assessment.
 Recovery of Tax Due, Interest and other Liabilities
-Recovery of tax due
+# [p49 fs=12.2] Recovery of tax due
 64.An amount shown on an invoice or sales receipt as Tax on a supply
 of goods or services is recoverable as Tax due from the person who issues
 the invoice or sales receipt,
@@ -1871,16 +1709,14 @@ the invoice or sales receipt,
 person or another person; and
 (b}whether or not
 (i)the invoice is a tax invoice issued under this Act or
-# [p49 fs=12.5] Regulations made under this Act;
+Regulations made under this Act;
 (ii)an amount of Tax is chargeable on the supply; or
 (iii) the person issuing the invoice is a taxable person.
 49
 
 ===== PAGE 50 =====
 
-# [p50 fs=12.5] Act 1151
-Value Added Tax Act, 2025
-Recovery from recipient of a supply
+# [p50 fs=12.5] Recovery from recipient of a supply
 65.(1) Where, in respect of a taxable supply by a taxable person, the
 taxable person has,in consequence ofafraudulent action or
 misrepresentation by the recipient of the supply, incorrectly treated the
@@ -1907,11 +1743,11 @@ General against the liability of the taxable person; and
 from the recipient shall be credited by the Commissioner-
 General against the liability of the recipient.
 (6) Where an amount of Tax, interest or penalty referred to in
-# [p50 fs=12.5] subsection (1) is paid by the taxable person, the taxable person may recover
+subsection (1) is paid by the taxable person, the taxable person may recover
 the amount paid from the recipient.
 (7) An amount assessed under this section is treated for all purposes
 of this Act as an assessment.
-Failure to issue tax invoice
+# [p50 fs=12.5] Failure to issue tax invoice
 66.(1)A person who fails to issue a tax invoice or sales receipt for
 taxable goods supplied or taxable services rendered as required under
 50
@@ -1919,29 +1755,29 @@ taxable goods supplied or taxable services rendered as required under
 ===== PAGE 51 =====
 
 Value Added Tax Act, 2025Act 1151
-# [p51 fs=12.5] section 43 commits an offence and is liable on summary conviction to a
+section 43 commits an offence and is liable on summary conviction to a
 fine of not more than one hundred penalty units or toa term of
 imprisonment of not more than six months or to both.
 (2)A person who
 (a}issues a false tax invoice or sales receipt,
 (b}fails to issue a tax invoice or sales receipt contrary to
-# [p51 fs=12.5] subsection (I) or (5) of section 43,
+subsection (I) or (5) of section 43,
 (c}fails to issue a tax invoice through a Certified Invoicing
 System contrary to paragraph(a}of subsection (2) of
-# [p51 fs=12.5] section 43,
+section 43,
 (d}tampers, manipulates or interferes with the proper
 functioning of a Certified Invoicing System,
 (e}fails to integrate the Certified Invoicing System of the
 taxablepersonintotheinvoicingsystemofthe
 Commissioner-General contrary to paragraph(b)of
-# [p51 fs=12.5] subsection (2) of section 43, or
+subsection (2) of section 43, or
 (f)fails to re-connect the Certified Invoicing System of the
 taxable person to the invoicing system of the Commissioner-
 General contrary to subsection (10) of section 43
 is, in addition to the penalty provided under subsection (1), liable to pay
 a penalty of an amount of not more than fifty thousand currency points
 or three times the amount of Tax involved, whichever is higher.
-Evasion of Tax
+# [p51 fs=12.4] Evasion of Tax
 67.(1)A person who knowingly
 (a)engages in the evasion of Tax, or
 (b)takes steps with a view to evade the Tax payable by that
@@ -1958,15 +1794,13 @@ goods, or
 
 ===== PAGE 52 =====
 
-# [p52 fs=12.0] Act 1151
-Value Added Tax Act, 2025
 having reason to believe that the Tax on the supply of the goods or
 services has not been, or will not be paid, or that the Tax has been, or will
 be, falsely reclaimed commits an offence and is liable on summary
 conviction to a fine of not more than three times the Tax evaded or to a
 term of imprisonment of not more than five years or to both.
 Miscellaneous Provisions
-Tax-inclusive pricing
+# [p52 fs=12.4] Tax-inclusive pricing
 68.(1)Subject to subsection (2), a taxable person shall
 (a)include the Tax in the price of a taxable supply advertised
 or quoted by the taxable person; and
@@ -1988,7 +1822,7 @@ the places in the premises where payments are effected.
 (4) The Commissioner-General may in the case ofa taxable person
 or a class of taxable persons approve any other method of displaying
 prices of goods or services by the persons.
-Declaration of representative
+# [p52 fs=12.4] Declaration of representative
 69.Where the Commissioner-General considers it necessary, the
 Commissioner-General may declare a person to be a representative of a
 taxable person for the purposes of section 70.
@@ -1997,7 +1831,7 @@ taxable person for the purposes of section 70.
 ===== PAGE 53 =====
 
 Value Added Tax Act, 2025Act 1151
-Person acting in a representative capacity
+# [p53 fs=12.4] Person acting in a representative capacity
 70.(1)A representative of a taxable person is
 (a)responsible for performing the duties imposed on the taxable
 person, including the payment of the Tax; and
@@ -2036,8 +1870,6 @@ Government or local authority;
 
 ===== PAGE 54 =====
 
-# [p54 fs=12.5] Act 1151
-Value Added Tax Act, 2025
 (f)a partner, in the case of a partnership;
 (g)a trustee, in the case of a trust;
 (h)a person declared to be a representative of a taxable person
@@ -2046,7 +1878,7 @@ by the Commissioner-General in accordance with section
 (i)a person who controls the affairs in the country of a non-
 resident person, including a manager in the country ofa taxable
 activity of a non-resident person as defined in section 72.
-Regulations
+# [p54 fs=12.4] Regulations
 71.(1) The Minister may, by legislative instrument, make Regulations
 to
 (a)prescribe rules to determine whether a transaction constitutes
@@ -2079,7 +1911,7 @@ input tax paid under subsection (4) of section 51;
 
 Value Added Tax Act, 2025Act1151
 (t)provide further for matters relating to a tax return under
-# [p55 fs=12.5] subsection (7) of section 59; and
+subsection (7) of section 59; and
 (;)provide for any other matter necessary for the effective and
 efficient implementation of this Act.
 (2)A person who contravenes a provision of Regulations made
@@ -2115,8 +1947,6 @@ market value of the supply of the goods to the
 
 ===== PAGE 56 =====
 
-# [p56 fs=12.5] Act 1151
-Value Added Tax Act, 2025
 bank or other financial institution, whichever
 is the greater; and
 (ii)any consideration for the erection, construction,
@@ -2155,8 +1985,6 @@ maintenance, reconstruction, demolition, repair or
 
 ===== PAGE 57 =====
 
-# [p57 fs=12.0] Act 1151
-Value Added Tax Act, 2025
 renovation of a building, structure, surface or system,
 including site preparation, excavation, erection, assembly,
 installation of plant, fixing of equipment, laying out of
@@ -2187,17 +2015,15 @@ provided by the lessor;
 caravan, houseboat, tent or caravan or camping site
 which constitutes an asset, including a leased asset
 ofa business undertaking or a separately identifiable
-# [p57 fs=12.5] part ofa business undertaking carried on by a person
+part ofa business undertaking carried on by a person
 who
-# [p57 fs=14.0] (i)leases or holds for leasing as residential
+(i)leases or holds for leasing as residential
 accommodation,a house, flat, apartment,
 room, caravan, houseboat, tent or caravan or
 57
 
 ===== PAGE 58 =====
 
-# [p58 fs=12.5] Act 1151
-Value Added Tax Act, 2025
 camping site in the course of the business
 undertaking; and
 (ii)regularly or normally leases or holds for lease
@@ -2283,7 +2109,7 @@ and 68 of the Customs Act, 2015 (Act 891);
 (h}virtual asset management services; and
 (i}digital asset management services;
 "dwelling" means a building, premises, structure, place or any
-# [p60 fs=12.5] part of the building, premises, structure or place which is
+part of the building, premises, structure or place which is
 (a}not a commercial rental establishment; and
 (b}used predominantly as a place ofresidence or abode
 of a natural person or is intended for use as a place
@@ -2327,7 +2153,7 @@ individual engaged in the business of construction or
 renovation and supply of immovable property;
 "exempt import" has the meaning assigned to it in section 37;
 "exempt supply" means a supply of goods or services to which
-# [p61 fs=12.4] section 35 applies;
+section 35 applies;
 "export country", as used in the Second Schedule, includes a
 country other than Ghana and any place which is not
 situated in the country;
@@ -2350,15 +2176,13 @@ where
 expected life of the goods;
 (b)the lessee has an option to purchase the goods for a
 fixed or determinable price at the expiration of the
-# [p61 fs=14.1] lease; or
+lease; or
 (c}the estimated residual value ofthe goods to the lessor
 at the expiration of the lease term, and the period
 61
 
 ===== PAGE 62 =====
 
-Value Added Tax Act, 2025
-# [p62 fs=12.4] Act 1151
 of any option to renew, is less than twenty per cent
 of the open market value of the goods at the
 commencement of the lease;
@@ -2438,8 +2262,6 @@ being in possession of or beneficially interested in
 
 ===== PAGE 64 =====
 
-Value Added Tax Act, 2025
-# [p64 fs=12.5] Act 1151
 the goods; and
 (b)goods imported by means of a pipeline, includes
 the owner of the pipeline;
@@ -2504,10 +2326,10 @@ whom the functions of the Ghana Revenue
 Authority may be delegated;
 "open market value" has the meaning assigned to it in section 44;
 "output tax" means the Tax chargeable under subsection (1) of
-# [p65 fs=12.3] section 1 and any other section of this Act in respect of a
+section 1 and any other section of this Act in respect of a
 taxable supply;
 "penalty unit" has the meaning assigned in section 2 7 of the
-# [p65 fs=12.3] Interpretation Act, 2009 (Act 792);
+Interpretation Act, 2009 (Act 792);
 "person" means an individual or entity;
 "pharmaceuticals" mean the essential drugs listed under
 # [p65 fs=13.8] Chapter 30 of the Harmonised Systems Commodities
@@ -2517,8 +2339,6 @@ Classification Code, 2022;
 
 ===== PAGE 66 =====
 
-Value Added Tax Act, 2025
-# [p66 fs=12.5] Act 1151
 "promoter of public entertainment" means a person who
 arranges the staging of public entertainment, but does not
 include entertainment organised by
@@ -2593,7 +2413,7 @@ including by way of marriage or adoption;
 under this Act;
 "returnable container" means a container
 (a)that belongs to a class of containers specified 1n
-# [p67 fs=12.4] Regulations made under this Act;
+Regulations made under this Act;
 67
 
 ===== PAGE 68 =====
@@ -2638,7 +2458,6 @@ services, whether in full or partial satisfaction of the
 
 ===== PAGE 69 =====
 
-Value Added Tax Act, 2025
 Act1151
 value of the voucher, code, representation or
 instrument;
@@ -2672,15 +2491,13 @@ or other limited interest;
 incapacitated individual; and
 (v)a person who manages assets under a private
 foundation or other similar arrangement.
-Repeals and savings
+# [p69 fs=13.8] Repeals and savings
 73.(1) The following enactments are repealed:
 (a)the Value Added Tax Act, 2013 (Act 870);
 69
 
 ===== PAGE 70 =====
 
-Value Added Tax Act, 2025
-# [p70 fs=12.0] Act 1151
 (b)the Value Added Tax (Amendment) Act, 2015 (Act 890);
 (c)the Value Added Tax (Amendment) (No.2) Act, 2015
 (Act904);
@@ -2706,19 +2523,17 @@ the commencement of this Act shall be considered to have been made or
 done under this Act and shall continue to have effect until reviewed,
 cancelled or terminated.
 (3) This Act shall not affect the enactments repealed under
-# [p70 fs=12.5] subsection (1) in the operation of offences committed, penalties imposed
+subsection (1) in the operation of offences committed, penalties imposed
 or proceedings commenced before the coming into force of this Act.
-Transitional provisions
+# [p70 fs=12.4] Transitional provisions
 74.(1)Subject to the Exemptions Act, 2022 (Act 1038), an exemption
 or zero-rating provided outside this Act or Regulations made under this
-# [p70 fs=12.5] Act shall not come into effect for the purposes of this Act until a
+Act shall not come into effect for the purposes of this Act until a
 corresponding amendment is made to this Act.
 70
 
 ===== PAGE 71 =====
 
-Value Added Tax Act, 2025
-# [p71 fs=12.4] Act 1151
 (2) The enactments repealed under section 73 shall continue to
 apply for the years of assessment commencing prior to the date on which
 this Act comes into force.
@@ -2729,13 +2544,11 @@ st
 
 ===== PAGE 72 =====
 
-Value Added Tax Act, 2025
-# [p72 fs=12.7] Act 1151
 FIRST SCHEDULE
 (sections 35 and 37)
-EXEMPT SUPPLIES
+# [p72 fs=12.7] EXEMPT SUPPLIES
 1.Except as otherwise provided, the supplies specified in this
-# [p72 fs=12.3] Schedule are exempt supplies for the purposes of sections 35 and 37.
+Schedule are exempt supplies for the purposes of sections 35 and 37.
 2.(1)Asupply of the following agricultural and aquatic food
 products in a raw state produced in the country:
 (a)maize;
@@ -2756,8 +2569,6 @@ fish, other than ornamental fish;
 
 ===== PAGE 73 =====
 
-Value Added Tax Act, 2025
-# [p73 fs=12.5] Act 1151
 (m) cocoa beans;
 (n)shea butter; and
 (o)edible meat and offal of the animals listed in paragraph 3,
@@ -2788,8 +2599,6 @@ herbicides, growth regulators, pesticides, veterinary drugs
 
 ===== PAGE 74 =====
 
-Value Added Tax Act, 2025
-# [p74 fs=12.4] Act 1151
 and vaccines, feed and feed ingredients other than food,
 drugs and vaccines for domesticated animals generally held
 as pets.
@@ -2816,8 +2625,6 @@ newspapers,
 
 ===== PAGE 75 =====
 
-Value Added Tax Act, 2025
-# [p75 fs=12.5] Act 1151
 (ii)exercise books;
 (iii) newspapers;
 (iv)publications; and
@@ -2875,8 +2682,6 @@ prescribed by the Minister; and
 
 ===== PAGE 77 =====
 
-Value Added Tax Act, 2025
-# [p77 fs=12.5] Act 1151
 15.A supply of crude oil and the following hydrocarbon products:
 (a)
 petrol;
@@ -2904,8 +2709,6 @@ for expedited services or for philatelist purposes.
 
 ===== PAGE 78 =====
 
-Value Added Tax Act, 2025
-# [p78 fs=12.4] Act 1151
 21.A supply of mosquito nets, whether or not infused with chemicals.
 22.A supply of paper for the production of exercise books and text-
 books.
@@ -2923,7 +2726,7 @@ Manufacturing Development Programme; and
 Value Added Tax Act, 2025Act 1151
 SECOND SCHEDULE
 (sections 29(Jb) and (36))
-ZERO-RATED SUPPLIES
+# [p79 fs=12.3] ZERO-RATED SUPPLIES
 1.The supplies specified in paragraphs 2 and 3 of this Schedule are
 subject to the Tax at a rate of zero per cent for the purposes of section 36.
 2.SUPPLY OF GOODS
@@ -2943,15 +2746,13 @@ Commissioner of Customs for examination;
 exporter provides samples of the goods as the
 Commissioner may require for testing or in any other
 purpose;
-# [p79 fs=14.1] (c)the person in charge of the conveyance for the export
+(c)the person in charge of the conveyance for the export
 or any other person that the person in charge may
 authorise for the purpose, certifies on the document
 79
 
 ===== PAGE 80 =====
 
-Value Added Tax Act, 2025
-# [p80 fs=12.0] Act 1151
 on which the goods are entered that the goods have
 been received on board; and
 (d)particulars of the goods are included in the cargo
@@ -2983,7 +2784,6 @@ and conditions as the Minister shall specify.
 ===== PAGE 81 =====
 
 Actl151
-Value Added Tax Act, 2025
 (9)A supply ofgoods shall not be considered to be exported from
 the country if the supply has been or will be re-imported to the country
 by the supplier.
@@ -3010,11 +2810,9 @@ transshipment.
 
 ===== PAGE 82 =====
 
-# [p82 fs=12.8] Act 1151
-Value Added Tax Act, 2025
 THIRD SCHEDULE
 (section 38)
-RELIEF SUPPLIES
+# [p82 fs=12.8] RELIEF SUPPLIES
 1.The individuals, organisations and matters specified in paragraphs
 2 to 9 of this Schedule are entitled to relief from Tax for the
 purposes of section 38.
@@ -3041,7 +2839,6 @@ Association of Ghana Industries;
 
 ===== PAGE 83 =====
 
-Value Added Tax Act, 2025
 Actl151
 (b)the manufacturer has submitted all previous tax returns and
 paid the Tax, penalties and interest from previous tax
@@ -3094,9 +2891,7 @@ the tax debit note relates.
 
 ===== PAGE 85 =====
 
-Value Added Tax Act, 2025
-# [p85 fs=12.7] Act 1151
-TAX CREDIT NOTE
+# [p85 fs=12.7] TAX CREDIT NOTE
 2.Except as otherwise provided by the Commissioner-General, a tax
 credit note required by subsection (6) of section 46 shall contain at least
 the following particulars:
@@ -3122,8 +2917,6 @@ which the tax credit note relates.
 
 ===== PAGE 86 =====
 
-# [p86 fs=12.0] Act 1151
-Value Added Tax Act, 2025
 FJFTH SCHEDULE
 (Section 52(2}}
 APPORTIONMENT OF INPUT TAX

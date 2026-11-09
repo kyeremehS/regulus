@@ -4,7 +4,7 @@ ID: vat-guidelines-act-1151
 Source: https://ghtaxclub.com/wp-content/uploads/2026/01/VAT-Guidelines-for-VAT-ACT-1151.pdf
 Published: 2026-01-01
 Content hash: d8bbe31c7c56083d438401567a60e25e0bad1d1c22057b28114770d62ce397c0
-Pages: 19  |  Body font size: 11.4  |  Blocks: 538  |  Headings detected: 37
+Pages: 19  |  Body font size: 11.4  |  Blocks: 519  |  Headings detected: 39
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -19,7 +19,6 @@ REVIEW CHECKLIST (§5 gate):
 
 ===== PAGE 1 =====
 
-www.GhTaxClub.com
 # [p1 fs=66.8] GRA
 # [p1 fs=30.8] GHANA REVENUE AUTHORITY
 # [p1 fs=20.0] VAT ADMINISTRATIVE GUIDELINES FOR THE
@@ -30,8 +29,7 @@ st
 
 ===== PAGE 2 =====
 
-www.GhTaxClub.com
-Table of contents
+# [p2 fs=11.6] Table of contents
 1.0INTRODUCTION ......................... .. ........................................ ....... .... ...... ......... ... .... ... 1
 2.0THE PURPOSE OF THIS GUIDELINE ................................................................ ..... 1
 3.0 INTERPRETATION........ ... ........................ .. ..... ...... ......................... ... ............................1
@@ -77,9 +75,8 @@ DERIVATION OF THE FRACTIONS........ ...... .. ... .................. .. ........
 
 ===== PAGE 3 =====
 
-www.GhTaxClub.com
 GUIDELINES FOR THE IMPLEMENTATION OF THE
-VALUE ADDED TAX ACT, 2025(ACT 1151)
+# [p3 fs=11.5] VALUE ADDED TAX ACT, 2025(ACT 1151)
 1.0INTRODUCTION
 The Commissioner-General (CG) of the Ghana Revenue Authority (GRA) is empowered under Section
 1(2) of the Revenue Administration Act (RAA), 2016 (Act 915) as amended, to give written directives
@@ -94,7 +91,7 @@ application of the Act.
 # [p3 fs=11.5] 3.0 INTERPRETATION
 In this guideline the word "Act" means the Value Added Tax Act, 2025 (Act 1151 ).
 # [p3 fs=11.5] 4.0 DEFINITIONS
-# [p3 fs=10.5] Definitions and expressions used in these Guidelines have the same
+Definitions and expressions used in these Guidelines have the same
 meaning as in the Act
 5.0TAXRATE
 As indicated in Section 3 of the Act, the rate of tax is 15% computed on the value of taxable
@@ -110,7 +107,6 @@ ll Pa g e
 
 ===== PAGE 4 =====
 
-www.GhTaxClub.com
 Required:
 Determine the tax payable.
 Solution
@@ -138,7 +134,6 @@ before the commencement of the public entertainment event.
 
 ===== PAGE 5 =====
 
-www.GhTaxClub.com
 For example, SKP who is a promoter of public entertainment is promoting an end-of-year "bash"
 th
 on 24of December 2026. The implies that SKP is required to register for the tax not later than
@@ -173,7 +168,6 @@ businesses without any disruption.
 
 ===== PAGE 6 =====
 
-www.GhTaxClub.com
 A. Where the Commissioner-General's System is offline (Servers down)
 In the unlikely event that the Commissioner-General's system goes down the
 following protocol applies:
@@ -201,8 +195,7 @@ through the official reporting platform by sending an email toevat.support3@gra.
 
 ===== PAGE 7 =====
 
-www.GhTaxClub.com
-GhTaxlu5
+# [p7 fs=5.5] GhTaxlu5
 9.0 UPFRONT PAYMENT
 9.1 IMPORTS SUBJECT TO THE UPFRONT PAYMENT
 Importers of taxable goods with value exceeding GHS750,000.00 who are required to register
@@ -231,11 +224,10 @@ vii.Where an application for a waiver is approved, the BOE will be amended to ex
 the upfront payment.
 viii.Where an application is rejected, the importer will be required to make the upfront
 payment.
-SIPa g e
+# [p7 fs=9.6] SIPa g e
 
 ===== PAGE 8 =====
 
-www.GhTaxClub.com
 9.3 PERSONS NOT LIABLE TO MAKE THE UPFRONT PAYMENT
 Unregistered importers whose imports fall under the following categories are not liable to make
 the upfront payment:
@@ -270,7 +262,6 @@ GIPa ge
 
 ===== PAGE 9 =====
 
-www.GhTaxClub.com
 i.Provide evidence of upfront payment,
 ii.Registered for VAT (where applicable),
 iii.Filed the relevant VAT returns
@@ -305,7 +296,6 @@ ii.file import of service return; and
 
 ===== PAGE 10 =====
 
-www.GhTaxClub.com
 GhTaxlu5
 iii.pay the Tax due in respect of the import of service within twenty-one days after the tax
 period in which the services were imported.
@@ -339,7 +329,6 @@ BlPa g e
 
 ===== PAGE 11 =====
 
-www.GhTaxClub.com
 Required:
 Determine the tax payable.
 Solution:
@@ -350,7 +339,7 @@ Taxable Value for (VAT & Levies)105,000.00
 GETF/NHIL(105,000 *5%)5,250.00
 VAT (105,000*15%)15,750.00
 126,000.00
-Hence tax payable isGHS 26,000.00(CST+NHIL+VAT)
+# [p11 fs=11.4] Hence tax payable isGHS 26,000.00(CST+NHIL+VAT)
 10.3 How to determine the tax due on import of service where the service is used in
 furtherance of both taxable and exempt supplies
 Where the imported service is applied to both taxable and exempt supplies, the formula below
@@ -364,7 +353,6 @@ oC is the value of the imported service for the period
 
 ===== PAGE 12 =====
 
-www.GhTaxClub.com
 Illustration 3
 Alpha Limiteda registered entity engagedin both taxable and exempt supplies, imported
 service from Tup PLC locatedinRussia to the tune of GHS 2,000,000.00 which are not
@@ -391,14 +379,13 @@ Tax due = Taxable Value of import of service for exempt supply* Rateof Levies an
 Tax(5% and 15% respectively)
 GHS
 Value of Import of Service for Exempt Supply1,140,000
-# [p12 fs=13.1] 10I Pa ge
+10I Pa ge
 
 ===== PAGE 13 =====
 
-www.GhTaxClub.com
 GETF/NHIL(1, 140,000*5%)57,000
 VAT(1, 140,00*15%)171,000
-Totaltax payable=(GETF/NHIL + VAT)
+# [p13 fs=11.3] Totaltax payable=(GETF/NHIL + VAT)
 228.000
 11.0 Implementation of Digital Service Monitoring and VAT Collection System
 Where the import of service constitutes a digital service affected by the implementation of the
@@ -431,7 +418,6 @@ HIPa g e
 
 ===== PAGE 14 =====
 
-www.GhTaxClub.com
 B.The appointed withholding agent shall issue to the supplier a withholding VAT certificate
 (WHVC) showing;
 i.the amount of VAT withheld.
@@ -464,11 +450,10 @@ may include;
 The Upfront Relief Register for VAT is published by the Commissioner-General on the 1st of
 January of each year and subsequently updated every six months. All updates are done to take
 effect from the 1st of January and 1st July of each year.
-# [p14 fs=13.1] 12I Pa g e
+12I Pa g e
 
 ===== PAGE 15 =====
 
-www.GhTaxClub.com
 nd
 # [p15 fs=11.4] 14. SERVICES TO FREEZONE (Parag. 6 of 2Sch)
 A supply of goods to a free zone developer or free zone enterprise is treated as a zero- rated
@@ -501,11 +486,10 @@ other words, the CST is to be charged to determine the taxable value for computi
 VAT and the levies.
 oIn the case of Excise, the Excise is to be charged and added to the cost (ex-factory price)
 to arrive at the taxable value before charging the VAT and levies.
-BlPa g e
+# [p15 fs=11.2] BlPa g e
 
 ===== PAGE 16 =====
 
-www.GhTaxClub.com
 15.4 FILING OF RETURNS
 oThe filing of VAT returns has not changed. VAT taxpayers are required to file their returns
 on or before the last day of the month immediately following the month to which the
@@ -531,7 +515,7 @@ make any claim . However, inputs relating to invoices of undeclared purchases wi
 oVAT flat rated persons who are deregistered (i.e. not qualified for VAT) should add the
 input tax to the cost.
 oStandard rated taxpayers who are deregistered shall treat their unutilised input VAT as
-# [p16 fs=11.4] part of their cost.
+part of their cost.
 15.6 UNUTILISED VAT/ VAT INVOICE IN USE
 The VAT invoice currentlyin use contains a field for Covid-19 HealthRecovery Levy. In
 completing the invoice, ignore the covid-19 levy field since the Covid-19 levy Act has been
@@ -542,8 +526,7 @@ their assigned offices for the standard rate invoice booklet.
 
 ===== PAGE 17 =====
 
-www.GhTaxClub.com
-GhTaxlu5
+# [p17 fs=5.5] GhTaxlu5
 15.7 TAXPAYERS USING OWN COMPUTER-GENERATED INVOICES
 Taxpayers with own computer-generated invoices approved by the Commissioner-General are
 required to configure their systems to reflect the prevailing VAT rate by the effective date of the
@@ -566,20 +549,19 @@ Cancellation of VAT registration may be initiated by the Commissioner-General wh
 taxpayer does not meet the threshold for registration . On the other hand , a taxpayer may apply
 to the Commissioner-General to be deregistered when the taxpayer satisfies the conditions for
 deregistration.
-# [p17 fs=18.8] ~vs~
-# [p17 fs=13.7] ,;\-'?-----;}_0~
+~vs~
+,;\-'?-----;}_0~
 Signed ..................... .. ........... .. ............ ...... ...Date.......... .... ...... ....... ......... .
 Dr. Martin Kolbil Yamborigya
 Ag. Commissioner, Domestic Tax Revenue Division
 For: Commissioner General
-# [p17 fs=13.1] 15I Pa g e
+15I Pa g e
 
 ===== PAGE 18 =====
 
-www.GhTaxClub.com
 Appendix
 DERIVATION OF THE FRACTIONS
-C = Cost
+# [p18 fs=11.4] C = Cost
 2.5% = 0.025 = NHIL
 2.5% = 0.025 = GETfund Levy
 9% = 0.09 = CST
@@ -596,18 +578,17 @@ C = the value of the service without taxes and the levies
 Since C + 0.025C + .025C +0.09C = 1.14C
 -C + 0.14C + 0.1425C = 1.2825C
 -1.2825C =Cost+ NHIL + GETfund +CST+ VAT
-The NHIL and Get/Fund fractions are derived as:
+# [p18 fs=11.3] The NHIL and Get/Fund fractions are derived as:
 2.5%/1.2825 = 0.025/1.2825 multiply through by 10,000 to remove the decimals
 250/12825 dividing through with 25 yield10/513as the fraction for both NHIL and Get/Fund
-# [p18 fs=13.1] 16I Pa ge
+16I Pa ge
 
 ===== PAGE 19 =====
 
-www.GhTaxClub.com
 The CST fraction is derived as:
 9%/1.2825 = 0.09/1.2825 multiplying through by 10,000 to remove the decimals yield
 900/12825 dividing through by 25 yield36/513as the fraction for extracting the CST.
-VAT fraction is derived as:
+# [p19 fs=11.3] VAT fraction is derived as:
 12.5%/1.2825 = 0.1425/1.2825 multiplying through with 10,000 to remove the decimals yield
 1425/12825 dividing through with 25 yields 57/513 as the VAT fraction .
-# [p19 fs=13.1] 17I Page
+17I Page

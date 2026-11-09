@@ -4,7 +4,7 @@ ID: income-tax-amendments-updated-2026
 Source: https://gra.gov.gh/wp-content/uploads/2026/09/Amendments-To-The-Income-Tax-2015-Act-896_Updated-1.pdf
 Published: 2026-09-01
 Content hash: fdd3f8179f3d8d75aa9a9b48fce525491687e4b55104534d66980a865f8bb294
-Pages: 1  |  Body font size: 12.0  |  Blocks: 32  |  Headings detected: 0
+Pages: 1  |  Body font size: 12.0  |  Blocks: 32  |  Headings detected: 1
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -38,7 +38,7 @@ Next100.0010.00Next1,200.0010.00
 Next2,900.0017.50Next34,800.0017.50
 Next16,000.0025.00Next192,000.0025.00
 Next30,332.0030.00Next363,984.0030.00
-Exceeding50,000.0035.00Exceeding600,000.0035.00
+# [p1 fs=12.0] Exceeding50,000.0035.00Exceeding600,000.0035.00
 2.Increase in Turnover Threshold for Modified Taxation Scheme
 The turnover threshold for presumptive taxation under the Modified Taxation Scheme
 (MTS) has been increased. Individuals whose annual business turnover is more than

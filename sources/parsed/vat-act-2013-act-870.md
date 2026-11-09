@@ -4,7 +4,7 @@ ID: vat-act-2013-act-870
 Source: https://gra.gov.gh/wp-content/uploads/2020/09/vat_act_870.pdf
 Published: 2013-12-18
 Content hash: 32aa74aad647b525288e899a4c1a7084e38ad89040e0928b41be4b9f65a46408
-Pages: 52  |  Body font size: 12.0  |  Blocks: 2011  |  Headings detected: 259
+Pages: 52  |  Body font size: 12.0  |  Blocks: 1910  |  Headings detected: 64
 
 REVIEW CHECKLIST (§5 gate):
   [ ] Section numbers present (e.g. '7.', '12.1')?
@@ -20,120 +20,13 @@ REVIEW CHECKLIST (§5 gate):
 ===== PAGE 1 =====
 
 VALUE ADDED TAX ACT, 2013Act 870
-ARRANGEMENT OF SECTIONS
-# [p1 fs=12.0] Section
-Imposition of tax
-1.Imposition of tax
-2.Persons liable to pay tax
-3.Rate of the tax
-Taxable person and taxable activity
-4.Taxable person
-5.Taxable activity
-Registration
-6.Registration requirement
-7.Period for becoming a taxable person
-8.Notice of registration
-9.Certificate of registration
-10.Notice of cancellation in respect of turnover
-11.Exceptions regarding thresholds
-12.Designation of taxable person in respect of groups and distinct divisions
-13.Application for voluntary registration
-14.Compulsory registration
-15.Sanctions for failure to register
-16.Unregistered, non-resident persons who provide telecommunication services or electronic
-commerce
-17.Register and particulars of taxable persons
-18.Notice of change in business
-19.Cancellation of registration
-Supply of goods and services
-20.Supply of goods or services
-21.Repossession of goods as supply of goods
-22.Lay-away agreement and betting as supply of services
-23.Separate supply
-24.Activities that do not constitute supply of goods or services
-25.Effect of denial of input tax
-26.Payment of deposit and receipt of claim as supply of goods or services
-27.Supply of power and others as supply of goods
-28.Disposition of taxable activity
-29.Phone cards and prepayment as supply of services
-30.Regulations to prescribe for the supply of goods and supply of services
-31.Mixed supplies
-32.Supply by agent or auctioneer
-1
-
-===== PAGE 2 =====
-
-Taxable supplies
-33.Taxable supply
-34.Payment of tax on importation of goods or services
-35.Exempt supply
-36.Zero-rated supply
-37.Exempt import
-38.Relief supply
-Time and place of supply, tax invoice, and sales receipt
-39.Time of supply
-40.Time of import
-41.Issue of tax invoice or sales receipt
-42.Place of supply
-Taxable value
-43.Value of taxable supply
-44.Taxable value for determining the tax on imported goods and services
-45.Adjustments
-46.Adjustments on account of bad debts
-Calculation of tax payable and refunds
-47.Tax payable for tax period
-48.Deductible input tax
-49.Deductible input tax for mixed taxable and exempt supply
-50.Refund or credit for excess tax paid
-51.Time for payment of refund
-Tax return, records and assessment
-52.Submission of tax return and date of payment of the tax
-53.Payment of tax on import of services
-54.Assessment of the tax and correction of return
-Recovery of tax due, interest and other liabilities
-55.Recovery of tax due
-56.Recovery from recipient of a supply
-57.Value Added Tax refund account
-58.Failure to issue tax invoice
-59.Evasion of tax payment
-60.Power to seal off premises
-Miscellaneous provisions
-61.Tax-inclusive pricing
-62.Declaration of representative
-63.Person acting in a representative capacity
-64.Regulations
-65.Interpretation
-66.Repeal, revocation, savings and transitional provisions
-2
-
-===== PAGE 3 =====
-
-SCHEDULES
-FIRST SCHEDULE
-Exempt supplies
-SECOND SCHEDULE
-Zero –rated supplies
-THIRD SCHEDULE
-Exemption for relief supplies
-FOURTH SCHEDULE
-Tax credit note and tax debit note
-FIFTH SCHEDULE
-Apportionment of input tax
-SIXTH SCHEDULE
-Transitional provisions
-3
 
 ===== PAGE 4 =====
 
-A
-BILL
-ENTITLED
-VALUE ADDED TAX ACT, 2013
 AN ACTto revise and consolidate the law relating to the imposition of the value added tax and
 to provide for related matters.
 Passed by Parliament and assented to by the President:
-Imposition of tax
-Imposition of tax
+# [p4 fs=12.0] Imposition of tax
 1.(1) There is imposed by this Act a tax to be known as the value added tax which is to be
 charged on the
 (a)supply of goods or services made in the country other than exempt goodsor
@@ -155,14 +48,14 @@ in this Act and the Regulations.
 (e)other person
 who has obtained a relief from or a refund from the tax on the importation or domestic
 acquisition of the goods.
-Persons liable to pay tax
+# [p4 fs=12.0] Persons liable to pay tax
 2.(1) Except as otherwise provided in this Act, the tax shall be paid
 (a)in the case of a taxable supply, bythetaxable person making the supply;
 (b)in the case of an import of goods, by the importer; or
 (c)in the case of an import of services, by the recipient of the service.
 (2) In the case of a non-resident person required to register under section 16, the non-
 resident is liable for the payment of the tax.
-Rate of the tax
+# [p4 fs=12.0] Rate of the tax
 3.Except as otherwise provided in this Act, the rate of the tax isfifteen percentand is
 calculated on the value of the taxable supply of the goods or services or on the value of the
 import.
@@ -171,13 +64,13 @@ import.
 ===== PAGE 5 =====
 
 Taxable person and taxable activity
-Taxable person
+# [p5 fs=12.0] Taxable person
 4.(1) A taxable person is a person who is registered for purposes of this Act or is required to
 register under section 6 to 16.
 (2) Subject to sections 6 to 8 and 10 to 16, the effective date of registration of a person as a
 taxable person is the date specified in the certificate of registration issued by the Commissioner-
 General under section9.
-Taxable activity
+# [p5 fs=12.0] Taxable activity
 5.(1) For the purposes of this Act, a “taxable activity” means an activity which is carried on
 by a person
 (a)in the country, or
@@ -206,12 +99,12 @@ whom the supply is made or from any other person, and includes
 (b)a supply of goods for use only as trade samples; or
 (c)a supply referred to insection21 to 23.
 (4) A supply is part of a taxable activity of a person if the supply is made by that person as
-# [p5 fs=12.0] part of or incidental to any economic activity the person conducts.
+part of or incidental to any economic activity the person conducts.
 (5) Where an owner of goods enters into a contract with another person to process or treat
 the goods of the owner, the delivery of the goods to the owner or the agent of the owner shall be
 treated as a supply of goods by the person processing or treating the goods.
 Registration
-Registration requirement
+# [p5 fs=12.0] Registration requirement
 6.(1) Except as otherwise provided in this Act, a person who is engaged in a taxable activity
 and is not registered for tax purposes shall register if
 5
@@ -242,11 +135,11 @@ registration within thirty days after the end of
 (b)the month under paragraph(b)of subsection (1).
 (6) A person required to register under paragraph (a) of subsection (2) shall file the
 application for registration within thirty days after the three-month period.
-Period for becoming a taxable person
+# [p6 fs=12.0] Period for becoming a taxable person
 7.A person who is not registered, but who is required to apply for registration
 under this Act, is a taxable person from the beginning of the tax period immediately
 following the tax period in which the duty to apply for registration arose.
-Notice of registration
+# [p6 fs=12.0] Notice of registration
 8.(1)Subject to subsection (2) the Commissioner-General shall, within thirty
 days after the receipt of an application for registration under this section, give notice to the
 applicant for registration of the decision to register or not to register the person.
@@ -254,7 +147,7 @@ applicant for registration of the decision to register or not to register the pe
 General is deemed to have made a decision to register the applicant except where the
 Commissioner-General is satisfied that the person is not eligible to apply for registration.
 (3)For the purposes of this section, where within thirty days specified under
-# [p6 fs=12.0] subsection(1)theCommissioner-Generalrequestsadditionalinformationfromthe
+subsection(1)theCommissioner-Generalrequestsadditionalinformationfromthe
 applicant in order to determine if the applicant is eligible to apply for registration, the
 thirty-day period shall be suspended and the Commissioner-General shall have not less
 than fourteen days after the Commissioner-General receives the required information in
@@ -263,14 +156,14 @@ the form prescribed by the Commissioner-General to give the notice under subsect
 
 ===== PAGE 7 =====
 
-Certificate of registration
+# [p7 fs=12.0] Certificate of registration
 9.(1)The Commissioner-General shall issue to each person registered for
 Value Added Tax, a certificate of registration.
 (2)A registered person shall exhibit the certificate of registration
 (a)at the principal place of business of the person; and
 (b)at every other location at which the person engages in a taxable
 activity.
-Notice of cancellation in respect of turnover
+# [p7 fs=12.0] Notice of cancellation in respect of turnover
 10.The Commissioner-General may, in writing, notify a person that that person has
 within the time specified in the notice, made taxable supplies
 (a)in excess of a turnover threshold; or
@@ -278,7 +171,7 @@ within the time specified in the notice, made taxable supplies
 specified in subsection (1) or (2) of section 6 and is registrable as a taxable person or not
 registrableandtheCommissioner-Generalshallactaccordinglybyregisteringor
 cancelling the registration of the person.
-Exceptions regarding thresholds
+# [p7 fs=12.0] Exceptions regarding thresholds
 11.(1)Despite the threshold rules in section 6
 (a)a promoter of public entertainment,
 (b)an auctioneer, or
@@ -307,7 +200,7 @@ General, be treated for the purposes of the tax as one designated taxable person
 severally liable for any liability or contravention under this Act and the Regulations.
 (3) A taxable person whose taxable activity is structured into distinct divisions may
 apply to the Commissioner-General to register one or more of its divisions for the tax.
-Application for voluntary registration
+# [p8 fs=12.0] Application for voluntary registration
 13.(1)A person who is not required to be registered may apply voluntarily to be
 registered by the Commissioner-General.
 (2)TheCommissioner-Generalshallnotregisterapersonwhoappliesto
@@ -319,10 +212,10 @@ carried on by that person;
 (ii)submit regular and reliable tax returns as required by or under
 this Act; or
 (iii)is not a fit and proper person to be registered.
-Compulsory registration
+# [p8 fs=12.0] Compulsory registration
 14.Where a person required to register under this Act fails to apply for
 registration, the Commissioner-General shall register that person.
-Sanctions for failure to register
+# [p8 fs=12.0] Sanctions for failure to register
 15.A person who fails to apply for registration is liable to a penalty of not more
 than two times the amount of tax on taxable supplies payable from the time the person is
 required to apply for registration until the person files an application for registration with
@@ -356,10 +249,10 @@ include
 (vi)political,culturalartistic,sporting,scientificand
 entertainment broadcasts and events; and
 (vii)distance teaching.
-Register and particulars of taxable persons
+# [p9 fs=12.0] Register and particulars of taxable persons
 17.TheCommissioner-General shall keep a register of taxable persons that has the
 particulars of those persons as specified by the Commissioner-General.
-Notice of change in business
+# [p9 fs=12.0] Notice of change in business
 18.(1)A taxable person is required to give notice to the Commissioner-General in
 writing
 (a)if that person
@@ -392,7 +285,7 @@ the
 (b)purchaser acquires any legal interest in the assets to be acquired, or
 (c)assets of the going concern are transferred,
 whichever date is earliest.
-Cancellation of registration
+# [p10 fs=12.0] Cancellation of registration
 19.(1) The Commissioner-Generalshallcancel the registration of a taxable person where the
 Commissioner-General is satisfied that the taxable person
 (a)nolonger exists;
@@ -433,7 +326,7 @@ relation to which the registration was made and who is not engaged in any other 
 shall apply in writing to the Commissioner-General for cancellation of the registration within
 thirty days after the cessation of the business.
 Supply of goodsorservices
-Supply of goods or services
+# [p11 fs=12.0] Supply of goods or services
 20.(1) Except as otherwise provided in this Act and the Regulations,
 (a)“supply of goods” means an arrangement under which the owner of goods parts
 with possession of the goods,by way ofsale, barter, lease, transfer, exchange, gift
@@ -469,13 +362,13 @@ goods or services acquired for use in a taxable activity to a different use whic
 provision of goods or services to an employee for personal use, is a supply of those goods or
 services by the taxable person in the course or furtherance of that taxable activity.
 Special supply
-Repossession of goods as supply of goods
+# [p12 fs=12.0] Repossession of goods as supply of goods
 21.Where goods are repossessed under a credit agreement, the repossession is a supply
 of the goods by the debtor under the credit agreement to the person exercising the right of
 repossession and, where the debtor is a registered person, the supply is made in the course
 or furtherance of the taxable activity of the debtor, unless the goods did not form part of
 the assets held or used by the debtor in connection with that taxable activity.
-Lay-away agreement and betting as supply of services
+# [p12 fs=12.0] Lay-away agreement and betting as supply of services
 22.(1)Where a lay-away agreement is terminated or cancelled and the seller retains
 an amount paid by the purchaser or recovers an amount the purchaser owes under the
 agreement, the cancellation or termination is a supply of services by the seller in respect of
@@ -483,7 +376,7 @@ the agreement.
 (2)The placing of a bet by a person with another person operating a game of
 chance is a supply of services by that other person operating the game of chance to the
 person.
-Separate supply
+# [p12 fs=12.0] Separate supply
 23.Where a supply of goods or services consists of both a supply that is
 charged with tax at a positive rate and
 (a)a supply of goods with tax at a zero rate; or
@@ -520,7 +413,7 @@ charged to the tax at a zero rate undersection 36.
 Supply of power and others as supply of goods
 # [p13 fs=12.0] 27. The supply of any form of power heat, refrigeration or ventilation is a supply of
 goods.
-Disposition of taxable activity
+# [p13 fs=12.0] Disposition of taxable activity
 28.(1)Subject to subsection (2) where
 (a)the supply was charged with tax at the rate of zero percent in terms of
 the Second Schedule; and
@@ -541,7 +434,7 @@ Phone cards and prepayment as supply of services
 # [p14 fs=12.0] 29. The issuance of a phone card, prepayment on a cellular phone or similar
 scheme of advance payment for the supply of goods or the rendering of services is a supply
 of services for Value Added Tax purposes.
-# [p14 fs=12.0] Regulations to prescribe for the supply of goods and supply of services
+Regulations to prescribe for the supply of goods and supply of services
 30.(1) For the purposes of section 20 to 29, the Minister may, by legislative
 Instrument, make Regulations to prescribe rules to determine whether a transaction
 constitutes
@@ -553,7 +446,7 @@ stamp authorised under the Postal and Courier Services Regulatory Commission Act
 (Act 649) is granted for a consideration or money, the issue of the token, voucher, gift
 certificate or stamp is not supply except to the extent, if any, that the consideration exceeds
 that monetary value.
-Mixed supplies
+# [p14 fs=12.0] Mixed supplies
 31.(1)A supply of
 (a)services incidental to a supply of goods is part of the supply of goods;
 (b)goods incidental to a supply of services is part of the supply of services;
@@ -567,7 +460,7 @@ that supply.
 
 ===== PAGE 15 =====
 
-Supply by agent or auctioneer
+# [p15 fs=12.0] Supply by agent or auctioneer
 32.(1)A supply of goods or services made by a person as an agent for another
 person who is the principal is a supply by the principal.
 (2)Subsection (1), does not apply to the supply of services of an agent as agent to the
@@ -590,20 +483,20 @@ of import, tax due under this Act; and
 clearance of goods, and payment and recovery of duty applies, so far as is
 relevant, to the tax charged under this Act or the Regulations, with the
 exceptions,modifications,andadaptationsthattheMinistermayby
-# [p15 fs=12.0] Regulations prescribe; and
+Regulations prescribe; and
 (b)on the import of services, tax is payable as provided undersection53.
 (2) The Commissioner-General shall make arrangements for the collection of tax in
 relation to an import of goods through the postal services.
-Exempt supply
+# [p15 fs=12.0] Exempt supply
 35.(1) The supply of goods and services specified in the First Schedule is an exempt supply
 and not subject to the tax.
 (2) A supply of goods or services is not an exempt supply if that supply is subject to tax
 at the rate of zero percent undersection 36.
-Zero-rated supply
+# [p15 fs=12.0] Zero-rated supply
 36.(1) A taxable supply is taxable at a zero rate if the supply is specified in the Second
-# [p15 fs=12.0] Schedule.
+Schedule.
 (2) Where a taxable person has applied the rate of zero percent to a supply under this
-# [p15 fs=12.0] section, the taxable person is required to obtain and retain the documentary proof that is
+section, the taxable person is required to obtain and retain the documentary proof that is
 acceptable to the Commissioner-General and that substantiates the person’s entitlement to apply
 the zero rate to the supply.
 Exempt import
@@ -614,7 +507,7 @@ Exempt import
 37.An import of goods is an exempt import if the goods are exempt under the First Schedule
 or classified as an exempt import in conformity withtheCustoms Tariff Schedule also known as
 the “Harmonised System”.
-Relief supply
+# [p16 fs=12.0] Relief supply
 38.(1) The Minister may,by legislative instrument, make Regulations to grant relief from
 tax on taxable imports of goods or taxable supplies of goods acquired in the country to the
 persons specified in the Third Schedule.
@@ -627,9 +520,9 @@ accompanied by proof of payment of tax.
 (4) For the purposes of subsection (1), the relief does not apply to raw materials, parts and
 services that are or may become components of the goods in respect of which relief is granted.
 (5) Subsection (4) does not apply in the case of relief granted under item 7 of the Third
-# [p16 fs=12.0] Schedule.
+Schedule.
 Time and place of supply, tax invoice, and sales receipt
-Time of supply
+# [p16 fs=12.0] Time of supply
 39.(1) Except as otherwise provided in this Act or Regulations, a supply of goods or services
 occurs,
 (a)where the goods or services are applied to own use, on the date on which the
@@ -687,12 +580,12 @@ to insection 30(2)is a supply, the supply occurs when the token, voucher, gift c
 stamp is issued.
 (14) The Minister may,by legislative instrument, make Regulations to prescribe rules to
 determine the time of a supply of particular goods or services.
-Time of import
+# [p17 fs=12.0] Time of import
 40.(1) An import of goods occurs when the goods are entered for purposes of the Customs,
 Excise and Preventive Service (Management) Act, 1993 (P.N.D.C.L. 330).
 (2) An import of services occurs at the time determined by the application of section 19 to
 the import on the basis that the import is a supply of services.
-Issue of tax invoice or sales receipt
+# [p17 fs=12.0] Issue of tax invoice or sales receipt
 41.(1) A taxable person shall, on making a taxable supply of goods or services, issue to the
 recipient, a tax invoice in the form and with the details that are prescribed by the Commissioner-
 General.
@@ -726,7 +619,7 @@ request.
 isin addition to the penalty provided in section 58liable to pay a penalty of an amountnot
 more thanfive hundredcurrency pointsor three times the amount of tax involved, whichever
 is higher.
-Place of supply
+# [p18 fs=12.0] Place of supply
 42.(1) Except as otherwise provided in this Act, the place of supply of goods is the place
 where the goods are delivered or made available by the supplier or, if the delivery or making
 available of the goods involves the goods being transported, the place where the goods are when
@@ -779,7 +672,7 @@ supply is the place where the effective use and enjoyment occurs.
 (13) The place of supply of arechargecard orothersimilarmode of rechargingis the
 place where the product is supplied.
 Taxable value
-Value of taxable supply
+# [p19 fs=12.0] Value of taxable supply
 43.(1) The value of a taxable supply,
 (a)where the supply is for monetary consideration, is the amount of the consideration
 with the addition of all duties and taxesexcludingthe tax; and
@@ -875,9 +768,9 @@ services where
 less than the open market value of that import, and
 (b)the supplier and the recipient are related persons.
 (4) Where a portion of the price of an import of services represents tax imposed by this
-# [p21 fs=12.0] Act that is not accounted for separately, the value of the import is the price reduced by an
+Act that is not accounted for separately, the value of the import is the price reduced by an
 amount equal to the tax fraction multiplied by that price.
-Adjustments
+# [p21 fs=12.0] Adjustments
 45.(1) This section applies where in relation to a taxable supply by a taxable person
 (a)the supply is cancelled;
 (b)the nature of the supply has been fundamentally varied or altered;
@@ -912,7 +805,7 @@ shall be allowed a deductible input tax for the amount of the excess in the tax 
 events referred to in subsection (1) occurred.
 (6) For purposes of subsection (5), the taxable person making the supply shall issue to the
 recipient of the supply, a tax credit note containing the particulars specified in the Fourth
-# [p22 fs=12.0] Schedule and in the form specified by the Commissioner-General.
+Schedule and in the form specified by the Commissioner-General.
 (7) A deductible input tax is not allowed under subsection (5), where the supply has been
 made to a person who is not a taxable person, unless the amount of the excess tax has been
 repaid by the taxable person to the recipient, whether in cash or as a credit against an amount
@@ -920,12 +813,12 @@ owed to the taxable person by the recipient.
 (8) A personwho
 (a)fails to provide a required tax credit note or tax debit note; or
 (b)provides a tax credit note or tax debit note otherwise than as required by this
-# [p22 fs=12.0] section
+section
 is liable to
 (a)a penalty of three times the amount of tax involved or two hundred and fifty
 currency points whichever is greater; and
 (b)the penalty imposed under section 58,
-Adjustment on account of bad debts
+# [p22 fs=12.0] Adjustment on account of bad debts
 46.(1) Where a taxable person issues a tax invoice for the supply of taxable goods or services
 and the whole or part of the consideration for the supply was not received by the taxable person,
 the taxable person may deduct input tax undersection48for tax paid in respect of the taxable
@@ -957,7 +850,7 @@ A x B/C where,
 deduction under subsection (2) issued a tax credit note to the taxable purchaser
 listing the amount claimed under subsection (2).
 Calculation of tax payable and refunds
-Tax payable for tax period
+# [p23 fs=12.0] Tax payable for tax period
 47.(1) The tax payable by a taxable person for a tax period in respect of taxable supplies is the
 total amount of output tax chargeable by the person in respect of the taxable supplies made, or
 considered to have been made, by that person during the period, less the total deductible input
@@ -971,7 +864,7 @@ provided undersection53.
 to calculate their tax liability, the Minister may, by legislative instrument, make Regulations to
 prescribe the method by which those persons shall account for their taxable activity and calculate
 their tax payable.
-Deductible input tax
+# [p23 fs=12.0] Deductible input tax
 48.(1) Subject tosection 49, at the end of the tax period provided for in this Act or prescribed
 by the Regulations, a taxable person may deduct the following from the output tax due for the
 period:
@@ -1093,11 +986,11 @@ taxable person’s authorised dealer banks in the country.
 (2) A taxable person may apply for a refund under subsection (1)(b)where the credit for
 the excess amount remains outstanding for a continuous period of three months or more, except
 that where the Commissioner-General orders an audit of the claim for refund, forpurposes of
-# [p26 fs=12.0] section 51, the application shall be treated as received on the date that the audit is concluded.
+section 51, the application shall be treated as received on the date that the audit is concluded.
 (3) Subject tosection 45, where the amount of tax paid by a person, other than in the
 circumstances specified in subsections (1) and (2), was in excess of the amount properly subject
 to tax under this Act, the amount of the excess shall be treated in the manner provided for under
-# [p26 fs=12.0] subsection (5) to (9).
+subsection (5) to (9).
 (4) Where a person has overpaid tax in the circumstances specified under subsection (3),
 the person may apply in writing to the Commissioner-General for a refund of the excess amount
 of tax, accompanied by documentary proof of payment of the excess amounts.
@@ -1113,7 +1006,7 @@ within six months after the date on which the excess arose.
 writing of the decision in respect of the claim.
 (8) Subject to subsections (3) and (4) ofsection 19,where the registration of a taxable
 person is cancelled and the person has excess credits that were not recovered as provided in this
-# [p26 fs=12.0] section, the excess credits may be treated in the manner prescribed under subsection (3) to (7) of
+section, the excess credits may be treated in the manner prescribed under subsection (3) to (7) of
 this section.
 (9) For the purpose of this section, a taxable person applying for a refund shall submit to
 the Commissioner-General a completed Refund Claim Form together with the relevant tax
@@ -1123,7 +1016,7 @@ General may recover in accordance with this Act any tax previously refunded.
 (11) In addition to a Refund Claim Form, the Commissioner-General may direct the
 claimant to submit other documents.
 (12) The Commissioner-General may specify the manner in which documents under
-# [p26 fs=12.0] subsection (11) may be submitted.
+subsection (11) may be submitted.
 (13) Except as otherwise provided in this section, a credit under subsection (1) shall be
 carried forward to the next tax period.
 26
@@ -1132,7 +1025,7 @@ carried forward to the next tax period.
 
 (14) A person who makes a claim for refund which that person is not entitled to under
 this section is liable to a penalty of double the original amount of the refund plus interest.
-Time for payment of refund
+# [p27 fs=12.0] Time for payment of refund
 51.(1) Where a taxable person is entitled to a refund of tax under this Act, the Commissioner-
 General shall pay the refund within thirty days after receipt of the application, where
 (a)the previous returns have been submitted by the due dates with no tax for any
@@ -1181,7 +1074,7 @@ return is not submitted.
 
 (8) The Minister may, by legislative instrument, make Regulations to provide further for
 matters relating to a tax return.
-Payment of tax on import of services
+# [p28 fs=12.0] Payment of tax on import of services
 53.(1) Where tax is payable on an import of services, other than as provided under31(1) (c),
 the person liable for the tax under subsection (1)(c)of section 2 is required to
 (a)furnish the Commissioner-General with a service import declaration, and
@@ -1196,7 +1089,7 @@ General.
 (3) Except as otherwise provided in this Act, a form prescribed by the Commissioner-
 General is enforceable when published inthe Gazette andtwo daily newspapers of national
 circulation.
-Assessment of the tax and correction of return
+# [p28 fs=12.0] Assessment of the tax and correction of return
 54.(1) Where the Commissioner-General has reason to believe that
 (a)a person will become liable for the payment of an amount of tax but that person is
 unlikely to pay the amount,
@@ -1245,7 +1138,7 @@ shall serve a notice of the assessment on the person assessed, and the notice sh
 (9) An amount assessed under paragraphs(b),(c)or(e)of subsection (1) is for the
 purposes of this Act, a tax charged under this Act.
 Recovery of tax due, interest and other liabilities
-Recovery of tax due
+# [p29 fs=12.0] Recovery of tax due
 55.An amount shown on an invoice or sales receipt as tax on a supply of goods or services is
 recoverable as tax due from the person issuing the invoice or sales receipt, whether the invoice or
 sales receipt is issued by a taxable person or another person, and whether or not
@@ -1253,7 +1146,7 @@ sales receipt is issued by a taxable person or another person, and whether or no
 Regulations;
 (b)an amount of tax is chargeable on the supply; or
 (c)the person issuing the invoice is a taxable person.
-Recovery from recipient of a supply
+# [p29 fs=12.0] Recovery from recipient of a supply
 56.(1) Where, in respect of a taxable supply by a taxable person, the taxable person has, in
 consequenceof afraudulentaction ormisrepresentationby therecipientof thesupply,
 incorrectly treated the supply as an exempt or zero-rated supply, the Commissioner-General may
@@ -1281,7 +1174,7 @@ be credited by the Commissioner-General against the liability of the recipient.
 taxable person, the taxable person may recover the amount paid from the recipient.
 (7) An amount assessed under this section is treated for all purposes of this Act as an
 assessment.
-Value Added Tax refund account
+# [p30 fs=12.0] Value Added Tax refund account
 57.(1) The Ministershall,with the approval of Parliament, set aside a percentage of tax
 imposed, both on imports of goods and services and supplies of taxable goods and services other
 than zero-rated supplies that Parliament may approve, in an account designated as the Value
@@ -1291,12 +1184,12 @@ Added Tax Refund Account.
 (b)proven overpayment of tax;
 (c)refunds due to non-taxable persons; and
 (d)refunds due to payments made on non-taxable supplies.
-Failure to issue tax invoice
+# [p30 fs=12.0] Failure to issue tax invoice
 58.A person who fails to issue a tax invoice or sales receipt as required undersection 41for
 taxable goods supplied or taxable services rendered, commits an offence and is liable on
 summary conviction to a fine of not more than one hundred penalty units or to a term of
 imprisonment of not more than six months or to both.
-Evasion of tax payment
+# [p30 fs=12.0] Evasion of tax payment
 59.(1) A person who knowingly engages in the evasion of tax or takes steps with a view to
 evasion of tax payable by that person or any other person, commits an offence and is liable on
 summary conviction to a fine of not more than three times the tax being evaded or to a term of
@@ -1306,7 +1199,7 @@ any goods or services having reason to believe that the tax on the supply of the
 has not been, or will not be paid, or that tax has been, or will be, falsely reclaimed, commits an
 offence and is liable on summary conviction to a fine of not more than three times the tax evaded
 or to a term of imprisonment of not more than five years, or to both.
-Power to seal off premises
+# [p30 fs=12.0] Power to seal off premises
 60.(1) Where a person repeatedly contravenes
 (a)section 41in relation to tax invoice;
 (b)section 45in relation to tax debit notes or tax credit notes;
@@ -1332,7 +1225,7 @@ precedes the year of the warning, and
 tax on taxable supplies which are not zero-rated supplies and after being given written notice by
 the Commissioner-General of the failure, continues to fail to charge the tax where required.
 Miscellaneous provisions
-Tax-inclusive pricing
+# [p31 fs=12.0] Tax-inclusive pricing
 61.(1) Subject to subsection (2), a price advertised or quoted by a taxable person in respect of
 a taxable supply shall include the tax and the taxable person shall state that fact in the
 advertisement or quotation.
@@ -1350,7 +1243,7 @@ persons approve any other method of displaying prices of goods or services by th
 Declaration of representative
 # [p31 fs=12.0] 62. The Commissioner-General may, if the Commissioner-General considers it necessary
 to do so, declare a person to be a representative of a taxable.
-Person acting in a representative capacity
+# [p31 fs=12.0] Person acting in a representative capacity
 63.(1) In this section, “representative”, in relation to a taxable person, means
 (a)the designated officerin the case of a company other than a companyin
 liquidation;
@@ -1370,7 +1263,7 @@ funds voted by Parliament in the case of the Government or local authority;
 (g)a trustee in the case of a trust; or
 (h)a person controlling the affairs in the country of a non-resident person including a
 manager in the country of a taxable activity of a non-resident person as defined in
-# [p32 fs=12.0] section 65.
+section 65.
 (2) A representative of a taxable person is
 (a)responsible for performing the duties, including the payment of tax, imposed by
 this Act on the taxable person; and
@@ -1385,7 +1278,7 @@ have been paid from or out of the fund or money.
 (3) This section does not relieve a taxable person from performing any duty imposed by
 this Act on the taxable person which the representative of that taxable person has failed to
 perform.
-Regulations
+# [p32 fs=12.0] Regulations
 64.(1) The Minister may, by legislative instrument, make Regulations to
 (a)prescribe rules to determine whether a transaction constitutes
 (i)a supply,
@@ -1393,7 +1286,7 @@ Regulations
 (iii)a supply of services undersection 30(1);
 (b)grant relief from tax on taxable imports of goods or taxable supplies
 of goods acquired in the country to the personsspecified in the Third
-# [p32 fs=12.0] Schedule undersection 38 (1);
+Schedule undersection 38 (1);
 (c)prescribe rules to determine the time of a supply of particular goods
 or services undersection19(14);
 (d)specify conditions and procedures to issue a sales receipt instead of a
@@ -1675,7 +1568,7 @@ arrangement;
 “Value Added Tax” means the tax imposed under this Act, and includes any amount to
 the extent that it is treated as tax for purposes of this Act; and
 “VAT” means Value Added Tax.
-Repeal, revocation, savings and transitional provisions
+# [p38 fs=12.0] Repeal, revocation, savings and transitional provisions
 45.(1) The following enactments are hereby repealed:
 (a)the Value Added Tax Act, 1998 (Act 546);
 (b)the Value Added Tax (Amendment) Act, 2000 (Act 579);
@@ -1720,268 +1613,268 @@ EXEMPT SUPPLIES
 (Sections 35 and 37)
 Item
 # [p39 fs=19.9] 1. Except as otherwise provided, the supplies specified
-# [p39 fs=19.9] in this Schedule are exempt supplies for the purposes of
-# [p39 fs=19.9] sections 35 and 37.
-# [p39 fs=19.9] 2.For the purposes of this Schedule, the following
-# [p39 fs=19.9] definitions apply:
-# [p39 fs=19.9] “ commercial rental establishment” means
-# [p39 fs=19.9] (a)accommodation in a hotel, motel, inn,
-# [p39 fs=19.9] boardinghouse,guesthouse,hostelor
-# [p39 fs=19.9] similar establishment in which lodging is
-# [p39 fs=19.9] regularly or normally provided to five of
-# [p39 fs=19.9] more persons on a daily, weekly, monthly,
-# [p39 fs=19.9] or other periodic charge;
-# [p39 fs=19.9] (b)accommodation ina house, flat, apartment,
-# [p39 fs=19.9] or room, other than an accommodation in
+in this Schedule are exempt supplies for the purposes of
+sections 35 and 37.
+2.For the purposes of this Schedule, the following
+definitions apply:
+“ commercial rental establishment” means
+(a)accommodation in a hotel, motel, inn,
+boardinghouse,guesthouse,hostelor
+similar establishment in which lodging is
+regularly or normally provided to five of
+more persons on a daily, weekly, monthly,
+or other periodic charge;
+(b)accommodation ina house, flat, apartment,
+or room, other than an accommodation in
 39
 
 ===== PAGE 40 =====
 
-# [p40 fs=19.9] respect of which the provisions of paragraph
-# [p40 fs=19.9] (a)or(c)of the definition apply
-# [p40 fs=19.9] (i)which is regularly or systematically
-# [p40 fs=19.9] leasedorheldforleaseas residential
-# [p40 fs=19.9] accommodation for continuous periods of
-# [p40 fs=19.9] not more than forty-five days in the case
-# [p40 fs=19.9] ofeachoccupantofthehouse,flat,
-# [p40 fs=19.9] apartment or room; or
-# [p40 fs=19.9] (ii) whichisleasedwithutilitiesand
-# [p40 fs=19.9] furnishings provided by the lessor;
-# [p40 fs=19.9] (c)accommodation in a house, flat, apartment,
-# [p40 fs=19.9] room, caravan, houseboat, tent or caravan or
-# [p40 fs=19.9] campingsitewhichconstitutesanasset,
-# [p40 fs=19.9] includingaleasedassetofabusiness
-# [p40 fs=19.9] undertaking or a separately identifiable part
-# [p40 fs=19.9] of a business undertaking carried on by a
-# [p40 fs=19.9] person who
-# [p40 fs=19.9] (i)leasesorholdsforleasingas
-# [p40 fs=19.9] residential accommodation,a house,
-# [p40 fs=19.9] flat,apartment,room,caravan,
-# [p40 fs=19.9] houseboat, caravan or camping site in
-# [p40 fs=19.9] the course of the business undertaking;
-# [p40 fs=19.9] and
-# [p40 fs=19.9] (ii)regularlyornormallyleasesor
-# [p40 fs=19.9] holdsforleaseasresidential
-# [p40 fs=19.9] accommodation,thehouse,flat,
-# [p40 fs=19.9] apartment,room,caravan,houseboat,
-# [p40 fs=19.9] caravan or camping site for continuous
+respect of which the provisions of paragraph
+(a)or(c)of the definition apply
+(i)which is regularly or systematically
+leasedorheldforleaseas residential
+accommodation for continuous periods of
+not more than forty-five days in the case
+ofeachoccupantofthehouse,flat,
+apartment or room; or
+(ii) whichisleasedwithutilitiesand
+furnishings provided by the lessor;
+(c)accommodation in a house, flat, apartment,
+room, caravan, houseboat, tent or caravan or
+campingsitewhichconstitutesanasset,
+includingaleasedassetofabusiness
+undertaking or a separately identifiable part
+of a business undertaking carried on by a
+person who
+(i)leasesorholdsforleasingas
+residential accommodation,a house,
+flat,apartment,room,caravan,
+houseboat, caravan or camping site in
+the course of the business undertaking;
+and
+(ii)regularlyornormallyleasesor
+holdsforleaseasresidential
+accommodation,thehouse,flat,
+apartment,room,caravan,houseboat,
+caravan or camping site for continuous
 40
 
 ===== PAGE 41 =====
 
-# [p41 fs=19.9] periods of notmore than forty-five days
-# [p41 fs=19.9] in the case of each occupant; or
-# [p41 fs=19.9] (d)any other accommodation designated by the
+periods of notmore than forty-five days
+in the case of each occupant; or
+(d)any other accommodation designated by the
 # [p41 fs=19.9] Minister by Regulations to be a commercial
-# [p41 fs=19.9] rentalestablishmentotherthanthe
-# [p41 fs=19.9] accommodation specified under paragraphs
-# [p41 fs=19.9] (e),(f)and(g);
-# [p41 fs=19.9] (e)accommodation in a boarding establishment
-# [p41 fs=19.9] or hostel operated by any employer solely or
-# [p41 fs=19.9] mainly for the benefit of the employees of
-# [p41 fs=19.9] that employer or of a related person of that
-# [p41 fs=19.9] employerortheirdependants,ifthe
-# [p41 fs=19.9] establishment or hostel is not operated for
-# [p41 fs=19.9] thepurposeofmakingprofitsfromthe
-# [p41 fs=19.9] establishment or hostel for the employer or a
-# [p41 fs=19.9] person related to the employer;
-# [p41 fs=19.9] (f)accommodation in a boarding establishment
-# [p41 fs=19.9] or hostel operated by a local authority or an
-# [p41 fs=19.9] educational establishment approved by the
+rentalestablishmentotherthanthe
+accommodation specified under paragraphs
+(e),(f)and(g);
+(e)accommodation in a boarding establishment
+or hostel operated by any employer solely or
+mainly for the benefit of the employees of
+that employer or of a related person of that
+employerortheirdependants,ifthe
+establishment or hostel is not operated for
+thepurposeofmakingprofitsfromthe
+establishment or hostel for the employer or a
+person related to the employer;
+(f)accommodation in a boarding establishment
+or hostel operated by a local authority or an
+educational establishment approved by the
 # [p41 fs=19.9] Minister for Education otherwise than for
-# [p41 fs=19.9] thepurposeofmakingprofitsfromthe
-# [p41 fs=19.9] establishment or hostel; or
-# [p41 fs=19.9] (g)accommodationinaregisteredhospital,
-# [p41 fs=19.9] maternity home, nursing home, or clinic.
-# [p41 fs=19.9] “dwelling” means any building, premises, structure
-# [p41 fs=19.9] or any place or any part of these which is not a
-# [p41 fs=19.9] commercial rental establishment and which is
-# [p41 fs=19.9] used predominantly as a place of residence or
-# [p41 fs=19.9] abode of a natural person or which is intended for
+thepurposeofmakingprofitsfromthe
+establishment or hostel; or
+(g)accommodationinaregisteredhospital,
+maternity home, nursing home, or clinic.
+“dwelling” means any building, premises, structure
+or any place or any part of these which is not a
+commercial rental establishment and which is
+used predominantly as a place of residence or
+abode of a natural person or which is intended for
 41
 
 ===== PAGE 42 =====
 
-# [p42 fs=19.9] use as a place of residence or abode of a natural
-# [p42 fs=19.9] person,togetherwithanyappurtenances
-# [p42 fs=19.9] belongingtotheplaceandenjoyedwith the
-# [p42 fs=19.9] place;
-# [p42 fs=19.9] “education services” means the services supplied to
-# [p42 fs=19.9] studentsaspartoftheeducationprogram
-# [p42 fs=19.9] providedbyanyoneofthefollowing
-# [p42 fs=19.9] establishments that is duly registered or licensed
-# [p42 fs=19.9] by the Minister for Education
-# [p42 fs=19.9] (a)adaycare,includingadultdaycare,
-# [p42 fs=19.9] provider;
-# [p42 fs=19.9] (b)a pre-primary, primary, or secondary school;
-# [p42 fs=19.9] (c)a technical college, community college or
-# [p42 fs=19.9] university;
-# [p42 fs=19.9] (d)an educational institution established for the
-# [p42 fs=19.9] promotion of adult education,vocational
-# [p42 fs=19.9] training or technical education; or
-# [p42 fs=19.9] (e)an institution established for the education
-# [p42 fs=19.9] ortrainingofphysicallyormentally
-# [p42 fs=19.9] challenged persons;
-# [p42 fs=19.9] “estatedeveloper”meansacommercial
-# [p42 fs=19.9] establishmentengagedinthebusinessofthe
-# [p42 fs=19.9] construction and sale of immovable property;
-# [p42 fs=19.9] “financialservices”meanstheprovisionof
-# [p42 fs=19.9] insurance;issue,transfer,receiptof,or
-# [p42 fs=19.9] dealing with money whether in domestic or
-# [p42 fs=19.9] foreigncurrencyoranynoteororderof
-# [p42 fs=19.9] paymentofmoney;provision ofcredit;or
+use as a place of residence or abode of a natural
+person,togetherwithanyappurtenances
+belongingtotheplaceandenjoyedwith the
+place;
+“education services” means the services supplied to
+studentsaspartoftheeducationprogram
+providedbyanyoneofthefollowing
+establishments that is duly registered or licensed
+by the Minister for Education
+(a)adaycare,includingadultdaycare,
+provider;
+(b)a pre-primary, primary, or secondary school;
+(c)a technical college, community college or
+university;
+(d)an educational institution established for the
+promotion of adult education,vocational
+training or technical education; or
+(e)an institution established for the education
+ortrainingofphysicallyormentally
+challenged persons;
+“estatedeveloper”meansacommercial
+establishmentengagedinthebusinessofthe
+construction and sale of immovable property;
+“financialservices”meanstheprovisionof
+insurance;issue,transfer,receiptof,or
+dealing with money whether in domestic or
+foreigncurrencyoranynoteororderof
+paymentofmoney;provision ofcredit;or
 42
 
 ===== PAGE 43 =====
 
-# [p43 fs=19.9] operation of a bank account or an account
-# [p43 fs=19.9] with a similar institution;
-# [p43 fs=19.9] “medical services” means a supply of a medical,
-# [p43 fs=19.9] dental, nursing, midwifery or paramedical service
-# [p43 fs=19.9] where the service is performed by or under the
-# [p43 fs=19.9] supervisionandcontrolofapersonwhois
-# [p43 fs=19.9] registeredasbeingqualifiedtoperformthat
-# [p43 fs=19.9] service by the Minister for Health, other than spa,
-# [p43 fs=19.9] gymnasium and similar services;and
-# [p43 fs=19.9] “medicalsupplies”meansequipmentand
-# [p43 fs=19.9] accessories for the supply of medical services
-# [p43 fs=19.9] as determined by the Minister responsible for
-# [p43 fs=19.9] Health.
-# [p43 fs=19.9] 3.A supply of the following agricultural and aquatic
-# [p43 fs=19.9] food products in a raw state produced in the country
-# [p43 fs=19.9] (a)maize;
-# [p43 fs=19.9] (b)sorghum;
-# [p43 fs=19.9] (c)millet;
-# [p43 fs=19.9] (d)tubers;
-# [p43 fs=19.9] (e)guinea corn;
-# [p43 fs=19.9] (f)rice;
-# [p43 fs=19.9] (g)fish,other than ornamental fish;
-# [p43 fs=19.9] (h)crustaceans;
-# [p43 fs=19.9] (i)mollusks;
-# [p43 fs=19.9] (j)vegetables and fruits;
-# [p43 fs=19.9] (k)nuts;
-# [p43 fs=19.9] (l)coffee;
-# [p43 fs=19.9] (m)cocoa;
+operation of a bank account or an account
+with a similar institution;
+“medical services” means a supply of a medical,
+dental, nursing, midwifery or paramedical service
+where the service is performed by or under the
+supervisionandcontrolofapersonwhois
+registeredasbeingqualifiedtoperformthat
+service by the Minister for Health, other than spa,
+gymnasium and similar services;and
+“medicalsupplies”meansequipmentand
+accessories for the supply of medical services
+as determined by the Minister responsible for
+Health.
+3.A supply of the following agricultural and aquatic
+food products in a raw state produced in the country
+(a)maize;
+(b)sorghum;
+(c)millet;
+(d)tubers;
+(e)guinea corn;
+(f)rice;
+(g)fish,other than ornamental fish;
+(h)crustaceans;
+(i)mollusks;
+(j)vegetables and fruits;
+(k)nuts;
+(l)coffee;
+(m)cocoa;
 43
 
 ===== PAGE 44 =====
 
-# [p44 fs=19.9] (n)shea butter; and
-# [p44 fs=19.9] (o)edible meat and offal of the animals listed in
-# [p44 fs=19.9] item 4, provided that the processing isrestricted
-# [p44 fs=19.9] tosalting,smokingorsimilarprocesses,but
-# [p44 fs=19.9] excluding pate, fatty livers of geese and ducks,
-# [p44 fs=19.9] and similar products.
-# [p44 fs=19.9] 4.Forthepurposesofitem3,theagriculturaland
-# [p44 fs=19.9] aquatic food products shall be considered to be in their
-# [p44 fs=19.9] raw state, even if they have undergone simple preparation
-# [p44 fs=19.9] orpreservation,includingfreezing,chilling,drying,
-# [p44 fs=19.9] salting, smoking, stripping or polishing.
-# [p44 fs=19.9] 5.A supply of the following live animals bred or raised
-# [p44 fs=19.9] inthiscountry:
-# [p44 fs=19.9] (a)cattle;
-# [p44 fs=19.9] (b)sheep;
-# [p44 fs=19.9] (c)goat;
-# [p44 fs=19.9] (d)swine; and
-# [p44 fs=19.9] (e)poultry.
-# [p44 fs=19.9] 6.A supply of the following agricultural inputs
-# [p44 fs=19.9] (a)seeds,bulbs,rooting,andotherformsof
-# [p44 fs=19.9] propagation of edible fruits, nuts, cerealcrops,
-# [p44 fs=19.9] tubers and vegetables, including the seedlings
-# [p44 fs=19.9] and cuttings; and
-# [p44 fs=19.9] (b)fertilizers,acaricides,insecticides,fungicides,
-# [p44 fs=19.9] nematicides,herbicides,growthregulators,
-# [p44 fs=19.9] pesticides, veterinary drugs and vaccines, feed
-# [p44 fs=19.9] and feed ingredientsother than food, drugs and
-# [p44 fs=19.9] vaccines for domesticated animals generally held
-# [p44 fs=19.9] as pets.
+(n)shea butter; and
+(o)edible meat and offal of the animals listed in
+item 4, provided that the processing isrestricted
+tosalting,smokingorsimilarprocesses,but
+excluding pate, fatty livers of geese and ducks,
+and similar products.
+4.Forthepurposesofitem3,theagriculturaland
+aquatic food products shall be considered to be in their
+raw state, even if they have undergone simple preparation
+orpreservation,includingfreezing,chilling,drying,
+salting, smoking, stripping or polishing.
+5.A supply of the following live animals bred or raised
+inthiscountry:
+(a)cattle;
+(b)sheep;
+(c)goat;
+(d)swine; and
+(e)poultry.
+6.A supply of the following agricultural inputs
+(a)seeds,bulbs,rooting,andotherformsof
+propagation of edible fruits, nuts, cerealcrops,
+tubers and vegetables, including the seedlings
+and cuttings; and
+(b)fertilizers,acaricides,insecticides,fungicides,
+nematicides,herbicides,growthregulators,
+pesticides, veterinary drugs and vaccines, feed
+and feed ingredientsother than food, drugs and
+vaccines for domesticated animals generally held
+as pets.
 44
 
 ===== PAGE 45 =====
 
-# [p45 fs=19.9] 7.(a)A supply ofgear designed exclusively for
-# [p45 fs=19.9] fishing, includingboats, nets, floats, twines, and hooks;
-# [p45 fs=19.9] and
-# [p45 fs=19.9] (b)An import and supply of raw material for use in
-# [p45 fs=19.9] the production of nets and twines and goods
-# [p45 fs=19.9] produced for fishing.
-# [p45 fs=19.9] 8.Asupplyofwater,excludingwatercommonly
-# [p45 fs=19.9] supplied in bottles or other packaging suitable for supply
-# [p45 fs=19.9] to consumers.
-# [p45 fs=19.9] 9.Asupplytoadwellingofelectricityuptoa
-# [p45 fs=19.9] maximum consumption level specified for block charges
-# [p45 fs=19.9] for lifeline units.
-# [p45 fs=19.9] 10.(a)A supply oftextbooks and supplementary
-# [p45 fs=19.9] readerson theMinistry of Educationapproved list,
-# [p45 fs=19.9] newspapers, atlases, charts, maps and music; and
-# [p45 fs=19.9] (b)The exemption in paragraph(a)does not apply
-# [p45 fs=19.9] to imported newspapers, architectural and similar
-# [p45 fs=19.9] plans, and drawings, scientific andtechnical
-# [p45 fs=19.9] works,periodicals, magazines, trade catalogues,
-# [p45 fs=19.9] price lists, greeting cards, almanacs,calendars,
-# [p45 fs=19.9] diaries and stationery.
-# [p45 fs=19.9] 11.A supply of education services.
-# [p45 fs=19.9] 12.A supply of laboratory and library equipment for
-# [p45 fs=19.9] use in rendering educational services.
-# [p45 fs=19.9] 13.A supply of medical servicesand medical supplies.
-# [p45 fs=19.9] 14.A supply of pharmaceuticals listed under Chapter
-# [p45 fs=19.9] 30oftheHarmonisedSystemsCommodities
+7.(a)A supply ofgear designed exclusively for
+fishing, includingboats, nets, floats, twines, and hooks;
+and
+(b)An import and supply of raw material for use in
+the production of nets and twines and goods
+produced for fishing.
+8.Asupplyofwater,excludingwatercommonly
+supplied in bottles or other packaging suitable for supply
+to consumers.
+9.Asupplytoadwellingofelectricityuptoa
+maximum consumption level specified for block charges
+for lifeline units.
+10.(a)A supply oftextbooks and supplementary
+readerson theMinistry of Educationapproved list,
+newspapers, atlases, charts, maps and music; and
+(b)The exemption in paragraph(a)does not apply
+to imported newspapers, architectural and similar
+plans, and drawings, scientific andtechnical
+works,periodicals, magazines, trade catalogues,
+price lists, greeting cards, almanacs,calendars,
+diaries and stationery.
+11.A supply of education services.
+12.A supply of laboratory and library equipment for
+use in rendering educational services.
+13.A supply of medical servicesand medical supplies.
+14.A supply of pharmaceuticals listed under Chapter
+30oftheHarmonisedSystemsCommodities
 # [p45 fs=19.9] ClassificationCode,2012,ifthepharmaceuticalis
-# [p45 fs=19.9] supplied by retail in Ghana;
+supplied by retail in Ghana;
 45
 
 ===== PAGE 46 =====
 
-# [p46 fs=19.9] 15.A supply of domestic transportation of passengers
-# [p46 fs=19.9] by road, rail, water, but not including the supply of
-# [p46 fs=19.9] haulage or the rental or hiring of passenger and other
-# [p46 fs=19.9] vehicles.
-# [p46 fs=19.9] 16.A supply of machinery and parts of machinery
-# [p46 fs=19.9] specifically designed for use in the following activities:
-# [p46 fs=19.9] (a)agriculture,veterinarypractice,fishingand
-# [p46 fs=19.9] horticulture;
-# [p46 fs=19.9] (b)mining as specified in the mining list;
-# [p46 fs=19.9] (c)manufacturing;
-# [p46 fs=19.9] (d)railway and tramway;
-# [p46 fs=19.9] (e)upstream petroleum operations as specified in
-# [p46 fs=19.9] the petroleum list; and
-# [p46 fs=19.9] (f)dredging.
-# [p46 fs=19.9] 17.A supply of the following crude oil and hydrocarbon
-# [p46 fs=19.9] products:
-# [p46 fs=19.9] (a)petrol;
-# [p46 fs=19.9] (b)diesel;
-# [p46 fs=19.9] (c)liquefied petroleum gas;
-# [p46 fs=19.9] (d)natural petroleum gas; and
-# [p46 fs=19.9] (e)kerosene.
-# [p46 fs=19.9] 18.A supply of the following:
-# [p46 fs=19.9] (a)immovable property, including land, attributable
-# [p46 fs=19.9] toadwelling,butexcludingthesaleof
-# [p46 fs=19.9] immovable property by an estate developer;
-# [p46 fs=19.9] (b)accommodation in a dwelling;
-# [p46 fs=19.9] (c)land used or to be used for agricultural purposes;
-# [p46 fs=19.9] and
+15.A supply of domestic transportation of passengers
+by road, rail, water, but not including the supply of
+haulage or the rental or hiring of passenger and other
+vehicles.
+16.A supply of machinery and parts of machinery
+specifically designed for use in the following activities:
+(a)agriculture,veterinarypractice,fishingand
+horticulture;
+(b)mining as specified in the mining list;
+(c)manufacturing;
+(d)railway and tramway;
+(e)upstream petroleum operations as specified in
+the petroleum list; and
+(f)dredging.
+17.A supply of the following crude oil and hydrocarbon
+products:
+(a)petrol;
+(b)diesel;
+(c)liquefied petroleum gas;
+(d)natural petroleum gas; and
+(e)kerosene.
+18.A supply of the following:
+(a)immovable property, including land, attributable
+toadwelling,butexcludingthesaleof
+immovable property by an estate developer;
+(b)accommodation in a dwelling;
+(c)land used or to be used for agricultural purposes;
+and
 46
 
 ===== PAGE 47 =====
 
-# [p47 fs=19.9] (d)civil engineering public works, including roads
-# [p47 fs=19.9] and bridges.
-# [p47 fs=19.9] 19.A supply of
-# [p47 fs=19.9] (a)subjecttoparagraph(b),financialservices,
-# [p47 fs=19.9] excluding financial services rendered for a fee,
-# [p47 fs=19.9] commission, or a similar charge; and
-# [p47 fs=19.9] (b)life insurance and reinsurance, whether or not
-# [p47 fs=19.9] renderedforafee,commissionorasimilar
-# [p47 fs=19.9] charge.
-# [p47 fs=19.9] 20.A supply of goods designed exclusively for use by
-# [p47 fs=19.9] persons with disability.
-# [p47 fs=19.9] 21.A supply of postage stamps issued by the Ghana
+(d)civil engineering public works, including roads
+and bridges.
+19.A supply of
+(a)subjecttoparagraph(b),financialservices,
+excluding financial services rendered for a fee,
+commission, or a similar charge; and
+(b)life insurance and reinsurance, whether or not
+renderedforafee,commissionorasimilar
+charge.
+20.A supply of goods designed exclusively for use by
+persons with disability.
+21.A supply of postage stamps issued by the Ghana
 # [p47 fs=19.9] Post, other than for expedited services or for philatelist
-# [p47 fs=19.9] purposes.
-# [p47 fs=19.9] 22.A supply of salt for human consumption, including
-# [p47 fs=19.9] table salt.
-# [p47 fs=19.9] 23.Asupplyofmosquitonets,whetherornot
-# [p47 fs=19.9] impregnated with chemicals.
+purposes.
+22.A supply of salt for human consumption, including
+table salt.
+23.Asupplyofmosquitonets,whetherornot
+impregnated with chemicals.
 SECOND SCHEDULE
 ZERO-RATED SUPPLIES
 (Section 36)
@@ -2108,7 +2001,7 @@ FOURTH SCHEDULE
 (Sections 45(4) and 45(6))
 TAX CREDIT NOTE AND TAX DEBIT NOTE
 Except as the Commissioner-General may otherwise allow, a tax credit note required by
-# [p50 fs=12.0] subsection (6) of section 45 or a tax debit note required by subsection (4) of section 45, must
+subsection (6) of section 45 or a tax debit note required by subsection (4) of section 45, must
 contain at least the following particulars:
 (a)the words “tax credit note” or where appropriate, “tax debit note” in a prominent
 place;
