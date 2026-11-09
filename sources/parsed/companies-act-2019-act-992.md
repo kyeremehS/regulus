@@ -1,0 +1,16702 @@
+# PARSE INSPECTION DUMP
+Document: Companies Act, 2019 (Act 992)
+ID: companies-act-2019-act-992
+Source: https://web.archive.org/web/20250515064013/https://ghalii.org/akn/gh/act/2019/992/eng@2019-08-02/source.pdf
+Published: 2019-08-02
+Content hash: ab7564da945238133a8a8cec0d15b376c31bdebc6c72ee9cc4000a5b4b398057
+Pages: 412  |  Body font size: 10.9  |  Blocks: 15448  |  Headings detected: 713
+
+REVIEW CHECKLIST (§5 gate):
+  [ ] Section numbers present (e.g. '7.', '12.1')?
+  [ ] Headings identified (marked with #) look right?
+  [ ] Tables readable, or at least not scrambled nonsense?
+  [ ] Page numbers retained?
+  [ ] No obvious OCR garbage / missing glyph blocks?
+  [ ] Text order matches reading order?
+
+------------------------------------------------------------
+
+
+===== PAGE 1 =====
+
+# [p1 fs=12.8] Companies Act, 2019Companies Act, 2019
+# [p1 fs=12.8] Act992
+ARRANGEMENT OF SECTIONS
+# [p1 fs=10.9] CHAPTER ONE
+PRELIMINARY PROVISIONS
+# [p1 fs=10.9] Section
+1.Application of Act
+2.Application of particular chapters
+3.Prohibition of association exceeding twenty members
+4.Companies formed for special purposes
+5.Saving of equity and common law
+# [p1 fs=10.9] CHAPTER TWO
+PROVISIONS APPLICABLE TO ALL COMPANIES
+# [p1 fs=10.9] Part A: Formation and Incidental Matters
+6.Right to form a company
+7.Types of companies
+8.Companies limited by guarantee
+9.Conversion of company limited by shares to company limited by
+guarantee
+10.Duties of promoters
+11.Pre-incorporation contracts
+# [p1 fs=10.9] Part B: Incorporation of Companies
+12.Right to apply for incorporation
+13.Application for incorporation
+14.Incorporation
+15.Certificate of incorporation
+16.Certificate of incorporation and winding up
+17.Error or omission in document
+# [p1 fs=10.9] Part C:Capacity of Companies
+18.Powers of companies
+19.Limits of authority of company
+20.Alteration of objects or business
+21.Names of companies
+22.Reservation of name
+1
+
+===== PAGE 2 =====
+
+# [p2 fs=12.8] Act992Companies Act, 2019Companies Act, 2019
+# [p2 fs=10.9] Part D:Constitution of the Company
+23.Option to have a registered constitution
+24.Effect of Act on company that has lodged a registered constitution
+25.Effect of Act on company without a registered constitution
+26.Contents of registered constitution
+27.Form of constitution
+28.Subscription to constitution
+29.Effect of company constitution
+30.Adoption, alteration, amendment and revocation of constitution
+31.Registration of consolidated constitution
+32.Copies of registered constitution
+# [p2 fs=10.9] Part E : Membership of Companies
+33.Members of a company
+34.Right of member to attend and vote at general meeting
+35.Register of members
+36.Inspection of register
+37.Power to close register
+38.Rectification of register
+39.Register to be evidence
+40.Liability of members
+41.Companies ceasing to have members
+# [p2 fs=10.9] Part F: Shares
+42.Legal nature of shares
+43.No par value shares
+44.Issue of shares
+45.Payment of shares
+46.Return of issues
+47.Penalties for non-compliance with section 45 or 46
+48.Meaning of payment in cash
+49.Classification of shares
+50.Variation of class rights
+51.Preference and equity shares
+52.Suspension of voting rights of preference shares
+53.Votes of equity shares
+2
+
+===== PAGE 3 =====
+
+Companies Act, 2019
+# [p3 fs=12.8] Companies Act, 2019Act992
+54.Canons of construction of class rights
+55.Issue of share certificates
+56.Effect of share certificates
+57.Reserve liability
+58.Prohibited transactions in shares
+59.Alteration of number of shares
+60.Financial assistance for acquisition of shares
+61.Acquisition by company of its own shares
+62.Redemption of redeemable preference shares
+63.Purchase by a company of its own shares
+64.Limit on number of shares acquired
+65.Share deals account
+66.Modification of sections 61 to 65 in relation to authorised mutual
+funds
+67.Acquisition of shares of holding company
+# [p3 fs=10.9] Part G:Stated Capital and Dividends
+68.Meaning of “stated capital”
+69.Reduction of stated capital
+70.Meaning of “reserves”
+71.Meaning of “retained earnings”
+72.Legality of dividend payments
+73.Unclaimed dividend accounts
+74.Management by Registrar of unclaimed dividend account
+75.Prohibition of payment of dividends by companies limited by guar-
+antee
+76.Declaration of dividends
+77.Capitalisation issues and non-cash dividends
+# [p3 fs=10.9] Part H: Resolutions Reducing Capital, Shares or Liability
+78.Resolutions requiring confirmation of Court
+79.Application for confirming order
+80.Order confirming the resolution
+81.Order and minute to be registered
+82.Protection of creditors
+3
+
+===== PAGE 4 =====
+
+# [p4 fs=12.8] Act992Companies Act, 2019Companies Act, 2019
+# [p4 fs=10.9] Part I: Debentures and Debenture Stock
+83.Issue of debentures or debenture stock
+84.Specific performance of contract for debentures
+85.Documents of title to debentures
+86.Effect of statements in debentures
+87.Perpetual debentures
+88.Convertible debentures
+89.Secured or unsecured debentures
+90.Meaning of “floating charge”
+91.Powers of the Court
+92.Payment of preferential creditors out of assets subject to a floating
+charge
+93.Limitation of efficacy of floating charges in liquidations
+94.Appointment of a receiver
+95.Trustee for debenture holder
+96.Meetings of debenture holders
+97.Re-issue of redeemed debentures
+# [p4 fs=10.9] Part J: Transfer of Shares and Debentures
+98.Restrictions on transferability of shares
+99.Register of debentures
+100.Restrictions on transferability of debentures
+101.Registration of transfers
+102.Transmission of shares or debentures by operation of law
+103.Protection of beneficiaries
+104.Certification of transfers
+105.Lien of a company on shares
+# [p4 fs=10.9] Part K: Branch Registers
+106.Power of company to keep branch register
+107.Regulations as to branch registers
+108.Stamp duties in case of securities registered in branch registers
+109.Provisions as to branch registers kept in the Republic
+# [p4 fs=10.9] Part L:Registration of Particulars of Charges
+110.Registration of particulars of charges created by companies
+111.Charges to secure fluctuating amounts
+4
+
+===== PAGE 5 =====
+
+Companies Act, 2019
+# [p5 fs=12.8] Companies Act, 2019Act992
+112.Charges on property acquired
+113.Existing charges
+114.Duty of company to deliver particulars for registration
+115.Register of particulars of charges
+116.Endorsement of registration on debentures of a series
+117.Entry of satisfaction upon receipt of discharge
+118.Rectification of register of particulars of charges
+119.Registration of enforcement of security
+120.Copies of charges to be kept by company
+121.Registration constituting notice
+# [p5 fs=10.9] Part M: Registered Office, Publication of Name and Annual Returns
+122.Registered office
+123.Notice of location of registered office
+124.Requirement to change registered office
+125.Publication of name of company
+126.Annual return
+# [p5 fs=10.9] Part N: Accounts and Audit
+127.Keeping of accounting records and preparation of financial state-
+ments
+128.Circulation of financial statements and reports
+129.First financial statements after incorporation
+130.Statement of financial position
+131.Consolidated financial statements
+132.Particulars of emoluments and pensions of directors
+133.Particulars of amounts due from officers
+134.Provisions supplemental to sections 127 to 133
+135.Signing and publication of financial statements
+136.Report of directors
+137.Report of auditors
+138.Qualification of an auditor
+139.Appointment of an auditor
+140.Remuneration of an auditor
+141.Removal of an auditor
+142.Functions of an auditor
+143.Auditor to avoid conflict of interest
+5
+
+===== PAGE 6 =====
+
+# [p6 fs=12.8] Act992Companies Act, 2019
+# [p6 fs=12.8] Companies Act, 2019
+# [p6 fs=10.9] Part O: Acts by or on behalf of the Company
+144.Division of powers between general meeting and board of directors
+145.Major transactions
+146.Delegation to committees and managing directors
+147.Acts of the company
+148.Acts of officers or agents
+149.No constructive notice of registered documents
+150.Presumption of regularity
+151.Liability of company not affected by fraud or forgery of officer
+152.Form of contracts
+153.Bills of exchange and promissory notes
+154.Authentication of documents
+155.Execution of deeds abroad
+156.Official seal for use abroad
+# [p6 fs=10.9] Part P: General Meetings and Resolutions
+157.Annual general meetings
+158.Extraordinary general meetings
+159.Place of meetings
+160.Notice on proxy
+161.Compliance with proxy arrangements
+162.Power of Court to order meeting
+163.Written resolutions
+164.Application of provisions on general meetings to class meetings
+165.Registration of copies of certain resolutions
+166.Minutes of general meetings
+167.Inspection of minutes book
+168.Circulars of members
+169.Proceedings at meetings
+# [p6 fs=10.9] Part Q: Directors, Company Secretary and Other Officers of a Company
+170.Meaning of “directors”
+171.Number of directors
+172.Appointment of directors and filling of vacancy
+173.Qualification of directors
+174.Share qualification of a director
+175.Vacation of office of director
+176.Removal of directors
+6
+
+===== PAGE 7 =====
+
+# [p7 fs=12.8] Companies Act, 2019Companies Act, 2019
+# [p7 fs=12.8] Act992
+177.Restraining fraudulent persons from managing companies
+178.Duty of director to report disqualification
+179.Duty of company to fill vacancy of disqualified director
+180.Substitute directors
+181.Alternate directors
+182.Residence of directors in the country
+183.Executive directors
+184.Managing directors
+185.Remuneration and other benefits of directors
+186.Publication of names of directors
+187.Prohibition of assignment of offices
+188.Proceedings and minutes of meetings of directors
+189.Limitations on the powers of directors
+190.Duties of directors
+191.Exercise of powers of directors
+192.Conflicts of duty and interest
+193.Consent of company
+194.Contracts in which directors are interested
+195.Disclosure of interest by directors
+196.Company to maintain Interests Register
+197.Directors to act professionally
+198.Use of company information
+199.Civil liabilities for breach of duty
+200.Legal proceedings to enforce liabilities
+201.Derivative actions
+202.Costs of derivative action to be met by company
+203.Powers of Court where leave is granted
+204.Compromise, settlement or withdrawal of derivative action
+205.Representative actions
+206.Payments to directors for loss of office
+207.Payments to directors in connection with take-over bids
+208.Provisions supplemental to sections 206 and 207
+209.Duties of directors in sales or purchases of securities of the company
+210.Register of holdings of directors
+211.Company Secretary
+212.Duties of a Company Secretary
+213.Avoidance of acts in dual capacity as director and Company
+Secretary
+7
+
+===== PAGE 8 =====
+
+# [p8 fs=12.8] Act992Companies Act, 2019
+# [p8 fs=12.8] Companies Act, 2019
+214.Prohibition of tax-free payments
+215.Register of directors and Company Secretary
+216.Registration of particulars of directors and Company Secretaries
+217.General saving of existing law relating to officers
+# [p8 fs=10.9] Part R: Protection Against Illegal or Oppressive Action
+218.Injunction or declaration in the event of illegal or irregular activity
+219.Remedy against oppression
+220.Member requiring company to purchase shares
+221.Notice requiring purchase of shares
+222.Purchase of shares by company
+223.Determination of fair and reasonable price for purchase of shares
+by company
+224.Application to court for exemption on grounds of insolvency
+225.Purchase of shares by third party
+226.Reinstatement of shares
+227.Application to court for exemption
+# [p8 fs=10.9] Part S: Inspection and Investigation of Companies
+228.Enquiries by the Registrar
+229.Appointment of inspector under order of the Court
+230.Appointment of inspector on special resolution of the company
+231.Power to carry investigation into the affairs of associated companies
+232.Production of documents and evidence
+233.Report of Inspectors
+234.Proceedings after investigations
+235.Expenses of investigations
+236.Request for information on persons interested in shares orde-
+bentures
+237.Exemption from disclosure by legal practitioners and their clients
+and bankers and their customers
+# [p8 fs=10.9] Part T: Arrangements, Compromises, Mergers and Divisions
+238.Arrangement or merger by sale of undertaking
+239.Arrangement or compromise with Court approval
+240.Powers of the Court in facilitating arrangements or Compromise
+241.Mergers
+242.Merger proposal
+8
+
+===== PAGE 9 =====
+
+Companies Act, 2019
+# [p9 fs=12.8] Companies Act, 2019Act992
+243.Approval of merger proposal
+244.Short form merger
+245.Registration of merger proposal
+246.Approval of constitution of transferee company formed from a
+merger
+247.Exemption from publication of reports and other requirements of
+law
+248.Certificate of merger
+249.Effect of certificate of merger
+250.Registers
+251.Powers of court in respect of a merger proposal
+252.Divisions
+253.Modification of sections 240 and 259 to 269 in relation to a com-
+pany involved in a division
+254.Liability of transferee companies formed from a division
+255.Powers of Court in facilitating arrangements, compromises, mergers
+and divisions
+256.Additional orders of Court
+257.Interpretation
+258.Information on arrangements, compromises, merger and divisions
+259.Acquiring shares of minority on acquisition of subsidiary
+company
+260.Rights of minority on acquisition of subsidiary company
+# [p9 fs=10.9] Part U: Receivers and Managers
+261.Eligibility for appointment as receiver or manager
+262.Power to appoint Official Trustee
+263.Duties of receivers
+264.Duties of managers
+265.Absence of defence or immunity
+266.Powers of receivers and managers
+267.Receivers and managers appointed by Court
+268.Receivers and managers appointed out of Court
+269.Liabilities of receivers and managers on contracts
+270.Notification that receiver or manager has been appointed
+271.Accounts where manager appointed to enforce a floating charge
+9
+
+===== PAGE 10 =====
+
+# [p10 fs=12.8] Act992Companies Act, 2019Companies Act, 2019
+272.Delivery to Registrar of accounts of receivers
+273.Enforcement of duties of receivers
+# [p10 fs=10.9] Part V: Winding Up
+274.Modes of winding up
+275.Affidavit of solvency
+276.Procedure on resolution for liquidation
+277.Statements and accounts of final financial year
+278.Resolution for appointment and removal of liquidator
+279.Remuneration of liquidator
+280.Disqualification of liquidator
+281.Status of liquidator
+282.Cessation of powers of directors
+283.Powers of liquidator
+284.Books and accounts during private liquidation
+285.Private liquidation account
+286.Duty of liquidator in case of insolvency
+287.Stay of proceedings
+288.Dissolution and restoration of companies
+289.Dissolution without full winding up
+# [p10 fs=10.9] Part W: Documents
+290.Service of documents by company
+291.Service of documents on company
+292.Additional provisions relating to service
+293.Books and registers
+# [p10 fs=10.9] Part X : Invitations to the Public
+294.Control of public invitations
+295.Meaning of “invitations to the public”
+296.Offers for sale deemed to be made by company
+# [p10 fs=10.9] CHAPTER THREE
+ADDITIONAL PROVISIONS APPLICABLE
+TO PRIVATE COMPANIES ONLY
+297.Default in complying with conditions constituting a private company
+298.Documents to be annexed to the annual return of a private company
+299.Requisitioning extraordinary general meetings of a private company
+300.Appointment and removal of directors of private companies
+10
+
+===== PAGE 11 =====
+
+# [p11 fs=12.8] Companies Act, 2019Companies Act, 2019
+# [p11 fs=12.8] Act992
+301.Unanimous agreement by shareholders
+302.Conversion of private company to public company
+# [p11 fs=10.9] CHAPTER FOUR
+ADDITIONAL PROVISIONS APPLICABLE
+TO PUBLIC COMPANIES ONLY
+# [p11 fs=10.9] Part A : Prospectuses and Statements in Lieu of Prospectus
+303.Statement in lieu of prospectus
+304.Prospectus on invitations to the public to acquire or dispose of
+securities
+305.General and restricted invitations to the public
+306.Certificates of exemption
+307.Consent of expert
+308.Registration of prospectus
+309.Waiting period
+310.Withdrawal of applications after the offer period
+311.Invitations in respect of securities to be dealt in on a stock exchange
+312Minimum subscription
+313.Civil remedy for mis-statements or omissions in a prospectus
+314.Recission for mis-statements in a prospectus
+315.Voting rights of shares offered to the public
+316.Public invitations to deposit money with public companies
+317.Prohibition of waiver and notice clauses
+318.Criminal liability for mis-statements
+319.Commission to waive or modify the application of Part A of Chapter
+Four
+# [p11 fs=10.9] Part B: Dividends and Transfers
+320.Limitation on liability of members in public companies to
+restore illegal dividends
+321.Interim dividends
+322.Restrictions on the transferability of securities of public companies
+# [p11 fs=10.9] Part C: Documents Accompanying Annual Returns
+323.Documents to be annexed to annual returns of a public company
+11
+
+===== PAGE 12 =====
+
+# [p12 fs=12.8] Act992Companies Act, 2019
+# [p12 fs=12.8] Companies Act, 2019
+# [p12 fs=10.9] Part D: Extraordinary General Meetings
+324.Extraordinary general meetings of public companies
+# [p12 fs=10.9] Part E: Directors
+325.Rotation of directors of a public company
+326.Voting for directors of a public company
+327.Cumulative voting for directors of a public company
+328.Prohibition of loans by public companies to directors
+# [p12 fs=10.9] CHAPTER FIVE
+PROVISIONS APPLICABLE TO EXTERNAL COMPANIES
+329.Meaning of “external company”
+330.Documents to be delivered to Registrar by external company
+331.Notice of alteration of registered particulars
+332.Local manager
+333.Service on external company
+334.Financial statements of external company
+335.Obligation to state name of external company
+336.Publication of names of local managers
+337.Registration of particulars of charges
+338.Winding up of external company
+339Winding up of external company in specified business
+340.Cessation of business of external company
+341.Penalties and disabilities
+342.Control of public invitations relating to external companies
+343.Control of public invitations relating to other non-Ghanaian
+companies
+# [p12 fs=10.9] CHAPTER SIX
+SUPPLEMENTARY
+# [p12 fs=10.9] Part A: Miscellaneous Offences
+344.Inducing persons to invest
+345.Penalty for false statements
+346.Penalty for improper use of “incorporated” or “limited”
+347.Publication of misleading statements regarding shares or capital
+12
+
+===== PAGE 13 =====
+
+# [p13 fs=12.8] Companies Act, 2019Companies Act, 2019
+# [p13 fs=12.8] Act992
+# [p13 fs=10.9] Part B: Legal Proceedings
+348.Costs in actions by limited companies
+349.Contribution between joint wrongdoers
+350.Power to grant relief
+# [p13 fs=10.9] Part C: Establishment of the Office of the Registrar of Companies
+351.Establishment of the Office of the Registrar of Companies
+352.Status of the Office of the Registrar of Companies
+353.Object and functions of the Office of the Registrar of Companies
+354.Governing body of the Office of the Registrar of Companies
+355.Tenure of office of members
+356.Meetings of the Board
+357.Disclosure of interest
+358.Establishment of committees
+359.Fees and allowances
+360.Regional offices
+361.Policy directives
+# [p13 fs=10.9] Part D : Administrative and Financial Provisions of the Office of the Registrar
+362.Appointment of Registrar of Companies
+363.Appointment of other staff
+364.Funds of the Office of the Registrar of Companies
+365.Management of the finances of the Office of the Registrar
+of Companies
+366.Loans, bank accounts and investments
+367.Accounts and audit
+368.Annual report and other reports
+# [p13 fs=10.9] Part E: General Provisions
+369.Submission of periodic reports by Registrar
+370.Companies Bulletin
+371.Fees
+372.Documents to be translated
+373.Registration of documents
+374.Prescribed forms
+13
+
+===== PAGE 14 =====
+
+# [p14 fs=12.8] Act992Companies Act, 2019
+# [p14 fs=12.8] Companies Act, 2019
+375.Inspection, copies and evidence of registered documents
+376.Authentication of documents issued by Registrar
+377.Enforcement of duty to make returns
+378.Electronic transactions
+379.Power of Registrar to obtain directions of the Court
+380.Extension to bodies corporate not registered under this Act
+# [p14 fs=10.9] 381. Regulations
+# [p14 fs=10.9] 382. Guidelines
+# [p14 fs=10.9] 383. Interpretation
+# [p14 fs=10.9] 384. Repeals and savings
+# [p14 fs=10.9] 385. Transitional provisions
+386.Application of the Electronic Transactions Act, 2008 (Act 772)
+# [p14 fs=10.9] 387. Commencement
+6&+('8/(6
+FIRST SCHEDULE
+# [p14 fs=10.9] Definitions
+SECOND SCHEDULE
+Constitution for a Private Company Limited by Shares
+THIRD SCHEDULE
+Constitution for a Public Company Limited by Shares
+FOURTH SCHEDULE
+Constitution for a Company Limited by Guarantee
+FIFTH SCHEDULE
+Contents of Annual Return
+SIXTH SCHEDULE
+Financial Statements
+14
+
+===== PAGE 15 =====
+
+Companies Act, 2019
+# [p15 fs=12.8] Act992
+SEVENTH SCHEDULE
+Matters to be Expressly Stated in the Report of the Auditor
+EIGHTH SCHEDULE
+Proceedure for General Meetings
+NINTH SCHEDULE
+Form of Statement in Lieu of Prospectus and Financial Statement and Report
+to Accompany the Statement
+TENTH SCHEDULE
+Contents of Prospectus on General Invitation
+15
+
+===== PAGE 16 =====
+
+# [p16 fs=12.8] Act992Companies Act, 2019Companies Act, 2019
+COMPARATIVE TABLE
+COMPANIES ACT,COMPANIES
+COMPANIES BILL,
+COMPANIES ACT,
+1963 (ACT 179)BILL, 2018
+2018
+1963 (ACT 179)
+13871727
+23831828
+311925
+4220-
+532129
+642230
+75-31
+862332
+972418
+1082519
+1192620
+12102713 & 14
+13112816
+1412 -152917
+15213033
+16263134
+-233235
+-245456
+33365557
+34375658
+35385759
+36395860
+37405961
+38416062
+39426163
+40436264
+41446365
+42456466
+4346
+-22
+16
+
+===== PAGE 17 =====
+
+# [p17 fs=12.8] Companies Act, 2019Companies Act, 2019
+# [p17 fs=12.8] Act992
+COMPANIESCOMPANIESCOMPANIESCOMPANIES
+ACT, 1963BILL, 2018ACT, 1963BILL, 2018
+(ACT 179)(ACT 179)
+44476567
+45486668
+46496769
+475068-
+48516970
+49527071
+50537172
+5154-73
+52--74
+53557275
+73769497
+74779598
+75789699
+767997100
+778098101
+788199102
+7982100103
+8083101104
+8184102105
+-85103106
+8386104107
+8487105108
+8588106109
+8689107110
+8790108111
+8891109112
+8992110113
+9093111114
+9194112115
+9295113116
+9396114117
+17
+
+===== PAGE 18 =====
+
+# [p18 fs=12.8] Act992Companies Act, 2019
+# [p18 fs=12.8] Companies Act, 2019
+COMPANIESCOMPANIESCOMPANIESCOMPANIES
+ACT, 1963BILL, 2018BILL, 2018
+ACT, 1963
+(ACT 179)
+(ACT 179)
+115118134139 & 140
+116119135141
+117120136142
+118121137144
+119122-145
+120123138146
+-124139147
+121125140148
+122126141149
+123127142150
+124128143151
+125129144152
+126130145153
+127131146154
+128132147155
+129133148156
+130134149157
+131135150158
+132136151159
+18
+
+===== PAGE 19 =====
+
+Companies Act, 2019
+# [p19 fs=12.8] Act992
+# [p19 fs=12.8] Companies Act, 2019
+COMPANIES
+COMPANIES
+COMPANIESCOMPANIES
+ACT, 1963
+ACT, 1963
+BILL, 2018BILL, 2018
+(ACT 179)
+(ACT 179)
+EIGHTH
+EIGHTH
+—
+—
+# [p19 fs=10.9] SCHEDULE
+# [p19 fs=10.9] SCHEDULE
+152Paragraph 1169Paragraph 15
+153Paragraph 2170Paragraph 16
+153(4)161171Paragraph 17
+154Paragraph 1(f)172Paragraph 18
+155Paragraph 3173Paragraph 19
+156Paragraph 4174163
+157Paragraph 5175164
+158Paragraph 6176165
+159168177166
+160Paragraph 7178167
+161Paragraph 8-168
+6264-169
+162162179170
+163Paragraph 9180171
+164Paragraph 10181172
+165Paragraph 11182173
+166Paragraph 12183174
+167Paragraph 13184175
+168Paragraph 14185176
+19
+
+===== PAGE 20 =====
+
+# [p20 fs=12.8] Act992Companies Act, 2019
+# [p20 fs=12.8] Companies Act, 2019
+COMPANIES
+COMPANIES
+COMPANIES
+COMPANIES
+ACT, 1963
+ACT, 1963
+BILL, 2018
+BILL, 2018
+(ACT 179)
+(ACT 179)
+-178205192
+-179206193
+187180207194
+188181-195
+189182-196
+190211208197
+191213-198
+192183209199
+193184210200
+194185-201
+195214-202
+196215-203
+197216-204
+198186211206
+199187212207
+200188213208
+201188214209
+202189215210
+204191216217
+218219217218
+-220230238
+-221231239
+-222232240
+-223233258
+-224234259
+-225235260
+-226236261
+-227237262
+-228-263
+219229-264
+220--265
+20
+
+===== PAGE 21 =====
+
+Companies Act, 2019
+# [p21 fs=12.8] Companies Act, 2019Act992
+COMPANIESCOMPANIES
+COMPANIES
+COMPANIES
+ACT, 1963ACT, 2018
+ACT, 1963
+BILL, 2018
+(ACT 179)
+(ACT 179)
+221230238266
+222231239267
+223232240268
+224233241269
+225234242270
+226235243271
+227236244272
+228237245273
+229-246274
+247275265294
+248276266295
+249277267296
+250278268297
+251279269298
+252280270138
+253281271299
+254282272300
+255283-301
+256284273302
+257285274303
+258286275304
+259287276305
+260288277306
+261289278307
+262290279308
+263291280-
+-292281309
+264293282310
+283311302329
+284312303330
+285-304331
+21
+
+===== PAGE 22 =====
+
+# [p22 fs=12.8] Act992Companies Act, 2019
+# [p22 fs=12.8] Companies Act, 2019
+COMPANIESCOMPANIESCOMPANIES
+COMPANIES
+ACT, 1963BILL, 2018BILL, 2018
+ACT, 1963
+(ACT 179)
+(ACT 179)
+286313305332
+287314306333
+288315307334
+289316308335
+290317309336
+291318310337
+291A319311338
+292320-339
+293321312340
+294322313341
+295323314342
+296138315343
+297324316-
+298325317-
+299326318-
+300327319-
+301328320344
+321345-365
+322346-366
+323347-367
+324205-368
+325348-370
+326349328362
+327350329371
+330372
+22
+
+===== PAGE 23 =====
+
+Companies Act, 2019
+# [p23 fs=12.8] Companies Act, 2019Act992
+COMPANIES
+COMPANIESCOMPANIESCOMPANIES
+ACT, 1963
+ACT, 1963BILL, 2018BILL, 2018
+(ACT 179)
+(ACT 179)
+-352332374
+353333375
+-355334376
+-356335377
+-357-378
+-358336381
+-359337379
+-360338369
+-361339380
+-364340384
+-385
+-386
+23
+
+===== PAGE 24 =====
+
+# [p24 fs=12.8] Act992Companies Act, 2019
+REPUBLIC OF GHANA
+THE NINE HUNDRED AND NINETY-SECOND
+# [p24 fs=27.4] ACT
+OF THE PARLIAMENT OF THE REPUBLIC OF GHANA
+ENTITLED
+THE COMPANIES ACT, 2019
+AN ACT to amend and consolidate the law relating to companies; to
+establish the Office of the Registrar of Companies; and to provide
+for related matters.
+DATE OF ASSENT:2nd August, 2019.
+PASSEDby Parliament and assented to by the President:
+# [p24 fs=10.9] CHAPTER ONE—PRELIMINARY PROVISIONS
+Application of Act
+1.(1) Except as otherwise provided, this Act applies to companies
+formed in the Republic, whether before or after the commencement of
+this Act.
+(2)This Act does not affect the validity of anything done before
+the date when the Act comes into operation.
+Application of particular chapters
+2.(1) Chapter Two applies to all companies.
+(2) Chapter Three applies to private companies.
+(3) Chapter Four applies to public companies.
+(4) Chapter Five applies to external and non-Ghanaian companies.
+24
+
+===== PAGE 25 =====
+
+Companies Act, 2019
+# [p25 fs=12.8] Act992
+Prohibition of association exceeding twenty members
+3.A company, or an association consisting of more than twenty
+persons shall not be formed for the purpose of carrying on a business that
+has for the object of the company or association, the acquisition of gain
+by the company or association or by the individual members of the
+company or association, unless the company or association is registered
+as a company under this Act or is formed in pursuance of any other
+enactment.
+Companies formed for special purposes
+4.This Act does not abrogate or affect legislation relating to companies
+carrying on the business of banking, insurance or any other business which
+is subject to special regulation.
+Saving of equity and common law
+5.The rules of equity and of common law applicable to companies
+shall continue in force unless they are inconsistent with a provision of
+this Act.
+# [p25 fs=10.9] CHAPTER TWO—PROVISIONS APPLICABLE
+TO ALL COMPANIES
+# [p25 fs=10.9] Part A: Formation and Incidental Matters
+Right to form a company
+6.One or more persons may form an incorporated company under
+this Act.
+Types of companies
+7.(1) An incorporated company may be
+(a)a company limited by shares;
+(b)a company limited by guarantee;
+(c)an unlimited company; or
+(d)an external company.
+(2) For the purposes of subsection (1),
+(a)a company limited by shares is a company which has the
+liability of its members limited to the amount unpaid on
+the shares respectively held by them;
+(b)a company limited by guarantee is a company which has
+the liability of its members limited to an amount that the
+25
+
+===== PAGE 26 =====
+
+# [p26 fs=12.8] Act992Companies Act, 2019
+members may respectively undertake to contribute to the
+assets of the company in the event of its being wound up;
+(c)an unlimited company is a company which does not have
+a limit on the liability of its members; or
+(d)an external company is a company as defined in section
+329.
+(3) A company limited by shares and an unlimited company shall
+for the purposes of incorporation be registered with shares.
+(4) A company of a type specified in subsection (1), may be a private
+company or a public company.
+(5) A private company, other than a company limited by guarantee,
+is a company which by virtue of its constitution
+(a)restricts the right to transfer the shares of the company, if
+any,
+(b)limits the total number of the members and debenture
+holders to fifty, not including
+(i)persons who are genuinely in the employment of
+the company, and
+(ii)persons who, having been formerly in the employ-
+ment of the company, were while in that employ-
+ment, and have continued after the determination
+of that employment to be members or debenture
+holders of the company;
+(c)prohibits the company from making an invitation to the
+public to acquire shares or debentures of the company; and
+(d)prohibits the company from making an invitation to the
+public to deposit money for fixed periods or payable at call,
+whether bearing or not bearing interest.
+(6) Where two or more persons hold one or more shares or deben-
+tures jointly, they shall, for the purposes of subsection (3) be treated as a
+single member or debenture holder.
+(7) A company which is not a private company is a public com-
+pany except a company limited by guarantee which has a membership
+of fifty or less.
+(8) A company limited by guarantee shall not for the purposes of
+incorporation be registered with shares and shall not create or issue shares.
+26
+
+===== PAGE 27 =====
+
+Companies Act, 2019
+# [p27 fs=12.8] Act992
+Companies limited by guarantee
+8.(1) A company limited by guarantee shall not be incorporated with
+the object of carrying on business for the purpose of making profits other
+than making profits for the furtherance of its objects.
+(2) Where a company limited by guarantee carries on business
+for the purpose of making profits, other than for the furtherance of
+the objects of the company, the officers and members of that company
+who are cognisant of the fact that the company is so carrying on
+business are jointly and severally liable for the payment and discharge
+of the debts and liabilities of the companyincurred in carrying on
+that business, and the company and those officers and members are
+each liable to pay to the Registrar, an administrative penalty of twenty-
+five penalty units for each day during which the company carries on
+that business.
+(3) The total liability of the members of a company limited by
+guarantee to contribute to the assets of the company in the event of
+the company being wound up shall not at any time be less than the
+amount of money specified in the application required for incorpora-
+tion.
+(4) Where in breach of subsection (3), the total liability of the members
+of a company limited by guarantee is at any time, less than the amount
+specified in the application required for incorporation, every director
+and member of the company who is cognisant of the breach is liable to
+pay to the Registrar an administrative penalty of five hundred penalty
+units.
+Conversion of company limited by shares to company limited by
+guarantee
+9.(1) A company limited by shares may be converted into a
+company limited by guarantee if,
+(a)the liability on any of its shares is fully paid;
+(b)all the members agree in writing to the conversion and to
+the voluntary surrender to the company for cancellation
+of the shares held by them immediately before the
+conversion;
+(c)a new constitution, appropriate to a company limited by
+guarantee, is adopted by the company pursuant to section
+30; and
+27
+
+===== PAGE 28 =====
+
+# [p28 fs=12.8] Act992Companies Act, 2019
+(d)a member agrees or the members agree in writing to
+contribute to the assets of the company, in the event of
+the company being wound up, to an amount of money
+not less than that prescribed by subsection (3) of section 8.
+(2) On delivery to the Registrar for registration of a statutory
+declaration by a director and the Company Secretary confirming that
+the conditions of subsection (1) have been complied with, the Registrar
+shall issue a new certificate of incorporation to the effect that the com-
+pany is limited by guarantee.
+(3) From the date stated in the certificate
+(a)the company is converted into a company limited by guar-
+antee,
+(b)the shares in the company shall be validly surrendered and
+cancelled despite the provisions of section 58, and
+(c)the members of the company who have not agreed to
+contribute to the assets of the company in the event of
+the company being wound up cease to be members of the
+company.
+(4) Except in accordance with subsection (4) of section 21, the
+company shall not change the name under which the company was
+registered before the conversion.
+(5) The omission of words
+(a)“(plc) Public Liability Company”, or
+(b)“(ltd) Private Company Limited”
+as the last words of the name of the company after conversion shall not
+be regarded as a change of name.
+(6) If the Registrar is of the opinion that the name under which the
+company is registered will be misleading or undesirable on its conversion
+to a company limited by guarantee, the Registrar shall in accordance
+with subsection (6) of section 21, direct the company to change its name
+and shall not issue a new certificate of incorporation until the direction
+has been complied with or cancelled in accordance with that subsection.
+(7) Until a new certificate of incorporation is issued under sub-
+# [p28 fs=10.9] section (2), neither the surrender of the shares of the company nor the
+agreement to contribute to the assets of the company in the event of
+the company being wound up shall take effect.
+28
+
+===== PAGE 29 =====
+
+Companies Act, 2019
+# [p29 fs=12.8] Act992
+(8) The conversion of a company, pursuant to this section shall not
+(a)affect the rights or obligations of the company except as
+mentioned in this section; or
+(b)render defective any legal proceedings by or against the
+company.
+Duties of promoters
+10.(1) A person who is or has been engaged or interested in the
+formation of a company is a promoter of that company.
+(2) A person acting in a professional capacity for persons engaged
+in procuring the formation of a company is not a promoter of that
+company.
+(3) The promoter shall, until the formation of a company is
+complete and the working capital of the company has been raised,
+(a)stand in a fiduciary relationship to the company;
+(b)observe utmost good faith towards the company in a trans-
+action with the company or on behalf of the company;
+and
+(c)compensate the company for any loss suffered by the
+company by reason of the failure of the promoter to observe
+utmost good faith.
+(4) A promoter that acquires property or information in
+circumstances in which it was the duty of the promoter as a fiduciary
+to acquire the property or information on behalf of the company,
+shall account to the company for the property or information and for
+the profit which the promoter may have made from the use of that
+property or information.
+(5) A transaction between a promoter and the company may be
+rescinded by the company unless, after full disclosure of the material facts
+known to the promoter, the transaction has been entered into or ratified
+on behalf of the company,
+(a)by the board of directors of the company, if all the directors
+of the company are independent of the promoter;
+(b)by all the members of the company; or
+(c)by the company at a general meeting at which neither the
+promoter nor the holders of the shares in which the
+promoter is beneficially interested have voted on the
+resolution to enter into or ratify that transaction.
+29
+
+===== PAGE 30 =====
+
+# [p30 fs=12.8] Act992Companies Act, 2019
+(6) A period of limitation shall not apply to proceedings brought
+by a company to enforce a right under this section.
+(7) In proceedings under subsection (6), the Court may relieve a
+promoter in whole or in part and on the terms that the Court considers
+fit from liability if in the circumstances, including lapse of time, the Court
+considers it equitable so to do.
+Pre-incorporation contracts
+11.(1) A contract or any other transaction purporting to be
+entered into by a company before the formation of the company, or by
+a person on behalf of the company before its formation, may be ratified
+by the company within eighteen months after the formation of the
+company.
+(2) On ratification under subsection (1), the company shall
+become bound by, and entitled to the benefit of, that contract or that
+transaction as if the company has been in existence at the date of that
+contract or other transaction and had been a party to the contract or other
+transaction.
+(3) Before ratification by a company, the person who purported
+to act in the name or on behalf of the company is, in the absence of
+express agreement to the contrary, personally bound by the contract or
+other transaction and is entitled to the benefit of the contract or other
+transaction.
+# [p30 fs=10.9] Part B:Incorporation of Companies
+Right to apply for incorporation
+12.Subject to this Act, a person of the age of eighteen years and above
+may apply for the incorporation of a company under this Act.
+Application for incorporation
+13.(1) An application for incorporation shall be made in the
+prescribed form and deliveredto the Registrar.
+(2) The application shall include
+(a)the name of the company as required by section 21;
+(b)an indication of the type of proposed company;
+(c)the nature of the proposed business in the case of a
+company registered with an object;
+(d)the address of the proposed registered office and principal
+place of business of the company in the Republic, the
+30
+
+===== PAGE 31 =====
+
+Companies Act, 2019
+# [p31 fs=12.8] Act992
+telephone number and the post office box, private mail
+bag or digital address of the registered office of the com-
+pany;
+(e)the electronic mail address and website of the company, if
+available;
+(f)the following particulars of each subscriber:
+(i) the date and place of birth;
+(ii) the present full name and any former name;
+(iii) the residential, occupational, postal and electronic
+mail addresses and telephone contact; and
+(iv) the nationality;
+(g)the following particulars of each proposed director of the
+proposed company:
+(i) the present full name and any former name;
+(ii) the particulars of any business occupation and other
+directorships held by the director as provided by
+# [p31 fs=10.9] section 215; and
+(iii) the residential, occupational, postal and electronic
+mail addresses and telephone contact;
+(h)a statutory declaration by each proposed director of the
+proposed company indicating that within the preceding five
+years, that proposed director has not been
+(i)charged with or convicted of a criminal offence
+involving fraud or dishonesty;
+(ii)charged with or convicted of a criminal offence
+relating to the promotion, incorporation or man-
+agement of a company; or
+(iii) declared insolvent or if that proposed director has
+been insolvent, the date of the insolvency and the
+particulars of that company;
+(i)the consent of each proposed director;
+(j)the following particulars of the proposed Company Secretary
+of the proposed company:
+(i) the present full name and any former name;
+(ii) the usual postal, occupational and electronic mail
+address;
+(iii) the residential address in the case of an individual;
+and
+(iv) the business occupation as provided by section 215;
+31
+
+===== PAGE 32 =====
+
+# [p32 fs=12.8] Act992Companies Act, 2019
+(k)the following particulars of the proposed auditor of the
+proposed company:
+(i) the present full name and any former name;
+(ii) the postal and electronic mail addresses and tele-
+phone number;
+(iii) the residential address in the case of an individual;
+and
+(iv) the consent of the auditor;
+(l)the following particulars of each subscriber for a proposed
+company with shares:
+(i) the full name and any former or other name;
+(ii) the date and place of birth;
+(iii) the telephone number;
+(iv)the nationality and proof of identity;
+(v)the residential, postal or email address, if any;
+(vi) place of work and position held;
+(m)the following particulars in respect of each beneficial owner
+of the proposed company:
+(i)the full name and any former or other name;
+(ii)the date and place of birth;
+(iii) the telephone number;
+(iv)the nationality, national identity number, passport
+number or other appropriate identification and
+proof of identity;
+(v)the residential, postal or email address, if any;
+(vi) place of work and position held;
+(vii) the nature of the interest including the details of
+the legal, financial, security, debenture or informal
+arrangement giving rise to the beneficial ownership;
+and
+(viii) confirmation as to whether the beneficial owner is
+a politically exposed person;
+(n)the following details in the case of a company that has shares:
+(i) the amount of proposed stated capital, as defined
+in section 68;
+(ii) the number of authorised shares of the company
+for each class; and
+32
+
+===== PAGE 33 =====
+
+Companies Act, 2019
+# [p33 fs=12.8] Act992
+(o)in the case of a proposed company limited by guarantee
+the specified amount up to which the member under-
+takesto contribute to the assets of the company, in the
+event of the company being wound up while that person
+is a member or withina stipulated period after ceasing
+to be a member, for payment of the costs, charges and
+expenses of winding up, and the adjustments of the rights
+amongst members.
+(3)The application shall be signed by the subscriber or each
+subscriber if more than one, for shares of the company by writing
+opposite the name of the subscriber, the number of shares the sub-
+scriber takes and the cash price payable for the shares and the sub-
+scriber shall take at least one share.
+(4)The provisions of subsection (3) shall apply to an application
+for incorporation of a company that proposes to register a constitution.
+(5) The application for incorporation may be effected by
+(a)the delivery of the completed application form as required
+by subsection (2); or
+(b)the delivery of the completed application form as required
+by subsection (2) accompanied with a proposed constitution.
+(6) Without limiting the provisions of subsection (2), the applicant
+shall furnish the Registrar with appropriate evidence of the identity
+and place of residence of the applicant at the time of the delivery of
+the completed application form for incorporation.
+Incorporation
+14.(1) Where the Registrar is satisfied that the application for in-
+corporation of a company complies with this Act, the Registrar shall,
+after payment of the prescribed fee, certify under the seal of the
+Registrar that the company is incorporated and in the case of a limited
+liability company, that the liability of the members is limited.
+(2) From the date of incorporation, the company becomes a body
+corporate by the name contained in the application for incorporation
+and, subject to section 13, is capable of performing the functions of an
+incorporated company.
+33
+
+===== PAGE 34 =====
+
+# [p34 fs=12.8] Act992Companies Act, 2019
+Certificate of incorporation
+15.The certificate of incorporation, or a copy of that certificate,
+certified as correct by the Registrar, is conclusive evidence that the company
+has been duly incorporated under this Act and proceedings shall not be
+brought in a Court to cancel or annul the incorporation.
+Certificate of incorporation and winding up
+16.Section 15 does not preclude the institution of proceedings to wind
+up the company in accordance with section 274.
+Error or omission in document
+17.(1) Where there is an error or omission in a document containing
+particulars delivered to the Registrar under section 13, the company and
+every signatory of the document is without limiting section 346, liable to
+pay to the Registrar an administrative penalty of one hundred and fifty
+penalty units.
+# [p34 fs=10.9] Part C:Capacity of Companies
+Powers of companies
+18.(1) Subject to this Act and to any other enactment, a company
+shall have
+(a)full capacity to carry on or undertake any business or activity,
+do any act, or enter into any transaction; and
+(b)full rights, powers and privileges for the purposes of para-
+graph(a).
+(2) Without limiting subsection (1), and despite the provisions of
+any other enactment, a company shall be capable of giving and entering
+into and being bound by and claiming all rights under a deed or
+mortgage or other instrument.
+(3) The registered constitution of a company may contain a
+provision regarding the capacity, rights, powers or privileges of the
+company if the provision restricts the capacity of the company or those
+rights, powers and privileges.
+Limits of authority of company
+19.(1) Where the registered constitution of a company sets out
+the nature of business or objects of the company, there is deemed to be
+a restriction in the registered constitution on the business or activities
+34
+
+===== PAGE 35 =====
+
+Companies Act, 2019
+# [p35 fs=12.8] Act992
+in which the company may engage, unless the registered constitution
+expressly provides otherwise.
+(2) Where the registered constitution of a company provides for
+any restriction on the business or activities in which the company may
+engage
+(a)the capacity and powers of the company shall not be
+affected by that restriction; and
+(b)an act of the company, a contract or other obligation
+entered into by the company and a transfer of property to
+or by the company shall not be invalid by reason only of the
+fact that it was done in contravention of that restriction.
+(3) Subsection (1) shall not affect the application of the provisions
+of subsection (5) and sections 200, 219 and 275.
+(4) Despite subsection (1), an act of a company and a conveyance
+or transfer of property to, or by, a company is not invalid by reason of
+the fact that the act, conveyance or transfer was not done or made for the
+furtherance of any of the authorised businesses or that the company was
+otherwise exceeding its objects or powers.
+(5) On the application of
+(a)a member of the company, or
+(b)the holder of a debenture secured by a floating charge over
+all or any of the property of the company or by the trustee
+for the holders of those debentures,
+the Court may prohibit, by injunction, the doing of an act or the
+conveyance or transfer of a property in breach of subsection (1).
+(6) Where the transactions sought to be prohibited in proceedings
+under subsection (5) are being, or are to be, performed or made in accor-
+dance with a contract to which the company is a party, the Court may,
+(a)if the Court considers it equitable and if all the parties to
+the contract are parties to the proceedings, set aside and
+prohibit the performance of the contract, and
+(b)allow for the payment of compensation to the company or
+to the other parties to the contract for the loss or damage
+sustained by the company or the other parties by reason of
+the setting aside or prohibition of the performance of the
+contract, but not compensation for loss of anticipated profits
+to be derived from the performance of the contract.
+35
+
+===== PAGE 36 =====
+
+# [p36 fs=12.8] Act992Companies Act, 2019
+(7) The capacity of the company to do an act shall not be affected
+by the fact that the act is not, or would not be, in the best interests of a
+company.
+Alteration of objects or business
+20.(1) Where applicable, a company may change the business for
+which the company was incorporated to carry on, or in the case of a
+company not formed for the purpose of carrying on a business, the
+objects of the company by special resolution.
+(2) Within twenty-eight days of the passing of the special reso-
+lution under subsection (1), notice of the resolution shall be given in
+the prescribed form to the holders of the debentures secured by a
+floating charge over any of the property of the company and to the
+trustees for the debenture holders.
+(3) Where a company defaults in giving a notice as required by this
+# [p36 fs=10.9] section, the company and every officer of that company that is in default
+is liable to pay to the Registrar an administrative penalty of fifty penalty
+units.
+Names of companies
+21.(1) The last words of the name of a
+(a)private company limited by shares shall be“Limited
+Company” or the abbreviation “LTD”;
+(b)public company limited by shares shall be “Public Limited
+Company” or the abbreviation “PLC”;
+(c)company limited by guarantee shall be “Limited by
+Guarantee” or the abbreviation “LBG”; and
+(d)private company unlimited by shares shall be “Private
+Unlimited Company” or the abbreviation ‘PRUC’
+(e)public company unlimited by shares shall be “Public
+Unlimited Company” or the abbreviation “PUC”.
+(2) A company shall not be registered by a name which, in the
+opinion of the Registrar, is misleading or undesirable.
+(3) A company shall not be registered with a name of a company
+that has been dissolved within the preceding five years of the intended
+registration.
+(4) A company may in writing change its name by special resolu-
+tion and with the written approval of the Registrar.
+36
+
+===== PAGE 37 =====
+
+Companies Act, 2019
+# [p37 fs=12.8] Act992
+(5) Where, through inadvertence or otherwise, a company on first
+registration or on registration by a new name is registered by a name
+which, in the opinion of the Registrar, is misleading or undesirable, the
+company shall change the name of the company with the approval of
+the Registrar.
+(6) Where the Registrar so directs within six months of the
+company being registered by that name, the company shall change the
+name within a period of six weeks from the date of the direction.
+(7) Where the Registrar is of the opinion that by reason of a change
+in the objects of, or the nature of the business carried on by a company,
+the name under which the company is registered is misleading or unde-
+sirable, the Registrar may direct the company to change the name and
+the company shall change that name within six weeks of the direction,
+unless within that time the company has lodged an appeal to the Court
+against the direction.
+(8) The Court shall cancel or confirm the direction and if the
+direction is confirmed, the company shall change the name within six
+weeks of the confirmation.
+(9) Where a company defaults in complying with a direction under
+# [p37 fs=10.9] subsection (6), (7), or (8) the Registrar shall change the name of the
+company in the Register.
+(10) Where a company defaults in complying with a direction
+under subsection (5), (6), (7) or (8), the company and any of the directors
+of the company that are cognisant of the default are liable to pay to the
+Registrar, an administrative penalty of twenty-five penalty units and a
+further penalty of fifty penalty units for each day that the default continues.
+(11) Where a company changes the name of the company under
+this section, the Registrar shall record the new name in place of the former
+name, and shall issue a certificate of incorporation that indicates the
+change of name.
+(12) Pursuant to subsection (11), the Registrar shall advertise the
+change in theCompanies Bulletin, the website of the Office of the Registrar
+of Companies and in one daily newspaper published in the Republic
+and circulating in the district in which the registered office of the company
+is situated.
+(13) A certificate or an advertisement in theCompanies Bulletin
+under this section is conclusive evidence of the change to which the
+change of name relates.
+37
+
+===== PAGE 38 =====
+
+# [p38 fs=12.8] Act992Companies Act, 2019
+(14)A change of name by a company shall not affect the rights or
+obligations of the company or render defective legal proceedings by or
+against the company, and legal proceedings that might have been continued
+or commenced against the company under the former name may be
+continued or commenced against the company under the new name.
+(15) A company limited by shares existing at the commencement
+of this Act has six months within which to comply with paragraphs(b)
+and(c)of subsection (1).
+Reservation of name
+22.(1) An application for reservation of the name of a company may
+be sent or delivered to the Registrar, and shall be in a form approved by
+the Registrar.
+(2) The Registrar may, after receipt of the application and on
+payment of the prescribed fee, reserve a name pending registration of a
+company or a change of name by a company.
+(3) A reservation under subsection (2) shall not exceed two months
+and may be renewed for a further period of two months.
+(4) A company shall not be registered under a reserved name or
+under any other name which in the opinion of the Registrar is similar to
+the reserved name.
+# [p38 fs=10.9] Part D: Constitution of the Company
+Option to have a registered constitution
+23.(1) A company has the option to have a registered constitution.
+(2) Where a company opts to have a registered constitution, the
+document that represents the constitution shall be
+(a)signed by one or more subscribers or the Company Secretary,
+and
+(b)delivered to the Registrar by the subscriber or an authorised
+representative before incorporation; or
+(c)delivered to the Registrar by the Company Secretary, director
+or an authorised representative after incorporation.
+Effect of Act on company that has lodged a registered constitution
+24.(1) Where a private company has delivered to the Registrar its
+document intended to be the registered constitution, the rights,
+powers, duties and obligations of the company, the Board, each director
+38
+
+===== PAGE 39 =====
+
+Companies Act, 2019
+# [p39 fs=12.8] Act992
+and each shareholder of the company shall have effect as provided in the
+Second Schedule, unless they are restricted, limited or modified by the
+registered constitution.
+(2) Where a public company has duly delivered the registered
+constitution of the company, the rights, powers, duties and obligations
+of the company, the Board, each director and each shareholder of the
+company shall have effect as provided in the Third Schedule, unless they
+are restricted, limited or modified by the registered constitution of the
+company duly delivered in accordance with this Act.
+(3) Where a company limited by guarantee has duly delivered the
+registered constitution of the company, the rights, powers, duties and
+obligations of the company, the Board, each director and each share-
+holder of the company shall have effect as provided in the Fourth Schedule,
+unless they are restricted, limited or modified by the registered constitu-
+tion of the company duly delivered in accordance with this Act.
+Effect of Act on company without a registered constitution
+25.(1) Where a private company does not have a registered consti-
+tution, the rights, powers, duties and obligations of the company, the
+Board, each director and each shareholder of the company shall be as
+provided in the Second Schedule and be deemed accordingly to be the
+constitution of that company, unless they are restricted, limited or
+modified by a registered constitution of the company duly delivered
+after incorporation in accordance with this Act.
+(2) Where a public company does not have a registered constitu-
+tion, the rights, powers, duties and obligations of the company, the Board,
+each director and each shareholder of the company shall be as provided
+in the Third Schedule, and be deemed accordingly to be the constitution
+of that company, unless they are restricted, limited or modified by the
+registered constitution of the company duly delivered after incorpora-
+tion in accordance with this Act.
+(3) Where a company limited by guarantee does not have a
+registered constitution, the rights, powers, duties and obligations of the
+company, the Board, each director and each member of the company
+shall be as provided in the Fourth Schedule and be deemed accordingly
+to be the constitution of that company, unless they are restricted, limited
+or modified by the registered constitution of the company duly deliv-
+ered after incorporation in accordance with this Act.
+39
+
+===== PAGE 40 =====
+
+# [p40 fs=12.8] Act992Companies Act, 2019
+Contents of registered constitution
+26.(1) Where at incorporation, a company opts to have a registered
+constitution, the registered constitution of that company shall state,
+(a)the name of the company, with the last words of the name
+as required by subsection (1) of section 21;
+(b)the names of the first directors of the company; and
+(c)that the powers of the directors are limited in accordance
+with section 189.
+(2)Where a company has been incorporated in accordance with
+this Act and subsequently opts to have a registered constitution, it
+(a)may state the nature of the business in that constitution
+which the company is authorised to carry on, or if the
+company is not formed for the purpose of carrying on a
+business, the nature of the objects for which the company
+is incorporated; and
+(b)shall deliver to the Registrar
+(i)the constitution, and
+(ii)a special resolution of the company to indicate the
+intention to have the registered constitution.
+(3) In the case of a company having shares, the registered consti-
+tution shall also state the number of shares with which the company is to
+be registered.
+(4) A registered constitution may contain any other lawful provi-
+sions relating to the structure and administration of the company.
+(5) In the case of a company that does not have a registered
+constitution, the company shall be deemed to have as part of the constitu-
+tion under section 25 the matters with respect to the
+(a)name of the company,
+(b)names of its first directors,
+(c)number of shares with which the company is registered,
+and
+(d)number of shares subscribed by each shareholder on the
+incorporation of the company and the consideration to be
+respectively paid for those shares as are respectively stated
+in the application for incorporation under section 13.
+Form of constitution
+27.(1) An unlimited company may have a registered constitution
+40
+
+===== PAGE 41 =====
+
+Companies Act, 2019
+# [p41 fs=12.8] Act992
+and the form of the constitution shall be in accordance with the form
+set out in the
+(a)Second Schedule, if a private company unlimited by shares,
+or
+(b)Third Schedule, if a public company unlimited by shares,
+or as near to those with the necessary modifications,
+but with a statement that the liability of the members is
+unlimited.
+(2) The registered constitution of a company may adopt any of
+the provisions of the appropriate Schedule and subject to subsection (3),
+in so far as the constitution does not exclude or modify those provisions
+they shall, so far as applicable, be part of the registered constitution of
+the company.
+(3) The registered constitution of every company shall contain the
+matters set out in
+(a)subsection (1) of section 26, and
+(b)paragraphs
+(i)3 and 12 of the Second Schedule in the case of a
+private company,
+(ii)1 and 2 of the Third Schedule in the case of a public
+company, and
+(iii) 1, 4, 5, 6 and 7 of the Fourth Schedule in the case of
+a company limited by guarantee.
+(4) The registered constitution shall be printed, type written, hand-
+written or be in any other legible form acceptable to the Registrar.
+Subscription to constitution
+28.The constitution of a company shall be signed by one or more
+subscribers in the presence of a witness, who shall attest to the signing.
+Effect of company constitution
+29.(1) Subject to this Act, the constitution has the effect of a contract
+under seal
+(a)between the company and each member or officer; and
+(b)between the members or officers themselves by which they
+agree to observe and perform the functions contained in
+the constitution as amended from time to time, in so far as
+they relate to the company, the members or the officers.
+41
+
+===== PAGE 42 =====
+
+# [p42 fs=12.8] Act992Companies Act, 2019
+(2) Where the constitution empowers a person to appoint or
+remove a director or any other officer of the company, that power is
+enforceable by that person although that person is not a member or
+officer of the company.
+(3) In an action by a member or an officer to enforce an obligation
+owed under the constitution to that member or officer and any other
+member or officer, that member or officer shall, if any other member or
+officer is affected by the alleged breach of the obligation, sue in a repre-
+sentative capacity on behalf of that member or officer and all other members
+or officers who may be affected other than any who are defendants and
+the provisions of section 205 shall apply.
+(4)The registered constitution of a company shall be void to the
+extent that it contravenes or is inconsistent with this Act.
+(5) A registered constitution shall not be subject to a stamp duty.
+Adoption, alteration, amendment and revocation of constitution
+30.(1) The shareholders or members of a company may, by special
+resolution
+(a)adopt a registered constitution where a company does not
+have a registered constitution; or
+(b)alter or revoke the constitution of the company subject to
+this Act.
+(2) For the purposes of subsection (1)(b),
+(a)the name of the company shall not be altered except with
+the consent of the Registrar in accordance with section 21;
+(b)the number of the shares of the company may be altered
+in accordance with sections 9, 59 to 65, 78 to 82, 219, or
+239 but not otherwise;
+(c)the businesses for which the company is incorporated to
+carry on or, if the company is not formed for the purpose
+of carrying on a business, the objects for which the com-
+pany is incorporated may be amended in accordance with
+# [p42 fs=10.9] section 15 or 239 but not otherwise where the business or
+object is indicated at incorporation;
+(d)an amendment shall not be made which shall conflict with
+an order of the Court made under section 219;
+42
+
+===== PAGE 43 =====
+
+Companies Act, 2019
+# [p43 fs=12.8] Act992
+(e)if at any time the shares of the company are divided into
+different classes, the rights attached to a class may be
+amended in accordance with section 50 or 239 but not
+otherwise;
+(f)the constitution may restrict or exclude the power of the
+company to amend all or any of the provisions of the con-
+stitution or to add to the provisions of the constitution, or
+may impose conditions for the amendment of the consti-
+tution, in which event the constitution shall not be amended
+except in accordance with the provisions of the constitu-
+tion or section 239;
+(g)the constitution as amended shall be in accordance with
+this Act and shall contain the requirements under section
+26;
+(h)except in accordance with section 239, a member of the
+company is not bound by an amendment made in the consti-
+tution after the date on which that person became a member,
+where the amendment
+(i)requires that member to take more shares than the
+number held by that member on the date on which
+the amendment is made,
+(ii)in any way increases the liability of that member as
+at that date to pay money to the company, or
+(iii) increases or imposes restrictions on the right to
+transfer the shares held by that member at the date
+of the amendment,
+unless that member agrees in writing, before or after the
+amendment is made, to be bound by the amendment;
+(i)an amendment shall not be made which would have the
+effect of converting an unlimited company into a limited
+company or a company limited by guarantee into a company
+limited by shares; and
+(j)an amendment may be restrained or revoked by the Court
+in accordance with section 218 or 219.
+Registration of consolidated constitution
+31.(1) Where the Registrar is of the opinion that, due to the numerous
+amendments to the registered constitution of a company, the amend-
+43
+
+===== PAGE 44 =====
+
+# [p44 fs=12.8] Act992Companies Act, 2019
+ments should be consolidated in a single document, the Registrar may by
+notice in writing require a company to deliver to the Registrar a single
+document that incorporates the registered constitution of the company as
+amended.
+(2) The Board shall within twenty-eight days after receipt by the
+company of the notice, cause to be delivered to the Registrar
+(a)the document for registration;
+(b)a certificate signed by a director or Company Secretary
+authorised by the Board to the effect that the document
+referred to in paragraph(a)complies with subsection (1) or
+(2), as the case may be.
+(3)On receipt of the document referred to in subsection (2), the
+Registrar shall register the document upon the payment of a prescribed
+fee.
+Copies of registered constitution
+32.(1) A company shall, upon request of a member, send to that
+member a copy of its registered constitution on payment of the fee
+prescribed by the company.
+(2) Where an amendment is made to the registered constitution,
+each copy of the constitution issued after the date of the amendment and
+whether to a member or to any other person, shall be in accordance with
+the amendment.
+(3) Where a company defaults in complying with this section, the
+company and every officer of the company that is in default commits an
+offence and is liable on summary conviction for each offence to a fine of
+not less than twenty-five penalty units and not more than fifty penalty
+units.
+# [p44 fs=10.9] Part E: Membership of Companies
+Members of a company
+33.(1) The subscribers to the documents for the incorporation of a
+company are members of the company and upon incorporation shall
+be entered as members in the register of members referred to in section
+35.
+(2) Any other person who agrees with the company to become a
+member of the company and whose name is entered in the register of
+members is a member of the company.
+44
+
+===== PAGE 45 =====
+
+Companies Act, 2019
+# [p45 fs=12.8] Act992
+(3) A member has the rights, duties and liabilities that are by this
+# [p45 fs=10.9] Act and where applicable, by the registered constitution of the company
+conferred and imposed on the members.
+(4) In the case of a company with shares, each member is a share-
+holder of the company and shall hold at least one share.
+(5) A holder of a share is a member of the company.
+(6) Membership of a company with shares continues until
+(a)a valid transfer of the shares held by the member is regis-
+tered by the company;
+(b)the shares are transmitted by operation of law to another
+person, or forfeited for non-payment of calls; or
+(c)the member of the company dies.
+(7) Membership of a company limited by guarantee continues until
+the member dies, or validly retires or is excluded from membership.
+Right of member to attend and vote at general meeting
+34.(1) Subject to subsection (2), and section 52, a member has the
+right to attend a general meeting of the company and to speak and vote
+on a resolution before the meeting.
+(2) Despite subsection (1), a registered constitution of a com-
+pany may provide that a member is not entitled to attend and vote at
+a general meeting unless the calls or any other sums of money
+presently payable by that member in respect of shares in the company
+have been paid.
+Register of members
+35.(1) Subject to the Central Securities Depository Act, 2007 (Act
+733) and any other enactment, a company shall keep in the country a
+register of the members and shall enter in the register
+(a)in respect of members of the company
+(i)the names and addresses of the members and, in
+the case of a company having shares, a statement
+of the shares held by each member, and of the
+amount paid, or agreed to be considered as paid,
+on the shares of each member, and of the amount
+remaining payable on the shares;
+(ii)the date at which a person was entered in the register
+as a member;
+45
+
+===== PAGE 46 =====
+
+# [p46 fs=12.8] Act992Companies Act, 2019
+(iii) the nature of the interest of each member; and
+(iv) the date at which a person ceased to be a member;
+and
+(b)in respect of each beneficial owner of the company
+(i)the full name and any former or other name of the
+beneficial owner;
+(ii)the date and place of birth;
+(iii) the telephone number;
+(iv) the nationality, national identity number, passport
+number or other appropriate identification, and
+proof of identity;
+(v)residential, postal and email address, if any;
+(vi) place of work and position held;
+(vii) the nature of the interest including the details of
+the legal, financial, security, debenture or informal
+arrangement giving rise to the beneficial ownership;
+and
+(viii) a confirmation as to whether the beneficial owner
+is a politically exposed person.
+(2) For the purpose of paragraph(b)of subsection (1), where a
+member of a company is not the beneficial owner, that member shall
+(a)provide the company with the particulars of the beneficial
+owner at the time of becoming a member as set out in
+paragraph(b); and
+(b)update the company within twenty-eight days of a change
+in the particulars submitted under paragraph(a).
+(3) The entry required under subparagraphs (i) and (iii) of
+paragraph(a)of subsection (1) shall be made within twenty-eight days of
+the conclusion of the agreement with the person to become a member.
+(4) The entry required under subparagraph (iv) of paragraph(a)
+of subsection (1) shall be made within twenty-eight days of the date when
+the person concerned ceased to be a member, or, if that person ceased to
+be a member otherwise than as a result of an action by the company,
+within twenty-eight days of production to the company of evidence
+satisfactory to the company of the occurrence of the event by which
+that person ceased to be a member.
+(5) The entry required under paragraph(b)of subsection (1) shall
+be made within twenty-eight days of receipt of the necessary particulars
+under subsection (2).
+46
+
+===== PAGE 47 =====
+
+Companies Act, 2019
+# [p47 fs=12.8] Act992
+(6) A company shall, within twenty-eight days of making an entry
+required under paragraph(b)of subsection (1) and subsection (5), sub-
+mit particulars of the entry to the Registrar for registration and indicate
+the members or beneficial owners who are politically exposed persons.
+(7) The entries relating to a person who has ceased to be a member
+may be deleted from the register after the expiration of six years from the
+date when the person ceased to be a member.
+(8) Where a company has more than fifty members, the register
+shall contain an index of the names of the members and the names of
+beneficial owners in a form that enables the account of each member to
+be readily found.
+(9) An existing company shall, within twenty-eight days of a
+change in the place at which the register of members is kept, send
+notice of the change to the Registrar.
+(10) A company is not bound to send notice where the register
+has, since the company came into existence, been kept at the registered
+office of the company.
+(11) An existing company shall, within two months after the coming
+into force of this Act, submit the information required under paragraph
+(b)of subsection (1) to the Registrar for registration.
+(12) The company may arrange with any other person, to be
+known as the registration officer, for the making up of the register to
+be undertaken on behalf of the company by the registration officer at
+the office of that officer, and if by reason of a default of the registra-
+tion officer the companydefaults in complying with this section or
+with section 36, the registration officer is liable to the same penalties
+as if the registration officer were an officer of the company.
+(13) The power of the Court under subsection (6) of section 36
+shall extend to the making of orders against the registration officer and
+the officers and employees of the registration officer.
+(14) A person who
+(a)fails to provide the information required under subsection
+(2), or
+(b)provides false or misleading information to the Registrar
+commits an offence and is liable on summary conviction to a fine of not
+less than one hundred and fifty penalty units and not more than two
+hundred and fifty penalty units or to a term of imprisonment of not less
+than one year and not more than two years or to both.
+47
+
+===== PAGE 48 =====
+
+# [p48 fs=12.8] Act992Companies Act, 2019
+(15) Where a company defaults in complying with this section,
+the company and every officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of twenty-five penalty
+units for each day during which the default continues.
+Inspection of register
+36.(1) Except when the register of members is closed in accor-
+dancewith section 37, the register, the index of the names of the
+members of the company and the index of the names of beneficial
+owners of the company shall, during business hours, and subject to
+reasonable restrictions that the company may impose, be open for the
+inspection of
+(a)a member without charge, and
+(b)any other person on payment of a reasonable fee prescribed
+by the company, for each inspection.
+(2) Not less than two hours each day, other than a Saturday, Sunday
+or a public holiday, shall be allowed for inspection under subsection (1).
+(3) A member or any other person may require a copy of the
+register or a part of the register on payment of a fee prescribed by the
+company.
+(4) The company shall send the copy so required by a person to
+that person within a period of ten days commencing on the day next
+after the day on which the requirement is received by the company.
+(5) Where an inspection required under this section is refused, or
+where a copy required under this section is not sent within the proper
+period, the company and every officer of the company that is in default,
+is liable in respect of each default to pay to the Registrar, an administrative
+penalty of twenty-five penalty units for each day during which the
+default continues.
+(6) In the case of a refusal or default, the Court may order the
+immediate production of the register for inspection or direct that the
+copies required be sent to the person requiring them.
+Power to close register
+37.A company may close the register of members or that part of the
+register relating to a class of members for any time or times of not more than
+a total period of thirty days in each year on giving reasonable notice by
+(a)advertisement in a daily newspaper of national circulation
+in which the registered office of the company is situated;
+and
+(b)electronic means.
+48
+
+===== PAGE 49 =====
+
+Companies Act, 2019
+# [p49 fs=12.8] Act992
+Rectification of register
+38.(1) A person aggrieved, a member of the company, or the
+company, may apply to the Court for rectification of the register where
+(a)the name of a person is, without sufficient cause, entered
+in or omitted from the register of members of a company,
+or
+(b)default is made in entering on the register any of the par-
+ticulars which, under section 35, are required to be entered
+on the register.
+(2) Where an application is made under subsection (1), the
+Court may refuse the application or may order rectification of the
+register and payment by the company of compensation for the loss
+sustained by the aggrieved party.
+(3) Where an application is made under subsection (1), the
+Court may decide a question relating to the entitlement of a person
+who is a party to the application to have the name of that person
+entered in or omitted from the register, whether, the question arises
+(a)between members or alleged members, or
+(b)between members or alleged members on the one hand and
+the company on the other hand;
+and generally the Court may decide a question necessary or expedient to
+be decided for rectification of the register.
+(4) A company may, without application to the Court, at any time
+rectify an error or omission in the register of members, but the rectifica-
+tion shall not adversely affect a person unless that person agrees to the
+rectification made.
+Register to be evidence
+39.(1) The register of members is prima facie evidence of the
+matters which by this Act are directed or authorised to be inserted in the
+register.
+(2) Subsection (1) shall not where the circumstances admit,
+apply to shares of a company that are held in a depository under a scheme
+provided under the Central Securities Depository Act, 2007 (Act 733).
+49
+
+===== PAGE 50 =====
+
+# [p50 fs=12.8] Act992Companies Act, 2019
+Liability of members
+40.(1) Before the winding up of a company, a member of the
+company with shares is liable to contribute the balance of the amount
+payable in respect of the shares held by that member in accordance
+with the terms of the agreement under which the shares were issued,
+or in accordance with a call validly made by the company.
+(2) Where a contribution has become due and payable in accor-
+dance with subsection (1), or where, under the terms of an agreement
+with the company, a member has undertaken personal liability to make
+future payments in respect of shares issued to that member, the liabil-
+ity of the member shall continue although the shares held by that
+member are subsequently transferred or forfeited but the liability of the
+member shall cease if and when the company receives payment in full
+of all the moneys in respect of the shares.
+(3) Subject to subsections (1) and (2), a member or past member
+is not liable to contribute to the assets of the company except in the
+event of the company being wound up.
+(4) In the event of a company being wound up, every present or
+past member is liable to contribute to the assets of the company an
+amount sufficient for the payment of the debts and liabilities of the
+company and for the costs, charges and expenses of the winding up,
+and for the adjustment of the rights of the members and past members
+among themselves but subject to the following qualifications:
+(a)a past member is not liable to contribute if that member
+has ceased to be a member for a period of not less than one
+year before the commencement of the winding up;
+(b)a past member is not liable to contribute unless it appears
+to the Court that the existing members are unable to satisfy
+the contributions required to be made by them in pursuance
+of this section;
+(c)in the case of a company limited by shares, a contribution
+shall not be required from a member or past member
+exceeding the amount of money unpaid on the shares in
+respect of which that member is liable as a present or past
+member;
+50
+
+===== PAGE 51 =====
+
+Companies Act, 2019
+# [p51 fs=12.8] Act992
+(d)in the case of a company limited by guarantee, a contribu-
+tion shall not be required from a member or past member
+exceeding the amount of money undertaken to be contrib-
+uted by that member to the assets of the company in the
+event of the company being wound up; or
+(e)a sum of money due from the company to a member or
+past member, in the character of a member, by way of divi-
+dends or otherwise shall not be set-off against the amount
+of money for which that member is liable to contribute in
+accordance with this section, but that amount of money
+shall be taken into account for the purposes of final adjust-
+ment of the rights of the members and former members
+amongst themselves.
+(5) For the purposes of this section, “past member” includes the
+estate of a deceased member and where a person dies after becoming
+liable as a member or past member, the liability is enforceable against the
+estate of that member.
+(6) Except as otherwise provided in this section, a member or past
+member of a company is not liable as a member or past member for any
+of the debts and liabilities of the company.
+Companies ceasing to have members
+41.If at any time a company ceases to have a member and it carries
+on business without at least one member, every person who is a director
+of the company during the time that it so carries on business is jointly and
+severally liable for the payment of all the debts and liabilities of the
+company incurred during that period.
+# [p51 fs=10.9] Part F: Shares
+Legal nature of shares
+42.(1) The shares of a member in a company are movable property.
+(2) The number of shares in a company and the rights and liabilities
+attaching to the shares are dependent on the terms of issue.
+No par value shares
+43.The shares created or issued under this Act are shares of no par value.
+51
+
+===== PAGE 52 =====
+
+# [p52 fs=12.8] Act992Companies Act, 2019
+Issue of shares
+44.(1) Subject to the registered constitution of a company, different
+classes of shares may be issued in a company at the times and for the
+consideration that the company shall determine and shall be paid for, at
+the times that are agreed between the member and the company.
+(2) On the winding up of the company, every past and present
+shareholder of the company is liable to contribute to the assets of the
+company to the extent referred to in section 40.
+Payment of shares
+45.(1) Except on a capitalisation issue pursuant to subsection (1) of
+# [p52 fs=10.9] section 77, shares shall not be issued otherwise than for valuable
+consideration paid or payable to the company and unless otherwise
+agreed, shares shall be paid for in cash.
+(2) Where a company agrees to accept payment for shares other-
+wise than wholly in cash, the company shall, within twenty-eight days
+after the allotment of the shares, deliver to the Registrar for registration
+a contract in writing duly stamped evidencing the terms of the agree-
+ment and the true value of the consideration or, if the agreement has not
+been reduced to writing, particulars in the prescribed form of the agree-
+ment duly stamped, as if it were a written agreement.
+(3) The particulars referred to in subsection (2) shall not be
+required on a capitalisation issue of shares pursuant to subsection (1) of
+# [p52 fs=10.9] section 77.
+(4) The statement in the agreement of the value of the non-cash
+consideration is sufficient evidence of the true value of the consider-
+ation, but when a company limited by shares is in the course of being
+wound up under the Bodies Corporate (Official Liquidations) Act, 1963
+(Act 180), the liquidator or a creditor may apply to the Court and if the
+Court is satisfied that the true value of the consideration was less than
+stated, it may direct that the shares shall be treated as unpaid to the
+amount of money that it shall direct.
+Return of issues
+46.Where a company issues shares, other than a re-issue of treasury
+shares as defined in subsection (3) of section 61, the company shall, within
+52
+
+===== PAGE 53 =====
+
+Companies Act, 2019
+# [p53 fs=12.8] Act992
+twenty-eight days after the issue, deliver to the Registrar for registration a
+return in the prescribed form showing, as at the date of the return,
+(a)the amount of the stated capital, attributable to each of the
+items specified in subsection (1) of section 68;
+(b)the number of the authorised shares of each class;
+(c)the total number of the issued shares of each class and the
+amount of money paid on the shares, distinguishing
+between the amount paid in cash and the amount paid
+otherwise than in cash and, in the case of a company
+limited by shares, the amount of money remaining payable
+on the shares, distinguishing between the amount presently due
+for payment and the amount not yet due for payment; and
+(d)the total number of the treasury shares of each class.
+Penalties for non-compliance with section 45 or 46
+47.Where a company defaults in delivering a document required
+under section 45 or 46, the company and every officer of the company
+who is in default is liable to pay to the Registrar, an administrative
+penalty of twenty-five penalty units for each day during which the
+default continues.
+Meaning of payment in cash
+48.(1) For the purposes of this Act, shares have not been paid for
+in cash except to the extent that the company has actually received
+cash for the shares at the time of, or subsequent to the agreement to
+issue the shares.
+(2) Where shares are issued to a person who has sold or agreed to
+sell property or rendered or agreed to render services to the company or
+to persons nominated by that person, the amount of money of a payment
+made for the property or services shall be deducted from the amount of a
+cash payment made for the shares and only the balance shall be treated as
+having been paid in cash for the shares despite an exchange of cheques or
+any other securities for money.
+Classification of shares
+49.(1) The registered constitution of a company may provide for
+different classes of shares by attaching to certain of the shares preferred,
+deferred or any other special rights or restrictions, whether as regards
+dividend, voting, repayment or otherwise.
+(2) Shares are not of the same class unless they rank at the same
+rate for all purposes.
+53
+
+===== PAGE 54 =====
+
+# [p54 fs=12.8] Act992Companies Act, 2019
+Variation of class rights
+50.(1) Where at any time the shares of a company are divided into
+different classes, the rights attached to a class shall not be varied unless
+otherwise expressly provided for in the constitution of a company.
+(2) Where the constitution of a company expressly forbids a variation
+of the rights of a class, or contains provisions regarding that variation
+and expressly forbids an amendment of the provision, in respect of the
+variation of rights, the rights shall not be varied and the provision for
+variation shall not be amended except with the sanction of the Court
+under a scheme of arrangement in accordance with section 239.
+(3) Except as provided in subsection (2), a company may, by
+special resolution, amend its constitution by inserting in the constitution
+provisions regarding the variation of the rights of a class, or by modifying
+the terms of those provisions.
+(4) An amendment under this section requires the prior written
+consent of the holders of at least three-fourths of the issued shares of
+each class or the sanction of a special resolution of the holders of the
+shares of each class and shall be deemed, to be a variation of the rights of
+each class.
+(5) Despite a provision in the constitution of a company to the
+contrary,the rights attached to a class of shares shall not be varied
+except with the written consent of the holders of at least three-fourths
+of the issued shares of that class, or the sanction of a special resolu-
+tion of the holders of the shares of that class.
+(6) A resolution of a company the implementation of which
+would have the effect of
+(a)diminishing the proportion of the total votes exercisable at
+a general meeting of the company by the holders of the
+existing shares of a class, or
+(b)reducing the proportion of the dividends or distributions
+payable at any time to the holders of the existing shares of
+a class,
+is for the purposes of this Act, a variation of the rights of that class.
+Preference and equity shares
+51.(1) In this Act, “preference share” means a share, which does not
+entitle the holder of the share to a right to participate beyond a specified
+amount of money in a distribution whether by way of dividend, on
+redemption, in a winding up, or otherwise; and any other share shall be
+referred to as an “equity share”.
+54
+
+===== PAGE 55 =====
+
+Companies Act, 2019
+# [p55 fs=12.8] Act992
+(2) A share that is not a preference share shall be referred to as an
+“equity share”.
+(3) The meaning of “preference share” under subsection (1) shall
+apply to whatever name a company may designate in its constitution.
+Suspension of voting rights of preference shares
+52.(1) Despite section 34, the right of holders of preference shares to
+attend and vote at a general meeting of the company may be suspended
+on conditions.
+(2) Despite a provision to the contrary in the constitution of a
+company, preference shares carry the right to attend general meetings
+and on a poll at those meetings to at least one vote per share in the
+following circumstances, but not otherwise:
+(a)on a resolution during the period that the preferential
+dividend or a part of the preferential dividend remains
+in arrears and unpaid, the period starting from a date not
+more than twelve months, or a lesser period that the
+constitution of a company may provide, after the due date
+of the dividend;
+(b)on a resolution which varies the rights attached to those
+shares;
+(c)on a resolution to remove an auditor of the company or to
+appoint another person in place of that auditor; or
+(d)on a resolution for the winding up of the company or during
+the winding up of the company.
+(3) Apart from the circumstances in section 34 and subject to
+subsections (1) and (2) of this section, preference shares carry the right on
+a poll at a general meeting of the company to one vote, only, in respect of
+each share.
+(4) A special resolution of a company increasing the number of
+shares of a class may validly resolve that an existing class of preference
+shares shall carry the right to the votes specified in subsection (3) addi-
+tional to one vote per share as shall be necessary in order to preserve the
+existing ratio which the votes exercisable by the holders of those preference
+shares at a general meeting of the company bear to the total votes exercisable
+at the meeting.
+55
+
+===== PAGE 56 =====
+
+# [p56 fs=12.8] Act992Companies Act, 2019
+(5) For the purposes of subsection (2), a dividend is due
+(a)on the day immediately following the expiration of the year
+or other period; or
+(b)where a company has a registered constitution, on the date
+appointed in the constitution for the payment of the divi-
+dend for a year or other period whether or not the dividend
+has been earned or declared.
+Votes of equity shares
+53.(1) Despite a provision to the contrary in the constitution of a
+company, equity shares carry the right on a poll at a general meeting of
+the companyto one vote only, in respect of each share subject to
+# [p56 fs=10.9] section 34.
+(2) For the purposes of subsection (1), an alteration of the rights
+of issued preference shares so that they become equity shares is an issue
+of equity shares.
+Canons of construction of class rights
+54.In construing the provisions of the constitution of a company
+in respect of the rights attached to shares, the following canons of con-
+struction shall be observed:
+(a)unless the contrary intention appears, a dividend is not
+payable on any shares unless the company resolves to
+declare that dividend;
+(b)unless the contrary intention appears, a fixed preferential
+dividend payable on a class of shares shall be cumulative;
+in other words, a dividend is not payable on any shares
+ranking subsequent to that class of shares until all the
+arrears of the fixed dividend have been paid;
+(c)unless the contrary intention appears, in a winding up,
+arrears of a cumulative preferential dividend whether or
+not earned or declared is payable up to the date of actual
+payment in the winding up;
+(d)if a class of shares is expressed to have a right to a preferential
+dividend, then, unless the contrary intention appears, that
+class does not have a further right to participate in
+dividends;
+56
+
+===== PAGE 57 =====
+
+Companies Act, 2019
+# [p57 fs=12.8] Act992
+(e)if a class of shares is expressed to have preferential rights to
+payment out of the assets of the company in the event of
+winding up, unless the contrary intention appears, that class
+does not have a further right to participate in the distribution
+of assets in the winding up;
+(f)in determining the rights of the various classes to share
+in the distribution of the property of the company on a
+winding up, consideration shall not be given unless the
+contraryintention appears, to whether or not the prop-
+erty represents accumulated profits or surplus which would
+have been available for dividend while the company
+remained a goingconcern; and
+(g)subject to this section, the shares rank equally in all respects
+unless the contrary intention appears.
+Issue of share certificates
+55.(1) Subject to the Central Securities Depository Act, 2007 (Act 733),
+a company shall, within two months after the issue of any of the
+shares of the company or after the registration of the transfer of a
+share, deliver to the registered holder of the share, a certificate certified
+by one director and the Company Secretary indicating
+(a)the number and class of shares held by that holder and the
+definitive numbers of the shares,
+(b)the amount of money paid on the shares and the amount
+remaining unpaid, and
+(c)the name and address of the registered holder.
+(2) Where a share certificate is defaced, lost or destroyed, the
+company at the request of the registered holder of the shares, shall renew
+the certificate on payment of a fee prescribed by the company and on the
+terms as to evidence and indemnity and the payment of the out-of-pocket
+expenses of company of investigating evidence that the company may
+reasonably require.
+(3) Where a company defaults in complying with this section, the
+company and an officer of the company who is in default are liable to
+pay to the Registrar, an administrative penalty of fifty penalty units.
+(4) Where an application is made to the Court by a person
+entitled to have the certificate delivered to that person, the Court may
+order the company to deliver the certificate and may require the com-
+pany and that officer to bear the costs of, and incidentals to the appli-
+cation.
+57
+
+===== PAGE 58 =====
+
+# [p58 fs=12.8] Act992Companies Act, 2019
+Effect of share certificates
+56.(1) Statements made in a share certificate under the common seal
+of the company or as certified by two directors and the Company Secre-
+tary of the company, are prima facie evidence of the title to the shares of
+the person named in the certificate as the registered holder and of the
+amounts of money paid and payable on the certificate.
+(2) Where a person changes a position to the detriment of that
+person in reliance in good faith on the continued accuracy of the
+statements made in the certificate, the company is estopped in favour
+of that person from denying the continued accuracy of those state-
+ments and shall compensate that person for the loss suffered by that
+person in reliance on those statements and which that person would
+not have suffered had the statement been or continued to be accurate.
+(3) Subsections (1) and (2) do not affect a right the company may
+have to be indemnified by any other person.
+(4) The provisions of subsections (1) to (3) do not apply in the
+case of shares which can be transferred through a scheme of a central
+depository under the Central Securities Depository Act, 2007 (Act 733)
+or any other relevant enactment.
+Reserve liability
+57.(1) A company limited by shares may, by special resolution,
+determine that a portion of the unpaid liability on its shares which has
+not already been called up shall not be capable of being called up except
+in the event, and for the purpose, of the company being wound up.
+(2) Where a resolution is passed, that portion shall not be capable
+of being called up except in the event and for the purpose stated in that
+# [p58 fs=10.9] subsection.
+Prohibited transactions in shares
+58.(1) Except as provided in this Act, a company shall not,
+(a)alter the number of its shares or the amount of money
+remaining payable on those shares;
+(b)release a shareholder or former shareholder from a liability
+on the shares;
+(c)provide financial assistance, directly or indirectly, for the
+subscription or purchase of the shares of the company or
+the shares of its holding company; or
+58
+
+===== PAGE 59 =====
+
+Companies Act, 2019
+# [p59 fs=12.8] Act992
+(d)acquire, by way of purchase or otherwise, any of its issued
+shares or any shares of its holding company.
+(2) For the purposes of paragraph(d)of subsection (1), shares are
+acquired by the company if they purport to be held in trust for the
+company although they are registered in the names of nominees.
+(3) Subsection (1) does not prohibit a company from voluntarily
+acquiring its own shares on the conversion of the company to a com-
+pany limited by guarantee in accordance with section 9.
+(4) In the event of a breach of this section,
+(a)if the breach is of paragraph(a)or(b)of subsection (1), the
+purported alteration or release is void and every officer of
+the company who is in default is liable to pay to the Regis-
+trar, an administrative penalty of five hundred penalty
+units;
+(b)if the breach is of paragraph(c)or(d)of subsection (1),
+then,
+(i)knowledge of the breach, voidable by the company
+and a payment made by the company in respect of
+that transaction is immediately repayable with
+interest at the yearly interest rate applicable to the
+ninety-one day government treasury bill or a higher
+rate that the Court may order, and
+(ii)whether or not the transaction is avoided, every
+officer of the company who is in default is liable to
+pay to the Registrar, an administrative penalty of
+five hundred penalty units or twice the amount of
+money of a provision or payment made by the com-
+pany in respect of the transaction, whichever is the
+greater.
+Alteration of number of shares
+59.(1) Subject to subsection (3), a company may
+(a)increase the number of the shares of the company by creating
+new shares; or
+(b)reduce the number of the shares of the company by cancel-
+ling shares which have not been taken or agreed to be taken
+by a person or by consolidating its existing shares, whether
+issued or not, into a smaller number of shares.
+59
+
+===== PAGE 60 =====
+
+# [p60 fs=12.8] Act992Companies Act, 2019
+(2) On a consolidation of shares
+(a)the amounts of money paid,
+(b)an unpaid liability on the shares, and
+(c)a fixed sum of money by way of dividend or repayment to
+which the shares were entitled
+shall also be consolidated.
+(3)Unless otherwise provided in the constitution of a company,
+the directors may issue shares with rights or restrictions as may be deter-
+mined by the directors, subject to the provisions of this Act.
+Financial assistance for acquisition of shares
+60.Section 58 does not prohibit any of the following transactions:
+(a)the payment of commission or brokerage to a person in
+consideration of that person subscribing or agreeing to sub-
+scribe or procuring or agreeing to procure subscriptions for
+any shares in the company, where the payment of commis-
+sion or brokerage does not exceed ten per cent of the price
+at which the shares are issued or a lesser rate as may be
+specified in the constitution of the company;
+(b)where the lending of money is part of the ordinary business
+of the company, or lending of money is the ordinary course
+of business although the money may be used for the
+subscription or purchase of shares in the company or its
+holding company;
+(c)the provision by a company of money for the purchase or
+subscription of shares to be held for the benefit of persons
+genuinely in the employment of the company or an associated
+company including a director holding a salaried employ-
+ment in the company or an associated company in accor-
+dance with a scheme for the time being in force;
+(d)the advancing by a company of loans to persons, other than
+directors, genuinely in the employment of the company or
+an associated company with a view to enabling those persons
+to purchase or subscribe for shares to be held by themselves
+beneficially and not as nominees for the company or any
+other person;
+(e)the payment by a company of a lawful dividend on the
+shares of the company although the dividend received by
+60
+
+===== PAGE 61 =====
+
+Companies Act, 2019
+# [p61 fs=12.8] Act992
+a shareholder is used to discharge a liability on the shares
+of that shareholder or to repay money borrowed for the
+purpose of subscribing or purchasing shares;
+(f)in the case of a public company some or all of whose
+equity shares are dealt with on an approved stock exchange,
+or in respect of which an application has been made to an
+approved stock exchange for permission to deal in those
+shares, the payment of any commissions, fees, costs and
+expenses and the giving of any indemnities and warranties
+in each case to a person arranging or otherwise involved in
+an underwriting, placing or sale of securities in the
+company or any other similar transaction, where
+(i)an application for permission to deal in those
+securities has been or is to be made to an approved
+stock exchange, and
+(ii)any other financial assistance is given in good faith
+in the interests of the company.
+Acquisition by company of its own shares
+61.(1) Despite section 58 a company may,
+(a)create and issue preference shares whichare, or at the
+option of the company are liable, to be redeemed and may
+convert existing shares, whether issued or not, into those
+redeemable preference shares subject to sections 62 to 65;
+(b)purchase its own shares subject to sections 63 to 67;
+(c)acquire its own shares by a voluntary transfer to the com-
+pany or to nominees for the company subject to compli-
+ance with sections 62 to 65; and
+(d)acquire its own shares pursuant to the buy-out provisions
+in section 222.
+(2) For the purposes of subsection (1), shares shall not be redeemed,
+purchased or acquired by the company so long as there is an unpaid
+liability on those shares.
+(3) A company may forfeit the shares issued with an unpaid liability
+for non-payment of the sums of money due and payable on those shares.
+61
+
+===== PAGE 62 =====
+
+# [p62 fs=12.8] Act992Companies Act, 2019
+(4) On redemption, purchase, acquisition or forfeiture, shares
+shall be available for re-issue by the company unless a company by
+amendment of the constitution of the company cancels those shares.
+(5) Shares which are cancelled by virtue of the constitution of
+the company, shall until re-issued or cancelled, be referred to as treasury
+shares.
+(6) Except as provided in section 69, a redemption, purchase, an
+acquisition or a forfeiture by the company of the shares of the company,
+or the cancellation of shares so redeemed, purchased, acquired or
+forfeited shall not reduce the stated capital of the company.
+(7) Voting rights shall not be exercised and dividends shall not be
+payable on treasury shares, and except where otherwise stated, treasury
+shares shall not be treated as issued shares within the meaning of this Act.
+Redemption of redeemable preference shares
+62.(1) Despite a provision in the constitution of the company to
+the contrary, a company shall not redeem any of its redeemable pref-
+erence shares except,
+(a)out of a credit balance on the share deals account referred
+to in section 65 or out of transfers to that account in the
+manner referred to in that section from retained earnings
+as defined in section 71; or
+(b)out of the proceeds of a fresh issue of shares made for the
+purposes of the redemption not more than twelve months
+before the date of redemption.
+(2) Where redeemable preference shares have become redeemable
+and the funds of the company are sufficient to entitle the company to
+redeem the whole of the shares due for redemption, the holder of those
+shares may serve notice on the company requiring it to effect the redemp-
+tion.
+(3) Where the company fails to redeem the shares within twenty-
+eight days of the service of the notice, the shareholder who has served the
+notice may apply to the Court on behalf of that shareholder and the
+other shareholders whose shares are due for redemption; and the Court,
+if satisfied that the conditions of this subsection are fulfilled, may order
+the company to redeem the shares and may require the company and an
+officer of the company who is in default to bear the costs of, and incidental
+to, the application.
+(4) Section 205 shall apply to an application to the Court under
+# [p62 fs=10.9] subsection (3).
+62
+
+===== PAGE 63 =====
+
+Companies Act, 2019
+# [p63 fs=12.8] Act992
+Purchase by a company of its own shares
+63.Despite a provision of the constitution of the company to the
+contrary, a company shall not purchase any of the shares of the company
+except where
+(a)shares are only purchased out of a credit balance on the
+share deals account referred to in section 65, or out of
+transfers to that account in the manner referred to in
+that section from retained earnings;
+(b)redeemable preference shares are not purchased at a price
+greater than the lowest price at which they are then redeem-
+able or will be redeemable at the next date at which they are
+due or liable to be redeemed; or
+(c)the purchase is not made in breach of section 64.
+Limit on number of shares acquired
+64.(1) A transaction shall not be entered into by or on behalf of a
+company by which the total number of its shares, or of its shares of any
+one class, held by persons other than the company or its nominees
+becomes less than eighty-five per cent of the total number of shares, or of
+shares of that class, which have been issued.
+(2) For the purposes of subsection (1), redeemable preference shares
+shall be disregarded.
+(3) Where, after shares of a class have been issued and the number
+of those shares has been reduced, subsection (1) shall apply as if the number
+originally issued, including shares of the class cancelled before the
+reduction took effect, had been the number as so reduced.
+Share deals account
+65.(1) When a company first redeems or purchases any of its shares,
+otherwise than on a redemption of redeemable preference shares out
+of the proceeds of a fresh issue of shares in accordance with para-
+graph(b)of subsection (1) of section 62, it shall open a share deals
+account and shall credit to that account a sum of money not less than
+the amount of money to be expended on the redemption or purchase
+by transferringthat sum from retained earnings as defined in section
+71.
+(2) There shall be debited to the share deals account the sums of
+money which the company shall from time to time expend on the
+63
+
+===== PAGE 64 =====
+
+# [p64 fs=12.8] Act992Companies Act, 2019
+redemption or purchase of any of the shares of the company, otherwise
+than on a redemption of redeemable preference shares out of the
+proceeds of a fresh issue of shares in accordance with paragraph(b)
+of subsection (1) of section 62.
+(3) The net price or the value of the consideration received by
+the company on the re-issue of any of the treasury shares of the
+company shall be credited to the share deals account.
+(4) If at any time the total amount of money to be debited to
+the share deals account under subsection (2) exceeds the amount of
+money credited to that account in accordance with subsections (1), (2)
+and (3), an amount of money equal to the excess shall be transferred to
+the credit of that account from retained earnings, and a purchase or
+redemption,otherwise than a redemption of redeemable preference
+shares out of the proceeds of a fresh issue of shares in accordance
+with paragraph(b)of subsection (1) of section 62, shall not be made by
+the company unless its retained earnings is sufficient to enable the
+transfer to be made.
+(5) An amount of money shall not be debited or credited to the
+share deals account, otherwise than in accordance with subsections
+(1), (2), (3) and (4) except on a transfer to stated capital in accordance
+with section 68 or under an order of the Court under section 80 or 239.
+(6) A true copy of the share deals account, showing the class
+and number of shares involved in each transaction and the price paid
+or received for those shares, shall be kept in a separate book at the
+registeredoffice of the company and shall during business hours, be
+open to the inspection of a member without charge and of any other
+person on payment of a fee prescribed by the company for each inspec-
+tion unless otherwise subject to reasonable restrictions expressed in the
+constitution of a company.
+(7) Not less than two hours in each day, other than a Saturday,
+Sunday or a public holiday shall be allowed for the inspection.
+(8) A member or any other person is entitled to be furnished,
+within ten days after the member or that person has made a request in
+that behalf to the company, with a copy of the share deals account or a
+# [p64 fs=10.9] part of the share deals account at a fee prescribed by the company.
+(9) Where an inspection required under subsection (6) is refused,
+or where a copy required to be sent under subsection (8) is not sent within
+the proper time, the company and every officer of the company who is in
+default is liable to pay to the Registrar, an administrative penalty of
+64
+
+===== PAGE 65 =====
+
+Companies Act, 2019
+# [p65 fs=12.8] Act992
+twenty-five penalty units for each day during which the default continues,
+and the Court may order an immediate inspection or furnishing of a
+copy.
+Modification of sections 61 to 65 in relation to authorised mutual funds
+66.Any of the provisions of sections 61 to 65 may be waived or modi-
+fied by order of the Registrar in relation to a company which is for the
+time being an authorised mutual fund as defined in section 216 of the
+Securities Industry Act, 2016 (Act 929).
+Acquisition of shares of holding company
+67.(1) Despite section 58, a company which is a subsidiary may
+acquire shares in its holding company, where the subsidiary company
+is concerned as a personal representative or trustee unless the holding
+company or a subsidiary of the holding company is beneficially
+interested otherwise than by way of security for the purposes of a
+transaction entered into by the holding company or subsidiary of the
+holding company in the ordinary course of a business which includes
+the lending of money.
+(2) A subsidiary which is a holder of shares of its holding company
+or a subsidiary which acquired shares in its holding company before it
+became a subsidiary of that holding company may continue to hold those
+shares but, subject to subsection (1), shall not have a right to vote at
+meetings of the holding company or a class of shareholders of the holding
+company, and shall not acquire any future shares in the holding company,
+except on a capitalisation issue in accordance with subsection (1) of
+# [p65 fs=10.9] section 77.
+# [p65 fs=10.9] Part G:Stated Capital and Dividends
+Meaning of “stated capital”
+68.(1) The stated capital of a company with shares consists of the
+sum of the following items:
+(a)the total proceeds of every issue of shares for cash, including
+the amounts paid on calls made on shares issued with an
+unpaid liability, less deductions for transactions costs that
+are direct and incidental to share issue,
+(b)the total value of the consideration, as stated in the agree-
+ment, received for every issue of shares otherwise than for
+cash, and
+65
+
+===== PAGE 66 =====
+
+# [p66 fs=12.8] Act992Companies Act, 2019
+(c)the total amount which the company by special resolution
+resolves to transfer to stated capital from reserves, as de-
+fined in section 70 including the credit balance on the share
+deals account referred to in section 65.
+(2) Paragraph(a)or(b)of subsection (1) does not require the proceeds
+or value of the consideration received on the re-issue of treasury shares
+to be added to stated capital.
+(3) For the purpose of subsection (2), when a company having
+treasury shares makes an issue of shares, the issue is, until the number of
+treasury shares of that class is exhausted, an issue of those treasury shares
+and not a first issue of further shares, unless the company otherwise
+determines.
+(4) The amount of the stated capital may be reduced to the extent
+and in the manner provided by section 69 and in the buy-out provisions
+in sections 220 to 226.
+(5) Within twenty-eight days after the raising of a stated capital,
+the company shall deliver to the Registrar for registration particulars in
+the prescribed form showing the amount of money so raised and the
+total stated capital, distinguishing between the amounts attributable to
+each of the items specified in subsection (1).
+(6) Where the company defaults in delivering to the Registrar the
+particulars required under subsection (5), the company and every officer
+of the company that is in default is liable to pay to the Registrar, an
+administrative penalty of twenty-five penalty units for each day during
+which the default continues.
+Reduction of stated capital
+69.(1) Despite subsection (4) of section 61, the stated capital of a
+company shall be deemed to be reduced by the amount of money by
+which a redemption of redeemable preference shares is made out of the
+proceeds of a fresh issue of shares made for the purposes of the redemption
+not more than twelve months before the date of redemption.
+(2) An unlimited company may, reduce its stated capital by
+ordinary resolution.
+(3) Subject to subsections (1) and (2) and to section 66, a company
+may not reduce its stated capital except in accordance with sections 78 to 82.
+66
+
+===== PAGE 67 =====
+
+Companies Act, 2019
+# [p67 fs=12.8] Act992
+Meaning of “reserves”
+70.The reserves of a company with shares is the amount of money
+by which the assets of the company, other than unpaid calls and other
+sums of money payable in respect of the shares of the company and not
+including treasury shares, less the liabilities of the company, as shown
+in the accounts of the company prepared and audited in accordance
+with sections 127 to 142, exceed the stated capital of the company.
+Meaning of “retained earnings”
+71.The retained earnings of a company with shares is the reserves,
+as defined in section 70, less the amounts of money attributable to
+(a)an unrealised appreciation in the value of an asset of the
+company, other than an appreciation in the value of an
+asset as would, under normal accounting principles, be
+credited to the income statement, unless the amount of
+the appreciation has been transferred to stated capital; and
+(b)a balance standing to the credit of the share deals account
+immediately before the ascertainment of the retained
+earnings.
+Legality of dividend payments
+72.(1) Except in a winding up, a company shall not pay a dividend
+to the shareholders of the company or, except in accordance with
+sections 78 to 82 make a return or distribution of any of the assets of
+the company to the shareholders of the company unless, the company
+has complied with the distribution test.
+(2) Where a payment, return or distribution is made in contra-
+vention of this section,
+(a)every director of the company who is in default is jointly
+and severally liable to restore to the company the total
+amount of money by which the payment, return or
+distribution contravenes this section, with interest on that
+amount at the yearly interest rate of the ninety-one day
+government treasury bill;
+(b)unless, within twelve months after the date ofthe
+payment, return or distribution, the total amount of money
+with interest on the payment, return or distribution is
+67
+
+===== PAGE 68 =====
+
+# [p68 fs=12.8] Act992Companies Act, 2019
+restored to the company by the directors in accordance with
+paragraph(a)of this subsection, every shareholder is liable
+to restore to the company, the amount of money received by
+the shareholder in contravention of this section; and
+(c)if the directors of the company make a restoration to the
+company in accordance with paragraph(a)of this
+# [p68 fs=10.9] subsection, they shall have a right to be indemnified by a
+shareholder who has received an amount of money knowing
+that it contravenes this section to the extent of the amount
+received by the shareholder with interest on that account at
+the yearly interest rate of the ninety-one day government
+treasury bill.
+(3) A shareholder, an officer or a creditor of the company or the
+Registrar may apply to the Court for an injunction restraining a com-
+pany from paying a dividend or from making a return or distribution in
+contravention of this section or for an order for restoration in accor-
+dance with subsection (2).
+(4) An application by a shareholder or creditor shall be made in a
+representative capacity on behalf of the shareholder or the creditor and
+the other shareholders or creditors of the company and section 205 shall
+apply.
+(5) In relation to public companies, paragraph(b)of subsection
+(2) shall be modified as stated in section 320.
+Unclaimed dividends accounts
+73.(1) Where any dividend declared by a company cannot be paid by
+reason of the dividends being unclaimed by the member entitled to
+the dividend and remains unclaimed for a period of three months, the
+company shall forthwith
+(a)open an interest bearing unclaimed dividend account, and
+(b)credit to that account the total amount of the unclaimed
+dividend of its shareholders unless that account has already
+been opened.
+(2) Where payment of the dividend cannot be made or is not
+claimed within a further period of twelve months after the transfer
+made under paragraph(b)of subsection (1), the company shall pay to
+68
+
+===== PAGE 69 =====
+
+Companies Act, 2019
+# [p69 fs=12.8] Act992
+the Registrar the total amount of the unclaimed dividend plus interest
+accrued on the amount.
+(3) The Registrar shall pay into the account under subsection (4)
+(a)the amount received under subsection (2), and
+(b)the amount received under subsection (3) of section 74.
+(4) The Registrar shall with the approval of theBoard open an
+interest bearing bank account for the safe keeping of moneys received
+from any company under subsection (2).
+(5) The Registrar is responsible for the moneys lodged and
+disbursed from the interest bearing account.
+(6) The company shall on the date of the payment under subsection
+(2), notify the respective shareholder or the estate of the shareholder at
+the last address known to the company of the payment made in respect
+of the dividend.
+(7) The shareholder or the estate of the shareholder shall on
+providing satisfactory evidence, be entitled to make a claim for the divi-
+dend and any accrued interest during the period that the
+(a)company had possession of the dividend under subsection
+(1); and
+(b)Registrar had possession of the dividend under subsection
+(3).
+(8)The Registrar shall publish annually in theCompanies Bulletin
+and in a daily newspaper of national circulation, details of shareholders
+whose dividends have been transferred to the Registrar for safe keeping.
+Management by Registrar of unclaimed dividends account
+74.(1) The Registrar shall keep unclaimed dividends lodged in the
+account under subsection (4) of section 73 for, seven years.
+(2) The Registrar shall on the expiration of the seven year
+period referred to in subsection (1)
+(a)transfer to the Consolidated Fund fifty percent of the total
+amount of money lodged in the interest bearing account
+under subsection (4) of section 73, and
+(b)donate or apply fifty percent of the total amount of money
+lodged in the interest bearing account under subsection (4)
+of section 73,
+for the purpose of investor education, research,entrepreneurial devel-
+opment and advancement in companylaw.
+69
+
+===== PAGE 70 =====
+
+# [p70 fs=12.8] Act992Companies Act, 2019
+(3) Where a company on the commencement of this Act has in
+the possession of the company unclaimed dividends, the company shall
+immediately transfer the total amount of the dividends to the Registrar
+to be applied in accordance with subsections (1) and (2).
+Prohibition of payment of dividends by companies limited by guarantee
+75.(1) A company limited by guarantee shall not at any time pay
+a dividend or make a distribution or return of the assets of the company
+to members of the company.
+(2) Where a payment, distribution or return is made in contra-
+vention of subsection (1), a member to whom it is made shall restore
+same to the company with interest at the yearly interest rate of the
+ninety-one day government treasury bill, and every officer of the com-
+pany who is in default is liable to pay to the Registrar, an adminstrative
+penalty of five hundred penalty units.
+Declaration of dividends
+76.(1) Subject to sections 72 and 75, and in the case of a private
+company, its registered constitution where applicable, a company may,
+by ordinary resolution, declare dividends in respect of a year or any
+other specified period, but a dividend shall not exceed the amount
+recommended by the directors.
+(2) In relation to public companies, subsection (1) shall be
+supplemented by section 321.
+(3) A dividend shall be paid within sixty days after the resolution
+of the shareholders confirming payments or after dividends have
+become payable.
+(4) Where a dividend is to be paid in accordance with subsection
+(3), the shareholders shall be notified of the amount of dividend
+recommended by directors for payment.
+(5) A registered constitution of a company may prescribe modes
+for the payment of dividend without reference to the resolution of the
+shareholders.
+Capitalisation issues and non-cash dividends
+77.(1) When a company resolves to transfer a sum of money from
+reserves to stated capital pursuant to paragraph(c)of subsection (1) of
+# [p70 fs=10.9] section 68, the company, on the recommendation of the directors may,
+by the same or a subsequent special resolution, resolve that unissued shares
+in the company be issued and credited as fully paid to the members who
+70
+
+===== PAGE 71 =====
+
+Companies Act, 2019
+# [p71 fs=12.8] Act992
+would have been entitled to receive that sum of money had it been lawfully
+distributed by way of dividend and in the same proportions so that the
+sum of money so transferred to stated capital shall be deemed to be
+paid, otherwise than in cash, on the shares.
+(2) An issue under subsection (1) shall be referred to as a capitali-
+sation issue.
+(3) A company, on the recommendation of the directors, may
+resolve that a sum of money standing to the credit of the retained
+earnings of the company, and which could have lawfully been distributed
+by way of dividend shall be applied, on behalf of the members who
+would have been entitled to receive same if it had been distributed by
+way of dividend, in paying up amounts of money for the time being
+unpaid on the shares held by the members, and that sum shall be deemed
+to have been paid on a call made on those shares and shall be transferred
+to stated capital pursuant to paragraph(a)ofsubsection (1) of section
+68.
+(4) A resolution of a company lawfully declaring a dividend
+may, on the recommendation of the directors, direct payment wholly
+or partly by distribution of securities for money, or of fully paid, but
+not partly paid, shares or debentures of any other body corporate, or
+of fully paid debentures of the company of a nominal amount equal
+to the amount so directed to be paid.
+(5) The directors shall give effect to the resolution and
+(a)may make a provision that they think fit for the case of the
+shares, debentures, or securities for money becoming
+distributable in fractions,
+(b)may issue fractional certificates or, in the case of a distribu-
+tion in accordance with subsection (4), but not in the case
+of a capitalisation issue in accordance with subsection (1),
+and
+(c)may sell the shares, debentures or securities for money
+represented by those fractions and distribute the net
+proceeds of the sale among the members otherwise entitled
+to those fractions in due proportions.
+(6) An allotment of shares or debentures or a pay-up of shares
+pursuant to the resolution, may be made without obtaining the
+individual consents to that allotment of the members concerned and a
+transfer of shares or debentures in any other body corporate may be
+71
+
+===== PAGE 72 =====
+
+# [p72 fs=12.8] Act992Companies Act, 2019
+signed on behalf of the members to whom they are transferred by a
+person nominated in writing by the directors and the signature of that
+person shall be effective and binding on all the members.
+# [p72 fs=10.9] Part H: Resolutions Reducing Capital, Shares or Liability
+Resolutions requiring confirmation of Court
+78.(1) Subject to confirmation by the Court, a company limited by
+shares may, by special resolution,
+(a)reduce the stated capital of the company in any way;
+(b)extinguish or reduce the unpaid liability on any of the shares
+of the company;
+(c)resolve to pay or return to the shareholders any of the assets
+of the company which are in excess of the requirements of
+the company; or
+(d)alter the constitution of the company by cancelling any of
+the shares of the company.
+(2) A resolution under subsection (1) shall in this Act be referred
+to as a resolution requiring confirmation.
+(3) Where the resolution requiring confirmation varies the rights
+attached to a class of shares, the resolution shall not be effective unless
+# [p72 fs=10.9] section 50 has been complied with.
+(4) This section does not require confirmation by the Court of a
+transaction validly effected under sections 72 and 75 to 77.
+(5) The provisions of this section and sections 139 to 141 and 156
+are subject to the Securities Industry Act, 2016 (Act 929).
+Application for confirming order
+79.(1) Where a company passes a resolution requiring confirmation,
+the company may apply to the Court for an order confirming the
+resolution.
+(2) Where the resolution requiring confirmation involvesdimi-
+nution of liability in respect of shares with an unpaid liability, or a
+payment or return to any shareholder, and in any other case if the
+Court so directs, the following provisions shall have effect unless, having
+regard to the special circumstances of the case, the Court otherwise
+directs:
+(a)a creditor of the company who at the date fixed by the Court
+is entitled to a debt or claim which if that date were the
+72
+
+===== PAGE 73 =====
+
+Companies Act, 2019
+# [p73 fs=12.8] Act992
+commencement of the winding up of the company, would
+be admissible in proof against the company, is entitled to
+oppose the confirmation;
+(b)the Court shall settle a list of creditors so entitled to
+oppose, and for that purpose shall ascertain, as far as possible
+without requiring an application from a creditor, the names
+of those creditors and the nature and amount of their debts
+or claims, and may publish notices fixing a day or days
+within which creditors not entered on the list are to claim
+to be so entered, or are to be excluded from the right of
+opposing the confirmation; or
+(c)where a creditor entered on the list whose debt or claim is
+not discharged or has not determined, does not consent
+to the confirmation, the Court may dispense with the
+consent of that creditor on the company securing pay-
+ment of the debt of that creditor or claim by appropriating,
+as the Court may direct, the following amount:
+(i)if the company admits the full amount of the debt
+or claim, or, though not admitting, is willing to
+provide for the debt or claim, then the full amount
+of the debt or claim; or
+(ii)if the company does not admit and is not willing
+to provide for the full amount of the debt or claim,
+or if the amount is contingent or not ascertained,
+then an amount fixed by the Court after the like
+inquiry and adjudication as if the company were
+being wound up under the Bodies Corporate
+(Official Liquidations) Act, 1963 (Act 180).
+(3) The Court may refer the application to the Registrar who shall
+appoint one or more competent reporters to investigate the fairness of
+the resolution for reduction and to report on the resolution to the Court.
+(4) The remuneration of the reporters shall be fixed by the Regis-
+trar and the expenses of the investigation shall be borne by the company.
+Order confirming the resolution
+80.The Court may make an order confirming the resolution on the
+terms and conditions specified by the Court, if satisfied,
+(a)with respect to every creditor of the company who under
+# [p73 fs=10.9] section 79 is entitled to oppose, that the consentof the
+creditor has been obtained or that the debt or claim of that
+creditor has been discharged or secured,
+73
+
+===== PAGE 74 =====
+
+# [p74 fs=12.8] Act992Companies Act, 2019
+(b)that sections 78 and 79 have been duly complied with, and
+(c)that the resolution requiring confirmation is fair and equi-
+table.
+Order and minute to be registered
+81.(1) The Registrar, on production of an order of the Court
+confirming the resolution requiring confirmation and the delivery to the
+Registrar of a copy of the order and of a minute, approved by the Court,
+showing,
+(a)the new stated capital of the company,
+(b)the number of authorised and issued shares and the classes
+into which they are divided, and
+(c)the amount of money deemed to be paid and the unpaid
+liability on the issued shares, distinguishing the amount
+paid in cash and the amount paid otherwise than in
+cash,
+shall register the order and the minute and publish the particulars stated
+in the minute in theCompanies Bulletin.
+(2) On registration of the order and minute, the resolution for
+reduction shall take effect.
+(3) The Registrar shall personally certify the registration of the
+order and the minute, and the certificate is conclusive evidence that the
+requirements of this Act with respect to the resolution requiring confirmation
+have been complied with and that the stated capital and shares of the
+company are as stated in the minute.
+Protection of creditors
+82.(1) Where a creditor, entitled in respect of a debt or claim to
+oppose the confirmation, is by reason of ignorance of the proceedings
+for confirmation, or of their nature and effect with respect to the
+claim of that creditor, not entered on the list of creditors and, after
+the confirmation, the company fails to pay the amount of the debt of
+that creditor or claim, then,
+(a)a person who was a member of the company at the date of
+the registration of the order and minute, is liable to con-
+tribute for the payment of that debt or claim, an amount
+of money not more than the amount which that person
+would have been liable to contribute on the winding up of
+the company had that commenced immediately before the
+date of the registration; and
+74
+
+===== PAGE 75 =====
+
+Companies Act, 2019
+# [p75 fs=12.8] Act992
+(b)where the company is wound up, the Court, on the applica-
+tion of that creditor and proof of the ignorance of the creditor,
+may settle a list of persons so liable to contribute and make
+and enforce calls and orders on those persons as if they
+were members liable to contribute in accordance with
+# [p75 fs=10.9] section 40.
+(2) Subsection (1) does not affect the rights of the members
+among themselves and, except as provided in subsection (1), a member
+or past member after the date of the registration of the order and
+minute is not liable in respect of a share to a call or contribution
+exceeding in amount the unpaid liability on that share as set out in
+the minute.
+(3) An officer of the company who,
+(a)wilfully conceals the name of a creditor entitled to oppose
+the confirmation, or
+(b)wilfully misrepresents the nature or amount of the debt or
+claim of a creditor, or
+(c)aids, abets, or is privy to a concealment or misrepresenta-
+tion,
+commits an offence and is liable on summary conviction to a fine of not
+less than two hundred and fifty penalty units and not more than five
+hundred penalty units or to a term of imprisonment of not less than one
+year and not more than two years or to both the fine and the imprison-
+ment and is personally liable to pay the creditor the amount of the debt
+or claim of the creditor to the extent to which the debt or claim is not
+paid by the company.
+# [p75 fs=10.9] Part I: Debentures and Debenture Stock
+Issue of debentures or debenture stock
+83.(1) A company may raise a loan capital by the issue of a deben-
+ture or of a series of debentures or of debenture stock.
+(2) Debentures of the same series shall rank at the same rate in
+all respects although they may be issued on different dates.
+(3) Instead of issuing debentures acknowledging separate loans
+to the company, the loans may be funded by the creation of deben-
+turestock of a prescribed amount parts of which, represented by
+debenture stock certificates, may be issued to separate holders.
+75
+
+===== PAGE 76 =====
+
+# [p76 fs=12.8] Act992Companies Act, 2019
+(4) Debenture stock shall be created by deed under the common
+seal of the company or certified by the signatures of two directors
+and the Company Secretary in the form of a deed poll or of an
+indenture in favour of trustees for debenture stockholders.
+(5) A debenture holder is not a member of the company and,
+despite a provision in the debenture or the constitution of the com-
+pany, is not entitled to attend and vote at a general meeting of the
+company.
+Specific performance of contract for debentures
+84.A contract with a company to take up and pay for any debenture
+of the company may be enforced by an order for specific performance.
+Documents of title to debentures
+85.(1) Subject to the Central Securities Depository Act, 2007 (Act
+733) a company shall, within two months after the allotment of any
+of its debentures, or after the registration of the transfer of any
+debentures, deliver to the registered holder of the debentures, the debentures
+or a certificate of the debenture stock under the common seal of the
+company or as certified by two directors and the Company Secretary
+of that company.
+(2) Where a debenture or debenture stock certificate is defaced,
+lost or destroyed, the company, at the request of the registered holder
+of the debenture, shall issue a certified copy of the debenture or renew
+thedebenture stock certificate on payment of a fee prescribed by the
+companyand on the terms, as to evidence and indemnity and the
+payment of the out-of-pocket expenses of the company investigating
+the evidence, that the company may reasonably require.
+(3) Where a company defaults in complying with this section,
+the company and an officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of two hundred and
+fifty penalty units.
+(4) On an application by a person entitled to have the deben-
+tures or debenture stock certificate delivered to that person, the Court
+may order the company to deliver the debenture stock certificate and
+may require the company and that officer to bear the costs of, and
+incidental to, the application.
+Effect of statements in debentures
+86.(1) Statements made in debentures or debenture stock certifi-
+76
+
+===== PAGE 77 =====
+
+Companies Act, 2019
+# [p77 fs=12.8] Act992
+cates, including statements made electronically are prima facie evidence
+of the title to the debentures of the person named in the statement as
+the registered holder and of the amounts so secured.
+(2) Where a person changes the position of that person in reliance
+in good faith on the continued accuracy of the statements made in
+the debenture or debenture stock certificate, the company is estopped in
+favour of that person from denying the continued accuracy of the
+statements and shall compensate that person for a loss suffered by that
+person in reliance on that accuracy, and which that person would not
+have suffered had the statement been or continued to be accurate.
+(3) Subsection (2) does not derogate from a right the company
+may have to be indemnified by any other person.
+Perpetual debentures
+87.A condition contained in a debenture or in a trust deed for
+securing any debentures, shall not be invalid by reason of the fact that
+the debentures are by that condition made irredeemable or redeemable
+only on the happening of a contingency, however remote, or on the
+expiration of a period however long.
+Convertible debentures
+88.Subject to the Central Securities Depository Act, 2007 (Act 733),
+debentures may be issued on the terms that in lieu of redemption or
+repayment the debentures may, at the option of the holder or the
+company, be converted into shares in the company on the terms that
+are stated in the debentures.
+Secured or unsecured debentures
+89.(1) Debentures may either be secured by a charge over the
+property of the company or may be unsecured by a charge.
+(2) Debentures may be secured by a fixed charge on some prop-
+erty of the company or a floating charge over the whole or a specified
+# [p77 fs=10.9] part of the undertaking and assets of the company, or by both a fixed
+charge on a property and a floating charge.
+(3) A charge securing debentures becomes enforceable on the
+occurrence of the events specified in the debentures or the deed securing
+the debentures.
+(4) Where legal proceedings are brought by a debenture holder
+to enforce the security of a series of debentures of which that holder
+77
+
+===== PAGE 78 =====
+
+# [p78 fs=12.8] Act992Companies Act, 2019
+holds part, the debenture holder shall sue in a representative capacity
+personally and on behalf of the other debenture holders of that series,
+and section 205 shall apply.
+(5) Where debentures are secured by a charge, sections 110 to 121
+relating to registration of particulars of charges, shall apply.
+Meaning of “floating charge”
+90.(1) Subject to subsection (2), a floating charge is an equitable
+charge over the whole or a specified part of the undertaking and
+assets of the company both present and future.
+(2) A floating charge does not preclude the company from deal-
+ing with the assets of the company until,
+(a)the security becomes enforceable and the holder of the se-
+curity pursuant to a power in that behalf in the debenture
+or the deed securing same, appoints a receiver or manager
+or enters into possession of those assets;
+(b)the Court appoints a receiver or manager of the assets on
+the application of the holder; or
+(c)the company goes into liquidation.
+(3) On the happening of an event specified in subsection (2), the
+charge crystallises and becomes a fixed equitable charge on those of the
+assets of the company that are subject to the charge.
+(4) Where a receiver or manager is withdrawn with the consent
+of the chargee, or the chargee withdraws from possession, before the
+charge has been fully discharged, the charge ceases to be a fixed charge
+and reverts to a floating charge.
+(5) A fixed charge on a property has priority over a floating
+charge affecting that property unless the terms on which the floating
+charge was granted, prohibited the company from granting a later
+charge havingpriority over the floating charge and the person in
+whose favour that later charge was granted had actual notice of that
+prohibition at the time when the charge was granted to that person.
+Powers of the Court
+91.(1) Where a fixed or floating charge becomes enforceable, the
+Court may appoint a receiver and, in the case of a floating charge, a
+receiver and manager of the assets subject to the charge.
+(2) In the case of a floating charge, the Court may, although the
+charge has not become enforceable, appoint a receiver or manager if
+satisfied that the security of the debenture holder is in jeopardy.
+78
+
+===== PAGE 79 =====
+
+Companies Act, 2019
+# [p79 fs=12.8] Act992
+(3) The security of the debenture holder is in jeopardy if the
+Courtis satisfied that events have occurred or are about to occur
+which renderit unreasonable in the interests of the debenture holder
+that the companyshould retain power to dispose of its assets.
+(4) A receiver or manager shall not be appointed as a means of
+enforcing debentures not secured by a charge.
+Payment of preferential creditors out of assets subject to a floating
+charge
+92.(1) Where a receiver is appointed on behalf of the holders of
+the debentures of the company secured by a floating charge or posses-
+sion is taken by or on behalf of those debenture holders of a property
+subject to the charge, the debts which in a winding up are, under
+# [p79 fs=10.9] section 41 of the Bodies Corporate (Official Liquidations) Act, 1963
+(Act 180) to be paid in priority to any other debts, shall be paid out
+of the assets coming to the hands of the receiver or any other person
+taking that possession in priority to a claim for principal or interest
+in respect of the debentures.
+(2) Where the receiver or any other person taking possession as
+provided for in subsection (1) makes a repayment in respect of the deben-
+ture before discharging the debts having priority in accordance with sub-
+# [p79 fs=10.9] section (1), the receiver or that person is personally liable to discharge the
+debts to the extent of the repayment made by the receiver or that person.
+(3) The periods of time mentioned in section 41 of the Bodies
+Corporate (Official Liquidations) Act, 1963 (Act 180) shall be reck-
+oned from the date of the appointment of the receiver or possession
+being taken.
+(4) The payments made under this section shall be recouped as
+far as may be out of the assets of the company available for payment
+of general creditors.
+Limitation of efficacy of floating charges in liquidations
+93.Where the winding up of the company commences within twelve
+months of the creation of a floating charge on the undertaking or
+property of the company, the charge is invalid, unless it is proved
+that the company was solvent immediately after the creation of the
+charge, except to the amount of the cash paid to the company at the
+time of, or subsequent to, the creation of the charge and in considera-
+79
+
+===== PAGE 80 =====
+
+# [p80 fs=12.8] Act992Companies Act, 2019
+tion for the charge, together with interest on that amount at the yearly
+interest rate applicable to the ninety-one day government treasury bill.
+Appointment of a receiver
+94.The appointment of a receiver by or a manager on behalf of a
+debenture holder shall be in accordance with sections 261 to 263.
+Trustee for debenture holder
+95.(1) Whether or not a debenture is secured by a charge over the
+property of the company, the debenture may be secured by a trust deed
+appointing trustee for a debenture holder.
+(2) A trustee shall safeguard the rights of the debenture holder
+and, on behalf of and for the benefit of the debenture holder, exercise
+the rights, powers, and discretion conferred on them by the trust deed.
+(3) Charges securing a debenture may be created in favour of
+the debenture holder by vesting the debenture in the trustee.
+(4) A provision contained in a trust deed or in a contract with a
+holder of a debenture secured by a trust deed is void in so far as it
+wouldhave the effect of exempting a trustee of the holder from, or
+indemnifyingthe trustee against, liability for a breach of trust or
+failure to show the degree of care and diligence required of the trustee
+as trustee havingregard to the powers, authorities or discretion
+conferred on the trustee by the trust deed.
+(5) Subsection (4) does not invalidate a release otherwise validly
+given in respect of anything done or omitted to be done by a trustee
+on the agreement to that release, of a majority of not less than three-
+fourthsin value of the debenture holders present in person, or where
+proxies are permitted, by proxy at a meeting summoned for the
+purpose.
+(6) Despite the provisions in the debenture or trust deed, the
+Court may, on the application of a debenture holder or of the Regis-
+trar, remove a trustee and appoint another trustee in the place of the
+removed trusteeif satisfied that the first mentioned trustee has an
+interest which conflict or may conflict with the interest of the debenture
+holder or that for a sufficient reason, it is desirable to remove that trustee.
+(7) Where an application is made under subsection (6) by a
+debenture holder, the Court may order the applicant to give security
+for the payment of the costs of the trustee and may direct that the
+applicationshall be heard in chambers.
+80
+
+===== PAGE 81 =====
+
+Companies Act, 2019
+# [p81 fs=12.8] Act992
+(8) Where a trustee dies or retires, the Registrar may appoint
+another trustee in the place of the trustee who has died or retired at
+any time before the appointment of another trustee in accordance
+with a provision to that effect in the trust deed.
+Meetings of debenture holders
+96.(1) The terms of the debentures or trust deed may provide for
+the convening of general meetings of the debenture holders and for the
+passing, at those meetings, of resolutions binding on the holders of
+the debentures of the same class.
+(2) Whether or not the debentures or trust deed contains the provi-
+sions referred to in subsection (1), the Registrar may at any time direct a
+meeting of the debenture holders of a class to be held and conducted in
+the manner that the Registrar thinks fit, to consider the matters which
+the Registrar or the trustees, shall bring before the meeting, and may give
+the ancillary or consequential direction that the Registrar thinks fit.
+Re-issue of redeemed debentures
+97.(1) Where a company redeems a debenture previously issued,
+the company may, subject to subsection (5), re-issue that debenture.
+(2) The re-issue may be made either by re-issuing that debenture
+or by issuing another debenture in place of the redeemed debenture.
+(3) On re-issue, the person entitled to the debenture has the
+same priority as if the debenture had never been redeemed.
+(4) The re-issue of a redeemed debenture shall be treated as the
+issue of a new debenture for the purposes of stamp duty but not for
+any other purpose including a provision limiting the amount or number
+of debentures to be issued.
+(5) For the purposes of subsection (4), a person lending money
+on the security of a re-issued debenture which appears to be duly
+stamped may give the debenture in evidence in any proceedings without
+payment of the stamp duty or a penalty unless that person had notice,
+or with due diligence might have discovered that the debenture was not
+duly stamped,but the company in either case is liable to pay the
+proper stamp duty and penalty.
+81
+
+===== PAGE 82 =====
+
+# [p82 fs=12.8] Act992Companies Act, 2019
+(6) This section does not entitle a company to re-issue a
+redeemeddebenture if the company has manifested the intention of
+the company that the debenture shall be cancelled or if re-issued, is
+forbidden by a provision in the constitution of the company or in the
+debenture, trust deed or any other contract enteredinto by the com-
+pany.
+(7) Where a company has deposited any of the debentures of
+the company to secure advances from time to time on current account
+or otherwise, the debentures shall not be deemed to have been re-
+deemed by reason of the account of the company having ceased to be
+in debit while the debentures remained so deposited.
+# [p82 fs=10.9] Part J: Transfer of Shares and Debentures
+Restrictions on transferability of shares
+98.(1) Except as expressly provided in the registered constitution of
+a company, shares are transferable without restriction by a written
+transfer in common form.
+(2) Subject to section 322, the registered constitution of a company
+may impose restrictions on the transferability of shares, including
+power for the directors to refuse to register a transfer and provisions
+for compulsory acquisition or rights of first refusal in favour of other
+members or officers of the company.
+(3) A restriction shall not be imposed under subsection (2) on the
+transferability of any shares after the shares have been issued unless
+the holders of the shares consent in writing to the transfer.
+(4) Despite subsection (1), a company may refuse to register a
+transfer of shares to a person who is an infant or to a person found by
+a court of competent jurisdiction in the Republic to be an infant or
+a person of unsound mind.
+Register of debentures
+99.(1) A company which issues or has issued debentures shall main-
+tain a register of the holders of the debentures.
+(2) Subject to sections 106 to 109,
+(a)the register of debenture holders shall be kept and main-
+tained at the address at which the register of members is
+kept; and
+82
+
+===== PAGE 83 =====
+
+Companies Act, 2019
+# [p83 fs=12.8] Act992
+(b)sections 35 to 39 shall apply as regards the giving of notice
+to the Registrar of the place where the register is kept, tak-
+ing into consideration the details in the register of deben-
+tures.
+Restrictions on transferability of debentures
+100.(1) Except as expressly provided in the terms of the debentures,
+debentures are transferable without restriction by a written transfer in
+common form and the transferee is entitled to the debenture and to
+the moneys secured by the transfer without regard to any equities, set-off,
+or cross claim between the company and the original or an intermediate
+holder.
+(2) Subject to section 322, the terms of a debenture may impose
+restrictions on the transferability of debentures including power for the
+company to refuse to register a transfer and provisions for compulsory
+acquisition or rights of first refusal in favour of other debenture holders,
+or members or officers of the company.
+(3) Where a restriction is imposed on the right to transfer a deben-
+ture, notice of the restriction shall be endorsed on the face of the deben-
+ture or debenture stock certificate and, in the absence of that endorse-
+ment, the restriction is ineffective as regards a transferee for value whether
+or not that transferee has notice of the restriction.
+Registration of transfers
+101.(1) Subject to sections 35, 102 and 103, a notice of a trust,
+express, implied or constructive or of any equitable, contingent, future
+or partial interest in a share or debenture or a fractional part of a share
+or debenture shall not be entered in the register of members or debenture
+holders or receivable by the company.
+(2) For the purposes of subsection (1), the company is not bound
+by, or is not compelled in any way to recognise, any other rights in
+respect of a share or debenture except an absolute right to the entirety
+of the share or debenture in the registered holder; and accordingly
+until the name of the transferee is entered in the register in respect of
+the share or debenture, the transferor remains, so far as concerns the
+company, the holder of the share or debenture.
+(3) Despite anything contained in the constitution of a company
+or in a contract, that company shall not register a transfer of shares
+or debentures unless a proper instrument of transfer duly stamped, if
+chargeable to stamp duty, has been delivered to the company.
+83
+
+===== PAGE 84 =====
+
+# [p84 fs=12.8] Act992Companies Act, 2019
+(4) Subsection (3) does not derogate from a power of the
+companyto register a person to whom the right to shares or deben-
+tures has been transmitted by operation of law.
+(5) Unless otherwise provided in the constitution of a company
+or the terms of the debenture, the company may refuse to register a
+transfer if the transfer is not accompanied by the appropriate share
+certificate,debenture or debenture stock certificate, or the company is
+bound to issue a renewal or copy of that certificate in accordance with
+# [p84 fs=10.9] subsection (2) of section 55 or section 85.
+(6) Transfers may be lodged for registration by the transferor or
+the transferee.
+(7) Where a company refuses to register a transfer, the company
+shall, within two months after the date on which the transfer was
+lodged with the company, send to the transferee and transferor notice
+of the refusal.
+(8) Where a company defaults in complying with subsection (3) or
+(7), that company and every officer of the company that is in default is
+liable to pay to the Registrar an administrative penalty of five hundred
+penalty units.
+(9) The provisions of this section shall not apply to a company
+the shares of which can be transferred through a scheme established
+under the Central Securities Depository Act, 2007 (Act 733).
+Transmission of shares or debentures by operation of law
+102.(1) In the case of the death of a shareholder or debenture holder,
+(a)the survivor or survivors, where the deceased was a joint
+holder, and
+(b)the legal personal representatives of the deceased, where
+the deceased was a sole holder or last survivor of joint holders,
+shall be the only persons recognised by the company as shareholders or
+debenture holders.
+(2) A person on whom the ownership of a share or debenture
+devolves by reason of that person being the legal personal representative,
+receiver, or trustee in bankruptcy of the holder, or by operation of law
+may, on the evidence being produced that the company may properly
+require, be registered personally as the holder of the share or debenture
+or transfer the same to any other person, and the transfer shall be as
+valid as if that person had been registered as a holder at the time of
+execution of the transfer.
+84
+
+===== PAGE 85 =====
+
+Companies Act, 2019
+# [p85 fs=12.8] Act992
+(3) The company has the right to decline registration of a transfer
+under subsection (2) as it would have had in the case of a transfer by
+the registered holder but does not have a right to refuse registration
+personally of that person.
+(4) A person on whom the ownership of a share or debenture
+devolves by reason of that person being the legal personal representative,
+receiver, or trustee in bankruptcy of the holder, or by operation of law
+is entitled, before registration personally of that person or a trans-
+feree, to the same dividends, interest and other advantages as if that
+person were the registered holder and, in the case of a share, to the
+same rights and remedies as if that person were a member of the
+company, but that person is not entitled before being registered as a
+member in respect of the share, to attend and vote at a meeting of the
+company.
+(5) For the purposes of subsection (4), the company may at any
+time give notice requiring that person to elect to be registered personally
+or to transfer the share or debenture, and if the notice is not complied
+with within ninety days, the company may suspend payment of the
+dividends, interest or any other moneys payable in respect of the share
+or debenture until the requirements of the notice have been complied
+with.
+(6) The provisions of subsections (2) to (5) shall not apply to a
+company the shares of which can be transferred through a scheme
+established under the Central Securities Depository Act, 2007 (Act
+733).
+Protection of beneficiaries
+103.(1) A person claiming to be interested in any shares or deben-
+tures or the dividends or interest on those shares or debentures may
+protectthe interest of that person by serving on the company con-
+cerned copies of a notice and affidavit in accordance with the High
+Court (Civil Procedure) Rules, 2004 (C.I. 47).
+(2) Despite subsection (1) of section 101, the company shall
+(a)enter on the register of members or debenture holders, the
+fact that the notice has been served, and
+(b)not register a transfer or make a payment or return in
+respect of the shares or debentures contrary to the terms of
+the notice until the expiration of due notice to the claimant
+in accordance with that Order.
+85
+
+===== PAGE 86 =====
+
+# [p86 fs=12.8] Act992Companies Act, 2019
+(3) In the event of a default by the company in complying
+with this section, the company shall compensate a person injured as a
+result of the default.
+(4) Theprovisions of this section shall notapplytoa
+company the shares of which are dealt with by virtue of a scheme
+establishedunder the Central Securities Depository Act, 2007 (Act
+733).
+Certification of transfers
+104.(1) Where the holder of shares or of debenture stock wishes to
+transfer to a person part only of the shares or stock represented by one
+or more certificates, the instrument of transfer together with the
+related certificates may be delivered to the company or to the registra-
+tion officer of the company with a request to certify the instrument of
+transfer.
+(2) If a company or its registration officer endorses on an
+instrument of transfer the words “certificate lodged”, or words to the
+like effect, the endorsement shall be taken as a representation to
+anyone acting on the faith of the certification that there has been
+produced to, and retained by, the company or the registration officer
+the certificates that show a prima facie title to the shares or stock in
+the transferor named in the instrument of transfer but not as a repre-
+sentation that the certificates are genuine or that the transferor has a
+title to the shares or stock.
+(3) Where a person acts on the faith of a false certification
+made by the company, the company is liable to compensate that person
+for a loss suffered as a result of so acting.
+(4) Where a person acts on the faith of a false certification
+made by the registration officer, the company and the registration
+officer are jointly and severally liable to compensate that person for a
+loss suffered as a result of so acting but the company is entitled to be
+indemnified by the registration officer.
+(5) The certification is made by the company,
+(a)if the certification bears the signature or initials, whether
+handwritten or not, of an officer for whose act of signing
+that certificate the company is liable under sections 147 to
+151; or
+86
+
+===== PAGE 87 =====
+
+Companies Act, 2019
+# [p87 fs=12.8] Act992
+(b)if the certification purports to bear the signature or initials,
+whether hand-written or not, of an officer of the company
+and is issued by an officer of the company for whose act of
+issuing the certificate the company is liable under sections
+147 to 151.
+(6) The certification is made by the registration officer,
+(a)if the certification bears the signature or initials, whether
+handwritten or not, of the registration officer or of any
+officer, agent or servant of the registration officer having
+the authority to certify transfers of the shares or debenture
+stock of the company; or
+(b)if the certification purports to bear the signature or initials,
+whether handwritten or not, of the registration officer or
+any officer, agent or servant of the registration officer and
+when issued by the registration officer or any officer, agent
+or servant of the registration officer having the authority to
+issue certification of transfers of the shares or debenture
+stock of the company.
+(7) For the purposes of subsections (5) and (6), the certification
+is issued by a person, if the instrument of transfer bearing the certifica-
+tion is delivered or sent by that person to the transferor, transferee or any
+other person named in the request for certification, or is despatched to
+the transferor, transferee or that other person with a covering letter bear-
+ing the signature or initials of that person whether handwritten or not.
+(8) The provisions of this section shall not apply to a company
+the shares of which are operated by virtue of a scheme established under
+the Central Securities Depository Act, 2007 (Act 733).
+Lien of a company on shares
+105.(1) Subject to the Central Securities Depository Act, 2007 (Act
+733), a company may, where the constitution of the company so
+provides, have a lien on any of the issued shares on which there is an
+unpaid liability for the moneys, whether presently payable or not, called
+or payable at a fixed time in respect of those shares.
+(2) The lien shall be an effective charge on the shares and the
+dividends payable on the shares enforceable in the manner provided
+by the constitution of the company.
+(3) Despite a provision in the constitution of the company, the
+lien of the company shall not extend to shares on which there does
+87
+
+===== PAGE 88 =====
+
+# [p88 fs=12.8] Act992Companies Act, 2019
+not exist an unpaid liability, or to the sums of money due from the
+shareholderexcept in respect of the unpaid liability on the shares.
+# [p88 fs=10.9] Part K: Branch Registers
+Power of company to keep branch register
+106.(1) A company that has shares may, if so required by the consti-
+tution of the company, keep in a country outside the Republic a branch
+register of shareholders or debenture holders or beneficial owners
+residing in that country or in any other country outside the Republic.
+(2) The company shall give to the Registrar, notice of the location
+of the office where a branch register is kept, and of a change in the
+location of the company, and if it is discontinued, of the discontinu-
+ance.
+(3) The notice shall be given within twenty-eight days of the
+opening of the office or of the change or discontinuance.
+(4) Where the company defaults in complying with subsec-
+tions (2) and (3), the company and every officer of the company who
+is in default is liable to pay to the Registrar, an administrative penalty
+of twenty-five penalty units for each day during which the default
+continues.
+# [p88 fs=10.9] Regulations as to branch registers
+107.(1) A branch register is a part of the principal register of mem-
+bers, debenture holders or beneficial owners of the company.
+(2) A branch register shall be kept in, and shall be opened for
+inspection in, the same manner in which the principal register is, by
+sections 35 to 39 and sections 99 to 101 required to be kept, and the
+advertisement before closing the branch register shall be published in a
+daily newspaper circulating in the district where the branch register is
+kept.
+(3) The company shall,
+(a)transmit to the registration office of the company a copy
+of every entry in the branch register as soon as practicable
+after the entry is made; and
+(b)keep at the place where the principal register of the com-
+pany is kept, a duplicate of the branch register duly entered
+up from time to time.
+(4) The duplicate is, for the purposes of this Act, a part of the
+principal register.
+88
+
+===== PAGE 89 =====
+
+Companies Act, 2019
+# [p89 fs=12.8] Act992
+(5) Subject to this section, with respect to the duplicate regis-
+ter, the shares or debentures registered in a branch register shall be
+distinguished from those registered in the principal register, and a
+transaction with respect to a share or debenture registered in a branch
+register shall not, during the continuance of that registration, be regis-
+tered in any other register.
+(6) A company may discontinue a branch register, and the
+entries in that register shall be transferred to the principal register.
+(7) Subject to this Act, a company may, by the constitution of
+the company, make provisions respecting the keeping of branch registers.
+(8) Where a company defaults in complying with subsection
+(3), the company and every officer of the company who is in default
+is liable to pay to the Registrar an administrative penalty of twenty-
+five penalty units for each day during which the default continues.
+(9) Where the principal register is kept at the office of a person
+other than the company, and by reason of a default of that person
+the company fails to comply with paragraph(b)of subsection (3), that
+person is liable to the same penalty as if that person was an officer of
+the company who was in default.
+(10) The provisions of this section shall not apply to a company
+the shares of which are operated by virtue of a scheme established
+under the Central Securities Depository Act, 2007 (Act 733).
+Stamp duties in case of securities registered in branch registers
+108.An instrument of transfer of a share or debenture registered in
+a branch register, is a transfer of property situate out of the Republic,
+and, unless executed in a part of the Republic, shall be exempted from
+a stamp duty chargeable in the Republic.
+Provisions as to branch registers kept in the Republic
+109.(1) Subject to subsection (2), where the law in force in a country
+provides for companies incorporated under that law to keep in Ghana
+branch registers of their shareholders or debenture holders, the Minister
+may, by legislative instrument, make Regulations for the application
+of sections 36 and 38 in relation to those branch registers.
+(2) The application of sections 35, 36 and 38 shall not derogate
+from any modification and adaptation specified in the legislative
+instrument made under subsection (1).
+89
+
+===== PAGE 90 =====
+
+# [p90 fs=12.8] Act992Companies Act, 2019
+# [p90 fs=10.9] Part L: Registration of Particulars of Charges
+Registration of particulars of charges created by companies
+110.(1) A charge, other than a charge specified in subsection (5),
+created by a company after the commencement of this Act is void so
+far as a security on the property of the company, is conferred by that
+charge, unless the particulars prescribed in this section together with
+the original or a certified copy of the instrument by which the charge
+is created or evidenced, are delivered in the prescribed form to the
+Registrar for registration within forty-five days after the date of the
+creation of the charge.
+(2) For the purposes of subsection (1), “property” includes the
+undertaking of the company and the unpaid liability on the shares of
+the company.
+(3) This section shall not affect a contract or an obligation for
+repayment of the money secured by the contract or obligation.
+(4) When a charge becomes void under this section, the money
+secured by the charge shall immediately become payable despite a
+provision to the contrary in the contract.
+(5) This section shall not apply to a pledge of, or possessory
+lien on, goods, or to a charge, by way of pledge, deposit, letter of
+hypothecation or trust receipt, of bills of lading, dock warrants or any
+other documents of title to goods, or of bills of exchange, promissory
+notes or any other negotiable securities for money.
+(6) Subject to subsections (7) and (8), the particulars requiring
+delivery for registration under this section are
+(a)the date of creation of the charge;
+(b)the nature of the charge;
+(c)the amount of money secured by the charge, or the maxi-
+mum sum of money secured by the charge in accordance
+with section 111;
+(d)short particulars of the property charged;
+(e)the persons entitled to the charge;
+(f)in the case of a floating charge, the nature of a restriction
+on the power of the company to grant further charges rank-
+ing in priority to, or at the same rate with, the charge cre-
+ated by the registration; and
+90
+
+===== PAGE 91 =====
+
+Companies Act, 2019
+# [p91 fs=12.8] Act992
+(g)particulars of any variation of the terms and provisions of
+a charge.
+(7) Where a series of debentures containing, or giving by reference
+to any other instrument, a charge to the benefit of which the debenture
+holders are entitled at the same rate, is created by the company, it shall,
+for the purposes of this section, be sufficient if the debentures are delivered
+to the Registrar within forty-five days after the execution of the docu-
+ment containing the charge or, if there is no document containing the
+charge after the execution of any debentures of the series, the following
+particulars, namely,
+(a)the dates of the resolutions authorising the issue of the series
+and the date of the covering deed by which the security is
+created or defined,
+(b)the total amount of money secured by the whole series,
+(c)the names of the trustees, and
+(d)the particulars specified in paragraphs(b),(d)and(f)of sub
+# [p91 fs=10.9] section (6) of this section,
+together with the original or certified copy of the deed creating the
+charge or, of any deed variation of the terms and provisions of the
+charge or if there is no certified copy of the deed, the debentures of
+the series.
+(8) For the purposes of subsections (1) and (7), a certified copy
+is a copy which has, endorsed on that copy, a certificate to the effect
+that it is a true and complete copy of the original, under the seal of
+the company or signed personally by a person interested in the copy
+otherwise than on behalf of the company.
+(9) Where the original is not in the English language, the copy
+shall also contain a translation acceptable to the Registrar similarly
+certified to the effect that it is an accurate translation of the original.
+(10) This section does not affect the provisions of any other
+enactment relating to the registration of charges.
+Charges to secure fluctuating amounts
+111.(1) Where a charge, particulars of which require registration
+under section 110 is expressed to secure
+(a)the sums of money due or to become due, or
+(b)some other uncertain or fluctuating amount,
+the particulars required under paragraph(c)of subsection (6) of section
+110 shall state the maximum sum of money secured by the charge, being
+91
+
+===== PAGE 92 =====
+
+# [p92 fs=12.8] Act992Companies Act, 2019
+the maximum sum of money covered by the stamp duty paid on the
+charge and the charge shall be void, so far as a security on the property of
+the company is conferred by the registration, regarding an excess over
+the stated maximum.
+(2) For the purposes of subsection (1), if
+(a)additional stamp duty is subsequently paid on the charge,
+and
+(b)at any time after the payment, but before the commence-
+ment of the winding up of the company, particulars of the
+charge stating the increased maximum sum of money
+secured by the charge, together with the original instrument
+by which the charge was created or evidenced, are deliv-
+ered to the Registrar for registration,
+as from the date of the delivery, the charge, if otherwise valid, shall be
+effective to the extent of the increased maximum sum of money
+except as regards a person who, before the date of the delivery, has
+acquired any proprietary rights in, or a fixed or floating charge on,
+the property subject to the charge.
+Charges on property acquired
+112.(1) When a company acquires a property which is subject to a
+charge of the kind that particulars of it would, if it had been created
+by the company after the acquisition of the property, have been required
+to be registered under section 110, the company shall deliver to the
+Registrar for registration particulars of the charge together with the
+document by which the charge was created or evidenced or a copy of
+that document, certified as provided in subsections (8) and (9) of
+# [p92 fs=10.9] section 110.
+(2) The delivery under subsection (1) shall be effected within twenty-
+eight days after the date on which the acquisition is completed.
+(3) The particulars requiring registration under subsection (1) shall
+be those specified in subsection (6) of section 110 with the addition of
+the date of the acquisition of the property by the company.
+(4) Failure to comply with this section shall not affect the validity
+of the charge.
+Existing charges
+113.(1) Where, at the date of commencement of this Act, a
+company has property on which there is a charge, particulars of which
+would require registration, if it had been created by the company
+92
+
+===== PAGE 93 =====
+
+Companies Act, 2019
+# [p93 fs=12.8] Act992
+after the date of that commencement then, unless the charge has been
+discharged or the property has ceased to be held by the company
+before the expiration of six months from the date of that commence-
+ment, the company shall, within that time, deliver particulars of the
+charge as prescribed by section 110 to the Registrar for registration
+together with the document,by which the charge was created or a
+copy of that document certified as required by that section.
+(2) An existing company shall before the expiration of six months
+from the commencement of this Act, deliver to the Registrar for regis-
+tration a statutory declaration made by a director and the Company
+Secretary stating whether or not there are any charges on the property of
+the company of which particulars require to be registered under subsec-
+tion (1) and confirming that particulars of those charges have been duly
+delivered to the Registrar for registration.
+(3) Failure to comply with this section shall not affect the validity
+of the charge.
+Duty of company to deliver particulars for registration
+114.(1) A company shall send to the Registrar for registration the
+particulars required to be sent under sections 110 to 113, but registration
+of the particulars of the charge may be effected on the application of
+a person interested in the charge.
+(2) Where registration is effected on the application of a
+person other than the company, that person is entitled to recover from
+the company the amount of the fees payable to the Registrar on the
+registration.
+(3) Where a company defaults in sending to the Registrar the
+particulars requiring registration as required by this section, the company
+and every officer of the company that is in default is liable to pay to
+the Registrar, an administrative penalty of five hundred penalty units
+unless the particulars have been duly delivered for registration by any
+other person.
+Register of particulars of charges
+115.(1) The Registrar shall keep, with respect to each company, a
+register of the particulars duly delivered pursuant to sections 110 to
+113 and shall enter the particulars in the register.
+(2) The Registrar shall give a certificate signed by the Registrar of
+93
+
+===== PAGE 94 =====
+
+# [p94 fs=12.8] Act992Companies Act, 2019
+the registration of particulars of a charge registered in pursuance of
+sections 110 to 113, and the certificate is conclusive evidence, except in
+favour of the company or of any other person who has delivered false or
+incomplete particulars or an incorrect copy of a document, that the
+requirements of sections 110 to 113 have been complied with.
+(3) In the case of a charge of the type referred to in section 111,
+the certificate shall state the maximum sum of money deemed to be
+secured by the charge.
+(4) The original or certified copy of the instrument of the charge
+delivered with the particulars shall not be registered or retained by the
+Registrar.
+Endorsement of registration on debentures of a series
+116.(1) A company shall endorse on every debenture, being one of
+a series of debentures, or certificate of debenture stock which is issued
+by the company and the payment of which is secured by a charge, the
+following particulars of which are registered under sections 110 to 113:
+(a)a copy of the certificate of registration, or
+(b)a statement that registration has been effected and the date
+of registration.
+(2) Subsection (1) shall not be construed as requiring to be so
+endorsed a debenture or certificate or debenture stock issued by the com-
+pany before the charge was created.
+(3) A person who knowingly authorises or permits the delivery
+of a debenture or certificate of debenture stock which is required to
+be endorsed under this section and which is not so endorsed is liable
+to pay to the Registar, an administrative penalty of fifty penalty units.
+(4) A person who
+(a)endorses or causes to be endorsed on a debenture or certifi-
+cate of debenture stock a purported copy of a certificate of
+registration or statement that registration has been effected
+which that person knows to be false in a material particu-
+lar, or
+(b)authorises or permits the delivery of a debenture or certificate
+of debenture stock bearing an endorsement purporting to
+be a copy of a certificate of registration or statement that
+registration has been effected which that person knows to
+be false in a material particular,
+94
+
+===== PAGE 95 =====
+
+Companies Act, 2019
+# [p95 fs=12.8] Act992
+commits an offence and is liable on summary conviction to a fine of
+not less than five hundred penalty units and not more than one
+thousand penalty units or to a term of imprisonment of not less than
+two years and not more than five years or to both the fine and impris-
+onment.
+Entry of satisfaction upon receipt of discharge
+117.The Registrar, upon receipt of an application in the prescribed
+form and on satisfactory evidence given with respect to a charge of
+which particulars have been registered,
+(a)that the debt for which the charge was given has been paid
+or satisfied in whole or in part, or
+(b)that the whole or part of the property charged has been
+released from the charge or has ceased to form part of
+the property of the company or undertaking,
+shall enter on the register a memorandum of satisfaction in whole or
+in part, or of the fact that the whole or part of the property has been
+released from the charge or has ceased to be part of the property of
+the company, and where the Registrar enters a memorandum of satis-
+faction in whole, the Registrar shall if required, furnish the company
+with a copy of the memorandum.
+Rectification of register of particulars of charges
+118.(1) The Court, on being satisfied
+(a)that the omission to register particulars of a charge within
+the time required by this Act, or that the omission or
+mis-statement of the particulars with respect to a charge or
+in a memorandum of satisfaction was accidental, or due to
+inadvertence or to some other sufficient cause, or is not of
+a nature to prejudice the position of creditors or members
+of the company, or
+(b)that on other grounds it is just and equitable to grant relief,
+may, on the application of the company or a person inter-
+ested, and on the terms that the Court considers just and
+expedient, order that the time for registration shall be
+extended, or that the omission or mis-statement shall be
+corrected.
+(2) When the Court grants an extension of time for registra-
+tion, the charge shall not, unless the Court otherwise orders, adversely
+95
+
+===== PAGE 96 =====
+
+# [p96 fs=12.8] Act992Companies Act, 2019
+affect a person who, before the date of actual registration of particu-
+lars of the charge, has acquired proprietary rights in, or a fixed or
+floating charge on, the property subject to the charge, and shall be
+ineffective against the liquidator and the creditors of the company if
+the winding up of the company commences before the date of actual
+registration.
+Registration of enforcement of security
+119.(1) Where a person obtains an order for the appointment of a
+receiver of property of a company, or appoints a receiver or enters
+into possession of the property under a power contained in a charge,
+noticeof the fact in the prescribed form shall, within ten days from
+the date of the order, appointment, or entry into possession, be given
+to the Registrar who shall enter the fact in the register of the particulars
+of charges relating to that company.
+(2) Where there is a default in giving the notice required under
+# [p96 fs=10.9] subsection (1), the receiver, the person entering into possession, the
+company, or an officer of the company who is in default, is liable to
+pay to the Registrar, an administrative penalty of twenty-five penalty
+units for each day during which the default continues.
+(3) Where a person appointed receiver of the property of the
+company ceases to act as receiver, or where a person having entered
+into possession goes out of possession, that person shall give notice
+to the Registrar, within ten days of so ceasing to act or to remain in
+possession, to that effect in the prescribed form.
+(4) The Registrar shall enter the notice referred to in subsec-
+tion (3) in the register of particulars of charges.
+(5) A person who defaults in complying with the requirements
+of subsection (3) is liable to pay to the Registrar, an administrative
+penalty of twenty-five penalty units for each day during which the
+default continues.
+(6) The Registrar shall cause a copy of a notice given under
+this section to be published in theCompanies Bulletin.
+Copies of charges to be kept by company
+120.(1) A company shall keep a copy of every instrument creating
+a charge of which particulars require to be registered under sections
+110 to 113, at the registered office of the company and at any other
+office in Ghana at which the register of debenture holders is kept; but
+96
+
+===== PAGE 97 =====
+
+Companies Act, 2019
+# [p97 fs=12.8] Act992
+in the case of a series of uniform debentures, a copy of one debenture
+of the series is sufficient.
+(2) The copies are open to inspection during usual business
+hours, subject to the reasonable restrictions that the company in general
+meeting may impose.
+(3) For the purposes of subsection (2), not less than two hours
+in each day, other than a Saturday, a Sunday and a public holiday,
+shall be allowed for inspection by
+(a)a member or creditor of the company without a fee, and
+(b)any other person on payment of a fee, prescribed by the
+company for each inspection.
+(4) Where a company defaults in complying with subsection
+(1), or if inspection of the copies is refused, the company and every
+officer of the company that is in default is liable on summary convic-
+tion to a fine of not less than two hundred and fifty penalty units and
+not more than five hundred penalty units, and in the event of refusal,
+the Court may compel an immediate inspection of the copies.
+Registration constituting notice
+121.The registration of any particulars under sections 113 to 120
+constitutes actual notice of those particulars, but not of the contents
+of a document referred to in, or delivered with, the particulars to all
+persons and for all purposes as from the date of registration.
+# [p97 fs=10.9] Part M: Registered Office, Publication of Name and Annual Returns
+Registered office
+122.(1) A company shall within twenty-eight days after its incor-
+poration, have the following to which communications and notices
+to the company may be addressed:
+(a)a registered office and principal place of business in the
+Republic with a telephone contact, a post office box,
+private mail bag or digital address of the registered office;
+and
+(b)an electronic mail address and the website of the company
+if available.
+(2) Where a company defaults in complying with subsection
+97
+
+===== PAGE 98 =====
+
+# [p98 fs=12.8] Act992Companies Act, 2019
+(1), the company and every officer of the company that is in default is
+liable to pay to the Registrar, an administrative penalty of twenty-five
+penalty units for each day during which the default continues.
+Notice of location of registered office
+123.(1) A company shall give notice of the following for purposes
+of incorporation in accordance with section 13:
+(a)the original registered office of the company, the telephone
+contact, a post office box, private mail bag or digital
+address of the registered office; and
+(b)an electronic mail address and the website of the company
+if available.
+(2) Notice of a change in the location of the registered office
+or of the number of the post office box, digital address or of the
+electronic mail address shall be given in the prescribed form to the
+Registrar for registration within twenty-eight days of the change.
+(3) The inclusion in the annual return referred to in section
+126 of a statement as to the location of the registered office of the
+company and the number of the post office box, digital address or
+the electronic mail address of the company does not satisfy the obliga-
+tion imposed by this section.
+(4) Where a company defaults in complying with subsection
+(2) or (3), the company and every officer of the company that is in
+default is liable to pay to the Registrar, an administrative penalty
+of twenty-five penalty units for each day during which the default
+continues.
+Requirement to change registered office
+124.(1) Subject to the other provisions of this section, a company
+shall change the registered office where the company is required to do so
+by the Registrar.
+(2) The Registrar may require a company to change the regis-
+tered office by notice in writing delivered or sent to the company at the
+registered office of the company.
+(3) The notice shall
+(a)state that the company is required to change the registered
+office by the date specified in the notice, not being a date
+that is earlier than twenty-eight days after the date of the
+notice;
+(b)state the reason for the required change;
+98
+
+===== PAGE 99 =====
+
+Companies Act, 2019
+# [p99 fs=12.8] Act992
+(c)state that the company has the right to appeal to Court;
+and
+(d)be dated and signed by the Registrar.
+(4) A copy of the notice shall be sent to each director of the
+company.
+(5) The company shall change the registered office
+(a)by the date specified in the notice; or
+(b)where the company appeals to the Court and the appeal is
+dismissed, within seven days of the date of the decision of
+the Court.
+(6) Where a company fails to comply with this section, each
+director and the Company Secretary commit an offence and are liable on
+summary conviction to a fine of not more than twenty-five penalty units
+for each day during which the default continues.
+Publication of name of company
+125.(1) A company shall,
+(a)paint or affix, and keep painted or affixed, the name of the
+company on the outside of the registered office and of
+every office or place in which the business of the company
+is carried on, in a conspicuous position in letters that are
+easily legible;
+(b)where the company has a common seal, have the name of
+the company engraved in legible characters on the seal; and
+(c)have the name of the company accurately mentioned in
+legible characters at the head of the business letter, invoices,
+receipts, notices, or any other publication of the company
+and in the negotiable instruments or orders for money, goods
+or services purporting to be signed or endorsed by or on
+behalf of the company.
+(2) Where a company defaults in complying with subsection (1),
+the company and each officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of two hundred and
+fifty penalty units.
+(3) Where an officer of the company or a person purporting to act
+on behalf of the company uses or authorises the use of a seal purporting
+to be a seal of the company on which the name is not engraved as
+required by subsection (1), that officer commits an offence and is liable
+on summary conviction to a fine of not less than one hundred and twenty-
+five penalty units and not more than two hundred and fifty penalty units.
+99
+
+===== PAGE 100 =====
+
+# [p100 fs=12.8] Act992Companies Act, 2019
+(4) Where an officer of the company or any other person signs or
+endorses or authorises the signing or endorsement on behalf of the com-
+pany of a negotiable instrument or order for money, goods or services in
+which the name of the company is not accurately mentioned in accor-
+dance with paragraph(c)of subsection (1), that officer or person is
+personally liable to discharge the obligation thereby incurred unless the
+obligation is duly discharged by the company or otherwise, but without
+limiting a right of indemnity which that person may have against the
+company or any other person.
+(5) The use of the following abbreviations:
+(a)“Ltd” stands for “Limited”,
+(b)“PLC” stands for “Public Limited Company”,
+(c)“LBG” stands for “Limited by Guarantee”,
+(d)“PRUC” stands for “Private Unlimited Company”, or
+(e)“PUC” stands for “Public Unlimited Company”
+is not a breach of this section.
+Annual return
+126.(1) A company shall, at least once in every year, deliver to the
+Registrar for registration an annual return including particulars of
+every member of the company, and every beneficial owner of that
+company and in the form and relating to the matters prescribed in the
+Fifth Schedule.
+(2) A company need not make an annual return,
+(a)in the year of incorporation, or
+(b)in a year ending less than eighteen months after the date of
+incorporation, so long as the company makes a return
+within thirty-six days after the first despatch to the members
+and debenture holders of the statements, accounts, and
+reports referred to in section 128.
+(3) The annual return shall be completed within thirty-six days from
+the date on which the financial statements, reports of the directors and
+auditors of the company are sent to the members and debenture holders
+pursuant to section 128, and signed by at least one director and the
+Company Secretary in accordance with section 213.
+(4) The annual return shall state the position of the company
+as at the date of the annual general meeting or, if the holding of an
+100
+
+===== PAGE 101 =====
+
+Companies Act, 2019
+# [p101 fs=12.8] Act992
+annual general meeting is waived in accordance with subsection (5) of
+# [p101 fs=10.9] section 157, at the twenty-first day after the despatch of the docu-
+ments referred to in subsection (3).
+(5) The Registrar, after registering the annual return, shall pub-
+lish in theCompanies Bulletina notice that the annual return in respect of
+the company has been registered.
+(6) In the case of a private company, the annual return shall be
+accompanied by the documents specified in section 298 and in the
+case of a public company by the documents specified in section 323.
+(7) Where a company defaults in complying with this section,
+the company and every officer of the company that is in default is
+liable to pay to the Registrar, an administrative penalty of twenty-five
+penalty units for each day during which the default continues.
+# [p101 fs=10.9] Part N: Accounts and Audit
+Keeping of accounting records and preparation of financial state-
+ments
+127.(1) A company shall keep proper accounting records with
+respect to the financial position and changes in the accounting records,
+and with respect to the control of and accounting for assets acquired
+whether for resale or for use in the business of the company, and, in
+particular with respect to
+(a)the sums of money received and expended by, or on behalf
+of, the company and the matters in respect of which the
+receipt and expenditure takes place;
+(b)the sales and purchases by the company of property, goods
+and services; and
+(c)the assets and liabilities of the company and the interests
+of the members in the company.
+(2) For the purposes of subsection (1), accounting records which
+do not give a true and fair view of the state of affairs of the company and
+are not necessary for the preparation of the proper income statements
+and statement of financial position in accordance with sections 129 to
+135 are not proper accounting records.
+(3) The accounting records may be kept by making entries in bound
+volumes, or, subject to compliance with subsections (2) and (3) of section
+293, by a system of electronic recording, or otherwise.
+101
+
+===== PAGE 102 =====
+
+# [p102 fs=12.8] Act992Companies Act, 2019
+(4) The accounting records shall be kept at the registered office of
+the company or at any other place in Ghana that the directors consider
+fit, and shall be open to inspection by the directors, Company Secretary
+and auditors of the company.
+(5) The financial statements of a company shall
+(a)comprise a
+(i)statement of financial position,
+(ii)statement of comprehensive income,
+(iii) statement of cash flows,
+(iv) statement of changes in equity, and
+(v)summary of significant accounting policies and
+other explanatory notes to the financial statements;
+and
+(b)be prepared in compliance with International Financial
+Reporting Standards adopted by the Institute of Char-
+teredAccountants, Ghana or any other standards
+approved or adopted by the Institute.
+Circulation of financial statements and reports
+128.(1) The directors of a company shall, at a date not later than
+eighteen months after the incorporation of the company and subse-
+quently once at least in every calendar year at intervals of not more
+than fifteen months, prepare and send to every member of the
+company and to every holder of debentures of the company a copy
+of each of the following documents:
+(a)financial statements prepared and signed in accordance with
+sections 129 to 135;
+(b)a report by the directors in accordance with section 136;
+and
+(c)a report by the auditors in accordance with section 137.
+(2) Subsection (1) does not require a copy of the documents to
+be sent to a member or debenture holder of whose address the
+company is unaware, but that member or debenture holder is entitled to
+be furnished on demand without charge with a copy of the last of the
+financial statements and reports of directors and auditors.
+(3) Unless the holding of an annual general meeting is duly
+waived by the members in accordance with subsection (5) of section
+102
+
+===== PAGE 103 =====
+
+Companies Act, 2019
+# [p103 fs=12.8] Act992
+157, the documents referred to in subsection (1) of this section shall be
+laid before the company in general meeting.
+(4) The Registrar may extend the periods of eighteen months
+and fifteen months referred to in subsection (1) and, in the circum-
+stancesreferred to in subsection (8) of section 131, may waive the
+requirementsof this section in respect of a calendar year.
+First financial statements after incorporation
+129.(1) The financial statements referred to in paragraph(a)of
+# [p103 fs=10.9] subsection (1) of section 128 shall, in the case of the first financial
+statements since the incorporation of the company, cover the period
+since the incorporation of the company and, in any other case, cover
+the period since the preceding account and shall be made up to a date
+not earlier than nine months or more from the date on which it is to
+be sent to members and debenture holders pursuant to section 128.
+(2) For the purposes of subsection (1),
+(a)in the case of an existing company which has not previ-
+ously prepared the statements specified in subsection (5) of
+# [p103 fs=10.9] section 127 and which was not required by the constitution
+of the company to prepare one, the first financial statements
+need not cover a period commencing earlier than the date
+of the commencement of this Act; and
+(b)the Registrar may extend the period of nine months.
+(3) The date to which the statement of comprehensive income and
+statement of cash flows is to be made up in accordance with subsection
+(1) is the end of the financial year of the company.
+(4) The statement of comprehensive income and statement of cash
+flows shall, subject to subsection (4) of section 131, relating to a consoli-
+dated financial statement,
+(a)give a true and fair view of the profit or loss and other com-
+prehensive income of the company for the period to which
+the statement relates; and
+(b)comply with the requirements of sections 131 to 135 and
+# [p103 fs=10.9] Part One of the Sixth Schedule.
+(5) The Registrar may, on the application or with the consent
+of the directors of a company, modify in relation to that company,
+any of the requirements in Part One of the Sixth Schedule for the
+103
+
+===== PAGE 104 =====
+
+# [p104 fs=12.8] Act992Companies Act, 2019
+purpose of adapting those requirements to the circumstances of the
+company, but a modification shall not derogate from the obligation
+imposed by paragraph(a)of subsection (4) to give a true and fair view
+of the profit or loss of the company.
+Statement of financial position
+130.(1) The statement of financial position as part of the financial
+statements referred to in paragraph(a)of subsection (1) of section 128
+shall give a true and fair view of the state of affairs of the company
+as at the end of the financial year of the company and shall comply
+with the requirements of sections 131 to 135 and Part Two of the
+Sixth Schedule.
+(2) The Registrar may, on the application or with the consent
+of the directors of the company, modify any of the requirements in
+# [p104 fs=10.9] Part Two of the Sixth Schedule for the purpose of adapting them to
+the circumstancesof the company, but a modification shall not dero-
+gate from the obligation imposed by subsection (1) to give a true and
+fair view of the state of affairs of the company.
+Consolidated financial statements
+131.(1) At the end of the financial year of a company, this section
+shall apply where a company has subsidiaries.
+(2) Financial statements dealing with the operating results and
+the state of affairs of the company and the subsidiaries, that is, the
+consolidated financial statements, shall be sent to the members and
+debenture holders of the company with the financial statements of the
+company pursuant to section 128.
+(3) The consolidated financial statements shall comprise
+(a)statement of financial position,
+(b)statement of comprehensive income,
+(c)statement of changes in equity,
+(d)statement of cash flows, and
+(e)notes to the consolidated financial statements.
+(4) The consolidated financial statements shall
+(a)give a true and fair view of the profit or loss and other
+comprehensive income and of the state of affairs of the
+company and the subsidiaries dealt with by the consolidated
+financial statements as a whole, in so far as it concerns the
+interest of the company; and
+104
+
+===== PAGE 105 =====
+
+Companies Act, 2019
+# [p105 fs=12.8] Act992
+(b)be prepared in compliance with International Financial
+Reporting Standards as adopted by the Institute of Char-
+tered Accountants, Ghana.
+(5) The financial statements of the company and the consolidated
+financial statements, shall comply with the requirements of Part Three
+of the Sixth Schedule.
+(6) The Registrar may, on the application or with the consent of
+the directors of the company, modify in relation to that company any of
+the requirements in Part Three of the Sixth Schedule for the purpose of
+adapting those requirements to the circumstances of the company; but a
+modification shall not derogate from the obligation imposed by subsec-
+tion (4) to give a true and fair view of the profit or loss and other com-
+prehensive income and the state of affairs of the company and the sub-
+sidiaries as a whole, in so far as it concerns the interests of the company.
+(7) Directors of a holding company shall secure that, except
+where in the opinion of the directors there are good reasons against
+the company, in which case reasons of the directors shall be stated in a
+note on the financial statements of the company, the financial year of
+each of the subsidiaries shall coincide with the financial year of the
+company, and the consolidated financial statements shall deal with the
+affairs of the holding company and the subsidiaries for the same
+financial year.
+(8) Where it appears to the Registrar that it is desirable for a
+holding company or subsidiary company to extend its financial year so
+that the financial year of the subsidiary may end with that of the holding
+company, and for that purpose to postpone the despatch of the financial
+statement and reports referred to in section 128, from one calendar year
+to another, the Registrar may direct that the despatch of the financial
+statements by one or other of these companies shall not be required in
+the earlier years of the calendar.
+(9) Where the financial year of a subsidiary does not coincide
+with that of the holding company, the consolidated financial state-
+ments shall, unless the Registrar otherwise directs, deal with the profit
+or loss and other comprehensive income of the subsidiary, and the state
+of affairs as at the end of the financial year of the subsidiary ending
+last before that of the holding company.
+105
+
+===== PAGE 106 =====
+
+# [p106 fs=12.8] Act992Companies Act, 2019
+Particulars of emoluments and pensions of directors
+132.(1) There shall be shown in accordance with this section, in a
+note to the financial statements of a company, the following information
+as it is contained in the accounting records of the company, or the
+company has obtained the information from the persons concerned or
+has the right to obtain it under section 134, namely, the individual and
+aggregate amounts of the
+(a)emoluments of the directors;
+(b)pensions of the directors or past directors; and
+(c)emoluments of the directors or past directors in respect of
+loss of office.
+(2) The amount to be shown under paragraph(a)of subsection
+(1) includes fees, salaries and percentages, expenses, allowances, contri-
+butions paid under a pension scheme, and the estimated value of
+benefits in kind, except benefits of the character and value that are
+customarily afforded to employees other than directors, paid to, or
+receivable by, a director in respect of the services of the director as an
+officer of the company or of an associated company.
+(3) The amount to be shown under paragraph(b)of subsection
+(1) shall include the pension paid or receivable in respect of services as
+a director or past director of the company, or in respect of services,
+while a director of the company, in connection with the management,
+or as an officer of the company or an associated company, whether
+that pensionis paid to, or receivable by, the director or past director or
+any other person.
+(4) For the purposes of subsection (3), it is not necessary to
+include a pension paid or receivable under a pension scheme where
+the contributions are substantially adequate for the maintenance of
+the scheme.
+(5) The amount to be shown under paragraph(c)of subsection
+(1) shall include
+(a)the sums of moneys paid to or receivable by a director or
+past director by way of compensation for the loss of office
+as director of the company or for the loss, while a director
+of the company, or in connection with that person ceasing
+to be a director of the company, or of any other office in
+the company or of an office in an associated company; and
+(b)a sum of money and the value of any other valuable
+consideration paid or receivable in connection with retire-
+106
+
+===== PAGE 107 =====
+
+Companies Act, 2019
+# [p107 fs=12.8] Act992
+ment from office, or as damages for breach of contract of
+service;
+and shall be deemed to be paid or received by way of compensation
+for loss of office.
+(6) The amounts to be shown under each paragraph of subsec-
+tion (1) shall include the relevant sums of money paid by, or receivable
+from, the company or any other person.
+(7) The amounts to be shown under this section for a financial
+year shall be the sums of money receivable in respect of that year
+whenever paid or in the case of sums not receivable in respect of a
+period, the sums paid during that year.
+(8) For the purposes of subsection (7), the sums paid in
+advance of the financial year to which the sums are expressed to relate
+shall be shown in the accounts for the financial year in which the sums
+are paid.
+(9) Where it is necessary to do so for the purposes of making a
+distinction required by this section, the directors may apportion, in a
+manner that the directors think appropriate, the payments between the
+matters in respect of which they have been paid or are receivable.
+Particulars of amounts due from officers
+133.(1) Subject to this section, there shall be separately shown in a
+note to the financial statements of a company, the following:
+(a)the individual and aggregate amounts of money due to the
+company or an associated company at the end of the
+financial year of the company from an officer of the
+company or an associated company; and
+(b)the maximum amount of money due to the company and
+an associated company at any time during the financial year
+of the company from any officer of the company or an
+associated company.
+(2) Where the company or an associated company gives a guar-
+antee or security to a person in respect of an indebtedness of an officer
+of the company or an associated company, the amount guaranteed or
+in respect of which the security was given, shall be included in the
+amountsto be shown under subsection (1).
+107
+
+===== PAGE 108 =====
+
+# [p108 fs=12.8] Act992Companies Act, 2019
+(3) Despite subsections (1) and (2), the following do not require
+to be separately shown:
+(a)an indebtedness incurred as a result of a transaction in the
+ordinary course of business by the company or an associ-
+ated company unless the indebtedness has not been dis-
+charged as and when the payment was due;
+(b)a loan made in the ordinary course of business by a com-
+pany, the ordinary business of which includes the lending
+of money; or
+(c)a loan made by the company or an associated company to
+an officer of the company or associated company if the
+loan does not exceed five thousand currency points or two
+percent of the stated capital of the company concerned,
+whichever is less, and is certified by the directors of the com-
+pany concerned to have been made in accordance with a
+practice adopted, or about to be adopted, by that company
+with respect to loans to those employees.
+(4) Paragraphs(b)and(c)of subsection (3) shall not include a
+loan made by a company under a guarantee from or on security
+provided by an associated company.
+(5) A reference in this section to an associated company
+includes a company which is an associated company at the end of the
+financial year of the company, whether or not an associated company
+at the date of the transaction concerned.
+(6) This section does not derogate from section 328 prohibiting
+loans by public companies to directors of the company or directors of
+associated companies.
+Provisions supplemental to sections 127 to 133
+134.(1) A reference in this Act to the financial statements of a
+company includes the notes on those financial statements and a docu-
+ment annexedto those financial statements giving information which
+is required by this Act.
+(2) A reference in this Act to a statement of comprehensive
+income of a company limited by guarantee or any other company not
+trading for profit shall be construed as a reference to statement of
+comprehensive income and expenditure of the company.
+108
+
+===== PAGE 109 =====
+
+Companies Act, 2019
+# [p109 fs=12.8] Act992
+(3) Where a person, who is a director of a company, fails to
+take the reasonable steps necessary to secure compliance with sections
+127 to 133, that person commits an offence and is, in respect of each
+offence, liable on summary conviction to a fine of not less than two
+hundred and fifty penalty units and not more than five hundred penalty
+units or to a term of imprisonment of not less than one year and not
+more than two years or to both the fine and imprisonment.
+(4) For the purposes of subsection (3),
+(a)in proceedings against a person for an offence, that person
+may as a defence prove that, that person had reasonable
+cause to believe, and did believe, that a competent and reli-
+able person was charged with the duty of seeing that those
+provisions were complied with and was in a position to
+discharge that duty; and
+(b)a person shall not be sentenced to imprisonment for an of-
+fence unless, in the opinion of the Court, the offence was
+committed wilfully.
+(5) A director and former director of the company shall give
+notice in writing to the company of the matters relating to that direc-
+tor or former director that may be necessary to enable the company
+comply with sections 132 and 133, and if notice is given, the director
+or former director shall secure that it is brought up and read at the
+next meeting of the directors after the notice is given.
+(6) It is not necessary for a person under subsection (5) to give
+written notice of loans, guarantees or securities made or given by the
+company.
+(7) A person who defaults in complying with subsection (5) is
+liable to pay to the Registrar an administrative penalty of two hundred
+and fifty penalty units.
+(8) A company shall give a written notice to an associated
+company relating to a transaction entered into by the first named
+company that may be necessary to enable the associated company
+comply with sections 132 and 133.
+(9) Where a company defaults in complying with subsection
+(8), the company and every officer of the company, that is in default is
+liable to pay to the Registrar an administrative penalty of two hun-
+dred and fifty penalty units.
+109
+
+===== PAGE 110 =====
+
+# [p110 fs=12.8] Act992Companies Act, 2019
+Signing and publication of financial statements
+135.(1) A company shall not issue, publish or circulate a copy of
+the financial statements unless
+(a)the company attaches to the financial statements, reports
+of the directors and auditors respectively, as required under
+sections 136 and 137, and
+(b)the financial statements have been approved by the board
+of directors and, after that approval, signed by two direc-
+tors on behalf of the board.
+(2) Subsection (1) does not prohibit the publication of
+(a)a fair and accurate summary of the financial statements
+and report of the auditors on the financial statements after
+the financial statements have been approved, and signed
+on behalf of the board of directors; and
+(b)a fair and accurate summary of the profit or loss and other
+comprehensive income statements for part of the financial
+year of the company.
+(3) In the event of a breach of subsection (1), the company
+and every officer of the company that is in default is liable to pay to
+the Registrar an administrative penalty of one hundred and fifty
+penalty units.
+Report of directors
+136.(1) The report of the directors referred to in paragraph(b)of
+# [p110 fs=10.9] subsection (1) of section 128, shall consist of a report on the
+(a)details on the state of affairs of the company and, if the
+company is a holding company, on the state of affairs of
+the company and the subsidiaries of the company as a
+group, and the amount of money which the directors
+recommend to be paid by way of dividend,
+(b)particulars of entries in the interests register during the
+financial year,
+(c)corporate social responsibility of the company and a sub-
+sidiary and the amounts spent during the financial year;
+(d)amount payable by way of audit fees; and
+(e)details of steps taken to build the capacity of directors to
+discharge their duties.
+110
+
+===== PAGE 111 =====
+
+Companies Act, 2019
+# [p111 fs=12.8] Act992
+(2) The report shall deal, so far as is material for the apprecia-
+tion of the state of affairs of the company, with any change during the
+financial year in the nature of the business of the company or of the
+associated companies, or in the classes of business in which the
+company has an interest, whether as a member of another company
+or otherwise.
+(3) The report shall contain a list of bodies corporate in relation
+to which is fulfilled at the end of the financial year of the company, the
+condition that
+(a)the body corporate is a subsidiary of the company, or
+(b)although the body corporate is not a subsidiary of the com-
+pany, the company is beneficially entitled to equity shares
+of the body corporate conferring the right to exercise more
+than twenty-five per cent of the votes exercisable at a
+general meeting of the body corporate.
+(4) The list referred to in subsection (3) shall distinguish between
+bodies corporate falling within paragraphs(a)and(b)of that subsection
+and shall state as regards each company, the
+(a)name;
+(b)country of incorporation; and
+(c)nature of the business carried on by the company.
+(5) If the company is, at the end of the financial year, the subsid-
+iary of another, the report shall also state the name and country of incor-
+poration of the holding company.
+(6) If, on an application made by the directors, the Registrar is
+satisfied that, mention of any of the matters referred to in subsections (2)
+(3), (4) and (5) would be harmful to the business of the company or any
+of the associated companies, the Registrar may direct that the matter
+need not be mentioned in the report of a financial year.
+(7) The report shall be approved by the board of directors and
+signed on behalf of the board by two directors.
+(8) A director who fails to take the reasonable steps necessary to
+comply with this section is liable to pay to the Registrar, an administra-
+tive penalty of one hundred and fifty penalty units.
+111
+
+===== PAGE 112 =====
+
+# [p112 fs=12.8] Act992Companies Act, 2019
+Report of Auditors
+137.(1) The report by the auditors referred to in paragraph(c)of
+# [p112 fs=10.9] subsection (1) of section 128, shall
+(a)consist of a report, addressed to the members of the
+company, by an auditor or auditors duly qualified and
+appointed as auditors of the company in accordance with
+sections 138 and 139 on
+(i)the accounting records of the company, and
+(ii)financial statements of the company as listed in
+# [p112 fs=10.9] subsection (5) of section 127 and the consolidated
+financial statements to be sent to the members and
+debenture holders of the company in accordance
+with sections 128 and 131; and
+(b)contain statements as to the matters mentioned in the
+Seventh Schedule.
+(2) Where, in the case of the accounts, any of the particulars
+required to be shown under sections 132 and 133 are not shown, the
+report, in addition to stating that the accounts do not give the
+information required by this Act, shall contain a statement giving the
+required particulars so far as the auditors are reasonably able to do so.
+(3) The audit of the financial statements shall, in the case of a
+public or private company be carried out in compliance with interna-
+tional standards on auditing adopted by the Institute of Chartered
+Accountants, Ghana and it shall be sufficient if the report of the audi-
+tor complies with those standards and accords with terminology
+approvedby the Institute of Chartered Accountants, Ghana.
+(4) The report shall be open for inspection by a member or
+debenture holder of the company at the registered office of the com-
+pany during usual business hours and shall be read at an annual
+general meeting of the company held within three months after the
+report is sent to members and debenture holders in accordance with
+# [p112 fs=10.9] section 128.
+Qualification of an auditor
+138.(1) A person is qualified for appointment as an auditor of a
+private or public company, if that person is,
+(a)qualified and licensed in accordance with the Chartered
+Accountants Act, 1963 (Act 170); and
+(b)not disqualified under subsection (2).
+112
+
+===== PAGE 113 =====
+
+Companies Act, 2019
+# [p113 fs=12.8] Act992
+(2) A person is disqualified for appointment as an auditor, if
+that person is
+(a)an officer of the company or of an associated company;
+(b)a partner of, or in the employment of, an officer of the
+company or of an associated company;(c)an infant;
+(d)found by a court of competent jurisdiction to be a person
+of unsound mind;
+(e)a body corporate, except that a member of an incorporated
+partnership may be appointed in the manner provided by
+# [p113 fs=10.9] subsection (2) of section 139;
+(f)one in respect of whom an order has been made under
+# [p113 fs=10.9] section 177 so long as the order remains in force unless
+leave to act as an auditor of the company concerned has
+been granted by the Court in accordance with that
+# [p113 fs=10.9] section;
+(g)an undischarged bankrupt, unless that person has been
+granted leave to act as an auditor of the company
+concernedby the Court by which the adjudication as
+bankrupt was made; or
+(h)for the time being disqualified from acting as an auditor
+of a company by order of the Registrar under subsection
+(4).
+(3) Paragraph(b)of subsection (2) does not disqualify a person
+from being appointed as an auditor by reason only of the fact that,
+that person is a partner or in the employment of a person acting as
+Company Secretary of the company or of an associated company.
+(4) The Registrar may, subject to a legislativeinstrument,
+disqualify a person otherwise qualified from acting as an auditor of a
+company and may at any time remove that disqualification.
+(5) A person aggrieved by a decision of the Registrar under
+# [p113 fs=10.9] subsection (4) has a right to appeal to the Court.
+(6) A person not qualified for appointment as an auditor who
+acts as an auditor, commits an offence and is liable on summary con-
+viction to a fine of not less than three hundred and twenty-five penalty
+units and not more than seven hundred and fifty penalty units and the
+company by whom that person is appointed and an officer of that
+company that is in default are liable each to pay to the Registrar an
+administrative penalty of seven hundred and fifty penalty units.
+113
+
+===== PAGE 114 =====
+
+# [p114 fs=12.8] Act992Companies Act, 2019
+Appointment of an auditor
+139.(1) A person shall not be appointed as an auditor of a company
+unless, that person
+(a)has, before the appointment, consented in writing to be
+appointed; and
+(b)is duly qualified in accordance with section 138.
+(2) A partnership firm may be appointed, in the name of the
+firm, as an auditor of a company, but, whether or not that firm is a
+body corporate, the appointment shall be deemed to be an appoint-
+ment of the partners of the firm who, at the time of the appointment,
+are duly qualified.
+(3) Despite a contrary provision in the constitution of a company,
+an auditor shall be appointed by ordinary resolution of the company
+and not otherwise.
+(4) For the purposes of subsection (3),
+(a)the directors may appoint the first auditors of a company
+and may fill a casual vacancy in the office of auditor; or
+(b)if a company does not have an auditor for a continuous
+period of three months the Registrar may appoint an audi-
+tor for that company.
+(5) An existing auditor shall continue in office until,
+(a)that auditor ceases to be qualified for appointment;
+(b)that auditor resigns from office by notice in writing to the
+company;
+(c)an ordinary resolution is duly passed at an annual general
+meeting in accordance with section 141 removing that
+auditor from office or appointing any other person in place
+of that auditor as from the conclusion of the annual
+general meeting; or
+(d)the tenure of that auditor ends;
+and when a casual vacancy occurs in the office of the auditor, the
+surviving or continuing auditor may act.
+(6) Within fourteen days after the occurrence of a change in
+the auditors of a company, the company shall give notice of the change
+in the prescribed form to the Registrar for registration.
+(7) For the purposes of subsection (6)
+114
+
+===== PAGE 115 =====
+
+Companies Act, 2019
+# [p115 fs=12.8] Act992
+(a)where a partnership firm has been appointed auditor in the
+name of the firm, the name and business address of the
+firm shall be given to the Registrar, and
+(b)a change in the constitution of the firm or of the partners
+in the firm with respect to an auditor of the company is
+not a change in the auditors.
+(8) Before accepting the appointment as an auditor of a
+company, the auditor shall communicate with the retiring auditor and
+request the retiring auditor to make any representations and supply
+information about the company.
+(9) The retiring auditor shall respond to the request and supply
+the requisite information.
+(10) Where a company contravenes a provision of this section
+or describes as auditor of the company a person who has not been
+duly appointed, the company and an officer of the company that is in
+default are liable each to pay to the Registrar an administrative
+penalty of two hundred and fifty penalty units.
+(11) An auditor shall hold office for a term of not more than six
+years and is eligible for appointment after a cooling-off period of not less
+than six years.
+Remuneration of an auditor
+140.(1) The remuneration of an auditor of a company shall be
+fixed where the auditor is appointed
+(a)by the directors for the period expiring at the conclusion of
+the next annual general meeting of the company;
+(b)by the Registrar; or
+(c)at a meeting of the company, by ordinary resolution of the
+company or in a manner that the company by ordinary
+resolution may determine.
+(2) For purposes of full disclosure, the
+(a)company shall clearly state in the financial statements which
+are accessible and reported to shareholders of the company
+the remuneration offered to an auditor of the company
+for any service rendered; and
+(b)remuneration payable to an auditor of the company shall
+be subject to confirmation by members of the company.
+115
+
+===== PAGE 116 =====
+
+# [p116 fs=12.8] Act992Companies Act, 2019
+(3) For the purposes of this section, “remuneration” includes the
+sums of money payable by a company in respect of the expenses of an
+auditor.
+(4) Where a company contravenes a provision of this section,
+the company and an officer of the company that is in default are
+liable each to pay to the Registrar an administrative penalty of two
+hundred and fifty penalty units.
+Removal of an auditor
+141.(1) A resolution to remove an auditor or to appoint any other
+person in the place of that auditor is not effective unless,
+(a)a written notice has been given to the company of the inten-
+tion to pass the resolution, not less than thirty-five days
+before the general meeting at which the resolution is to be
+moved and on receipt of the resolution, the company has
+forthwith sent a copy of the resolution to the auditor con-
+cerned;
+(b)the resolution is passed at a general meeting of the com-
+pany; and
+(c)the company has given the members notice of the resolu-
+tion at the same time and in the same manner as the com-
+pany gives notice of meetings or, if that is not practicable,
+has given the members notice of the resolution in the same
+manner as notices of meetings are required to be given not
+less than twenty-one days before the meeting.
+(2) For the purposes of subsection (1),
+(a)if, after notice of the intention to move the resolution is
+given to the company, an annual general meeting is called
+for a date thirty-five days or less after the notice has been
+given to the company, the notice is properly given; and
+(b)in the case of a resolution to remove an auditor appointed
+by the directors in accordance with subsection (4) of
+# [p116 fs=10.9] section 139 or to appoint any other person in place of an
+auditor so appointed, subsection (1) shall have effect with
+the substitution of fourteen days for thirty-five days in para-
+graph(a)of subsection (1) and seven days for twenty-one
+days in paragraph(c)of subsection (1).
+116
+
+===== PAGE 117 =====
+
+Companies Act, 2019
+# [p117 fs=12.8] Act992
+(3) The auditor concerned is entitled
+(a)to be heard on the resolution at the meeting; and
+(b)to send to the company a written statement, and the
+company shall send copies of the statement with every
+notice of the annual general meeting or, if the statement
+is received too late, shall forthwith circulate to each per-
+son entitled under subparagraph(f)of paragraph 1 of
+the Eighth Schedule the notice of the meeting in the
+same manner as notices of meetings are required to be
+given.
+(4) The company is not required to send or circulate the state-
+ment under paragraph(b)of subsection (3),
+(a)if the statement is received by the company less than seven
+days before the meeting; or
+(b)if the Court, on an application made by the company or
+any other person who claims to be aggrieved, so orders on
+being satisfied that the statement is unreasonably long or
+that the rights conferred by this section are being abused to
+secure needless publicity for defamatory matter; the Court
+may order the costs of the applicant to be paid in whole or
+in part by the auditor although the auditor is not a party to
+the application.
+(5) Without limiting the right of the auditor to be heard orally
+on the resolution, the auditor may, unless the Court makes an order un-
+der subsection (4), also require that the written statement by the auditor
+be read to the meeting.
+(6) If the resolution is passed, the resolution shall not take
+effect until the conclusion of the annual general meeting.
+Functions of an auditor
+142.(1) An auditor of a company while acting in the performance of
+functions under this Act, is not an officer or agent of the company, but
+(a) stands in a fiduciary relationship to the members of the
+company as a whole, and
+(b) shall act in a manner that a faithful, diligent, careful, and
+ordinarily skilful auditor would act in the circumstances.
+117
+
+===== PAGE 118 =====
+
+# [p118 fs=12.8] Act992Companies Act, 2019
+(2) A provision, whether contained in the constitution of a com-
+pany, or in a contract, or in a resolution of a company, shall not relieve
+an auditor from
+(a)the duty to act in accordance with subsection (1); or
+(b)a liability incurred as a result of a breach of that duty.
+(3) An auditor shall have a right of access at all times to the
+accounting records and financial statements and vouchers of the com-
+pany and is entitled to require from the officers of the company the
+information and explanation that the auditor thinks necessary for the
+performance of the functions of the auditor.
+((4) The auditor of a company is entitled to
+(a)attend a general meeting of the company,
+(b)receive the notices of, and other communications relating
+to, a general meeting, and
+(c)be heard at a general meeting on any part of the business
+of the meeting which concerns the auditor.
+(5) The auditor of a company may apply to the Court for direc-
+tions in relation to a matter arising in connection with the performance
+of functions under this Act.
+(6) On receipt of that application, the Court may give directions
+that the Court considers just and unless the Court otherwise directs, the
+costs of the application shall be paid by the company.
+Auditor to avoid conflict of interest
+143.(1) An auditor of a company shall ensure that in carrying out the
+duties of an auditor under this Part, the personal judgment of the audi-
+tor is not impaired by reason of any relationship with or interest in the
+company or any of the subsidiaries of the company.
+(2) Without limiting subsection (1), a company, person or firm
+that carries out duties of an auditor shall not engage in any relationship
+with a client that will result in a conflict of interest between that person
+or firm and that client including a relationship with a client that will
+(a)place the person or firm in the position of auditing work
+of that person or firm;
+(b)result in that person or firm acting as management or an
+employee of the client; or
+(c)place that person or firm in a position of being an advocate
+for the client.
+(3) Subsection (2) applies to the appointment of an auditor who
+is appointed to perform the services of a receiver.
+118
+
+===== PAGE 119 =====
+
+Companies Act, 2019
+# [p119 fs=12.8] Act992
+# [p119 fs=10.9] Part O: Acts by or on behalf of the Company
+Division of powers between general meeting and board of directors
+144.(1) A company shall act through the members of the company
+in general meeting or the board of directors or through officers or agents,
+appointed by, or under authority derived from the members in general
+meeting or the board of directors.
+(2) Subject to this Act, the respective powers of the members in
+general meeting and the board of directors may be determined by the
+constitution of a company.
+(3) Except as otherwise provided in the constitution of a com-
+pany, the business of the company shall be managed by the board of
+directors who may exercise the powers of the company that are not by
+this Act or the constitution required to be exercised by the members in
+general meeting.
+(4) Unless the constitution of the company otherwise provides,
+the board of directors when acting within the powers conferred on them
+by this Act or the constitution of the company, are not bound to comply
+the directions or instructions of the members in general meeting.
+(5) Subject to section 145, the members in general meeting may
+(a)act in a matter if the members of the board of directors are
+disqualified or are unable to act by reason of a deadlock on
+the board or otherwise;
+(b)institute legal proceedings in the name of and on behalf of
+the company if the board of directors refuse or neglect to
+do so;
+(c)ratify or confirm an action taken by the board of directors;
+or
+(d)make recommendations to the board of directors regard-
+ing an action to be taken by the board.
+(6) An amendment of the constitution of a company shall not
+invalidate a prior act of the board of directors which would have
+been valid if that amendment had not been made.
+Major transactions
+145.(1) A company shall not enter into a major transaction unless
+the transaction is
+(a)approved by special resolution; or
+(b)contingent on approval by special resolution.
+119
+
+===== PAGE 120 =====
+
+# [p120 fs=12.8] Act992Companies Act, 2019
+(2) For the purposes of this section,
+(a)‘assets’ include property of any kind whether tangible or
+intangible;
+(b)‘major transaction’ means
+(i)the acquisition of, or an agreement to acquire,
+whether contingent or otherwise, assets, the value
+of which is more than seventy-five percent of the
+valueof the assets of the company before the
+acquisition; or
+(ii)the disposition of, or an agreement to dispose of,
+whether contingent or otherwise, assets of the
+company the value of which is more than seventy-
+five percent of the value of the assets of the company
+before the disposition; or
+(iii) a transaction that has or is likely to have the effect
+of the company acquiring rights or interests or
+incurring obligations or liabilities, includingcon-
+tingentliabilities,thevalueofwhichis
+seventy-five percent of the value of the assets of
+the company before the transaction; and
+(c)the assets of the company as regards major transactions
+under paragraph(b), include the assets of the company and
+that of the subsidiaries.
+(3) The provisions of paragraphs(a)and(b)of subsection (2)
+shall not affect an agreement entered into by a company to give a
+charge secured over the assets of that company the value of which is
+more than seventy-five percent of the assets of the company, for the
+purpose of securing the repayment of money or the performance of
+an obligation.
+(4) In assessing the value of a contingent liability for the
+purposes of subparagraph (iii) of paragraph(b)of subsection (2),
+the directors
+(a)shall have regard to every circumstance that the directors
+know, or ought to know, affects, or may affect, the value of
+the contingent liability;
+(b)may rely on estimates of the contingent liability that are
+reasonable in the circumstances; and
+(c)may take account of
+(i)the likelihood of the contingency occurring; and
+120
+
+===== PAGE 121 =====
+
+Companies Act, 2019
+# [p121 fs=12.8] Act992
+(ii)any claim the company is entitled to make and can
+reasonably expect to be met to reduce or extinguish
+the contingent liability.
+(5) The provisions of this section do not apply to a major trans-
+action entered into by a receiver appointed pursuant to an instrument
+that creates a charge over the whole of or a substantial part of the prop-
+erty of a company.
+Delegation to committees and managing directors
+146.Except otherwise provided in the constitution of a company, the
+board of directors may
+(a)exercise their powers through committees consisting of a
+member or members of the board as the board of directors
+think fit, and
+(b)from time to time appoint one or more of the members of
+the board to the office of managing director and may del-
+egate all or any of the powers of the board of directors to
+that managing director.
+Acts of the company
+147.(1) An act of the members in general meeting, of the board of
+directors, or of a managing director while carrying on in the usual way
+the business of the company, is the act of the company; and accord-
+ingly, the company is criminally and civilly liable for that act to the
+same extent as if the company were a natural person.
+(2) For the purposes of subsection (1),
+(a)the company does not incur civil liability to a person if that
+person had actual knowledge at the time of the transaction
+in question that the general meeting, board of directors, or
+managing director, did not have the power to act in the
+matter or had acted in an irregular manner or if, having
+regard to the position with, or relationship to, the company,
+that person ought to have known of the absence of the power
+or of the irregularity; or
+(b)if in fact a business is being carried on by the company, the
+company shall not escape liability for acts undertaken in
+connection with that business merely because, the business
+in question was not among the businesses authorised by the
+constitution of the company.
+121
+
+===== PAGE 122 =====
+
+# [p122 fs=12.8] Act992Companies Act, 2019
+Acts of officers or agents
+148.(1) Except as provided in section 147, the acts of an officer or
+agent of a company are not acts of the company, unless,
+(a)the company, acting through the members in general meet-
+ing, the board of directors, or managing director, has ex-
+pressly or impliedly authorised that officer or agent to act
+in the matter; or
+(b)the company, acting under paragraph(a)has represented
+to the officer or agent as having the authority of the
+company toact inthe matter, in which event the
+company is civilly liable to a person who has entered into the
+transaction in reliance on that representation, unless that
+person had actual knowledge that the officer or agent did
+not have the authority, or unless, having regard to the
+position with, or relationship to, the company, that per-
+son ought to have known of the absence of authority.
+(2) The authority of an officer or agent of the company may
+be conferred before action is taken by that officer or agent or by subse-
+quent ratification.
+(3) The knowledge of action by that officer or agent and acquies-
+cence in that action by
+(a)the members for the time being entitled to attend general
+meetings of the company,
+(b)the directors for the time being, or
+(c)the managing director for the time being,
+is equivalent to ratification by the members in general meeting, by the
+board of directors, or by the managing director.
+(4) This section does not derogate from the vicarious liability
+of a company for the acts of the employees while acting within the
+scope of their employment.
+No constructive notice of registered documents
+149.Except as provided in section 121, regarding particulars in the
+register of particulars of charges, a person shall not be deemed to
+have knowledge of any particulars, documents, or the contents of
+documentsby reason only that those particulars or documents are
+registered by the Registrar or referred to in any particulars or docu-
+ments so registered.
+122
+
+===== PAGE 123 =====
+
+Companies Act, 2019
+# [p123 fs=12.8] Act992
+Presumption of regularity
+150.(1) A person having dealings with a company or with any
+other person who derives title under the company is entitled to
+assume that,
+(a)the company has been duly incorporated under this Act;
+(b)a person described in the particulars filed with the Registrar
+pursuant to sections 13 and 216 as a director, managing
+director or Company Secretary of the company, or repre-
+sented by the company, acting through the members in
+general meeting, board of directors, or managing director,
+as an officer or agent of the company, has been duly
+appointed and has authority to exercise the powers and
+perform the duties customarily exercised or performed by
+a director, managing director, or Company Secretary of a
+company carrying on business of the type carried on by
+the company or customarily exercised or performed by an
+officer or agent of the type concerned;
+(c)the Company Secretary, and any other officer or agent of
+the company having authority to issue documents or certi-
+fied copies of documents on behalf of the company has
+authority to warrant the genuineness of the documents or
+the accuracy of the copies so issued; or
+(d)a document has been duly authenticated by the company
+if it
+(i)bears what purports to be the seal of the company
+attested by what purports to be the signatures of
+two persons who, in accordance with paragraph(b),
+can be assumed to be a director and the Company
+Secretary of the company; or
+(ii)is certified by what purports to be the signatures of
+two directors and the Company Secretary of the
+company
+and the company and those deriving title under the document are
+estopped from denying the truth of that assumption.
+(2) For the purposes of subsection (1),
+(a)a person is not entitled to make any of those assumptions
+if that person had actual knowledge to the contrary or if,
+123
+
+===== PAGE 124 =====
+
+# [p124 fs=12.8] Act992Companies Act, 2019
+having regard to the position with, or relationship to, the
+company, that person ought to have known the contrary;
+or
+(b)a person is not entitled to assume that any one or more of
+the directors of the company has or have been appointed
+to act as a committee of the board of directors or that an
+officer or agent of the company has the authority of the
+company by reason only that the constitution of the com-
+pany provides that authority to act in the matter, may be
+delegated to a committee or to an officer or agent.
+Liability of company not affected by fraud or forgery of officer
+151.Where, in accordance with sections 147 to 150, a company
+would be liable for the acts of an officer or agent, the company is liable
+although the officer or agent has acted fraudulently or forged a docu-
+mentpurporting to be sealed by, or signed on behalf of, the company.
+Form of contracts
+152.A contract on behalf of a company may be made, varied or
+discharged if the contract, if made between individuals would
+(a)by law be required to be in writing under seal, or could be
+varied or discharged by writing under seal only, or may be
+made, varied or discharged in writing;
+(b)by law be required to be in writing or to be evidenced in
+writing by the parties to be charged therewith or could be
+varied or discharged only by writing or written evidence
+signed by the parties to be charged, may be made, evidenced,
+varied or discharged, in writing signed acting under the
+authority of the company express or implied in the name
+or on behalf of the company; or
+(c)be valid although made orally only and not reduced to writ-
+ing or could be varied or discharged orally, may be made,
+varied or discharged, orally on behalf of the company act-
+ing under the authority of the company express or implied
+as if it were under the seal of the company.
+Bills of exchange and promissory notes
+153.(1) A bill of exchange or promissory note shall be deemed to
+have been made, accepted, or endorsed, on behalf of a company if
+124
+
+===== PAGE 125 =====
+
+Companies Act, 2019
+# [p125 fs=12.8] Act992
+made, accepted or endorsed in the name of the company or if ex-
+pressed to be made, accepted or endorsed on behalf or on account of
+the company.
+(2) The company and the successors are bound if the company
+is, in accordance with sections 147 to 151, liable for the acts of those
+who made, accepted or endorsed in the name or on behalf or account,
+and a signature by a director or the Company Secretary on behalf of
+the company shall not be deemed to be a signature by procuration for
+the purposes of section 23 of the Bills of Exchange Act, 1961 (Act 55).
+Authentication of documents
+154.(1) A document or proceeding requiring authentication by a
+company may be signed on behalf of the company by an officer of the
+company.
+(2) For the purposes of this section, an “officer” means a direc-
+tor, Company Secretary or any other person authorised by the board
+of directors or Managing Director of a company to sign a document
+on behalf of the company.
+Execution of deeds abroad
+155.(1) A company may, by an instrument in writing executed in
+accordance with paragraph(d)of subsection (1) of section 150 empower
+a person generally or in respect of a specified matter, as the attorney
+to execute deeds on behalf of the company in a place outside the
+country.
+(2) A deed signed by that attorney on behalf of the company
+in respect of the instrument binds the company.
+Official seal for use abroad
+156.(1) A company may, by the constitution of the company,
+authorise for use in a territory, district, or place not located in the
+country, an official seal which is a fascimile of the common seal of the
+company with the addition on the face of the seal the name of the
+territory, district or place where the seal is to be used.
+(2) The company may, by writing under the common seal of
+the company,authorise an agent appointed for that purpose to affix
+the official seal to a document to which the company is a party in the
+territory, district or place.
+125
+
+===== PAGE 126 =====
+
+# [p126 fs=12.8] Act992Companies Act, 2019
+(3) The directors may provide for the safe custody of the seal,
+which shall only be used by the authority of the board of directors or
+of a committee of the directors authorised by the board of directors
+in that behalf, and an instrument to which the seal is affixed shall be
+signed by a director, and shall be countersigned by the Company Sec-
+retary or by a second director or by some other person appointed by
+the directors for the purpose.
+(4) The company may exercise the powers conferred under this
+# [p126 fs=10.9] section with regard to having an official seal for use abroad, and those
+powers shall be vested in the board of directors.
+(5) A person dealing with an agent of the company in reliance
+on a writing conferring the authority is entitled to assume that the
+authorityof the agent continues during the period mentioned in the
+writing or, if a period is not there mentioned, until that person has
+actual notice of the revocation or determination of the authority.
+(6) The person affixing the official seal shall, by writing signed
+personally by that person, certify on the document to which the seal
+is affixed, the date on which and the place at which the seal is affixed.
+# [p126 fs=10.9] Part P: General Meetings and Resolutions
+Annual general meetings
+157.(1) Except as provided in subsection (4), a company shall
+(a)in each year hold a general meeting as the annual general
+meeting of the company in addition to any other meetings
+in that year, and
+(b)specify the meeting as the annual general meeting in the
+notice calling the meeting.
+(2) Not more than fifteen months shall elapse between the date
+of one annual general meeting and the next.
+(3) If a company holds the first annual general meeting within
+eighteen months of incorporation, the company is not required to
+hold the annual general meeting in the year of incorporation or in the
+following year.
+(4) The annual general meeting shall be held not earlier than
+twenty-one days after the financial statements, the consolidated financial
+statements, and the reports of the directors and auditors on the financial
+statements of the company have been despatched to members and
+debenture holders of the company in accordance with section 128; and
+126
+
+===== PAGE 127 =====
+
+Companies Act, 2019
+# [p127 fs=12.8] Act992
+the financial statements, and reports shall be laid before the annual gen-
+eral meeting for consideration.
+(5) If the auditors of the company and the members of the
+company entitled to attend and vote at an annual general meeting
+agree in writing that an annual general meeting shall be dispensed
+with in any year, it shall not be necessary for that company to hold an
+annual general meeting that year.
+(6) If the annual general meeting is not held in accordance
+with subsection (5), the Registrar may, on a motion by the Registrar or
+on the application of an officer or a member of the company, call, or
+direct the calling of, an annual general meeting of the company, and
+may give the ancillary or consequential directions that the Registrar
+thinks fit, including directions modifying or supplementing, in relation
+to the venue, calling, holding and conducting of that meeting, the
+operation of
+(a)section 159,
+(b)paragraphs 1 to 3 of the Eighth Schedule,
+(c)paragraphs 8, 9, 12, 13 of the Eighth Schedule,
+(d)paragraphs 15 to 19 of the Eighth Schedule, and
+(e)the constitution of the company where applicable.
+(7) Where a meeting held in pursuance of subsection (6) is not
+held in the year in which the default in holding the annual general
+meeting of the company occurred, the meeting so held shall be treated
+as the annual general meeting for that year, but shall not be treated as
+the annualgeneral meeting for the year in which the meeting is held
+unless, at that meeting, the company resolves that it shall be so treated.
+(8) Where a company passes a resolution pursuant to subsection
+(5) or (7), a copy of the resolution shall, within twenty-eight days of
+the passage of the resolution, be forwarded to the Registrar for
+registration.
+(9) If an annual general meeting of the company is not held in
+(a)accordance with subsection (1),
+(b)compliance with the directions of the Registrar under sub-
+# [p127 fs=10.9] section (6), or
+(c)compliance with subsection (4), (7) or (8) of this section,
+the company and every officer of the company that is in
+default is liable
+to pay to the Registrar an administrative penalty of one hundred and
+fifty penalty units.
+127
+
+===== PAGE 128 =====
+
+# [p128 fs=12.8] Act992Companies Act, 2019
+Extraordinary general meetings
+158.(1) An extraordinary general meeting may be convened by the
+directors whenever the directors think fit.
+(2) If at any time there are not within the Republic sufficient
+directors capable of acting to form a quorum, a director may convene
+a meeting.
+(3) An extraordinary general meeting of a private company
+may be requisitioned in accordance with section 299 and an extraordinary
+general meeting of a public company may be requisitioned in accordance
+with section 324.
+Place of meetings
+159.Unless the constitution of a company otherwise provides, the
+general meetings shall be held in the Republic.
+Notice on proxy
+160.(1) In every case in which a member is entitled to appoint a
+proxy to attend and vote pursuant to paragraph 9 of the Eighth
+# [p128 fs=10.9] Schedule to this Act, instead of that member, the notice shall contain
+with reasonable prominence, a statement that the member has the right
+to appoint a proxy to attend and vote instead of that member and
+that, the proxy need not be a member of the company.
+(2) If there is a default in complying with this section in
+respect of a meeting, every officer of the company who is in default is
+liable to pay to the Registrar an administrative penalty of one hun-
+dred and fifty penalty units.
+Compliance with proxy arrangements
+161.(1) A person shall comply with the proxy arrangements for
+voting and attendance of meetings in accordance with paragraph 9
+of the Eighth Schedule.
+(2) An officer of the company who knowingly authorises or
+permits a breach or non-observance of subparagraphs(g), (h), (i)or(k)
+of paragraph 9 of the Eighth Schedule, is liable to pay to the Registrar
+an administrative penalty of two hundred and fifty penalty units; and
+in the event of a refusal to permit inspection in accordance with
+subparagraph(g)of paragraph 9 of the Eighth Schedule, the Courtmay
+by ordercompel an immediate inspection.
+Power of Court to order meeting
+162.(1) If for a good reason it is impracticable to call a meeting of
+a company in a manner in which meetings of that company may be
+128
+
+===== PAGE 129 =====
+
+Companies Act, 2019
+# [p129 fs=12.8] Act992
+called, or to conduct the meeting of the company in the manner
+prescribed by the constitution of the company, the Court may on the
+application of a director, a member of the company or the Registrar
+order a meeting of the company to be called, held and conducted in
+the manner that the Court considers fit.
+(2) Where that order is made, the Court may give any ancillary
+or consequential directions that the court considers expedient.
+(3) A meeting called, held and conducted in accordance with
+the order is, for the purpose of this Act, a meeting of the company
+duly called, held and conducted.
+Written resolutions
+163.(1) Except as provided in subsection (5), a resolution in writing
+signed by all the members for the time being entitled to attend and
+vote on the resolution at a general meeting, or being bodies corporate
+by the duly authorised representatives of the bodies corporate, is as
+valid and effective, for the purposes of this Act as if the resolution had
+been passed at the general meeting of the company duly convened
+and held.
+(2) Subsection (1) applies where the company has only one mem-
+ber entitled to vote.
+(3) A resolution described as a “special resolution” is a special
+resolution within the meaning of this Act.
+(4) A resolution is passed on the date on which the resolution
+was signed by the last member to sign, and where the resolution states
+a date as being the date of the signature by a member, that statement
+is sufficient evidence that the resolution was signed by that member
+on that date.
+(5) Subsections (1) and (4) do not apply to a resolution to
+remove an auditor, which can be passed only at a general meeting in
+accordance with section 141, or to remove a director, which can be
+passed only at a general meeting in accordance with section 176.
+Application of provisions on general meetings to class meetings
+164.(1) The provisions on general meetings in accordance with
+# [p129 fs=10.9] section 163 and the provisions of the Eighth Schedule apply to meetings
+of a class of members in like manner as they apply to general meetings
+of companies, but the necessary quorum shall be as set out in subsection
+(2) and a member of the class present in person or by proxy may
+demand a poll.
+129
+
+===== PAGE 130 =====
+
+# [p130 fs=12.8] Act992Companies Act, 2019
+(2) At a meeting of a class of members, the necessary quorum
+shall be,
+(a)if there are not more than two members of that class, one
+member present in person or by proxy; or
+(b)in any other case, two members, present in person or by
+proxy, holding not less than one-third of the total voting
+rights of that class.
+(3) The constitution of a company may provide for a larger,
+but not for a smaller quorum for the purposes of subsection (2).
+Registration of copies of certain resolutions
+165.(1) A certified true copy of a special resolution of a general
+meeting or of a class of members and of a resolution
+(a)to which a specified proportion of a class of members have
+consented in writing, and
+(b)which would not have been effective for the purpose, unless
+the written consent had been given, without the passing of
+a special resolution,
+shall be forwarded to the Registrar for registration within twenty-eight
+days after the passing of the resolution or the making of the copy.
+(2) The copy shall be printed, typewritten, or be in some other
+legible form acceptable to the Registrar.
+(3) A copy of a special resolution of a general meeting of the
+company for the time being in force shall be embodied in or annexed
+to a copy of the constitution of the company after the passing of the
+resolution, but where the sole effect of the special resolution is to amend
+a constitution, this subsection is sufficiently complied with if a copy
+of the constitution adopted after the passing of the resolution embodies
+the effect of the amendment and refers to the date of the passing of
+the special resolution.
+(4) Where a company fails to comply with this section, the
+company and every officer of the company that is in default is liable
+to pay to the Registrar an administrative penalty of twenty-five penalty
+units for each default.
+Minutes of general meetings
+166.(1) A company shall cause minutes of the proceedings of general
+meetings and meetings of a class of members to be entered in a book
+or books kept for the purpose.
+130
+
+===== PAGE 131 =====
+
+Companies Act, 2019
+# [p131 fs=12.8] Act992
+(2) A minute under subsection (1), if purporting to be signed
+by the chairperson of the meeting at which the proceedings took place
+or of the next succeeding meeting, is sufficient evidence of the pro-
+ceedings.
+(3) Where minutes have been made in accordance with this
+# [p131 fs=10.9] section, until the contrary is proven, the meeting shall be deemed to
+be duly held, convened and conducted.
+(4) Where a company fails to comply with subsection (1), the
+company and each officer of the company that is in default is liable
+to pay to the Registrar an administrative penalty of two hundred and
+fifty penalty units.
+Inspection of minutes books
+167.(1) The books containing the minutes of proceedings of a
+general meeting or class meetings of a company shall be kept at the
+registered office of the company and shall, during business hours,
+subject to reasonable restrictions that the constitution of a company
+may impose, be open to the inspection of a member without charge.
+(2) Not less than two hours in each day other than a Saturday
+or a Sunday or a public holiday shall be allowed for inspection under
+# [p131 fs=10.9] subsection (1).
+(3) A member is entitled to be furnished at a cost determined
+by the company, within ten days after the member has made a request
+in that behalf to the company, with a copy of the minutes.
+(4) If an inspection required under this section is refused or if
+a copy required under this section is not sent within the proper time,
+the company and every officer of the company that is in default is
+liable in respect of each default to pay to the Registrar an administrative
+penalty of twenty-five penalty units for each day during which the
+default continues and the Court may, by order, compel an immediate
+inspection or furnishing of a copy.
+Circulars of members
+168.(1) A company shall circulate resolutions of members and
+supporting circulars and circulars of members in accordance with para-
+graphs 5 and 6 of the Eighth Schedule.
+(2) Despite subsection (1), a company is not required to circu-
+late a resolution or statement in accordance with paragraph 5 or 6 of
+the Eighth Schedule if, on application of the company or of any
+131
+
+===== PAGE 132 =====
+
+# [p132 fs=12.8] Act992Companies Act, 2019
+other person who claims to be aggrieved, the Court is satisfied that the
+rights conferred by paragraph 5 or 6 of the Eighth Schedule are being
+abused to secure needless publicity for defamatory matter.
+(3) The Court may order the costs of the company to be paid in
+whole or in part by the member making the request, although that
+member is not a party to the application.
+(4) Where a company defaults in complying with subsection
+(1), every officer of the company who is in default is liable to pay to
+the Registrar an administrative penalty of one hundred and fifty
+penalty units.
+Proceedings at meetings
+169.Except as otherwise provided by the constitution of a company,
+the provisions specified in the Eighth Schedule shall govern the pro-
+ceedingsat meetings of a company except to the extent that, the
+registered constitution of the company makes provision for the mat-
+ters that are expressed in that Schedule to be subject to the registered
+constitution of the company.
+# [p132 fs=10.9] Part Q: Directors, Company Secretary and Other Officers of a Company
+Meaning of “directors”
+170.(1) For the purposes of this Act “directors” means those
+persons, by whatever name called, who are appointed to direct and
+administer the business of the company.
+(2) A person, not being a duly appointed director of a company,
+(a)who holds out as a director or knowingly allows to be held
+out as a director of that company, or
+(b)on whose directions or instructions the duly appointed
+directors are accustomed to act,
+is subject to the same duties and liabilities as if that person were a
+duly appointed director of the company.
+(3) Subsection (2) shall not derogate from the duties or liabili-
+ties of the duly appointed directors, including the duty not to act on
+the directions or instructions of any other person.
+(4) Where a person, who is not a duly appointed director of a
+company, holds out as a director or knowingly allows to be held out as
+a director of the company, or if the company holds out that person,
+or knowingly allows that person to hold out as a director of the
+company, that person or the company, is liable to pay to the Registrar,
+an administrative penalty of two hundred and fifty penalty units.
+132
+
+===== PAGE 133 =====
+
+Companies Act, 2019
+# [p133 fs=12.8] Act992
+(5) For the purposes of subsections (2), (3) and (4), a person
+who is described as director of a company, whether the description is
+qualified by the word “local”, “special”, “executive”’ or in any other
+way, shall be deemed to be held out as a director of that company.
+Number of directors
+171.(1) A company incorporated after the commencement of this
+# [p133 fs=10.9] Act shall have at least two directors, one of these directors being
+ordinarily resident in Ghana.
+(2) If at any time the number of directors is less than two in
+contravention of subsection (1), and the company continues to carry
+on business for more than four weeks after that time, the company, the
+director and each member of the company that is in default is liable to
+pay to the Registrar, an administrative penalty of twenty-five penalty
+units for each day during which the company so carries on business
+after the expiration of the four weeks without having at least two
+directors.
+(3) Every director and every member of the company who is
+cognisant of the fact that the company is carrying on business with fewer
+than two directors are jointly and severally liable for the debts and liabili-
+ties of the company incurred during that time.
+(4) Subject to this section, the number of directors may be fixed
+by, or in accordance with, the constitution of the company.
+Appointment of directors and filling of vacancy
+172.(1) The first directors of a company shall be named in an
+application for incorporation.
+(2) A person shall not be appointed as a director of a com-
+pany unless the person has, before the appointment
+(a)made a statutory declaration submitted to the company and
+subsequently filed with the Registrar to the effect that, the
+person has not within the preceding five years of the appli-
+cation for incorporation been
+(i)charged with or convicted of a criminal offence
+involving fraud or dishonesty;
+(ii)charged with or convicted of a criminal offence
+relating to the promotion, incorporation or man-
+agement of a company; or
+133
+
+===== PAGE 134 =====
+
+# [p134 fs=12.8] Act992Companies Act, 2019
+(iii) a director or senior manager of a company that has
+become insolvent or if the person has been, the date
+of the insolvency and the particular company; and
+(b)consented in writing to be a director and filed the consent
+within twenty-eight days.
+(3) Subject to this section and to sections 173 and 174, the
+appointment of directors shall be regulated
+(a)by section 300 in the case of a private company, and
+(b)by sections 325 and 326 in the case of a public company
+except as otherwise provided in the constitution of a company.
+(4) The constitution of a company may provide for the
+appointment of a director or directors by a class of shareholders,
+debenture holders, creditors, employees or any other person.
+(5) Despite a provision to the contrary in the constitution of a
+company, a casual vacancy in the number of directors may be filled by,
+(a)the continuing directors or director although the number
+of directors may have been reduced below that fixed as the
+necessary quorum of directors; or
+(b)an ordinary resolution of the company in general meeting.
+(6) In exercising the power to fill a vacancy under subsection
+(5), the directors shall observe the rules laid down in sections 190 and
+191 and shall not appoint a person to be a director unless the direc-
+tors have taken reasonable steps to satisfy themselves of the integrity
+and suitability of the person to be a director of the company.
+(7) Where the casual vacancy filled under subsection (5) is one
+which, under the terms of the constitution of a company, should be
+filled by an appointment by a class of shareholders, debenture holders,
+creditors, employees, or any other person, the director appointed by
+the continuing directors or by an ordinary resolution of the company
+in general meeting, shall cease to hold office as soon as any other
+director is duly appointedin accordance with the constitution.
+(8) In the event that
+(a)there are no directors of a company, or the number of direc-
+tors is less than the quorum required for a meeting of the
+board; and
+134
+
+===== PAGE 135 =====
+
+Companies Act, 2019
+# [p135 fs=12.8] Act992
+(b)it is not possible or practicable to appoint directors in
+accordance with the constitution of the companya share-
+holder or creditor of the company may apply to the Court to appoint
+one or more persons as directors of the company, and the Court may
+make an appointment if the Court considers that it is in the interest
+of the company to do so.
+(9) An appointment by the Court under subsection (8) may be
+made on such terms and conditions as the Court considers fit.
+Qualification of directors
+173.(1) The following persons are not qualified to be appointed or to
+# [p135 fs=10.9] act as directors of a company:
+(a)an infant;
+(b)a person adjudged to be of unsound mind;
+(c)a body corporate;
+(d)a person who is prohibited from being a director or
+promoter of, or being concerned or taking part in the
+management of a company as a result of an order made
+under section 177 so long as the order remains in force
+unless leave to act as director has been granted by the
+Court in accordance with that section; and
+(e)an undischarged bankrupt, unless that bankrupt has been
+granted leave to act as director by the Court by which
+that person was adjudged bankrupt.
+(2) Where a person specified in subsection (1), other than a
+body corporate, or a person of unsound mind, acts as a director of a
+company or agrees to be appointed a director, that person commits an
+offence and is liable on summary conviction to a fine of not less than
+five hundredpenalty units and not more than one thousand penalty
+units or to a term of imprisonment of not less than two years and not
+more than five years or to both the fine and the imprisonment.
+(3) Where a body corporate acts as a director or agrees to be
+appointed a director, the body corporate and every officer of that
+body that knowingly permitted the body corporate so to act or to be
+appointed is liable to pay to the Registrar, an administrative penalty
+of one thousand penalty units.
+(4) Where a company appoints a person as director in contra-
+vention of this section, the company and every director of the company
+135
+
+===== PAGE 136 =====
+
+# [p136 fs=12.8] Act992Companies Act, 2019
+that is in default is liable to pay to the Registrar, an administrative
+penalty of one thousand penalty units.
+(5) The constitution of a company may provide that, classes of
+personsadditional to those provided in subsection (1) are incompe-
+tent to be directors of the company.
+Share qualification of a director
+174.(1) Except as otherwise provided in the constitution of a
+company, a director is not required to be a member of the company or
+hold a share in the company.
+(2) Where the constitution of a company requires a director to
+hold a specified share qualification, every director shall obtain that
+qualification within two months after appointment as director or a
+shorter period that may be fixed by the constitution.
+(3) The office of director shall be vacated if the director fails to
+hold the specified share qualification within two months after
+appointment or if at any time after the expiration of that period that
+person ceases to hold that qualification.
+(4) Where a company amends the constitution so as to introduce
+or increase the requirement of a share qualification, every director
+holding office at the date of the amendment shall have two months
+within which to obtain the qualification and shall not vacate office
+under this section unless that director fails to do so.
+(5) A person who vacates office under this section is not quali-
+fied to be re-appointed a director of the company until that person
+has obtained the qualification.
+Vacation of office of director
+175.(1) The office of director shall be vacated if the director
+(a)becomes incompetent to act as a director by virtue of
+# [p136 fs=10.9] section 173,
+(b)ceases to hold office by virtue of section 174, or
+(c)resigns from office by notice in writing to the company.
+(2) The constitution of a company may provide for the termi-
+nationor vacation of office in circumstances additional to those
+specified in subsection (1).
+136
+
+===== PAGE 137 =====
+
+Companies Act, 2019
+# [p137 fs=12.8] Act992
+Removal of directors
+176.(1) Subject to section 327 and to this section, a company may
+by ordinary resolution at a general meeting remove from office all or
+any of the directors despite anything in the constitution of that com-
+pany or in an agreement with the director.
+(2) A resolution to remove a director shall not be moved at a
+general meeting unless notice of the intention to move the resolution
+has been given to the company not less than thirty-five days before the
+meeting at which the resolution is to be moved.
+(3) If after notice of the intention to move the resolution is
+given to the company, a meeting is called for a date thirty-five days or
+less after the notice has been given, the notice is properly given for the
+purposes of subsection (2).
+(4) The company shall give the members notice of the resolution
+at the same time and in the same manner as the company gives notice
+of meeting or, if that is not practicable, shall give the members notice
+of the resolution in the same manner as notices of meetings are
+required to be given not less than twenty-one days before the meeting.
+(5) On receipt of notice of an intended resolution to remove a
+director under this section, the company shall immediately send a
+copy of the notice to the director concerned and that director, whether
+or not is a member of the company, is entitled,
+(a)to be heard on the resolution at the meeting; and
+(b)to send to the company a written statement, copies of which
+the company shall send with each notice of the general meeting or, if the
+statement is received too late, shall immediately circulate to each person
+entitled under subparagraph(f)of paragraph 1 of the Eighth Schedule,
+to notice of the meeting in the same manner as notices of meetings are
+required to be given.
+(6) The company is not required to send or circulate the state-
+ment if
+(a)the statement is received by the company less than seven
+days before the meeting; or
+(b)the Court, on an application by the company or any other
+person who claims to be aggrieved, so orders on being
+satisfied that
+(i)the statement is unreasonably long, or
+137
+
+===== PAGE 138 =====
+
+# [p138 fs=12.8] Act992Companies Act, 2019
+(ii)the rights conferred by this section are being
+abused to secure needless publicity for defamatory
+matter;
+and the Court may order the costs of the applicant to be paid in
+whole or in part by the director although the director is not a party to
+the application.
+(7) Without limiting the rights of the director to be heard orally
+on the resolution, the director may, unless the Court makes an order,
+also require that the written statement by the director be read to the
+meeting.
+(8) A vacancy created by the removal of a director under this
+# [p138 fs=10.9] section, if not filled at the meeting at which the director is removed,
+may be filled as a casual vacancy in accordance with section 172.
+(9) This section does not deprive a director who has a service
+agreement with the company of a right to
+(a)compensation to which the director may lawfully be entitled
+under that agreement on the termination of the director-
+ship, or
+(b)damages if the removal from the directorship constitutes a
+breach of the service agreement.
+Restraining fraudulent persons from managing companies
+177.(1) Where,
+(a)a person is convicted, whether in the Republic or elsewhere,
+o f
+(i)an offence involving fraud or dishonesty,
+(ii)an offence in connection with the promotion, for-
+mation or management of a body corporate,
+(iii) an offence involving insider dealing, or
+(iv) anyothercriminaloffencewhichisnota
+misdemeanour;
+(b)a person is adjudged bankrupt whether in the Republic or
+elsewhere;
+(c)a person has been culpable of a criminal offence, whether
+convicted or not, in relation to a body corporate or of
+fraud or breach of duty in relation to a body corporate;
+(d)it appears that a person is debarred by the competent
+138
+
+===== PAGE 139 =====
+
+Companies Act, 2019
+# [p139 fs=12.8] Act992
+authority from being a member of a recognised profes-
+sional body as the result of a disciplinary inquiry; or
+(e)there is an ongoing investigation by a criminal investigat-
+ing body or by the Registrar or the equivalent in a foreign
+jurisdiction regarding the matters in paragraphs(a)to
+(d);
+the Court, on its own motion or on the application of a person
+referred to in subsection (6), may order that that person shall not,
+without the leave of the Court, be a director of,or in any way, whether
+directly or indirectly, be concerned or take part in the management of
+a company or act as auditor, receiver or liquidator of a company for
+the period specified in the order.
+(2) Without limiting subsection (1), a person is automatically
+disqualified for appointment as director or to act as a director of a com-
+pany for a period of five years if that person has
+(a)been convicted within the last five years of an offence
+involving fraud or dishonesty, or relating to the promotion,
+formation or running of a company,
+(b)has been a director or senior executive of a company that
+has become insolvent within the last five years on account
+of or partly as a result of the culpable activities of that
+director, or
+(c)has been disqualified to act as Company Secretary, receiver,
+manager or liquidator of a company.
+(3) Where a person referred to in paragraph(a)of subsection
+(2) is subsequently subject to a
+(a)second conviction, that person shall be automatically dis-
+qualified for a period of ten years; and
+(b)third conviction, that person shall be permanently disquali-
+fied as a director or to act as a director.
+(4) An order under paragraph(a)of subsection (1) may be
+made by a court in the country before which the person is convicted.
+(5) A person referred to in paragraph(a)of subsection (2) may
+apply to the Court for re-instatement before the expiration of the ten
+year automatic disqualification period imposed under subsection (3).
+139
+
+===== PAGE 140 =====
+
+# [p140 fs=12.8] Act992Companies Act, 2019
+(6) An application for an order under this section may be made
+by
+(a)any member or officer of the company,
+(b)a person who can demonstrate an interest in the case,
+(c)the Registrar or by the Official Trustee,
+(d)the trustee in bankruptcy of the person concerned, or
+(e)by the liquidator of a body corporate.
+(7) A person who intends to apply for an order under this
+# [p140 fs=10.9] section shall give not less than twenty-eight days written notice of that
+intention to the person against whom the order is sought, and to the
+Registrar.
+(8) On the hearing of an application under this section, the
+applicant, the person against whom the order is sought, the Registrar
+and the Official Trustee may appear, and give evidence and call
+witnesses.
+(9) A person against whom an order is made under this
+# [p140 fs=10.9] section who intends to apply for leave to act as a director or in the
+managementof a company shall give at least twenty-eight days written
+notice of that intention to the Registrar, and the Registrar, the Official
+Trustee, and that person on whose application the order was made or
+who appearedat the hearing at which the order was made, may
+appear and give evidence and call witnesses and draw the attention of
+the Court to any relevant matters.
+(10) Where an order is made or leave is granted under this
+# [p140 fs=10.9] section, the Court making the order or granting leave shall forward a
+copy to the Registrar who shall publish a summary of the order in the
+Companies Bulletin.
+(11) The Registrar shall maintain a register of orders made
+under this section and shall enter in the register, particulars of each
+order and of the leave granted.
+(12) The register shall be open to the inspection of a person on
+payment of a fee determined by the Registrar for each inspection.
+(13) A person who acts in contravention of an order made
+140
+
+===== PAGE 141 =====
+
+Companies Act, 2019
+# [p141 fs=12.8] Act992
+under this section commits an offence and is liable on summary con-
+viction, in respect of each offence to a fine of not less than two
+hundred and fifty penalty units and not more than five hundred penalty
+units or to a term of imprisonment of not less than one year and not
+more than two years or to both the fine and the imprisonment.
+(14) For the purpose of this section
+(a)“insider dealing” means buying or selling securities in a com-
+pany by persons who have access to non-public informa-
+tion about the company; and,
+(b)“senior executive” means an employee who acts in the top
+hierarchy of the management of the company.
+Duty of director to report disqualification
+178.(1) On becoming aware of the disqualification to act as director,
+the director concerned shall immediately report the disqualification to
+the Board, and the Company Secretary in writing.
+(2) A director who refuses to disclose or misreports the disqualifi-
+cation within twenty-one days of the disqualification, commits an
+offence and is liable on summary conviction to a fine of not less than five
+hundred penalty units and not more than one thousand penalty units or
+to a term of imprisonment of not less than two years and not more than
+five years or to both the fine and the imprisonment.
+(3) A vacancy created by the disqualification of a director
+under this section, may be filled as a casual vacancy in accordance
+with section 172.
+Duty of company to fill vacancy of disqualified director
+179.(1) Where a company ceases to have the minimum number of
+directors, the board of directors of the company shall fill the vacancy
+of a disqualified director in accordance with section 172.
+(2) The board of directors shall deliver or cause to be delivered
+to the Registrar for registration, notice in an approved form of the
+change in the directors of that company as a result of a disqualification
+of a director.
+141
+
+===== PAGE 142 =====
+
+# [p142 fs=12.8] Act992Companies Act, 2019
+(3)The notice shall be delivered to the Registrar within twenty-
+eight days after the company becomes aware of the disqualification
+or the relevant court order is made and shall be accompanied with
+(a)a statutory declaration of the new director, to be a director;
+and
+(b)a consent form signed by the new director to signify accep-
+tance to be a director.
+(4) If the company contravenes the provisions of this section,
+the company and any director and member of the company that is in
+default is liable to pay to the Registrar, an administrative penalty of
+twenty-five penalty units for each day during which the company so
+carries on business after the expiration of the specified period without
+filling the vacancyand subsequently notifying the Registrar.
+Substitute directors
+180.(1) Except as otherwise provided in the constitution of a
+company, a company may appoint substitute directors in accordance
+with this section.
+(2) A substitute director is one who is appointed to act as a
+deputy for another named director and as the substitute in the absence
+of that director.
+(3) A substitute director shall not be counted as a director for
+the purposes of a provision in this Act or the constitution of a company
+prescribing a minimum or maximum number of directors, other than
+a provision relating to quorum.
+(4) A substitute director is not entitled to vote at a meeting of
+directors or a committee of directors at which the director for whom
+that person is a substitute is present.
+(5) Subject to subsections (3) and (4), a substitute director is a
+full director of the company for all purposes and shall be appointed
+and may be removed in the same way as directors are required to be
+appointedand removed.
+(6) Subject to subsections (3) and (4) a substitute director shall
+not cease to be a director by reason of the fact that the director for
+whom that person is a substitute ceases to be a director.
+142
+
+===== PAGE 143 =====
+
+Companies Act, 2019
+# [p143 fs=12.8] Act992
+Alternate directors
+181.(1) Except as otherwise provided in the constitution of a
+company, a director may, appoint another director or any other person
+approved by a resolution of the board of directors, as an alternate
+director to act as a director in respect of a period not exceeding six
+months in which that director is absent from the Republic or unable
+for a reason to act as a director.
+(2) The appointment shall be in writing signed by the appointor
+and appointee and lodged with the company.
+(3) An alternate director so appointed
+(a)is, for the period of the appointment, and for all purposes,
+a director and officer of the company and not the agent of
+the appointor;
+(b)shall not be required to hold a share qualification although,
+under the constitution of the company, directors may be so
+required;
+(c)is not entitled to appoint an alternate director; and
+(d)shall not be counted as a director for the purposes of a pro-
+vision of this Act or the constitution of a company relating
+to the minimum or maximum number of directors, other
+than a provision relating to quorum.
+(4) The company is not liable to pay additional remuneration by
+reason of the appointment of an alternate director.
+(5) The registered constitution of a company may provide that
+(a)the alternate director shall be entitled to receive from the
+company during the period of the appointment, the remu-
+neration to which the appointor, but for the appointment,
+would have been entitled, and
+(b)the appointor shall not be entitled to remuneration for that
+period.
+(6) In the absence of a provision in the registered constitution
+referred to in paragraph(b)of subsection (5), the alternate director is
+not entitled to be remunerated otherwise than by the director appointing
+the alternatedirector.
+(7) An alternate director who is personally a director, shall have
+an additional vote for each director for whom the alternate director acts
+as alternate director at every meeting of the directors.
+143
+
+===== PAGE 144 =====
+
+# [p144 fs=12.8] Act992Companies Act, 2019
+(8) The appointment of an alternate director shall cease
+(a)at the expiration of the period for which the appointment
+was made,
+(b)if the appointor gives written notice to that effect to the
+company,
+(c)if the appointor ceases for any reason to be a director, or
+(d)if the alternate director resigns by notice in writing to the
+company.
+(9) Until the cessation of the appointment of an alternate
+director, both the appointor and appointee are and may act as directors
+of the company, but an alternate director, unless personally a director,
+shall not attend or vote at a meeting of the directors or a committee
+of directors at which the appointor is present.
+Residence of directors in the country
+182.(1) At least one director of the company shall at all times be
+resident in the Republic.
+(2) In the event of a wilful breach of subsection (1), the company
+and every director of the company that is in default is liable to pay to
+the Registrar, an administrative penalty of twenty-five penalty units
+for each day during which the default continues.
+(3) The rights of the company concerned under or arising out
+of a contract made during the time that a director of the company is
+not resident in the Republic are not enforceable by action or any other
+legal proceedings.
+(4) For the purposes of subsection (3)
+(a)the company may apply to the Court for relief against the
+disability imposed by subsection (3) and the Court, on
+being satisfied that it is just and equitable to grant relief,
+may grant the relief generally or as regards a particular
+contract and on the conditions that the Court may impose;
+(b)the rights of any other party as against the company, or
+any other person in respect of the contract are not limited;
+and
+(c)if an action or a proceeding is commenced by any other
+party against the company to enforce the rights of that party
+144
+
+===== PAGE 145 =====
+
+Companies Act, 2019
+# [p145 fs=12.8] Act992
+in respect of the contract, subsection (3) does not preclude
+the company from enforcing in that action or proceeding
+by way of counterclaim, set off or otherwise, the rights that
+the company may have against that party in respect of that
+contract.
+Executive directors
+183.Except as otherwise provided in the constitution of a company,
+(a)a director may hold any other office or place of profit under
+the company, other than the office of an auditor, in con-
+junction with the office of director;
+(b)the directors may from time to time appoint one or more
+of their body to any other office for the period and on the
+terms that the directors may determine and, subject to the
+terms of an agreement entered into in a particular case, may
+revoke the appointment;
+(c)subject to compliance with section 185 and subject to sec-
+tion 214, that office may be remunerated by way of salary,
+commission, share of profits, participation in pension and
+retirement schemes, or partly in one way and partly in an-
+other, as the directors may determine; and
+(d)in exercising the powers under this section, the directors
+shall observe the rules laid down in sections 190 and 191
+and, in particular, in determining the amount of remunera-
+tion, shall satisfy themselves that the amount of the remu-
+neration is reasonably related to the value of the services of
+the holder of the office.
+Managing directors
+184.Except as otherwise provided in the constitution of a company,
+(a)the directors may from time to time appoint one or more
+of their body to the office of managing director and
+# [p145 fs=10.9] section 183 shall apply to that appointment;
+(b)the appointment of a managing director shall be auto-
+matically determined if the holder of the office ceases
+from a cause to be a director and, unless the agreement
+entered into in a particular case otherwise provides, the
+determination shall not constitute a breach of the con-
+tract with the company; and
+145
+
+===== PAGE 146 =====
+
+# [p146 fs=12.8] Act992Companies Act, 2019
+(c)the directors may entrust to and confer on a managing
+director any of the powers exercisable by them on the
+terms and with the restrictions that the directors think fit,
+and collaterallywith, or to the exclusion of the powers
+of the directors and, subject to the terms of an agreement
+entered into in a particularcase, may from time to time
+revoke or vary all or any of those powers.
+Remuneration and other benefits of directors
+185.(1) Subject to this section, the fees and any other remuneration
+including salary payable to the directors in whatever capacity, shall be
+determined from time to time by ordinary resolution of the company,
+and not by a provision in an agreement.
+(2) The fees payable to the directors as directors shall be deter-
+mined from time to time by ordinary resolution of the company and
+not in any other way.
+(3) Unless otherwise resolved, the fees payable to directors
+accrue from day to day and the directors are entitled to be paid the
+travelling and other expenses properly incurred by the directors in
+attending and returningfrom meetings of the directors or a committee
+of the directors or generalmeeting of the company or otherwise in
+connection with the business of the company.
+(4) Where a director holds any other office or place of profit
+under the company in accordance with section 183 or 184, the terms
+of the appointment may provide for the remuneration in respect of
+the appointment but that director is not entitled to a remuneration
+additional to the fees to which that person is entitled as director un-
+less the terms of the appointment to that office have been approved by
+ordinaryresolution of the company.
+(5) The registered constitution of a company may make provi-
+sion for benefits payable to directors including
+(a)compensation for loss of employment as director or former
+director;
+(b)insurance benefits; and
+(c)other indemnities.
+146
+
+===== PAGE 147 =====
+
+Companies Act, 2019
+# [p147 fs=12.8] Act992
+Publication of names of directors
+186.(1) A company incorporated in the country shall state in
+legible characters in the trade circulars and business letters of the
+company on or in which the name of the company appears,
+(a)the present forenames and surname; and(b)any former
+forenames or surname
+of every director, including substitute directors appointed in accordance
+with section 180 but excluding alternate directors appointed in accordance
+with section 181.
+Prohibition of assignment of offices
+187.A provision in the constitution of a company or in an agree-
+ment purporting to empower
+(a)a director to assign the office of that director, or
+(b)any other officer to assign the office of that officer to
+another person is void.
+Proceedings and minutes of meetings of directors
+188.(1) The directors of a company shall meet at least once every
+six months in each year to consider financial and operational affairs
+of the company.
+(2) Subject to a contrary provision in the constitution of a com-
+pany,
+(a)the directors may
+(i)meet together in the country or elsewhere for the
+despatch of business,
+(ii)adjourn and otherwise regulate the meetings of the
+directors as the directors think fit, and
+(iii) delegate any of the powers of the directors to com-
+mittees consisting of the member or members of
+their body that the directors think fit; but a com-
+mittee so formed shall in the exercise of the powers
+so delegated conform to the regulations that may
+be imposed on the committee by the directors;
+(b)a director may, and the Company Secretary on the requisi-
+tion of a director shall, at any time summon a meeting of
+directors, and a director being a member of a committee
+may, and the Company Secretary on the requisition of that
+147
+
+===== PAGE 148 =====
+
+# [p148 fs=12.8] Act992Companies Act, 2019
+director shall, at any time summon a meeting of the com-
+mittee;
+(c)it is necessary to give notice of a meeting of directors or of
+a committee of directors to a director for the time being
+absent from the country;
+(d)the quorum necessary for the transaction of business of the
+directors and of a committee of directors may be fixed by
+the directors, and unless so fixed shall be two, or, in the case
+of a one-person committee, one;
+(e)except as provided in paragraph(f), a business shall not be
+transacted in the absence of a quorum although a quorum
+was present at the commencement of the meeting;
+(f)the continuing directors may act despite a vacancy in their
+body but, if and so long as the number of directors is
+reduced below the number fixed as the necessary quorum,
+the continuing directors or director may act for four weeks
+after the number is so reduced, but after the four weeks may
+# [p148 fs=10.9] act only for the purpose of increasing the number of direc-
+tors to that number or of summoning a general meeting of
+the company and for no other purpose;
+(g)the directors and a committee of directors may elect a chair-
+person of their meetings and determine the period for which
+the chairperson is to hold office, but if a chairperson is not
+elected, or if at a meeting, the chairperson is not present
+within five minutes after the time appointed for holding
+the meeting, those present may choose one of their number
+to be chairperson of the meeting;
+(h)questions arising at a meeting of the directors or a committee
+of directors shall be decided by a majority of votes and in
+the case of an equality of votes the chairperson shall have
+second or casting vote;
+(i)attendance and voting by proxy is not permitted at meetings
+of directors or committees of directors; and
+(j)a resolution in writing, signed by the directors for the time
+being entitled to receive notice of a meeting of the directors,
+or of a committee of directors, is as valid and effectual as if
+it had been passed at a meeting of the directors or a com-
+mittee of directors duly convened and held.
+148
+
+===== PAGE 149 =====
+
+Companies Act, 2019
+# [p149 fs=12.8] Act992
+(3) A company shall cause minutes of the proceedings of meetings
+of the directors and a committee of directors to be entered in a book
+or books kept for the purpose.
+(4) A minute kept under subsection (1), if purporting to be
+signed by the chairperson of the meeting at which the proceedings
+took place or of the next succeeding meeting, is prima facie evidence
+of the proceedings.
+(5) Where minutes have been kept in accordance with this
+# [p149 fs=10.9] section, until the contrary is proved, the meeting is duly convened,
+held and conducted and the appointments of directors are valid.
+(6) Where a company fails to comply with subsection (1), the
+company and every officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of five hundred
+penalty units.
+Limitations on the powers of directors
+189.(1) Subject to this Act, the directors of a company with shares
+shall not, without the approval of
+(a)an ordinary resolution of the company,
+(i)issue any new or unissued shares, other than trea-
+sury shares, in the company unless the shares have
+first been offered on the same terms and conditions
+to all the existing shareholders or to all the holders
+of the shares of the class or classes being issued in
+proportion as nearly as may be to their existing hold-
+ings;
+(ii)make voluntary contributions to a charitable or any
+other fund, other than pension funds for the benefit
+of employees of the company or an associated com-
+pany, of the amounts the aggregate of which will,
+in a financial year of the company, not exceed two
+per cent of the retained earnings of the company at
+the end of the preceding financial year; or
+(b)a special resolution, pursue a major transaction under
+# [p149 fs=10.9] section 145.
+(2) A resolution of the company shall not be effective as
+approving a transaction as is referred to in subparagraph (i) of para-
+149
+
+===== PAGE 150 =====
+
+# [p150 fs=12.8] Act992Companies Act, 2019
+graph(a)of subsection (1), unless the resolution authorises in terms
+the specific transactionproposed by the directors.
+(3) A resolution of the company shall not be effective as
+approving a transaction as is referred to in paragraph(b)of subsection
+(1), if passed more than one year before the issue of the shares, unless
+the issue is in accordance with a scheme for the time being in force
+relating to the issue of shares to or for the benefit of persons genuinely
+in the employment of the company or any of the associated companies.
+(4) Subsection (3) shall not apply to a public company which
+has some or all of the equity shares of that public company being dealt
+in on an approved stock exchange.
+(5) Despite a provision of this Act or in the constitution of a
+company,or in a resolution of the company in general meeting, new
+or unissuedshares or treasury shares shall not be issued to a director
+or past directorof the company or of an associated company or to
+the nominee of that director or to a body corporate controlled by that
+director, unless the shares have first been offered on the same terms
+and conditions to
+(a)all the existing shareholders,
+(b)all the holders of the shares of the class or classes being is-
+sued in proportion to their existing holdings, or
+(c)to members of the public in the case of a public company.
+(6) Subsection (5) may be disapplied with the approval of an
+ordinary resolution of a public company if some or all of the equity
+shares of that public company are dealt in on an approved stock
+exchange or in respect of which an application has been made to an
+approved stock exchange for permission to deal in those shares.
+(7) For the purposes of subsection (5), a body corporate is
+controlled by a director if the body corporate or the directors of the
+body corporate are accustomed to act in accordance with the directions
+or instructions of that director or a nominee of that director or if at a
+general meeting of the body corporate, that director or a nominee of
+that director is entitled to exercise or control the exercise of one-third
+or more of the voting powers.
+(8) This section does not prohibit,
+(a)the issue of shares under a genuine underwriting agreement,
+or
+150
+
+===== PAGE 151 =====
+
+Companies Act, 2019
+# [p151 fs=12.8] Act992
+(b)the issue to a director at a fair price payable in cash of the
+shares, if under the constitution of the company, that di-
+rector is required to hold by way of share qualification.
+(9) Except as otherwise provided in the constitution of a company,
+the directors of a company with shares shall not, without the approval
+of an ordinary resolution of the company, exercise the powers of the
+company to borrow money or to charge any of the assets of the
+company where the moneys to be borrowed or secured, together with
+the amount remaining underchargedof moneys already borrowed or
+secured, apart from temporary loans obtained from the bankers of the
+company in the ordinary course of business, will exceed the stated
+capital for the time being of the company.
+(10) A person dealing with the company in good faith or
+registering a disposition of, or title to, property shall not be concerned
+to see whether the conditions of this section have been fulfilled, and
+sections 147 to 151 shall apply to a transaction of the type referred to in
+this section although the conditions have not been fulfilled.
+Duties of directors
+190.(1) A director of a company stands in a fiduciary relationship
+towards the company and shall observe the utmost good faith towards
+the company in a transaction with or on behalf of the company.
+(2) A director shall always act in what the director believes is
+the best interest of the company as a whole so as to preserve the assets,
+further the business, and promote the purposes for which the company
+was formed, in the manner that a faithful, diligent, careful and ordi-
+narily skilful director would act in the circumstances and in doing so
+shall have regard to
+(a)the likely consequence of any decision in the long term,
+(b)the impact of the operations of the company on thecom-
+munity and the environment, and
+(c)the desirability of the company maintaining a reputation
+for high standards of business conduct.
+(3) A director of a company shall
+(a)act in accordance with the constitution of a company, and
+151
+
+===== PAGE 152 =====
+
+# [p152 fs=12.8] Act992Companies Act, 2019
+(b)only exercise powers for the purposes for which the powers
+are conferred.
+(4) In considering whether a particular transaction or course
+of action is in the best interests of the company as a whole, a director
+may consider the interests of the employees, as well as the members,
+of the company, and, where appointed by, or as representative of, a
+special class of members, employees, or creditors may give special, but
+not exclusive, consideration to the interests of that class.
+(5) A director shall exercise independent judgment.
+(6) A provision, whether contained in the constitution of a
+company, or in a contract, or in a resolution of a company shall not
+relieve a director from the duty to act in accordance with this section
+or relieve the director from a liability incurred as a result of a breach
+of a provision of this section.
+Exercise of powers of directors
+191.(1) The directors shall not, without the approval of an ordinary
+resolution of the company, exceed the powers conferred on the directors
+by this Act, and the constitution of the company, or exercise those powers
+for a purpose different from that for which those powers were
+conferred, although the directors may believe the exercise of those powers
+is in the best interests of the company.
+(2) Where a director
+(a)fails to take reasonable steps to comply with subsection (1),
+or
+(b)acts or omits to act in contravention of subsection (1), the
+director is personally liable to pay to the company or to any
+other person, the amount of moneys lost to the company
+or to the other person or the monetary value of the dam-
+ages caused to, or suffered by, the company or that person
+as a result of the failure, act or omission of the director.
+(3) Where the directors
+(a)fail to take reasonable steps to comply with subsection (1), or
+(b)act or omit to act in contravention of subsection (1), the
+directors are jointly and severally liable to pay to the com-
+pany or to any other person, the amount of moneys lost to
+the company or to that other person, or the monetary value
+152
+
+===== PAGE 153 =====
+
+Companies Act, 2019
+# [p153 fs=12.8] Act992
+of the damages caused to, or suffered by, the company or
+that other person as a result of the failure, act or omission
+of the directors.
+(4) An amount of money due and payable by virtue of sub-
+# [p153 fs=10.9] section (2) or (3) may be recovered as a civil debt by the company or
+that other person.
+(5) This section is in addition to, and not in derogation of,
+sections 192 and 193.
+Conflicts of duty and interest
+192.(1) Despite a provision in the constitution of a company to the
+contrary, a director shall not, without the consent of the company in
+accordance with section 193, place that director in a position in which
+the duties of the director to the company conflicts or may conflict with
+the personal interests or the duties to other persons, and in particular,
+without that consent,a director shall not,
+(a)use to the advantage of that director any money or prop-
+erty of the company or use, otherwise than in accordance
+with section 198, any confidential information or special
+knowledge obtained by that director in the capacity of di-
+rector;
+(b)be interested directly or indirectly, otherwise than merely as
+a shareholder or debenture holder in a public company, in
+a business which competes with that of the company; or
+(c)be personally interested, directly or indirectly, in a contract
+or any other transaction entered into by the company ex-
+cept as provided by section 194.
+(2) The duty of a director to avoid conflict is not infringed if
+(a)the situation cannot reasonably be regarded as likely to give
+rise to a conflict of interest; or
+(b)the matter has been authorised by the directors.
+(3) Authorisation may be given by the directors
+(a)where the company is a private company and nothing in
+theconstitutionofthecompanyinvalidatesthe
+authorisation, by the matter being proposed to and
+authorised by the directors; or
+153
+
+===== PAGE 154 =====
+
+# [p154 fs=12.8] Act992Companies Act, 2019
+(b)where the company is a public company and the constitu-
+tion of the company includes provisions enabling the
+directors to authorise the matter, by the matter being
+proposed to and authorised by the directors in accordance
+with the constitution.
+(4) The authorisation is effective only if
+(a)any requirement as to the quorum at the meeting at which
+the matter is considered is met without counting the director
+in question or any other interested director, and
+(b)the matter was agreed to without the voting of the
+directors or would have been agreed to if the votes of the
+directors had not been counted.
+(5) Any reference in this section to a conflict of interest includes a
+conflict of interest and duty and a conflict of duties.
+Consent of company
+193.(1) For the purposes of section 192, the company does not
+consent unless, after full disclosure of the material facts, including the
+natureand extent of the interests of the directors, the transaction
+concerned has been specifically authorised by an ordinary resolution
+of the companywhich has been agreed to by the members of the
+company entitled to attend and vote at a general meeting or has been
+passed at a general meeting at which neither the director concerned
+nor the holders of the shares in which the director is beneficially
+interested, directly or indirectly, have voted as members on the resolution.
+(2) Consent in accordance with subsection (1) may be given
+before or after the occurrence of the transaction to which the consent
+relates.
+(3) A resolution of the company ratifying a transaction or a
+series of related transactions which has or have already taken place
+shall not be effective for the purposes of subsection (2) unless the reso-
+lution was passed not later than fifteen months after the date when
+the transaction or the first of those transactions took place.
+Contracts in which directors are interested
+194.(1) Except as otherwise provided in the constitution of a com-
+pany, a director, despite section 192 is entitled to enter into a contract
+with the company and, subject to compliance with section 190 and
+with subsections (2) to (7) of this section, the contract or any other
+154
+
+===== PAGE 155 =====
+
+Companies Act, 2019
+# [p155 fs=12.8] Act992
+contract by the company in which a director is in any way interested,
+shall not be liable to be avoided nor is a director liable to account for a
+profit made by reason of the director holding that office or of the
+fiduciary relationship so established.
+(2) A director who is directly or indirectly, interested in a contract
+or proposed contract entered into or to be entered into by or on behalf of
+the company shall declare the nature and extent of the interest at a meeting
+of the directors of the company.
+(3) In the case of a proposed contract, the declaration required
+by subsection (2) to be made by a director shall be made
+(a)at the meeting of the directors at which the question of
+entering into the contract is first taken into consideration, or
+(b)if the director was not at the date of that meeting interested
+in the proposed contract, at the next meeting after the
+director became so interested, and
+in a case where the director becomes interested in a contract after it is
+made, the declaration shall be made at the first meeting of the directors
+held after the director becomes so interested.
+(4) For the purposes of this section, a general notice in writing
+given to the directors of the company by a director to the effect that
+the director is a member of a specified company or firm, and is to be
+regarded as interested in a contract which may, after the date of the
+notice, be made with that company or firm, is a sufficient declaration
+of interest in relation to a contract or proposed contract so made or to
+be made, if
+(a)the notice states the nature and extent of the interest of the
+director in that company or firm;
+(b)at the time the question of confirming or entering into a
+contract is first taken into consideration the extent of the
+interest of the director in that company or firm is not greater
+than is stated in the notice;
+(c)the general notice is not effective unless it is given at a meeting
+of the directors, or the director giving the notice takes
+reasonable steps to secure that it is brought up and read at
+the next meeting of directors after the notice is given; and
+155
+
+===== PAGE 156 =====
+
+# [p156 fs=12.8] Act992Companies Act, 2019
+(d)the general notice is not effective for more than twelve
+months but may from time to time be renewed.
+(5) A director of a company shall not enter into a contract on
+behalf of the company in which the director knows or has knowledge,
+that any other director of the company or an associated company is
+materially interested, whether directly or indirectly, until a resolution
+has been passed by the directors approving the contract.
+(6) In the case of a proposed contract in which the director is
+interested, the director shall, before the consideration of the matter,
+disclose the nature and extent of the interest of the director in the
+proposed contract at a meeting of directors or by written notice given
+to the directors and shall cause that interest to be registered in the
+Interests Register and to be disclosed to the Board of the company in
+accordance with section 195.
+(7) A director shall neither be present nor vote in respect of a
+contract or an arrangement at a meeting in which that director is materi-
+ally interested or be counted in the quorum required for that business.
+(8) Subsection (7) shall not apply to
+(a)an arrangement for giving a director a security and
+indemnity in respect of money lent by the director to
+obligations undertaken by the director for the benefit
+of the company;
+(b)an arrangement for the giving by the company of a security
+to a third party in respect of a debt or obligation of the
+company for which the director personally has assumed
+responsibility in whole or in part under a guarantee or
+indemnity or by the deposit of a security; or
+(c)a contract by a director to subscribe for or underwrite shares
+or debentures of the company.
+(9) A copy of a declaration made and of a notice given in
+pursuanceof this section shall, within three days after the making or
+giving of the declaration or notice, be entered in a book kept for this
+purpose.
+(10) For the purposes of this section, an interest merely as
+holder of debentures, or of not more than two per cent of the shares
+or a class of shares, of a public company is not a material interest.
+156
+
+===== PAGE 157 =====
+
+Companies Act, 2019
+# [p157 fs=12.8] Act992
+Disclosure of interest by directors
+195.(1) A director of a company who has an interest that is likely
+to create a conflict of interest between that director and the company
+shall
+(a)cause to be entered that interest in the Interests Register
+established under section 196; and
+(b)disclose that interest to the Board of the company at a meeting
+or by written notice given to the directorsimmediately
+after becoming aware of the fact of that interest.
+(2) The director shall disclose the nature and extent of the interest.
+(3) A director who fails to comply with a provision of this
+# [p157 fs=10.9] section
+commits an offence and is liable on summary conviction to a fine of
+not less than two hundred and fifty penalty units and not more than
+five hundred penalty units.
+Company to maintain Interests Register
+196.(1) A company shall maintain an Interests Register which shall
+record the interests that directors disclose under subsection (6) of section
+194.
+(2) The Interests Register shall state the place where any docu-
+ment that contains the details of the interest may be inspected.
+(3) The Interests Register shall be kept at the same place as the
+register of members maintained in accordance with section 35.
+(4) The Interests Register shall be opened for inspection during
+business hours, subject to the reasonable restriction that the constitu-
+tion of the company may impose.
+(5) The Interests Register shall be open for inspection
+(a)not less than two hours in each day, other than a Saturday,
+a Sunday or a public holiday; and
+(b)during the continuance of a general meeting to a person
+attending the meeting.
+(6) The provisions of this section shall not apply if the members
+of a company by ordinary resolution so determine.
+(7) Where a company or an officer of a company fails to comply
+with this section, the company and every officer of the company that
+is in default is liable to pay to the Registrar, an administrative penalty
+157
+
+===== PAGE 158 =====
+
+# [p158 fs=12.8] Act992Companies Act, 2019
+of five hundred penalty units and if an inspection required under
+# [p158 fs=10.9] subsection (5) is refused, the Court may by order compel an immediate
+inspectionof the register.
+Directors to act professionally
+197.Except as otherwise provided in the constitution of a company,
+a director may, despite section 192, act personally or by the firm of
+that director in a professional capacity for the company, except as
+auditor, and the director or the firm of the director is entitled to
+proper remuneration for professional services as if the director were
+not a director, provided that disclosure is made under subsection (6)
+of section 194.
+Use of company information
+198.(1) A director of a company who has information in the
+capacity of that director as a director or employee of the company,
+being information that would not otherwise be available to that director,
+shall not disclose that information to any person, or make use of or
+# [p158 fs=10.9] act on the information, except
+(a)for the purposes of the company;
+(b)as required by law;
+(c)in accordance with subsection (2); or
+(d)in any other circumstances
+(i)authorised by the constitution of that company; or
+(ii)approved by the company by a written resolution
+circulated to all the members and signed by three
+fourths of all members entitled to attend and vote
+on the resolution at a general meeting; or
+(iii) approved by the company by an ordinary resolu-
+tion of the company passed at a general meeting at
+which neither the director concerned, nor the holder
+of any share in which the director is beneficially
+interested, directly or indirectly, has voted as mem-
+ber on the resolution or where the holder has voted
+and the vote is not counted.
+(2) The approval under subparagraph (iii) of paragraph(d)
+may be given before or after the occurrence of the transaction to which
+the approval relates.
+158
+
+===== PAGE 159 =====
+
+Companies Act, 2019
+# [p159 fs=12.8] Act992
+(3) The Board may authorise a director to disclose, make use
+of, or act on information where the board is satisfied that to do so is
+not likely to affect the company.
+(4) A director of a company may, if authorised by the Board
+under subsection (3), disclose information to
+(a)a person whose interests the director represents; or
+(b)a person in accordance with whose directions or
+instructions the director may be required or is
+accustomed to act in relation to the powers and
+duties of the director,
+subject to the director entering the particulars of the authorisation
+and the name of the person to whom the information is disclosed in
+the Interests Register.
+(5) Any monetary gain made by a director from the use of
+information which a director has in the capacity of that director as a
+director shall be accounted for to the company.
+Civil liabilities for breach of duty
+199.Where a director commits a breach of duty under sections 190 to
+192,
+(a)the director and any other person who knowingly partici-
+pated in the breach are liable to compensate the company
+for the loss the company suffers as a result of the breach;
+(b)the director shall account to the company for a profit made
+by the director as a result of the breach; and
+(c)a contract or any other transaction entered into between
+the director and the company in breach of that duty
+may be rescinded by the company.
+Legal proceedings to enforce liabilities
+200.(1) Proceedings may be instituted by the company or by a
+member of the company to
+(a)enforce the liabilities referred to in section 199;
+(b)restrain a threatened breach of a duty under sections 190 to
+192; or
+(c)recover from a director of the company a property of the
+company.
+159
+
+===== PAGE 160 =====
+
+# [p160 fs=12.8] Act992Companies Act, 2019
+(2) Proceedings may be instituted by the company on the authority
+of the board of directors or of a receiver and manager or liquidator of
+the company, or of an ordinary resolution of the company which has
+been agreed to by the members of the company entitled to attend and
+vote at a general meeting or has been passed at a general meeting.
+(3) Subject to subsection (5) of section 19 and at a general meeting
+for the purposes of subsection (2), neither the proposed defendants
+nor the holders of shares in which all or any of them are beneficially
+interested shall vote on the resolution and if all or any of them do vote,
+the votes shall not be counted.
+(4) After an investigation of the affairs of the company, pro-
+ceedings may pursuant to section 234 be instituted in the name of the
+company by the Registrar.
+(5) Where proceedings are instituted by a member, that member
+may either bring a derivative action under section 201 or a representa-
+tive action under section 205 on behalf of that member and all other
+members, except members who are defendants to the action, and shall
+join the company as a defendant; and to that representative action the
+provisions of section 349, shall apply.
+(6) The Court, on the application of a defendant,
+(a)may stay proceedings by the member if satisfied that, in all
+the circumstances, including the participation of that mem-
+ber in the transaction complained of, and the circumstances
+in which that member became a member, it is inequitable
+that the member should be allowed to have the conduct of
+the action,
+(b)may order the member to give security for payment of the
+costs of the defendants, and
+(c)may direct that the action or any part of the action shall be
+heard in chambers.
+(7) A period of limitation shall not apply to proceedings under
+this section, but in those proceedings the Court may relieve a director
+from liability in whole or in part and on the terms that, in all the
+circumstances including lapse of time, the Court considers it equitable
+so to do.
+160
+
+===== PAGE 161 =====
+
+Companies Act, 2019
+# [p161 fs=12.8] Act992
+(8) In proceedings under this section the Court may, in the
+interest of justice, order that a sum of money found to be payable by a
+defendant shall be restored, in whole or in part, to members or former
+members of the company instead of to the company.
+(9) Where the Court makes an order, the Court may order
+that the necessary enquiries shall be made to ascertain the identity of
+the members and former members concerned and may give the conse-
+quential directions that may be necessary or expedient.
+(10) Proceedings under this section shall not be discontinued,
+settled or compromised without the approval of the Court after notice
+of the proposed discontinuance, settlement or compromise has been
+given to all members of the company and to the Registrar in the
+manner thatthe Court directs.
+(11) Within the time prescribed by the notice, a member of the
+company and the Registrar may appear and call the attention of the
+Court to the matters which seem relevant and may give evidence and
+call witnesses.
+(12) Where the Court does not approve the discontinuance or
+compromise, the Court may give the conduct of the action to a mem-
+ber willing to continue the proceedings, or to the Registrar in the name
+of the company, making the consequential orders regarding the parties
+to the action or otherwise that may be necessary or expedient.
+Derivative actions
+201.(1) Subject to subsection (3), the Court may, on the application
+of a member or director of a company, grant leave to that member or
+director to
+(a)bring proceedings in the name and on behalf of the
+company or a subsidiary of the company; or
+(b)intervene in proceedings to which the company or any
+related company is a party for the purpose of continuing,
+defending, or discontinuing the proceedings on behalf of
+the company or a subsidiary of the company, as the case
+may be.
+(2) Without limiting subsection (1), in determining whether to
+grant leave under that subsection, the Court shall have regard to
+(a)the likelihood of the proceedings that may follow,
+(b)the costs of the proceedings in relation to the relief likely to
+be obtained,
+161
+
+===== PAGE 162 =====
+
+# [p162 fs=12.8] Act992Companies Act, 2019
+(c)any action already taken by the company ora subsidiary
+of the company to obtain relief, and
+(d)the interests of the company or a subsidiary of the com-
+pany in the proceedings being commenced, continued,
+defended, or discontinued, as the case may be.
+(3) Leave to bring proceedings or intervene in proceedings may
+be granted only where the Court is satisfied that either
+(a)the company or related company does not intend to bring,
+diligently continue or defend, or discontinue, the proceed-
+ings, as the case may be; or
+(b)it is in the interests of the company or a subsidiary of the
+company that the conduct of the proceedings should not
+be left to the directors or to the determination of the mem-
+bers as a whole.
+(4) Notice of the application shall be served on the company
+or a subsidiary of the company.
+(5) The company or related company
+(a)may appear and be heard, and
+(b)shall inform the Court, whether or not it intends to bring,
+continue, defend, or discontinue the proceedings, as the case
+may be.
+(6) Except as provided for in this section, a member or director
+of a company is not entitled to bring or intervene in any proceedings
+in the name of, or on behalf of, a company or a subsidiary of the
+company.
+Costs of derivative action to be met by company
+202.The Court shall, on the application of the member or director
+to whom leave was granted under section 201 to bring or intervene in
+the proceedings, order that the whole or part of the reasonable costs of
+bringing or intervening in the proceedings, including any costs relating
+to any settlement, compromise, or discontinuance approved under sec-
+tion 201, shall be met by the company unless the Court considers that
+it would be unjust or inequitable for the company to bear those costs.
+Powers of Court where leave is granted
+203.The Court may,
+(a)at any time, make any order it considers fit in relation to
+proceedings brought by a member or a director or in which
+162
+
+===== PAGE 163 =====
+
+Companies Act, 2019
+# [p163 fs=12.8] Act992
+a member or director intervenes, as the case may be, with
+leave of the Court under subsection (3) of section 201, and
+(b)without limiting the generality of this section,
+(i)make an order authorising the member or any other
+person to control the conduct of the proceedings;
+(ii) give directions for the conduct of the proceedings;
+(iii) make an order requiring the company or the direc-
+tors to provide information or assistance in
+relation to the proceedings; or
+(iv) make an order directing that any amount ordered
+to be paid by a defendant in the proceedings shall
+be paid, in whole or part, to former and present
+members of the company or a subsidiary of the
+company instead of the company or the related
+company.
+Compromise, settlement or withdrawal of derivative action
+204.Where proceedings in which a member or a director inter-
+venes, as the case may be, with leave of the Court are brought under
+# [p163 fs=10.9] subsection (5) of section 201, the proceedings shall not be settled or
+compromised or discontinued without the approval of the Court.
+Representative actions
+205.Where, under a section of this Act, it is provided that if legal
+proceedings are instituted by a person, that person shall sue in a
+representative capacity on behalf of the person and any other member
+of a class,
+(a)that person may commence proceedings in that representa-
+tive capacity without obtaining the consent and approval
+of any other member of the class represented and, subject
+to paragraph(b)of this section, that person shall have the
+sole conduct of the action and any other member of the
+class shall not be regarded as a party to the proceedings or
+liable for the costs of the proceedings;
+(b)a member of the class represented may at any time before
+final judgement apply to the Court for leave to be made a
+party to the proceedings whether as co-plaintiff or other-
+wise and the Court may grant leave on the terms regarding
+163
+
+===== PAGE 164 =====
+
+# [p164 fs=12.8] Act992Companies Act, 2019
+the conduct of the action or otherwise that it considers fit;
+and if the leave is granted the applicant shall become a party
+to the proceedings and liable accordingly to have an order
+for costs made against that applicant;
+(c)a judgement given in the action shall bind and inure to the
+benefit of the members of the class represented, whether or
+not they have intervened in the proceedings in accordance
+with paragraph(b)of this section;
+(d)the proceedings shall not be dismissed, settled or compro-
+mised without the leave of the Court which may order that
+notice of the proposed dismissal, settlement or compro-
+mise shall be given to the members of the class represented
+and any other persons;
+(e)the proceedings under this section shall be supplemented
+by the provisions of section 200; and
+(f)this section shall not affect the validity of an agreement
+between the members of the class represented, relating to
+contribution towards the costs of the party or parties
+suing in a representative capacity.
+Payments to directors for loss of office
+206.(1) A company shall not make a payment to a director or
+former director of the company or an associated company,
+(a)by way of compensation for loss of an office in the com-
+pany or an associated company, or
+(b)as consideration for or in connection with retirement from
+office of that director or former director,
+without particulars of the proposed payment, including the amount
+of the payment, being disclosed to the members of the company and
+the proposal being approved by an ordinary resolution of the company
+agreed to or passed in the manner provided by section 193.
+(2) A payment shall not be made, whether by the company or
+otherwise, to a director or former director of a company in connection
+with the transfer of the whole or a part of the undertaking or property
+of the company or an associated company, whether the payment is
+expressed to be by way of compensation for loss of office or otherwise,
+164
+
+===== PAGE 165 =====
+
+Companies Act, 2019
+# [p165 fs=12.8] Act992
+unless particulars of the proposed payment, including the amount of
+the payment have been disclosed to the members of the company and
+the proposalapproved by an ordinary resolution of the company
+agreed to or passed in the manner provided by section 193.
+(3) Where a payment is made in contravention of this section,
+the amount of the payment shall be regarded as money of the company
+used by a director for the advantage of the director within the meaning
+of section 192.
+Payments to directors in connection with take-over bids
+207.(1) An offer for the acquisition of shares of a company may be
+made on the terms that the offer is available for acceptance,
+(a)by the members of the company or by the holders of shares
+of the class to which the offer relates, or
+(b)by the holders of shares which, together with the shares
+already owned beneficially by the person making the offer
+or by a body corporate in which that person is the controlling
+member, confer the right to exercise or control the exer-
+cise of not less than one third of the voting power at a
+general meeting of the company.
+(2) Where an offer for the acquisition of shares is made under
+# [p165 fs=10.9] subsection (1), and in connection with that offer it is proposed that a
+payment shall be made or a payment has been made to a director or
+former director of the company or an associated company, over and above
+the receipt by the director or former director in respect of the same price
+as may be receivable by other holders of the shares of the same class, that
+director or former director shall take reasonable steps to secure that, par-
+ticulars of the payment are included in or sent with the notice of the offer
+made for their shares which is given to the shareholders.
+(3) Where
+(a)the director or former director fails to take the reasonable
+steps, or
+(b)a person who has been properly required by that director or
+former director to include the particulars in or send them
+with the notice fails to do so,
+that director or former director or that person acting on the directives
+165
+
+===== PAGE 166 =====
+
+# [p166 fs=12.8] Act992Companies Act, 2019
+of the director or former director under paragraph(b)commits an offence
+and is liable on summary conviction to a fine of not less than two
+hundred penalty units and not more than four hundred penalty units.
+(4) The payment shall be distributed in the manner provided
+by subsection (5) unless
+(a)the requirements of subsection (1) are complied with, and
+(b)the making of the payment is, before the transfer of shares
+in pursuance of the offer, approved by an ordinary reso-
+lution,
+(i)agreed to by the holders of the shares to which the
+offer relates, or
+(ii)passed at a meeting, summoned for that purpose
+by notice complying with subsection (7), of the
+holders at which neither the director concerned nor
+the holders of the shares in which the director or
+former director is beneficially interested, directly or
+indirectly, have voted on the resolution.
+(5) Where a payment is to be distributed in accordance with
+# [p166 fs=10.9] subsection (4), the person making or proposing to make the payment
+and the director or former director to whom it is made or proposed
+to be made are jointly and severally liable to distribute the payment
+among the persons who have sold their shares as a result of the offer
+in proportion to the number of shares sold by them, and if a director
+or former director receives the payment, that director or former director
+shall hold the payment in trust for those persons.
+(6) For the purposes of subsection (5),
+(a)the expenses incurred in distributing the payment shall be
+borne by the persons liable to make the distribution and
+not retained out of the payment;
+(b)if, in proceedings instituted before the expiration of three
+months from the first transfer of shares in pursuance of
+the offer, the Court awards or approves the payment of
+damages to the director or former director for breach of
+a valid service agreement, the amount of the damages,
+but not the costs or expenses incurred in connection with
+proceedings, shall be paid to or retained by the director or
+former director out of the payment and only the balance
+of the payment shall be distributable.
+166
+
+===== PAGE 167 =====
+
+Companies Act, 2019
+# [p167 fs=12.8] Act992
+(7) The notice of a general meeting summoned for the
+purposes of subsection (4) shall be convened, held and conducted as
+nearly as may be in accordance with this Act or the constitution of a
+company relating to general meetings of the company.
+(8) The notices convening the meeting shall state that if the
+resolution approving the payment is not passed, the payment will be
+distributable among the persons who have sold their shares in pursuance
+of the offer except to the extent that the Court may award or approve
+the payment to the director or former director concerned with damages
+for breach of a valid service agreement.
+(9) An offer referred to in subsection (1) shall not be made
+conditional on approval of a payment or proposed payment to a
+director or former director and, if an offer is expressed to be made
+subject to that condition, the condition is void.
+(10) For the purposes of paragraph(b)of subsection (1),
+(a)where the offer is made by a body corporate, the shares are
+owned beneficially by that body corporate if the shares are
+owned beneficially by the body corporate or by any of its
+associated companies or by any controlling member of the
+body corporate; and
+(b)a person is a controlling member of a body corporate if
+that body corporate or directors of that body corporate
+are accustomed to act in accordance with the directions
+or instructions of that person or a nominee of that
+person or if, at a general meeting of that body corporate,
+that person is entitled to exercise or control the exercise
+of one-third or more of the voting power.
+Provisions supplemental to sections 206 and 207
+208.(1) For the purposes of sections 206 and 207 and of this sec-
+tion, the expression “payment” includes a benefit or an advantage
+whether in cash or in kind.
+(2) Sections 206 and 207 shall not render unlawful, or apply to,
+the payment of damages awarded or approved by a court of compe-
+tent jurisdiction for breach of a valid service agreement or the genuine
+payment of a pension or superannuation benefit in respect of past
+services in accordance with a valid service agreement.
+167
+
+===== PAGE 168 =====
+
+# [p168 fs=12.8] Act992Companies Act, 2019
+(3) For the purposes of subsection (4) of section 207 and of
+# [p168 fs=10.9] subsection (2) of this section, a service agreement is not valid if the
+serviceagreement has been entered into in contemplation of a
+transfer referred to in subsection (2) of section 206 or of an offer
+referred to in subsection (1) of section 207 and unless the contrary is
+proven, the service agreement shall be deemed to have been entered
+into in contemplation of that transfer or offer if the service agreement
+is made within one year before or contemporaneously with, or at any
+time after the date of the agreement to transfer or the making of the
+offer.
+(4) For the purposes of sections 206 and 207,
+(a)a payment, which is not a remuneration properly payable
+in accordance with section 185, is received by a director or
+former director within a period of one year before, or two
+years after the date of the agreement to make the transfer
+referred to in subsection (2) of section 206 or of the date of
+making an offer referred to in subsection (1) of section 207,
+and
+(b)the company or the person to whom the transfer or by whom
+the offer was made was privy to the making of the pay-
+ment,
+the payment shall be deemed to have been received by the director or
+former director in connection with the transfer or offer unless the
+director or former director proves that, the payment would have been
+received by the director or former director whether or not the transfer
+or offer had been made.
+Duties of directors in sales or purchases of securities of the company
+209.(1) Where a director of a company, having acquired as a direc-
+tor of the company special information which may substantially affect
+the value of the shares or debentures of the company or an associated
+company, buys or sells those shares or debentures without disclosing
+that information to the seller or purchaser of the shares or deben-
+tures, the purchase or sale is voidable at the option of the seller or
+purchaser within twelve months after the date of the agreement to sell
+or buy.
+(2) For the purposes of subsection (1), the shares or debentures
+bought or sold shall be deemed to have been bought or sold by a
+168
+
+===== PAGE 169 =====
+
+Companies Act, 2019
+# [p169 fs=12.8] Act992
+director if the interest of the director in the shares or debentures would
+normally require recording in relation to that director in the register
+maintained in accordance with section 210, unless it is proven that the
+sale or purchasewas not made by that director or on the instructions
+or advice of thatdirector or on the instructions or advice of any
+other person to whomthat director had disclosed a special informa-
+tion affecting the value of the shares or debentures obtained by that
+director in the capacity as director of the company.
+(3) This section does not affect the right of the company to
+proceed against a director for breach of sections 192 and 198.
+Register of holdings of directors
+210.(1) A company shall keep a register showing, in respect of each
+director of the company,
+(a)the number and description of shares in the company or an
+associated company; and
+(b)the amount of the debentures of the company or an associ-
+ated company of which that director is the holder or in
+which that director has, directly or indirectly, a beneficial
+interest or right to acquire, or of which that director has
+an option to buy or sell.
+(2) Despite subsection (1), the register need not include shares
+in a body corporate which is the wholly owned subsidiary of another
+body corporate.
+(3) The nature and extent of the interest of a director in the
+shares or debentures recorded in relation to that director in the register
+shall, if the director so requires, be indicated in the register.
+(4) Where the shares or debentures fail to be or cease to be
+recorded in the register in relation to a director by reason of a
+transaction entered into after the commencement of this Act, and
+while that director is a director, the register shall also show the date of,
+and the price or any other consideration for the transaction; and where
+there is an interval between the agreement for that transaction and the
+completionof the transaction, the date shown shall be that of the
+agreement.
+(5) The register shall be kept at the same place as the register of
+members maintained in accordance with section 35, and shall be open
+169
+
+===== PAGE 170 =====
+
+# [p170 fs=12.8] Act992Companies Act, 2019
+to inspection during business hours, subject to the reasonable restric-
+tions that the constitution of that company may impose, by a member
+or debenture holder or a former member or debenture holder or by the
+auditor of the company or by the Registrar.
+(6) Not less than two hours in each day, other than a Saturday,
+a Sunday or a public holiday, shall be allowed for inspection.
+(7) The register shall be produced at the commencement of a
+general meeting of the company and remain open and accessible during
+the continuance of the meeting to a person attending the meeting.
+(8) A director of the company shall give notice to the company
+of the matters relating to that director that may be necessary for the
+purposes of complying with subsections (1) and (4).
+(9) The notice shall be in writing and shall be given within
+twenty-eight days after the commencement of this Act and within
+twenty-eight days after the occurrence of a transaction which requires
+recording.
+(10) If the notice is not given at a meeting of directors, the
+director who should have given it shall take reasonable steps to secure
+that the notice is brought up and read at the next meeting of directors
+after the notice is given.
+(11) Where a director fails to comply with subsections (8), (9)
+and (10), that director is liable to pay to the Registrar,
+(a)an administrative penalty of five hundred penalty units;
+and
+(b)five hundred penalty units for each day that the failure
+occurs.
+(12) Where a person fails to comply with subsection (1), (4),
+(5), (6) or (7), the company and every officer of the company that is
+in default is liable to pay to the Registrar, an administrative penalty
+of five hundred penalty units and if an inspection required under
+subsections (5) and (7) is refused, the Court may by order compel an
+immediate inspection of the register.
+(13) The company shall not, by virtue of anything done for
+the purposes of this section, be affected with notice of, or put upon
+enquiry as to, the right of a person in relation to any shares and
+debentures.
+170
+
+===== PAGE 171 =====
+
+Companies Act, 2019
+# [p171 fs=12.8] Act992
+(14) For the purposes of this section, a director is beneficially
+interested in shares or debentures if a body corporate holds the shares
+or debentures, or has a right in or over the shares or debentures, and
+that body corporate or the directors of that body corporate are accus-
+tomed to act in accordance with those directions or instructions of the
+director, or that director is entitled to exercise or control the exercise
+of one-third or more of the voting power at a general meeting of that
+body corporate.
+Company Secretary
+211.(1) A company shall have a Company Secretary who shall
+possess the qualification specified in subsection (3).
+(2) The Company Secretary may be a body corporate except
+that the body corporate must have as one of its promoters, subscribers,
+directors or operating officers, a person who is qualified to be a Com-
+pany Secretary.
+(3) The directors shall not appoint a person as a Company
+Secretary unless that person
+(a)has obtained a professional qualification or a tertiary level
+qualification that enables that person to have the requisite
+knowledge and experience to perform the functions of a
+Company Secretary,
+(b)has held office, before the appointment, as a Company
+Secretary trainee or has been articled under the supervision
+of a qualified Company Secretary for a period of at least
+three years,
+(c)is a member in good standing of
+(i)the Institute of Chartered Secretaries and Admin-
+istrators, or
+(ii)the Institute of Chartered Accountants, Ghana,
+(d)having been enrolled to practice, is in good standing as a
+barrister or solicitor in the Republic, or
+(e)by virtue of an academic qualification, or as a member of
+a professional body, appears to the directors as capable
+of performing the functions of secretary of the company.
+(4) For the purpose of paragraph(a)of subsection (3), a
+171
+
+===== PAGE 172 =====
+
+# [p172 fs=12.8] Act992Companies Act, 2019
+professional or tertiary level qualification is a discipline with an offering
+in company law practice and administration.
+(5) Unless the constitution of a company otherwise provides,
+the Company Secretary shall be appointed by the directors for the
+term, at the remuneration and on the conditions that the directors
+consider fit, and may be removed by them, subject to the right of the
+Company Secretary to claim damages from the company if removed
+in breachof contract.
+(6) Where a company carries on business for more than six
+months without a Company Secretary, the company and every officer
+of the company that is in default is liable to pay to the Registrart an
+administrativepenalty of twenty-five panalty units for each day that
+the company continues to carry on business without a Company
+Secretary after the expiration of the period of six months.
+(7) An act required or authorised to be done by or to the Com-
+pany Secretary may, if the office is vacant or there is not for any other
+reason, a person capable of acting as Company Secretary, be done by
+or to an assistant or a deputy Company Secretary or any other officer
+of the company appointed by the directors to be acting Company
+Secretary.
+(8) The Company Secretary shall, before assuming office, lodge
+with the company for onward transmission to the Registrar, the written
+consent to serve as a Company Secretary.
+Duties of a Company Secretary
+212.The duties of a Company Secretary include
+(a)assisting the Board to comply with the constitution of the
+company and with any relevant enactment;
+(b)keeping the books and records of the company;
+(c)ensuring that the minutes of the meetings of the sharehold-
+ers and the directors are properly recorded in the form
+required by this Act;
+(d)preparing and issuing out notices in the name of the com-
+pany;
+(e)ensuring that the annual financial statements of thecom-
+172
+
+===== PAGE 173 =====
+
+Companies Act, 2019
+# [p173 fs=12.8] Act992
+pany are despatched to every person entitled to the state-
+ments as required by this Act;
+(f)ensuring that all statutory forms and returns are duly filed
+with the Registrar;
+(g)maintaining the statutory registers of the company;
+(h)providing the Board with guidance as to the duties, respon-
+sibilities and powers of the Board and on the changes and
+development in the laws affecting the operation of compa-
+nies;
+(i)informing the Board of legislation relevant to or affecting
+meetings of shareholders and directors and their failure to
+comply with the legislation and reporting accordingly at
+any meeting; and
+(j)advising the directors on their responsibilities as directors.
+Avoidance of acts in dual capacity as director and Company Secretary
+213.Where a person acts as both director and Company Secretary
+of a company, a provision requiring or authorising an act to be done
+by or to a director and a Company Secretary shall not be considered as
+done if the act is done by or to that person acting in both capacities.
+Prohibition of tax-free payments
+214.(1) A company shall not pay a director or Company Secretary
+of the company remuneration free of income tax or otherwise calculate
+that remuneration by reference to or varying the amount of the
+income tax payable by the director or Company Secretary.
+(2) A provision contained in
+(a)the constitution of a company;
+(b)a resolution of a company or of the directors of a com-
+pany; or
+(c)a contract entered into by a company
+for the payment of remuneration shall have effect as if the provision
+requires the payment as a gross sum, subject to income tax, of the net
+sum for which the provision actually requires.
+Register of directors and Company Secretary
+215.(1) A company shall keep at the registered office of the company
+(a)a register of the directors of the company; and
+(b)a register of the Company Secretaries.
+173
+
+===== PAGE 174 =====
+
+# [p174 fs=12.8] Act992Companies Act, 2019
+(2) The register of directors referred to in subsection (1) shall
+include a record of substitute directors appointed in accordance with
+# [p174 fs=10.9] section 180 but shall not include a record of alternate directors appointed
+in accordance with section 181.
+(3) The register shall contain with respect to each director,
+(a)the present forenames and surname;
+(b)any former forename or surname;
+(c)the usual residential address;
+(d)the business occupation; and
+(e)particulars of any other directorships, other than alternate
+directorships held by the director.
+(4) The register shall contain with respect to the CompanySecretary
+or, where there are joint Company Secretaries, with respect to each of
+them,
+(a)in the case of an individual, the particulars required by para-
+graphs(a)to(d)of subsection (3); and
+(b)in the case of a body corporate, its corporate name and
+registered or principal office.
+(5) Where all the partners in a firm are joint Company Secre-
+taries, the name and principal office of the firm may be stated instead
+of the residential address of each partner.
+(6) The register shall, during business hours, subject to the
+reasonable restrictions that the company may by the constitution of
+the company impose, be open to the inspection of a member of the
+company without chargeand any other person on payment of a
+prescribed fee, for each inspection.
+(7) Not less than two hours in each day, other than a Saturday,
+Sunday or a public holiday shall be allowed for inspection under
+# [p174 fs=11.0] subsection (6).
+(8) If an inspection required under this section is refused or
+where there is a default in compliance with subsection (1), (2), (3) or (4),
+the companyand every officer of the company that is in default is
+liable to pay to theRegistrar, an administative penalty of five
+hundred penalty units and in the case of a refusal the Court may by
+order compel an immediateinspection of the register.
+174
+
+===== PAGE 175 =====
+
+Companies Act, 2019
+# [p175 fs=12.8] Act992
+(9) For the purposes of this section and of sections 186 and 216,
+(a)in the case of a person usually known by a title different
+from the surname, the expression “surname” means that
+title; and
+(b)references to a former name do not include,
+(i)in the case of a person usually known by a title, the
+name by which that person was known before the
+succession to that title;
+(ii)a name changed or disused before the person bear-
+ing the name attained the age of eighteen years or
+changed or disused for a period of not less than
+twenty years; or
+(iii) in the case of a married person, the name by which
+that person was known before the marriage.
+Registration of particulars of directors and Company Secretaries
+216.(1) A company shall, within twenty-eight days of a change occur-
+ring among the directors or in the Company Secretary or in any of the
+particulars contained in the register, other than those required under para-
+graph(e)of subsection (3) of section 215, send to the Registrar for
+registration notification in the prescribed form of the change, specify-
+ing the date of the change.
+(2) Where a company defaults in complying with subsection
+(1), the company and every officer of the company that is in default is
+liable to pay to the Registrar, an administrative penalty of twenty-five
+penalty units for each day during which the default continues.
+(3) A director or Company Secretary who resigns from office is
+in default unless notification of the resignation is duly given to the
+company.
+General saving of existing law relating to officers
+217.The rights, duties and liabilities of officers and agents of compa-
+nies shall continue to be governed by the rules of the common law and
+equity relating to principal and agent, and master and servant except in
+so far as those rules are not inconsistent with the express provisions of
+this Act.
+175
+
+===== PAGE 176 =====
+
+# [p176 fs=12.8] Act992Companies Act, 2019
+# [p176 fs=10.9] Part R: Protection against Illegal or Oppressive Action
+Injunction or declaration in the event of illegal or irregular activity
+218.(1) The Court on the application of a member may by injunction
+restrain the company,
+(a)from doing an act or entering into a transaction which is
+illegal or beyond the power or capacity of the company or
+which infringes a provision of the constitution of the
+company, or
+(b)from acting on a resolution not properly passed in accor-
+dance with this Act or the constitution of the company,
+and may declare that act, transaction or resolution already
+done, entered into, or passed to be void.
+(2) Subsection (1) does not derogate from the protection
+afforded by a provision of this Act to a person dealing with the com-
+pany.
+(3) In relation to acts beyond the capacity or power of the
+company, this section is subject to section 19 and does not limit its appli-
+cation.
+(4) The right afforded to a member to apply to the Court, does
+not limit the right that member may have to institute proceedings against
+a director of the company pursuant to section 200 or to apply to the
+Court under section 219.
+(5) In proceedings by a member under this section, the Court may
+order the member to give security for the costs of the company and may
+direct that the application shall be heard in chambers.
+Remedy against oppression
+219.(1) A member or debenture holder of a company or, in a case
+falling within section 234, the Registrar may apply to the Court for an
+order under this section on the ground that
+(a)the affairs of the company are being conducted or the powers
+of the directors are being exercised in a manner oppressive
+to one or more of the members or debenture holders or in
+disregard of the proper interests of those members, share-
+holders, officers, or debenture holders of the company; or
+176
+
+===== PAGE 177 =====
+
+Companies Act, 2019
+# [p177 fs=12.8] Act992
+(b)an act of the company has been done or is threatened or
+that a resolution of the members, debenture holders or a
+class of them has been passed or is proposed which
+unfairly discriminates against, or is otherwise unfairly
+prejudicial to, one or more of the members or debenture
+holders.
+(2) Where on the application, the Court is of opinion that
+either of the grounds set out in subsection (1) is established, the Court
+may, with a view to bringing to an end or remedying the matters
+complained of, make an appropriate order; and, without limiting the
+effect of this subsection, the Court may by order,
+(a)direct or prohibit an act or cancel or vary a transaction or
+resolution;
+(b)regulate the conduct of the affairs of the company in future;
+or
+(c)provide for the purchase of the shares or debentures of any
+members or debenture holders of the company by other
+members or debenture holders of the company or by the
+company itself; and in the case of purchase of shares by
+the company without regard to the limitations imposed
+by sections 61 to 65, other than subsections (4), (5) and
+(6) of section 61.
+(3) Where an order under this section makes an amendment in or
+addition to any provisions of the constitution of a company, then,
+despite anything in this Act but subject to the provisions of the order, the
+company shall not without the leave of the Court, make a further amend-
+ment in or addition to the constitution inconsistent with the provisions
+of the order.
+(4) An official copy of an order under this section amending
+or adding to the constitution of the company shall, within twenty-eight
+days after the making of the order, be delivered by the company to the
+Registrar for registration.
+(5) Where a company defaults in complying with subsection
+(4), the company and an officer of the company that is in default is
+177
+
+===== PAGE 178 =====
+
+# [p178 fs=12.8] Act992Companies Act, 2019
+liable to pay to the Registrar, an administrative penalty of two hundred
+and fifty penalty units.
+(6) On an application under this section by a member or debenture
+holder of the company, the Court may order the applicant to give
+security for the costs of the company and may direct that the application
+shall be heard in chambers.
+Member requiring company to purchase shares
+220.(1) Despite sections 64 and 65 a member may require a com-
+pany to purchase the shares of that member where members of a
+company by special resolution resolve to
+(a)amend the constitution of the company with a view to vary-
+ing or dispensing with the business activities or objects of
+the company;
+(b)approve
+(i)a major transaction under section 145;
+(ii)an arrangement, compromise, merger or division
+of the company under Part T of Chapter Two of
+this Act; or
+(iii) the variation of class rights under section 50.
+(2) A sale and distribution in pursuance of a special resolution
+under subsection (1) is binding on the company.
+(3) A member of the company is entitled to have the shares of
+that member bought under the provisions of this Act, only if that
+membervoted wholly against the resolution for matters specified in
+# [p178 fs=10.9] subsection (1).
+(4) A special resolution pursuant to paragraph(a)and paragraphs
+(b)(i), (ii) and (iii) of subsection (1), may only be rescinded by a special
+resolution.
+(5) For the purposes of
+(a)subsection (2), if within one year from the date of the pas-
+sage of the special resolution, the company has been unable
+to carry out the proposed objects or any of the business
+activities specified in paragraph(b)of subsection (1), a member
+is entitled to apply to have the respective shares reinstated;
+and
+178
+
+===== PAGE 179 =====
+
+Companies Act, 2019
+# [p179 fs=12.8] Act992
+(b)this section, a “special resolution” is deemed to include, in
+the case of a variation of class rights, the prior written
+consent of the holders of at least three-fourths of the
+issued shares of the class of shares affected.
+Notice requiring purchase of shares
+221.(1) A member of a company who requires the company to
+purchase the shares of that member under section 220 shall, within
+fourteen days of the passage of the resolution at a meeting of the
+members of the company, give written notice to the company requiring
+the company to purchase those shares.
+(2) On receipt of the notice, the Board shall
+(a)arrange for the purchase of the shares by the company;
+(b)arrange for some other person to purchase the shares;
+(c)arrange for the resolution to be rescinded in accordance with
+# [p179 fs=10.9] subsection (4) of section 220; or
+(d)apply to the Court for an order exempting the Board from
+the purchase of the shares of the member.
+(3) The Board shall within twenty-eight days upon receipt of
+the notice give written notice to the member of the decision of the
+Board.
+Purchase of shares by company
+222.(1) Where the Board agrees under paragraph(a)of subsection
+(2) of section 221 to the purchase of the shares by the company,
+it shall within seven days of issuing notice under subsection (3) of
+# [p179 fs=10.9] section 221,
+(a)state a fair and reasonable price as at the close of business
+on the day before the day the resolution is passed for the
+shares to be acquired; and
+(b)give written notice of the price to the member.
+(2) A member who considers that the price stated by the Board is
+not fair and reasonable, shall forthwith, but at any rate, not later than
+fourteen days after receipt of the notice, give written notice of the objec-
+tion to the company.
+(3) Where the member agrees to the price stated by the Board
+without objection, the company shall, on the date the company and
+the member mutually agree, or in the absence of any agreement, as
+soon as practicable, purchase all the shares at the stated price.
+179
+
+===== PAGE 180 =====
+
+# [p180 fs=12.8] Act992Companies Act, 2019
+Determination of fair and reasonable price for purchase of shares
+by company
+223.(1) Where a member raises an objection to the price of shares
+stated by the board of directors under subsection (2) of section 222,
+the company shall
+(a)pay to the member concerned, a provisional price in re-
+spect of each share equal to the price stated by the Board of
+directors, and
+(b)refer the matter to an auditor to determine a fair and rea-
+sonable price for the shares within seven days.
+(2) When the payment of the provisional price is made, the
+member concerned shall take the steps required to transfer the shares
+to the company.
+(3) Where after fourteen days, the auditor is unable to deter-
+mine a fair and reasonable price for the shares,
+(a)the member concerned and the Board shall each appoint
+an arbitrator; and
+(b)the member and the Board shall agree on an umpire.
+(4) The company shall bear the costs for the appointment of
+an arbitrator under subsection (3).
+(5) Where the member and Board are unable to agree on the
+appointment of a third arbitrator as umpire, the Court may appoint
+the umpire.
+(6) A reference to arbitration under this section, shall be deemed
+to be a submission to arbitration in accordance with the Alternative
+Dispute Resolution Act, 2010 (Act 798).
+(7) The arbitrator shall expeditiously determine a fair and rea-
+sonable price for the shares on the day before the date on which the
+members determined by special resolution authorising the respective
+action under subsection (1) of section 220 excluding any appreciation
+or depreciation directly or indirectly induced by the action or the
+proposal.
+(8) The price determined by the arbitrator shall be binding on
+the company and the member concerned.
+(9) Where the price of shares to be determined are listed on a
+Stock Exchange or traded on a stock market, the arbitrator shall
+180
+
+===== PAGE 181 =====
+
+Companies Act, 2019
+# [p181 fs=12.8] Act992
+determine the price for the shares as being the price at which shares
+of that kind are traded on the Stock Exchange or stock market as at
+the close of business on the day before the date on which the members
+determined by special resolution for the authorising of the respective
+action excludingany appreciation or depreciation directly or indi-
+rectly induced by the action or the proposal unless a price determined
+in accordance with this subsection would be clearly unfair, in all the
+circumstances to the member concerned.
+(10) Where the price determined in accordance with a provision
+of this section
+(a)exceeds the provisional price, the company shall immedi-
+ately pay the outstanding balance to the respective mem-
+ber; or
+(b)is less than the provisional price paid, the company may
+recover from the respective member the excess paid.
+(11) The arbitrator may award interest on any balance payable or
+in excess to be repaid under subsection (10) at the rate that the arbitrator
+thinks fit, having regard to whether the provisional price paid or the
+reference to arbitration, as the case may be, was reasonable.
+Application to Court for exemption on grounds of insolvency
+224.(1) A company shall apply to the Court for an order exempting
+the company from the obligation to purchase the shares of the company,
+where
+(a)a notice is given to the company under section 221;
+(b)the Board has resolved that the purchase by the company
+of the shares to which the notice relates would result in the
+company becoming insolvent as defined in the First Sched-
+ule; and
+(c)the company has, following reasonable efforts to do so, been
+unable to arrange for the shares to be purchased by
+another person in accordance with paragraph(b)of sub-
+# [p181 fs=10.9] section (2) of section 221.
+(2) Where the Court is satisfied that the purchase of the shares
+would result in the company becoming insolvent and the company has
+made reasonable efforts to arrange for the shares to be purchased by an-
+181
+
+===== PAGE 182 =====
+
+# [p182 fs=12.8] Act992Companies Act, 2019
+other person in accordance with paragraph(b)of subsection (2) of
+# [p182 fs=10.9] section 221, the Court may make
+(a)an order exempting the company from the obligation to
+purchase the shares;
+(b)an order suspending the obligation to purchase the shares;
+or
+(c)any other order that the court considers fit, including an
+order referred to in subsection (2) of section 227.
+Purchase of shares by third party
+225.(1) Section 222 shall apply to the purchase of shares by a
+person with whom the company has entered into an arrangement for
+purchase in accordance with paragraph(b)of subsection (2) of section
+221 subject to the necessary modification.
+(2) Every holder of shares that are to be purchased in accordance
+with the arrangement shall be indemnified by the company in respect
+of loss suffered by reason of the failure by the person who has agreed
+to purchase the shares to purchase them at the price nominated or
+fixed by arbitration, as the case may be.
+Reinstatement of shares
+226.(1) Where a former member wishes for shares to be reinstated
+pursuant to subsection (5) of section 220, the former member shall
+give written notice to the company within twenty-eight days after the
+one year period requiring the repurchase of the shares by that former
+member.
+(2) On the receipt of the notice, the Board shall within seven
+days notify the former member in writing if the Board agrees to the
+purchase and indicate a specific date for payment of the price of the
+shares.
+(3) Within seven days after receipt of a notice under subsection
+(2), the former member shall make payment for the shares at the
+purchase price of the shares at the time that former member received
+payment for those shares.
+(4) The former member who applies to the company for rein-
+statementof shares is entitled to receive the correlative dividends or
+other distributions made during the one year period.
+(5) When payment for the shares is made by the former member
+under subsection (3), the company shall
+182
+
+===== PAGE 183 =====
+
+Companies Act, 2019
+# [p183 fs=12.8] Act992
+(a)forthwith deliver to that former member an executed
+instrument of transfer of the shares together with any
+relevant share certificate; or
+(b)take the necessary steps required to transfer the shares to
+that former member.
+Application to court for exemption
+227.(1) A company to which a notice has been given under section
+221, may apply to the Court for an order exempting the company
+from the obligation to purchase the shares to which the notice relates,
+on the grounds that
+(a)the purchase would be disproportionately damaging to the
+company;
+(b)the company cannot reasonably be required to finance the
+purchase; or
+(c)it would not be just and equitable to require the company to
+purchase the shares.
+(2) On an application under this section, the Court may make
+an order to relieve the company in whole or in part and on the terms
+that the Court considers fit from the liability to purchase the shares if
+in the circumstances, including lapse of time, the Court considers it
+equitable to do so.
+(3) An order of the Court under subsection (2) may include
+(a)setting aside a resolution of the members;
+(b)directing the company to take, or refrain from taking, any
+action specified in the order; or
+(c)requiring the company to pay compensation to the members
+affected.
+# [p183 fs=10.9] Part S: Inspection and Investigation of Companies
+Enquiries by the Registrar
+228.(1) In order to ensure that the provisions of sections 127 to
+137 regarding the maintenance and auditing of accounts are being
+duly complied with, the Registrar may by written order call on a com-
+pany to produce for the inspection of the Registrar all or any of the
+books of the company.
+183
+
+===== PAGE 184 =====
+
+# [p184 fs=12.8] Act992Companies Act, 2019
+(2) Where it appears to the Registrar that there are circum-
+stances suggesting, in relation to a company, that
+(a)a provision of this Act is not being complied with, or
+(b)a document which the company is required to send to the
+Registrar under this Act does not disclose a full and fair
+statement of the matters to which the document purports
+to relate, or
+(c)the business of the company is being conducted with intent
+to defraud creditors of the company or the creditors of any
+other person or otherwise for a fraudulent or unlawful pur-
+pose, or
+(d)the business of the company is being conducted or the pow-
+ers of the directors are being exercised in a manner oppres-
+sive to a part of the members or debenture holders or in
+disregard of their proper interests as members, sharehold-
+ers, officers or debenture holders, or
+(e)persons concerned with the formation or the management
+of the affairs of the company have in connection with the
+formation or management been guilty of a breach of duty
+towards the company or members of the company, or
+(f)the members of the company have not been given the infor-
+mation with respect to its affairs that the member might
+reasonably expect,
+the Registrar may by written order call on the company to produce
+for the inspection of the Registrar all or any of the books of the com-
+pany or to furnish in writing the information or explanation that the
+Registrar may specify in the order.
+(3) Where the Registrar makes an order under subsection (1) or
+(2), the company shall comply with the order within the time specified
+in the order, and the persons who are or have been officers of the
+company shall so far as it lies within their power, produce the books
+or furnish the information or explanation.
+(4) Where the company defaults in complying with subsection
+(3), the company and an officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of two hundred and
+fifty penalty units and if an officer or former officer of the company
+184
+
+===== PAGE 185 =====
+
+Companies Act, 2019
+# [p185 fs=12.8] Act992
+defaults in complying with subsection (3), that officer is liable to pay to
+the Registrar, an administrative penalty of two hundred and fifty
+penalty units.
+(5) Unless the books, information, or explanations produced
+or given to the Registrar in accordance with this section satisfy the
+Registrar that further action is not needed, the Registrar shall
+(a)proceed in accordance with section 234, or
+(b)report the circumstances in writing to the Court.
+Appointment of inspector under order of the Court
+229.(1) The Court may order the Registrar to appoint one or more
+inspectors to investigate the affairs of a company and to report on the
+affairs to the Registrar in the manner that the Court directs,
+(a)on a report by the Registrar after enquiries by the Registrar
+in accordance with section 228;
+(b)on the application of the Registrar; or
+(c)on the application of not less than one hundred members,
+or of members holding not less than one-tenth of the
+issued shares, or of members not less than one-tenth in
+number of the total members.
+(2) Where the application is made under paragraph(c)of
+# [p185 fs=10.9] subsection (1),
+(a)the application shall be supported by the evidence that the
+Court requires for the purpose of showing that the appli-
+cants have good reason for requiring the investigation;
+(b)the Court may, before ordering the appointment of an
+inspector, require the applicants to give security to an
+amount determined by the Court for payment of the costs
+of the investigation; and
+(c)at least fourteen days previous notice of the application shall
+be given to the Registrar who shall be entitled to be repre-
+sented at the hearing and to give evidence and call witnesses.
+(3) An application under this section shall be heard in chambers
+and at least fourteen days previous notice of the application shall be given
+to the company which shall be entitled to be represented at the hearing
+and to give evidence and call witnesses.
+185
+
+===== PAGE 186 =====
+
+# [p186 fs=12.8] Act992Companies Act, 2019
+Appointment of inspector on special resolution of the company
+230.The Registrar shall appoint one or more competent inspectors to
+investigate the affairs of a company and to report on the affairs to the
+Registrar in the manner that the Registrar directs if the company by
+special resolution declares that the affairs ought to be investigated by an
+inspector appointed by the Registrar.
+Power to carry investigation into the affairs of associatedcompanies
+231.Where an inspector appointed under section 229 or section
+230 to investigate the affairs of a company finds it necessary for the
+purposes of the investigation to investigate also the affairs of any
+other body corporate which is or has at any relevant time been an
+associated company, the inspector may do so, and shall report on the
+affairs of the other body corporate so far as the inspector considers
+the results of the investigation relevant to the investigation of the
+affairs of the first mentioned company.
+Production of documents and evidence
+232.(1) The officers and agents of the company and the officers
+and agents of any other body corporate whose affairs are investigated
+by virtue of section 231
+(a)shall produce to the inspectors the books and the documents
+of or relating to the company or the other body corporate
+which are in the custody or power of those officers and
+agents, or
+(b)shall otherwise give to the inspectors the assistance in con-
+nection with the investigation which the officers and agents
+are reasonably able to give.
+(2) An inspector may examine on oath the officers and agents of
+the company or other body corporate in relation to the business of the
+company or that other body corporate and may administer an oath ac-
+cordingly.
+(3) Where an officer or agent of the company or other body cor-
+porate,
+(a)destroys or refuses to produce to the inspectors a book or
+document which is the duty of that officer or agent under
+this section so to produce, or
+186
+
+===== PAGE 187 =====
+
+Companies Act, 2019
+# [p187 fs=12.8] Act992
+(b)refuses to answer a question which is put to that officer or
+agent by the inspectors with respect to the affairs of the
+company or other body corporate,
+the inspectors may certify the facts in writing to the Court, and the
+Court may inquire into the case, and after hearing the witnesses who
+may be produced against or on behalf of the alleged offender, and
+after hearingthe statement which may be offered in defence, punish
+the offender, where found liable, as if the offender had been guilty of
+contempt of the Court.
+(4) Where an inspector considers it necessary for the purposes
+of the investigation that a person whom the inspector does not have a
+power to examine on oath should be so examined, the inspector may
+apply to the Court and the Court may order that person to attend and
+be examinedon oath before the Court on a matter relevant to the
+investigation.
+(5) On examination,
+(a)the inspector may take part personally or be represented by
+a legal practitioner;
+(b)the Court may put the questions that the Court considers
+appropriate to the person examined; and
+(c)the person examined shall answer the questions that the
+Court may put or allow to be put to that person who may
+at a personal cost employ a legal practitioner, who shall be
+at liberty to put to that person questions that the Court may
+consider just for the purpose of enabling that person to ex-
+plain or qualify an answer given by that person; and notes
+of the examination shall be taken down in writing, and shall
+be read over to or by, and signed by, the person examined,
+and may be used in evidence against that person.
+(6) Despite anything in paragraph(c)of subsection (5), the
+Court may allow costs to the person examined, and the costs so
+allowed shall be paid as part of the expenses of the investigation.
+(7) In this section, a reference to officers or to agents includes
+past, as well as present, officers or agents, and for the purposes of
+this section, “agents” in relation to a company or other body corporate
+includes the bankers or legal practitioners of the company or other
+body corporate and a person employed by the company or other body
+corporate as auditor.
+187
+
+===== PAGE 188 =====
+
+# [p188 fs=12.8] Act992Companies Act, 2019
+Report of inspectors
+233.(1) The inspectors may, and, if so directed by the Registrar,
+shall, make interim reports to the Registrar, and upon the conclusion
+of the investigation, shall make a final report to the Registrar.
+(2) The report shall be written or printed, as the Registrar
+directs.
+(3) The Registrar may cause the report to be printed and pub-
+lished, and shall, unless in the opinion of the Registrar, it is undesirable
+in the public interest,
+(a)forward a copy of the report made by the inspectors to the
+registered office of the company;
+(b)furnish a copy of the report on request and on payment of
+a reasonable charge, to any other person who is a member
+of the company or of any other body corporate dealt with
+in the report by virtue of section 231 or, whose interests as
+a creditor of the company or of that other body corporate
+appear to the Registrar to be affected;
+(c)where the inspectors are appointed under section 229,
+furnish a copy of the report to the Court; and
+(d)where the inspectors are appointed under paragraph(c)of
+# [p188 fs=10.9] subsection (1) of section 229, furnish, at the request of the
+applicants for the investigation, a copy of the report to them.
+(4) A copy of the report authenticated by the seal of the Registrar
+is admissible in legal proceedings as evidence of the opinion of the
+inspectors in relation to a matter contained in the report.
+Proceedings after investigations
+234.Where as a result of information obtained in accordance with
+# [p188 fs=10.9] section 228, or as a result of a report made under section 233, it
+appears to the Registrar that,
+(a)a person may have committed an offence for which that
+person is criminally liable, the Registrar shall refer the
+matter to the Attorney-General for necessary action;
+(b)a company ought to be wound up or that an application
+should be made to the Court under section 219, the Regis-
+trar may petition the Court to wind up the company, if the
+Registrar thinks it just and equitable to do so, or may apply
+to the Court under section 219; or
+(c)proceedings ought in the public interest to be brought by a
+188
+
+===== PAGE 189 =====
+
+Companies Act, 2019
+# [p189 fs=12.8] Act992
+company against a director or former director of a
+company under section 200 or against a person to recover
+property, damages or compensation to which a body
+corporate is entitled, the Registrar may bring proceedings
+for that purpose in the name of the company or body
+corporate but, subject to section 235 shall indemnify the
+company or body corporate against the costs or expenses
+incurred by the company or body corporate in connection
+with those proceedings.
+Expenses of investigations
+235.(1) The expenses of, and incidental to, an investigation by the
+Registrar under section 228 or by inspectors appointed by the Regis-
+trar under section 229 or 230 shall be defrayed in the first instance by
+the Registrar, but the following persons are, to the extent mentioned,
+liable to repay the Registrar:
+(a)a person who is convicted on a prosecution instituted by
+virtue of paragraph(a)of section 234, or who is ordered
+to restore property or pay damages or compensation in
+proceedings brought by virtue of paragraph(c)of section
+234 may in the same proceedings be ordered to pay the
+expenses to the extent specified in the order;
+(b)a body corporate in whose name proceedings are brought
+by virtue of paragraph(c)of section 234 is liable to the
+amount or value of any sums of money or property recov-
+ered by the body corporate as a result of those proceed-
+ings, and the expenses shall be a first charge on those
+sums or property; or
+(c)a body corporate dealt with by the report of an inspector
+appointed under section 229 or 230 and the applicants,
+other than the Registrar, for the investigation where the
+inspector was appointed under section 229 is liable to the
+extent that the Registrar shall direct.
+(2) The report of an inspector may, if the inspector deems fit,
+and shall if the Registrar so directs, include a recommendation as to
+the directions which the inspector considers appropriate to be given
+underparagraph(c)of subsection (1).
+(3) For the purposes of this section, the costs or expenses in-
+curred by the Registrar in connection with proceedings brought under
+189
+
+===== PAGE 190 =====
+
+# [p190 fs=12.8] Act992Companies Act, 2019
+paragraph(b)or(c)of section 234 shall be treated as expenses of the
+investigation giving rise to the proceedings.
+(4) As between the persons specified in paragraphs(a),(b)and
+(c)of subsection (1) of this section, liability to repay the Registrar
+shall be borne, to the extent to which these persons are respectively
+liable under the paragraphs specified, in the first instance by those
+liable under paragraph(a), by those liable under paragraph(b), and
+finally by those liable under paragraph(c).
+Request for information on persons interested in shares or debentures
+236.(1) Where it appears to the Registrar that there is reasonable
+cause to investigate the ownership of any shares in or debentures of a
+company, or where the directors of a company so request in writing,
+the Registrar may carry out the investigation or by written order
+appoint one or more inspectors to carry out the investigation in a
+mannerprovided by this section.
+(2) The Registrar or an inspector appointed by the Registrar
+may require a person whom the Registrar or the inspector has reason-
+able cause to believe,
+(a)to be or to have been interested in those shares or deben-
+tures, or
+(b)to act or to have acted in relation to those shares or deben-
+tures as the agent or adviser of a person interested in those
+shares or debentures,
+to give the Registrar or inspector information which that person has
+or can reasonably be expected to obtain as to the present and past
+interests in those shares or debentures and the names and addresses of
+the persons interested and of any persons who act or have acted on
+their behalf in relation to the shares and debentures.
+(3) For the purposes of this section, a person has an interest in
+a share or debenture if that person has a right to acquire or dispose of
+the share or debenture, or an interest in or right to vote in respect of
+the share or debenture, or if the consent of that person is necessary for
+the exercise of any of the rights of other persons interested in the
+share or debenture, or if other persons interested in the share or
+debenture can be required or are accustomed to exercise their rights in
+accordance with the instructionsof that person.
+(4) A person who fails to give information required of that
+person under this section, or who, in giving that information makes a
+190
+
+===== PAGE 191 =====
+
+Companies Act, 2019
+# [p191 fs=12.8] Act992
+statement which is false, commits an offence and is liable on summary
+conviction to a fine of not less than three hundredand twenty-five
+penalty units and not more than seven hundred and fifty penalty units
+or to a term of imprisonment of not less than three months and not
+more than six months or to both the fine and imprisonmentunless, in
+the case of a false statement, it is proven that that person believed on
+reasonable grounds that the statement was true.
+(5) Where it appears to the Registrar that there is difficulty in
+finding out the relevant facts about those shares or debentures, whether
+issued or to be issued, and that the difficulty is due wholly or mainly
+to the unwillingness of the persons concerned or any of them to give
+accurate information as required by this section, the Registrar may by
+order direct that the shares or debentures shall, until further order, be
+subject to the restrictions imposed by subsection (6).
+(6) Where shares or debentures are directed to be subject to the
+restrictions imposed by the direction referred to in subsection (5),
+(a)a transfer of those shares or debentures or of the right to be
+issued with those shares or debentures and an issue of those
+shares or debentures is void;
+(b)voting rights shall not be exercisable in respect of those shares
+or debentures;
+(c)further shares or debentures shall not be issued in respect of
+those shares or debentures or in pursuance of an offer made
+to the holders of those shares or debentures; and
+(d)except in a liquidation, a payment shall not be made of the
+sums of money due from the company on those shares
+or debentures.
+(7) Where the Registrar makes an order directing that shares
+or debentures shall be subject to the restrictions, or refuses to make an
+order directing that they shall cease to be subject to those restrictions, a
+person having an interest in the shares or debentures may apply to the
+Court and the Court may direct that the shares or debentures shall
+cease to be subject to those restrictions or any of them.
+(8) A person who,
+(a)exercises or purports to exercise a right to dispose of shares
+or debentures which, to the knowledge of that person, are
+191
+
+===== PAGE 192 =====
+
+# [p192 fs=12.8] Act992Companies Act, 2019
+for the time being subject to the restrictions or any of them,
+or of a right to be issued with those shares or debentures,
+(b)votes, whether as holder or proxy, or appoints a proxy to
+vote in respect of shares or debentures which, to the knowl-
+edge of that person are for the time being subject to the
+restriction, those voting rights shall not be exercisable in
+respect of those shares or debentures, or
+(c)being the holder of shares or debentures fails to notify of
+the restrictions any other holder or proxy for a holder whom
+that holder does not know to be aware of the restrictions,
+commits an offence and is liable on summary conviction to a fine of not
+less than three hundred and twenty-five penalty units and not more than
+seven hundred and fifty penalty units or to a term of imprisonment of
+not less than three months and not more than six months or to both the
+fine and imprisonment, and where shares or debentures in a company
+are issued in contravention of the restriction, the company and every
+officer of the company that is in default is liable to a fine of not more
+than seven hundred and fifty penalty units.
+(9) A prosecution shall not be instituted under subsection (8)
+except by, or with the consent of, the Attorney-General.
+(10) Where an inspector is appointed to carry out an investiga-
+tion under this section, the inspector shall report in writing to the
+Registrar on the result of the investigation.
+(11) The Registrar may
+(a)furnish to a person or the persons who the Registrar thinks
+fit, a copy of the report referred to in subsection (10), or of
+# [p192 fs=10.9] part or parts of the copy and may cause the copy or those
+parts of the copy to be printed and published;
+(b)divulge to a person or the persons who the Registrar thinks
+fit, any information obtained by the Registrar as a result of
+the investigation of the Registrar or the inspector and may
+publish that information.
+(12) The expenses of an investigation under this section shall be
+defrayed by the Registrar.
+Exemption from disclosure by legal practitioners and their clients and
+bankers and their customers
+237.Sections 228 to 236 do not require disclosure to the Registrar
+or to an inspector appointed by the Registrar,
+192
+
+===== PAGE 193 =====
+
+Companies Act, 2019
+# [p193 fs=12.8] Act992
+(a)by a legal practitioner of privileged communication made
+to the legal practitioner in that capacity except as regards
+the name and address of the client; or
+(b)by the bankers of a body corporate in their capacity as bank-
+ers of the body corporate of information relating to the
+affairs of any of their customers other than the body
+corporate.
+# [p193 fs=10.9] Part T:Arrangements, Compromises, Mergers and Divisions
+Arrangement or merger by sale of undertaking
+238.(1) Despite any other provisions on arrangements or mergers in
+this Act, a company may, with a view to effecting an arrangement or
+merger, resolve by special resolution that,
+(a)the company be put into a voluntary liquidation of mem-
+bers, and
+(b)the liquidator be authorised,
+(i)to sell the whole or part of the undertaking or assets
+of a company to another body corporate, whether
+a company within the meaning of this Act or not,
+in this Part called the transferee company, in con-
+sideration or part consideration of fully paid shares,
+debentures or other like interests in the transferee
+company, and
+(ii)to distribute those shares, debentures or other like
+interests in specie among the members of the com-
+pany in accordance with their rights in the liquida-
+tion.
+(2) A sale and distribution in pursuance of a special resolution
+is binding on the company and the members of the company, and
+each member shall be deemed to have agreed with the transferee com-
+pany to accept the fully paid shares, debentures or other like interests
+to which that member is entitled under the distribution.
+(3) For the purposes of subsection (2), if
+(a)within one year from the date of the passage of the special
+resolution, an order is made under section 219 orfor the
+winding up of the company under the Bodies Corporate
+193
+
+===== PAGE 194 =====
+
+# [p194 fs=12.8] Act992Companies Act, 2019
+(Official Liquidations) Act, 1963 (Act 180), the arrangement
+or merger and the sale and distribution shall not be valid
+unless sanctioned by the Court; or
+(b)a member of the company, by notice in writing addressed
+to the liquidator and left at the registered office of the com-
+pany within twenty-eight days after the passage of the reso-
+lution, dissents from the arrangement or merger in respect
+of all of the shares held by that member, the liquidator shall
+abstain from carrying the resolution into effect or shall pur-
+chase the shares at a price to be determined in a manner
+provided by subsections (4), (5) and (6) of this section.
+(4) Where the liquidator elects to purchase the shares of a member
+who has expressed dissent in accordance with subsections (2) and (3)
+of this section, the price payable for the shares shall be determined by
+agreement or, in default of agreement, by a single arbitrator appointed
+by the Institute of Chartered Accountants in the country in accordance
+with the Alternative Dispute Resolution Act, 2010 (Act 798).
+(5) The price shall be determined by estimating what the member
+concerned would have received had the whole of the undertaking of
+the company been sold as a going concern for cash to a willing buyer
+and the proceeds, less the costs of liquidation, been divided amongst the
+members in accordance with their rights.
+(6) The purchase money shall be paid before the company is
+dissolved and raised by the liquidator in the manner that may be
+determined by the special resolution or, in default of a direction in the
+special resolution, in the manner that the liquidator thinks fit as part
+of the expenses of the winding-up.
+(7) This section does not authorise a variation or an abroga-
+tionof the rights of the creditors of the company.
+(8) If a company otherwise than under this section
+(a)sells or resolves to sell the whole or a part of the undertak-
+ing or assets of the company to another body corporate in
+consideration or part consideration of shares, debentures
+or other like interest in that body corporate, and
+(b)resolves to distribute the proceeds in specie among the
+members of the company, whether in a liquidation or
+by way of dividend,
+194
+
+===== PAGE 195 =====
+
+Companies Act, 2019
+# [p195 fs=12.8] Act992
+a member of the company may, by notice in writing addressed to the
+company and left at the registered office of the company within twenty-
+eight days after the passage of the resolution authorising the distribu-
+tion,require the company to abstain from carrying the resolution
+into effect or to purchase any of the shares of that member at a price to
+be determined in the manner provided by subsections (4), (5) and (6).
+(9) Subsection (8) does not authorise a company to
+(a)purchase the shares of the company except in accordance
+with sections 61 to 66; or
+(b)make a distribution to the shareholders except in accordance
+with section 72 and sections 75 to 82 or in a liquidation.
+Arrangement or compromise with Court approval
+239.(1) Where an arrangement or compromise is proposed between
+a company and the creditors, or any class of the creditors, or members or
+any class of members of the company, the Court, on application of
+(a)the company or a member or creditor of the company,
+(b)the liquidator in the case of a company being wound up,
+(c)the administrator where an administration order in rela-
+tion to the company is still in force, or
+(d)any other person interested in the matter
+may order that meetings of the various classes of members and creditors
+be summoned in the manner that the Court directs.
+(2) Where a majority in number, representing seventy-five per-
+cent in value, of each class of members concerned and a majority in
+number representing seventy-five percent in value of each class of credi-
+tors concerned approve the arrangement or compromise, the approval
+shall be referred to the Registrar by the persons concerned.
+(3) The Registrar shall recommend to the Court, the appoint-
+mentof a reporter who shall be a qualified insolvency practitioner, to
+investigate the fairness of the arrangement or compromise.
+(4) The remuneration of the reporter shall be fixed by the Regis-
+trar and the proper expenses of the investigation shall be borne by the
+company or any other party to the application that the Court orders.
+(5) Where the Court, after considering the report, makes an
+order confirming the arrangement or compromise, with or without
+modifications, the arrangement or compromise as confirmed is binding
+195
+
+===== PAGE 196 =====
+
+# [p196 fs=12.8] Act992Companies Act, 2019
+on the company and on all members and creditors of the company
+and its validity shall not subsequently be impeachable in any proceedings.
+(6) On the hearing by the Court of the application to confirm
+the arrangement or compromise, a member or creditor of the com-
+pany claiming to be affected by the arrangement or compromise is
+entitled to be represented and to object.
+(7) The Court may prescribe the terms that the Court consid-
+ers fit as a condition of its confirmation including a condition that
+any member shall be given rights to require the company to purchase
+the share of the company at a price fixed by the Court or to be deter-
+mined in a manner provided in the order.
+(8) Where the Court is satisfied that the arrangement or compro-
+mise involves the transfer of the whole or part of the undertaking or
+assets of a company to another company, the Court may
+(a)exercise its powers under section 240 or 255; or
+(b)order the transfer in accordance with this Part.
+(9) An arrangement or compromise may be carried out in
+accordance with this section although it could have been accomplished
+under section 238 or any other provision of this Act.
+(10) Despite subsection (9), sections 78 to 82 shall also be com-
+plied with if the arrangement or compromise is one which, by virtue
+of section 78, requires the confirmation of the Court in accordance
+with those sections.
+(11) An order made under subsection (5) of this section shall
+not have effect until a certified true copy of the order has been delivered
+to the Registrar who shall register the order and publish it in the
+Companies Bulletin.
+(12) A copy of the order shall be annexed to every copy of the
+constitution of the company issued by the company after the order
+has been made.
+(13) If a company defaults in complying with subsection (12),
+the company and every officer of the company that is in default is
+liable to pay to the Registrar, an administrative penalty of twenty-five
+penalty units in respect of each copy issued contrary to subsection
+(12).
+Powers of the Court in facilitating arrangements or compromise
+240.(1) Where an application is made to the Court under section
+239 and the Court is satisfied that under the arrangement or compromise
+196
+
+===== PAGE 197 =====
+
+Companies Act, 2019
+# [p197 fs=12.8] Act992
+the whole or a part of the undertaking or assets of a company, in this
+# [p197 fs=10.9] section referred to as a transferor company, is to betransferred to
+another company, in this section referred to as the transferee company,
+the Court may, by the order sanctioning the arrangement or compro-
+mise or by a subsequent order, make provision for all or any of the
+following matters:
+(a)the transfer to the transferee company of the whole or a
+# [p197 fs=10.9] part of the undertaking, assets and liabilities of the transf-
+eror company;
+(b)the allotting or appropriation by the transferee company
+of shares, debentures or other like interests in that com-
+pany which, under the arrangement or compromise, are to
+be allotted or appropriated by that company to or for a
+person;
+(c)the continuation by or against the transferee company of
+legal proceedings pending by or against a transferor com-
+pany;
+(d)the dissolution, without winding up, of a transferor com-
+pany;
+(e)the provision to be made for any person who, within the
+time and in the manner that the Court directs, dissents from
+the arrangement or compromise; or
+(f)the incidental, consequential and supplemental matters that
+are necessary to secure that the arrangement or compro-
+mise is fully and effectively carried out.
+(2) Where an order under subsection (1) provides for the transfer
+of property or liabilities
+(a)that property shall, by virtue of the order, be transferred to
+and vest in, and
+(b)those liabilities shall, by virtue of the order, be transferred
+to and become liabilities of,
+the transferee company, and in the case of a property, if the order so
+directs, shall be freed from a charge which, by virtue of the arrange-
+mentor compromise, is to cease to have effect.
+(3) Where an order is made under subsection (1), a company
+in relation to which the order is made shall deliver a certified true
+copy of the order to the Registrar for registration within twenty-eight
+days after the making of the order.
+(4) Where the company defaults in complying with subsection
+(3), the company and every officer of the company that is in default
+197
+
+===== PAGE 198 =====
+
+# [p198 fs=12.8] Act992Companies Act, 2019
+isliable to pay to the Registrar, an administrative penalty of twenty-
+five penalty units for each day during which the default continues.
+(5) In this section,
+“property” includes property, rights and powers of every
+description; and
+“liabilities” includes duties of every description although the
+rights, powers and duties are of a personal character which
+could not under the general law be assigned or performed
+vicariously.
+Mergers
+241. (1) Sections 259 to 274 do not apply where a company, in respect
+of which an arrangement or compromise is proposed, is being wound
+up.
+(2) Two or more companies referred to in sections 259 to 274 as
+“the merging companies” may be parties to a merger as defined in this
+# [p198 fs=10.9] Act and continue as one company.
+(3) In sections 259 to 274, a reference to a “merging company” is
+(a)in relation to a merger by absorption, to the transferor and
+transferee companies; and
+(b)in relation to a merger by formation of a new company, to
+the transferor company.
+Merger proposal
+242. (1) A merger proposal shall set out the terms of the scheme and
+provide at least for the following:
+(a)in respect of each transferor company and the transferee
+company,
+(i)the name of the company,
+(ii)the address of the registered office of the company,
+and
+(iii) the type of company;
+(b)the number of shares in the transferee company to be allotted
+to members of a transferor company for a given number of
+their shares referred to as the “share exchange ratio”;
+(c)the amount of any cash payment;
+(d)the terms relating to the allotment of shares in the trans-
+feree company;
+(e)the date from which the holding of shares in the transferee
+company will entitle the holders to participate in profits,
+198
+
+===== PAGE 199 =====
+
+Companies Act, 2019
+# [p199 fs=12.8] Act992
+and any special conditions affecting that entitlement;
+(f)the date from which the transactions of a transferor com-
+pany are to be treated for accounting purposes as being those
+of the transferee company;
+(g)any rights or restrictions attaching to shares or other secu-
+rities in the transferee company to be allotted under the
+scheme to the holders of shares or other securities in a trans-
+feror company to which any special rights or restrictions
+attach, or the measures proposed concerning them;
+(h)the name of the transferee company where it is the same as
+the name of one of the merging companies;
+(i)the full name and residential address of each director and
+the secretary of the transferee company;
+(j)the address for service of the transferee company;
+(k)the shareholding structure of the transferee company, speci-
+fying the
+(i)number of authorised shares of the company; and
+(ii)rights, privileges, limitations, and conditions
+attached to each share of the company;
+(l)the manner in which the shares of each transferor company
+are to be converted into shares of the transferee company;
+(m)where the shares of a transferor company are not to be
+converted into shares of the transferee company, the
+consideration that the holders of those shares are to receive
+instead of shares of the transferee company;
+(n)any payment to be made to a member or director of the
+transferor company, other than a payment of the kind
+described in paragraph(m);
+(o)details of any arrangement necessary to complete the merger
+and to provide for the subsequent management and
+operation of the transferee company; and
+(p)a copy of the proposed constitution of the transferee com-
+pany, if any.
+(2) A merger proposal may specify the date on which the
+merger is intended to become effective.
+(3) Where the shares of one of the merging companies are held
+by or on behalf of another merging company, the merger proposal shall
+199
+
+===== PAGE 200 =====
+
+# [p200 fs=12.8] Act992Companies Act, 2019
+(a)provide for the cancellation of those shares without
+payment or for any other consideration when the merger
+becomes effective; and
+(b)not provide for the conversion of those shares into shares
+of the transferee company.
+Approval of merger proposal
+243.(1) The directors of each of the merging companies shall
+resolve that
+(a)in their opinion, the merger is in the best interest of the
+company; and
+(b)the directors are satisfied on reasonable grounds that the
+transferee company shall be solvent immediately after the
+merger becomes effective.
+(2) The directors who vote in favour of a resolution under sub-
+# [p200 fs=10.9] section (1) shall sign a certificate stating
+(a)that, in their opinion, the conditions set out in that subsec-
+tion have been satisfied; and
+(b)the grounds for the opinion of the directors.
+(3) The directors of each of the merging companies shall send
+to each member of the transferor company, not less than twenty-eight
+days before the merger is proposed to take effect,
+(a)a copy of the merger proposal;
+(b)copies of the certificates given by the directors of each trans-
+feror company;
+(c)a summary of the principal provisions of the constitution
+of the transferee company, if any;
+(d)a statement that a copy of the constitution of the trans-
+feree company shall be supplied to any member of the com-
+pany upon request;
+(e)a statement setting out the rights of members pursuant to
+the merger including the number of shares in the transferee
+company to be allotted to members of a transferor com-
+pany for a given number of their shares and the amount of
+any cash payment;
+(f)a statement of any material interest of the directors in the
+proposal, whether in that capacity or otherwise; and
+200
+
+===== PAGE 201 =====
+
+Companies Act, 2019
+# [p201 fs=12.8] Act992
+(g)any other information and explanation that may be neces-
+sary to enable a member of the company to understand the
+nature and implications for the transferor company and its
+members of the proposed merger.
+(4) The directors of each transferor company shall, not less than
+twenty-eight days before the merger is proposed to take effect,
+(a)send a copy of the merger proposal to every secured credi-
+tor of the company; and
+(b)give public notice of the proposed merger, including a state-
+ment that
+(i)copies of the merger proposal are available, at the
+registered offices of the merging companies and at
+any other place as may be specified during normal
+business hours, for inspection by a member or credi-
+tor of a merging company or any other person to
+whom a merging company owes that obligation;
+and
+(ii)a member or creditor of a transferor company or
+any other person to whom a merging company owes
+an obligation to supply a copy of the merger
+proposal, is entitled to be supplied, free of charge,
+with a copy of the merger proposal upon request to
+a merging company.
+(5)The merger proposal shall be approved by a majority in
+number, representing seventy-five percent in value, of each class of
+(a)members of each of the merging companies, present and
+voting either in person or by proxy at a meeting;
+(b)creditors of each of the merging companies; and
+(c)members or an interest group where the merger proposal
+or the constitution of a transferor company, requires the
+approval of that class of members or interest group.
+Short form merger
+244. (1) A company and one or more other companies that are
+directly or indirectly wholly owned by the company may merge and
+201
+
+===== PAGE 202 =====
+
+# [p202 fs=12.8] Act992Companies Act, 2019
+continue as one company without complying with section 259 or 261
+where
+(a)the merger is approved by a resolution of the directors of
+each of the merging companies; and
+(b)each resolution provides that the
+(i)shares of each merging company, other than the
+transferee company, shall be cancelled without pay-
+ment or other consideration;
+(ii)constitution of the transferee company, shall be the
+same as the constitution of the transferor company;
+and
+(iii) directors of each of the merging companies are
+satisfied on reasonable grounds that the transferee
+company shall be solvent, immediately after the
+merger becomes effective.
+(2) Two or more companies, each of which is directly or indi-
+rectly wholly owned by the same company, may merge and continue as
+one company without complying with section 259 or 261where
+(a)the merger is approved by a resolution of the directors of
+each of the merging companies; and
+(b)each resolution provides that
+(i)the shares of all but one of the merging companies
+shall be cancelled without payment or other consid-
+eration;
+(ii)the constitution of the transferee company, shall be
+the same as the constitution of the merging com-
+pany whose shares are not cancelled; and
+(iii) the directors are satisfied on reasonable grounds that
+the transferee company shall, immediately after the
+merger becomes effective, satisfy the solvency test.
+(3) The directors of each of the merging companies shall, not
+less than twenty-eight days before the merger is proposed to take effect,
+give written notice of the proposed merger to every secured creditor of
+the company.
+(4) The resolutions approving a merger under this section, taken
+together, shall be deemed to constitute a merger proposal that has been
+approved.
+202
+
+===== PAGE 203 =====
+
+Companies Act, 2019
+# [p203 fs=12.8] Act992
+(5) The directors who vote in favour of a resolution under
+# [p203 fs=10.9] subsection (1) or (2), as the case may be, shall sign a certificate stating
+(a)that, in their opinion, the conditions set out in subsection
+(1) or (2) are satisfied; and
+(b)the grounds for the opinion of the directors.
+(6) A director who fails to comply with subsection (5) is liable to
+pay to the Registrar an administrative penalty of three hundred and fifty
+penalty units.
+Registration of merger proposal
+# [p203 fs=10.9] 245. For the purpose of effecting a merger, the following documents
+shall be delivered to the Registrar for registration:
+(a)the approved merger proposal;
+(b)any certificate required under subsection (2) of section 244
+or subsection (5) of section 245;
+(c)a certificate signed by the directors of each transferor com-
+pany stating that the merger has been approved in accor-
+dance with this Act and the constitution of the company, if
+any;
+(d)where the transferee company is a new company or the
+merger proposal provides for a change of the name of the
+transferee company, a copy of the notice reserving the name,
+if any, of the company;
+(e)a certificate signed by the directors, or proposed directors
+of the transferee company stating that, where the propor-
+tion of the claims of creditors of the transferee company in
+relation to the value of the assets of the company is greater
+than the proportion of the claims of creditors of a transf-
+eror company in relation to the value of the assets of that
+transferor company, no creditor shall be prejudiced by that
+fact;
+(f)a document in the prescribed form signed by each of the
+persons named in the merger proposal as a director or sec-
+retary of the transferee company consenting to act as a di-
+rector or secretary of the company, as the case may be; and
+(g)a report regarding the fairness of the merger and issued by
+an insolvency practitioner appointed by each company
+unless dispensed with under section 247.
+203
+
+===== PAGE 204 =====
+
+# [p204 fs=12.8] Act992Companies Act, 2019
+Approval of constitution of transferee company formed from a merger
+246.A transferor company shall approve by ordinary resolution, the
+constitution or draft constitution of a transferee company that is a new
+company.
+Exemption from publication of reports and other requirements of law
+247. (1) The Court may, on the application of a merging company, a
+member of a merging company or a creditor of a merging company,
+exempt that merging company from the publication of the report, issued
+by an insolvency practitioner pursuant to paragraph(g)of section 245,
+or any other requirement under this Act if the Court considers it appro-
+priate.
+(2) Despite subsection (1), the requirement for a report issued by
+an insolvency practitioner may be dispensed with only if the merging
+companies agree in writing to the dispensation.
+Certificate of merger
+248. (1) The Registrar shall, within seven days from the date of receipt
+of the documents referred to under section 245.
+(a)in the case of a merger by absorption, issue a certificate of
+merger; or
+(b)in the case of a merger by formation of a new company,
+(i)enter the particulars of the transferee company in
+the register; and
+(ii)issue a certificate of merger together with a certifi-
+cate of incorporation.
+(2) Where a merger proposal specifies a date on which the
+merger is intended to become effective, and that date is the same as or
+later than the date on which the Registrar receives the documents, the
+certificate of merger and certificate of incorporation issued under sub-
+# [p204 fs=10.9] section (1) shall be expressed to have effect on the date specified in the
+merger proposal.
+Effect of certificate of merger
+249. (1) A merger shall be effective on the date shown in the certifi-
+cate of merger.
+(2) Where the name of the transferee company is the same as
+one of the merging companies, the transferee company shall have the
+name specified in the merger proposal.
+204
+
+===== PAGE 205 =====
+
+Companies Act, 2019
+# [p205 fs=12.8] Act992
+(3) Subject to subsections (4) and (5), the Registrar shall dissolve,
+without winding up, the merging companies other than the transferee
+company retained under subsection (2).
+(4) The property, rights, powers, and privileges of each of the
+merging companies which have been dissolved under subsection (3) shall
+continue to be the property, rights, powers and privileges of the trans-
+feree company.
+(5) The transferee company shall continue to be liable for the
+liabilities and obligations of each of the merging companies and apro-
+ceeding instituted by or against a transferor company shall be continued
+by or against the transferee company.
+(6) A conviction, ruling, order, or judgment in favour of or
+against a transferor company may be enforced by or against the trans-
+feree company.
+(7) A provision of the merger proposal that provides for the con-
+version of the shares or rights of members in the merging companies
+shall have effect in accordance with the tenor of the merger proposal.
+Registers
+250. (1) Subject to this section, where a merger becomes effective, the
+Registrar or any other person charged with the keeping of books or reg-
+isters shall not be obliged, solely by reason of the merger becoming effec-
+tive, to change the name of a transferor company to that of a transferee
+company in the books or registers or any other document kept by the
+Registrar or any other authorised institution.
+(2) Subject to subsection (3), the presentation to the Registrar or
+any other person charged with the keeping of a book or register, of any
+instrument, whether or not comprising an instrument of transfer, by the
+transferee company
+(a)executed or purporting to be executed by the transferee com-
+pany;
+(b)relating to any property held immediately before the merger
+by a transferor company; and
+(c)stating that that property has become the property of the
+transferee company by virtue of this Part and producing
+the relevant certificate of merger issued under section 248,
+205
+
+===== PAGE 206 =====
+
+# [p206 fs=12.8] Act992Companies Act, 2019
+shall, in the absence of evidence to the contrary, be sufficient evidence
+that the property has become the property of the transferee company.
+(3) Despite any other enactment or the provisions of any instru-
+ment, where a security issued by a person or any rights or interests ac-
+crued in respect of a property of any person has, by virtue of this Part,
+become the property of a transferee company, that person shall,
+(a)on presentation of a certificate signed by the chairperson
+and secretary on behalf of the directors of the transferee
+company, and
+(b)on the authority of a resolution of the directors of the trans-
+feree company stating that that security or any such rights
+or interests have, by virtue of this Part, become the prop-
+erty of the transferee company,
+register the transferee company as the holder of that security or as the
+person entitled to the rights or interests, as the case may be.
+Powers of Court in respect of a merger proposal
+251.(1) Where the Court is satisfied that giving effect to a merger
+proposal would unfairly prejudice a member or creditor of a transferor
+company or any other person to whom a transferor company owes an
+obligation, the Court may, on the application of that person, make an
+order
+(a)directing that effect shall not be given to the proposal,
+(b)modifying the proposal in a manner as may be specified in
+the order,
+(c)directing the company or the directors of the company to
+reconsider the proposal or any part of it, and
+(d)in relation to the proposal that the Court considers fit,at
+any time before the date on which the merger becomes ef-
+fective.
+(2) The Court may make an order under subsection (1) on the
+conditions that the Court considers appropriate.
+Divisions
+# [p206 fs=10.9] 252. A reference in this Part to a company involved in a division, is to
+the transferor company and any existing transferee company.
+206
+
+===== PAGE 207 =====
+
+Companies Act, 2019
+# [p207 fs=12.8] Act992
+Modification of sections 240 and 242 to 252 in relation to a company
+involved in a division
+253.Section 240 and sections 242 to 252 shall apply to a company
+involved in a division with the necessary modifications unless otherwise
+stated in this Act.
+Liability of transferee companies formed from a division
+254. (1) Subject to this section, where a company is involved in a divi-
+sion, each transferee company is jointly and severally liable for anyli-
+ability transferred to any other transferee company under the scheme to
+the extent that the other company has defaulted in satisfying that liability.
+(2) If a majority in number representing seventy-five percent in
+value of the creditors or any class of creditors of the transferor com-
+pany, present and voting either in person or by proxy, at a meeting sum-
+moned for the purposes of agreeing to the scheme, agrees to the scheme,
+# [p207 fs=10.9] subsection (1) does not apply in relation to the liabilities owed to the
+creditors or that class of creditors.
+(3) A transferee company is not liable under this section for an
+amount greater than the net value transferred to that transferee company
+under the scheme.
+(4) For the purposes of this section, “net value transferred” means
+the value at the time of the transfer of the property transferred to a trans-
+feree company under the scheme less the amount at the date of transfer
+of the liabilities.
+Powers of Court in facilitating arrangements, compromises, mergers
+and divisions
+255.(1) Despite any provision of this Act or the constitution of a
+company, the Court may,
+(a)on the application of a company, or
+(b)with leave of
+(i)the Court,
+(ii)a member or creditor of a company,
+order that an arrangement, compromise, merger or division shall be bind-
+ing on the company, and on any other person or classes of persons as the
+207
+
+===== PAGE 208 =====
+
+# [p208 fs=12.8] Act992Companies Act, 2019
+Court may specify and any such order may be made on the terms and
+conditions that the Court considers appropriate.
+(2) Before making an order under subsection (1), the Court may,
+(a)on the application of
+(i)the company,
+(ii)a member or creditor of the company,
+(iii) any other person who appears to the Court to be
+interested in the matter, or
+(b)on its own motion,
+make any one or more of the orders specified in subsection (3).
+(3)An order referred to under subsection (2) consist of
+(a)an order that notice of the application, together with any
+information relating to the order as the Court considers
+appropriate, is given
+(i)in a form and manner, and
+(ii)to the persons or classes of persons,
+that the Court may specify;
+(b)an order directing the holding of a general meeting of
+(i)the members of a company,
+(ii)any class of members of a company determined by
+the Court,
+(iii) the creditors of a company, and
+(iv) any class of creditors of a company determined by
+the Court,
+to consider and approve in the manner as the Court may
+specify, the proposed arrangement, compromise, merger
+or division;
+(c)an order requiring that a report on the proposed arrange-
+ment, compromise, merger or division is,
+(i)prepared by a person specified by the Court; and
+(ii)if the Court considers it appropriate, furnished to
+the members or any class of members or creditors
+or any class of creditors of a company or any other
+person who appears to the Court to be interested;
+(d)an order as to the payment of the costs incurred in the prepa-
+ration of any such report; and
+208
+
+===== PAGE 209 =====
+
+Companies Act, 2019
+# [p209 fs=12.8] Act992
+(e)an order specifying the person who is entitled to appear
+and be heard on the application to approve the arrange-
+ment, compromise, merger or division.
+(4)An order made under this section shall have effect on the
+date specified in that order.
+(5)The directors of the company shall, within fourteen days
+of an order made by the Court, ensure that a copy of the order is filed
+with the Registrar for registration.
+Additional orders of Court
+256.(1) The Court may, for the purpose of giving effect to any ar-
+rangement, compromise, merger or division under sections 253 to 257
+or by any subsequent order, provide for, and prescribe the terms and con-
+ditions relating to
+(a)the vesting of real property, personal property or assets;
+(b)the transfer of rights, powers, interests, liabilities, contracts,
+or engagements;
+(c)the issue of shares, securities, or policies of any kind;
+(d)the continuation of legal proceedings;
+(e)the dissolution, without winding up, of a transferor com-
+pany;
+(f)the provisions to be made for persons who
+(i)voted against the arrangement, compromise,
+merger or division at any meeting called in accor-
+dance with an order made under this Act; or
+(ii)appeared before the Court in opposition to the ap-
+plication to approve the arrangement, compromise,
+merger or division; and
+(g)any other matters that are necessary or desirable to give
+effect to the arrangement, compromise, merger or division.
+(2) The directors of a company concerned shall, within fourteen
+days of an order being made by the Court, ensure that a copy of the
+order is filed with the Registrar for registration.
+(3)Where a company defaults in complying with subsection
+(2), the company and every officer of the company that is in default is
+liable to pay to the Registrar, an administrative penalty of ten penalty
+units for each day during which the default continues.
+209
+
+===== PAGE 210 =====
+
+# [p210 fs=12.8] Act992Companies Act, 2019
+# [p210 fs=10.9] Interpretation
+257.Under the sections relating to “arrangements, compromises,
+mergers and divisions”, unless the context otherwise requires,
+‘liabilities’ includes duties; and
+‘property’ includes rights and powers of every description.
+Information on arrangements and compromises,mergers or divisions
+258.(1) Where notice of a resolution to approve an arrangement or
+compromise under section 239or any other provision relating to arrange-
+ments, compromises, mergers or divisions is sent to members or credi-
+tors of a company, there shall be sent also a statement explaining the
+effect
+(a)of the arrangement or compromise and in particular stat-
+ing the material interests of the directors of the company,
+whether as directors or members or creditors of the com-
+pany or otherwise, and
+(b)on those interests of the arrangement or compromise in so
+far as it is different from the effect on the like interests of
+other persons.
+(2) In a notice of the resolution which is given by advertise-
+ment,there shall be included the statement referred to in subsection
+(1) or a notification of the place at which, and the manner in which
+members or creditors to whom the notice is addressed may obtain
+copies of the statement.
+(3) The member or creditor shall, on making an application in
+the manner indicated in the notice, be furnished by the company, free
+of charge, with a copy of the statement.
+(4) Where the arrangement or compromise affects the rights of
+debenture holders of the company, the statement shall give the like expla-
+nation to the trustees of a deed for securing the debentures as it is re-
+quired to be given to the directors of the company.
+(5) Where a company defaults in complying with a requirement
+of this section, the company and each officer of the company that is in
+default is liable to pay to the Registrar, an administrative penalty of seven
+hundred and fifty penalty units.
+(6) For the purposes of subsection (5)
+(a)a liquidator of the company or a trustee of a deed securing
+210
+
+===== PAGE 211 =====
+
+Companies Act, 2019
+# [p211 fs=12.8] Act992
+debentures of the company is an officer of the company;
+(b)a person is not liable under that subsection if that person
+shows that the default was due to the refusal of any other
+person to supply the necessary particulars as to those mate-
+rial interests; and
+(c)that subsection does not derogate from the power of the
+Court under section 218 or 219 to declare ineffective a spe-
+cial resolution passed pursuant to section 238.
+(7) A director of the company and of a trustee for debenture
+holders of the company, shall give notice to the company of the mat-
+ters relating to that director or trustee as may be necessary for the
+purposes of this section, and a director or trustee who defaults in
+complying with this subsection is liable to pay to the Registrar, an
+administrative penalty of one hundred and fifty penalty units.
+Acquiring shares of minority on acquisition of subsidiarycompany
+259.(1) Where a body corporate, whether a company within the
+meaning of this Act or not, in this section referred to as the “trans-
+feree company”, has made an offer to the holders of shares in a
+company, in this section referred to as the “transferor company”, if
+the conditions specified in subsection (2) are duly fulfilled, the transferee
+company may compulsorily acquire the shares in the transferor com-
+pany in the manner specified in this section.
+(2) This section applies if,
+(a)the offer by the transferee company is made to the holders
+of the whole of the shares in the transferor company,
+other than those already held by the transferee company
+or any of the associated companies of the transferee company
+or by nominees for the transferee company or any of the
+associated companies of the transferee company;
+(b)the consideration for the acquisition is
+(i)the allotment of shares in the transferee company,
+or
+(ii)at the option of the holders, a payment of cash;
+(c)the same terms are offered to the holders of the shares to
+whom the offer is made or, where there are different classes
+of shares, to the holders of shares of the same class;
+(d)within four months after the making of the offer, it has
+been accepted in respect of not less than nine-tenths of the
+211
+
+===== PAGE 212 =====
+
+# [p212 fs=12.8] Act992Companies Act, 2019
+whole of the shares and of not less than nine-tenths of the
+shares of each class, other than shares already held by the
+transferee company or any of the associated companies of
+the transferee company or by nominees of the transferee
+company or any of the associated companies of the
+transferee company and the holders of those shares are not
+less than three-fourths in number of the holders of those
+shares and of each class of those shares.
+(3) Where the conditions specified in subsection (2) are
+fulfilled, the transferee company may, within two months after the
+conditions are fulfilled, give notice in the prescribed form to a member
+who has not accepted the offer in respect of the shares of that member
+that the transferee company desires to acquire those shares.
+(4) When the notice under subsection (3) is given, the trans-
+fereecompany is entitled and bound to acquire those shares on the
+terms of the offer, unless on an application made by the member in
+accordance with subsection (5), the Court orders otherwise.
+(5) At any time within a period of two months from the serv-
+ice of the notice referred to in subsection (3), a member to whom
+notice has been given in accordance with subsection (3), may apply to
+the Court and the Court may order that the transferee company shall
+not be entitled to acquire the share of that holder or that the transferee
+companyshall be bound to acquire those shares on any other terms
+that the Court may order.
+(6) On an application to the Court under subsection (5) the
+Court,before making an order, may on the recommendation of the
+Registrar appoint one or more reporters to investigate the fairness of
+the offer and to report on the fairness to the Court.
+(7) The remuneration of the reporters shall be fixed by the
+Registrar and the remuneration and the proper expenses of the investi-
+gation shall be borne by the transferee company or by the applicant or
+both as the Court shall order.
+(8) Where the Court makes an order under subsection (5), that
+the transferee company shall be bound to acquire the shares concerned
+on terms different from those of the original offer, the transferee com-
+panyshall give notice in the prescribed form, of the amended terms,
+to the other holders of shares of the same class and to the former
+holders of shares of the same class who accepted the original offer,
+unless the Court otherwise orders.
+212
+
+===== PAGE 213 =====
+
+Companies Act, 2019
+# [p213 fs=12.8] Act992
+(9) At any time within two months of the giving of the notice,
+(a)a member is entitled to require the transferee company to
+acquire the shares on the same terms as those ordered by
+the Court, and
+(b)a former member is entitled to require the transferee
+company to pay or transfer to that former member the
+additional consideration to which the former member
+would have been entitled had the shares been acquired on
+the terms ordered by the Court.
+(10) Where notice is given by the transferee company under
+# [p213 fs=10.9] subsection (3) and the Court has not, on an application by the member
+under subsection (5), ordered to the contrary, the transferee company
+shall,
+(a)on the expiration of two months from the date on which
+notice is given, or
+(b)if an application by the member under subsection (5) is
+then pending after that application has been disposed of,
+transmit a copy of the notice to the transferor company together with
+an instrument of transfer executed on behalf of the member by a
+person appointed by the transferee company and on its own behalf by
+the transferee company, and transfer to the transferor company the
+shares, or if the member has exercised the cash option, pay to the
+transferorcompany the cash, representing the consideration payable
+by the transferee company for the shares which by virtue of this section
+the transferee company is entitled to acquire.
+(11) After receipt of payment under subsection (10), the
+transferor company shall register the transferee company as the holder
+of those shares.
+(12) The sums of money received by the transferor company
+under subsection (10) shall be paid into a separate bank account and
+the sums of money and the shares so received shall be held by the
+transferorcompany in trust for the several persons entitled to the
+shares in respect of which the sums of money and shares were received.
+Rights of minority on acquisition of subsidiary company
+260.(1) Where, as a result of an offer to the members of a com-
+pany or any member, shares in that company are transferred to another
+213
+
+===== PAGE 214 =====
+
+# [p214 fs=12.8] Act992Companies Act, 2019
+body corporate, whether a company within the meaning of this Act or
+in this section called the transferee company, or a nominee of the
+transferee company and those shares, together with any other shares in
+the first mentioned company held by the company or a nominee for
+the transferee company, or by a nominee for, any of the associated
+companies at the date of the transfer, comprise or include three-fourths
+of the shares in the first named company or any class of those shares,
+(a)the transferee company shall within one month from the
+date of the transfer, unless on a previous transfer has al-
+ready complied with this requirement, give notice of that
+fact in the prescribed form to the holders of the remaining
+shares or of the remaining shares of the class; and
+(b)any of those holders may within three months from the
+giving of the notice to the holder require the transferee com-
+pany to acquire all or any of the shares of that holder.
+(2) Where a member under subsection (1) requires the trans-
+feree company to acquire shares, the transferee company is entitled
+and bound to acquire those shares on the terms of the offer or on any
+other terms that may be agreed or as the Court, on the application of
+the transferee company or the member, may order.
+(3) On an application to the Court under subsection (2), the
+Court may on the recommendation of the Registrar appoint one or
+more reporters to investigate the fairness of the offer and in that event
+subsections (6) and (7) of section 259shall apply.
+# [p214 fs=10.9] Part U: Receivers and Managers
+Eligibility for appointment as receiver or manager
+261.(1) The Registrar may appoint a receiver or manager.
+(2)The Registrar shall, in appointing a receiver or a manager,
+take into account the following:
+(a)professional competence;
+(b)relevant experience in insolvency proceedings; and
+(c)ability to manage the case load and ensure quality and
+timely execution.
+(3) The following persons are not eligible to be appointed or to
+# [p214 fs=10.9] act as receivers or managers of a property or an undertaking of a
+company:
+(a)an infant;
+214
+
+===== PAGE 215 =====
+
+Companies Act, 2019
+# [p215 fs=12.8] Act992
+(b)a person found by a court of competent jurisdiction to be
+of unsound mind;
+(c)a body corporate other than the office of the Registrar;
+(d)a person in respect of whom an order has been made under
+# [p215 fs=10.9] section 177, for as long as the order remains in force unless
+leave to act as receiver or manager of the property or un-
+dertaking of the company concerned has been granted by
+the Court in accordance with that section; or
+(e)an undischarged bankrupt, unless that bankrupt person has
+been granted leave to act as receiver or manager of the prop-
+erty or undertaking of the company concerned by the Court
+by which that person was adjudged bankrupt.
+(4) A person is not eligible to be appointed or to act as a
+receiver or manager unless that person has in the opinion of the
+Registrar the requisite expertise, skill, and experience to manage and
+administer a company in receivership.
+(5) A director or an auditor of a company is not eligible for
+appointment as a receiver or manager of a property or an undertaking
+of that company.
+(6) An appointment made in contravention of this section is void
+and if a person named in subsection (4) or (5) or in paragraphs(a),(c),
+(d)or(e)of subsection (3) acts as a receiver or manager, that person com-
+mits an offence and is liable on summary conviction, to a fine of not less
+than three hundred and twenty-five penalty units and not more than seven
+hundred and fifty penalty units or, in the case of an individual, to a fine
+of not less than three hundred and twenty-five penalty units and not more
+than seven hundred and fifty penalty units or to a term of imprisonment
+of not less than three months and not more than six months or to both
+the fine and imprisonment.
+Power to appoint Official Trustee
+262.Where an application is made to the Court to appoint a
+receiver or manager on behalf of secured creditors or debenture holders
+of a company which is being wound up under the Bodies Corporate
+(Official Liquidations) Act, 1963 (Act 180), the Official Trustee may
+be appointed.
+215
+
+===== PAGE 216 =====
+
+# [p216 fs=12.8] Act992Companies Act, 2019
+Duties of receivers
+263.(1) A receiver shall exercise the powers of that receiver in good
+faith and for proper purpose.
+(2) In the exercise of the powers conferred under subsection (1),
+and section 266, the receiver or manager in the case of a receiver or
+manager appointed out of Court may give special, but not exclusive,
+consideration to the interests of those on whose behalf the appoint-
+ment is made.
+(3) Pursuant to subsections (1) and (2), a receiver shall exercise
+the powers of that receiver with reasonable regard to the interests of
+(a)secured creditors,
+(b)the company,
+(c)any person claiming through the company, an interest in
+the property in receivership,
+(d)unsecured creditors of the company, and
+(e)any surety that may be called on to fulfil obligations of the
+company.
+(4) A receiver that exercises a power of sale of property in re-
+ceivership shall obtain the best price reasonably obtainable as at the
+time of sale.
+(5) Where a receiver appointed out of Court acts or refrains
+from acting in accordance with any directions given by the person in
+whose interests that receiver was appointed, the receiver
+(a)is not in breach of the duty referred to in subsection (3), but
+(b)is still liable for any breach of the duty referred to in subsec-
+tion (1).
+(6) A receiver shall keep money relating to the property in
+receivership separate from other moneys received in the course of, but
+not relating to, the receivership and from other moneys held by or
+under the control of the receiver.
+(7) A receiver shall at all times keep accounting records that
+correctly record and explain the receipts, expenditure and other trans-
+actions relating to the property in receivership.
+(8) A receiver shall retain accounting records for at least six years
+after the receivership is determined.
+216
+
+===== PAGE 217 =====
+
+Companies Act, 2019
+# [p217 fs=12.8] Act992
+Duties of managers
+264.A person appointed manager of the whole or a part of the
+undertaking of a company shall manage the undertaking with a view
+to the beneficial realisation of the security of those on whose behalf
+the appointment is made.
+Absence of defence or immunity
+265.Despite a provision of any enactment, rule of law or any provi-
+sion contained in the deed or agreement by or under which a receiver is
+appointed
+(a)it is not a defence to proceedings against a receiver for a
+breach of duty in connection with the sale of property that,
+the receiver was acting as an agent of the company or un-
+der a power of attorney from the company; and
+(b)a receiver is not entitled to compensation or indemnity
+from the property in receivership or the company in re-
+spect of any liability incurred by the receiver arising from
+a breach of the duty in connection with the sale of prop-
+erty.
+Powersofreceivers and managers
+266.(1) A person appointed receiver of a property of a company
+shall, subject to the rights of any prior incumbrances
+(a)take possession of and protect the property,
+(b)receive the rents and profits,
+(c)discharge the outgoings in respect of the property, and
+(d)realise the security of those on whose behalf that person is
+appointed,
+but unless also appointed manager, that person shall not carry on a busi-
+ness or an undertaking.
+(2)From the date of appointment of a receiver or manager,
+the powers of the directors or liquidators in the voluntary liquidation of
+a member to deal with the property or undertaking over which the re-
+ceiver or manager is appointed shall cease until the receiver or manager
+is discharged.
+(3)Where, on the appointment of a receiver or manager, the
+company is being wound up under the Bodies Corporate (Official Liqui-
+dations) Act, 1963 (Act 180), or the property concerned is in the hands of
+any other officer of the Court, the liquidator or officer is not bound to
+relinquish control of the property to the receiver or manager except
+under an order of the Court.
+217
+
+===== PAGE 218 =====
+
+# [p218 fs=12.8] Act992Companies Act, 2019
+Receivers and managers appointed by Court
+267.(1) A receiver or manager of a property or an undertaking of a
+company appointed by the Court is, for the purposes of this Act, an
+officer of the Court and not of the company and shall act in accordance
+with the directions and instructions of the Court.
+(2) A person appointed manager of the whole or a part of the
+undertaking of a company shall manage the undertaking with a view to
+the beneficial realisation of the security of those on whose behalf the
+appointment is made.
+Receivers and managers appointed out of Court
+268.(1) A receiver or manager of a property or an undertaking of a
+company appointed out of Court is, for the purposes of this Act and
+subject to section 269, an agent of the person or persons on whose behalf
+the appointment is made.
+(2) A receiver or manager who is appointed manager for the
+whole or a part of the undertaking of a company is, for the purposes of
+this Act, an officer of that company and stands in a fiduciary relation-
+ship to the company, and section 190 shall apply to the manager as if the
+manager were a director of the company.
+(3) The receiver or manager may apply to the Court for direc-
+tions in relation to a matter arising in connection with the performance
+of functions under this section; and on that application the Court may
+give the directions, or make an order declaring the rights of persons be-
+fore the Court or otherwise, that the Court considers fit.
+(4) The Court may, on the application of the company or a liq-
+uidator of the company, by order, fix the amount to be paid by way of
+remuneration to the receiver or manager; and may on an application
+made by the company or liquidator or by the receiver or manager, vary
+or amend the order.
+(5) The power of the Court under subsection (4) shall, where a
+previous order has not been made with respect to that power under that
+# [p218 fs=10.9] subsection,
+(a)extend to fixing the remuneration for a period before the
+making of the order or the application for the order;
+(b)be exercisable although the receiver or manager has died or
+ceased to act before the making of the order or the applica-
+tion for the order; and
+218
+
+===== PAGE 219 =====
+
+Companies Act, 2019
+# [p219 fs=12.8] Act992
+(c)extend to requiring the receiver or manager or the personal
+representative of the receiver or manager to account for the
+excess or that part of the excess that may be specified in the
+order where the receiver or manager has been paid or has
+retained for the remuneration payable to the receiver or
+manager for a period before the making of the order an
+amount of money in excess of that so fixed for that period.
+(6)The power conferred by paragraph(c)of subsection (5) shall
+not be exercised regarding a period before the making of the application
+for the order unless, in the opinion of the Court, there are special
+circumstances making it proper for the power to be so exercised.
+Liabilities ofreceivers and managers oncontracts
+269.(1) A receiver or manager of a property or an undertaking of a
+company is personally liable on a contract entered into by the receiver or
+manager except as the contract otherwise expressly provides.
+(2) As regards contracts entered into by the receiver or manager
+in the proper performance of the functions of office, the receiver or
+manager, subject to the rights of a prior incumbrance, is entitled to an
+indemnity in respect of liability on those contracts out of the property
+over which the appointment was made to act as receiver or manager.
+(3) A receiver or manager appointed out of Court is entitled, as
+regards contracts entered into by the receiver or manager with the
+express or implied authority of those making the appointment, to an
+indemnity in respect of liability on those contracts from those making
+the appointment to the extent to which the receiver or manager is unable
+to recover in accordance with subsection (2).
+Notification that receiver or manager has been appointed
+270.(1) Where a receiver or manager of a property or an undertaking
+of a company is appointed, notice shall be given to the Registrar in ac-
+cordance with section 119 and any invoice, order or business letter issued
+by or on behalf of the company or the receiver or manager or the liquida-
+tor of the company, which is a document on or in which the name of the
+company appears, shall contain a statement that a receiver or manager
+has been appointed.
+219
+
+===== PAGE 220 =====
+
+# [p220 fs=12.8] Act992Companies Act, 2019
+(2) Where there is a default in complying with the requirements
+of subsection (1) relating to invoices, orders or business letters, the com-
+pany and any officer, liquidator, receiver or manager of the company
+that is in default commits an offence and is liable on summary convic-
+tion to a fine of not less than five hundred penalty units and not more
+than one thousand penalty units.
+Accounts where manager appointed to enforce a floating
+charge
+271.(1) Where a manager is appointed of the whole or substantially
+the whole of the undertaking of a company on behalf of the holders of
+debentures secured by a floating charge, the Bodies Corporate (Official
+Liquidations) Act, 1963 (Act 180) shall apply as regards the submission
+of a statement of affairs and of periodical accounts by the manager as if
+the company had been ordered to be wound up under that Act and as if
+the manager had been appointed liquidator.
+(2) A person who defaults in complying with the requirements of
+# [p220 fs=10.9] subsection (1) commits an offence and is liable on summary conviction
+to a fine of not less than ten penalty units and not more than twenty-five
+penalty units for each day during which the default continues.
+Delivery to Registrar of accounts of receivers
+272.(1) Except where section 271 applies, a receiver or manager of a
+property of a company shall,
+(a)within one month, or a longer period that the Registrar
+may allow, after the expiration of the period of twelve
+months from the date of the appointment and of every sub-
+sequent period of twelve months until the receiver or man-
+ager ceases to act, deliver to the Registrar for registration
+an abstract in the prescribed form showing receipts and
+payments of the receiver or manager during that period of
+twelve months; or
+(b)within one month, or a longer period that the Registrar
+may allow, after the receiver or manager ceases to act as
+receiver or manager, deliver to the Registrar for registra-
+tion an abstract in the prescribed form showing receipts and
+payments of the receiver or manager during the period from
+the end of the twelve months to which the last abstract
+relates, and the aggregate of those receipts and payments
+during the whole period of the appointment.
+220
+
+===== PAGE 221 =====
+
+Companies Act, 2019
+# [p221 fs=12.8] Act992
+(2) A receiver or manager who defaults in complying with the
+requirements of subsection (1) commits an offence and is liable on sum-
+mary conviction to a fine of not more than twenty-five penalty units for
+each day during which the default continues.
+Enforcement of duties of receivers
+273.(1) Where a receiver or manager of a property or an undertaking
+of a company,
+(a)having defaulted in filing, delivering or making any return,
+account, or other document or in giving a notice which the
+receiver or manager is by a provision of this Act required
+to file, deliver, make or give, fails to make good the default
+within twenty-eight days after the service on the receiver
+or manager, of a notice by the company, member, creditor,
+liquidator of the company or Registrar requiring the
+receiver or manager to make good the default, or
+(b)having been appointed out of Court under the powers con-
+tained in an instrument, has, after being required at any
+time by the liquidator of the company so to do, failed to
+render proper accounts of the receipts and payments of the
+receiver or manager and to vouch the same and to pay over
+to the liquidator the amount properly payable to the receiver
+or manager,
+the Court may, on an application made for the purpose, make an order
+directing the receiver or manager to make good the default within the
+period specified in the order and may provide that, the costs of, and
+incidental to the application, shall be borne by the receiver or manager.
+(2) An application for the purposes of subsection (1) may, in the
+case of a default mentioned in paragraph(a)of that subsection, be made
+by the company or a member, creditor or liquidator of the company or
+by the Registrar, and in the case of a default mentioned in paragraph(b)
+of that subsection, be made by the liquidator.
+# [p221 fs=10.9] Part V: Winding up
+Modes of winding up
+274.(1) The winding up of a company may be
+(a)by an official liquidation in accordance with the Bodies
+Corporate (Official Liquidations) Act, 1963 (Act 180), or
+(b)by a private liquidation in accordance with this Part.
+221
+
+===== PAGE 222 =====
+
+# [p222 fs=12.8] Act992Companies Act, 2019
+(2) The company shall, from the commencement of the winding
+up cease to carry on business except so far as may be required for the
+beneficial winding up of the company, but the corporate state and corpo-
+rate powers of the company shall continue until the company is dissolved.
+(3) Where a company is being wound up by way of a private
+liquidation, any invoice, order or business letter issued by or on behalf of
+the company or a liquidator of the company or a receiver or manager of
+a property of the company, which is a document in or on which the
+name of the company appears, shall contain a statement that the com-
+pany is being wound up under this Part.
+(4) Where default is made in complying with subsection (3), the
+company and an officer of the company and a liquidator, receiver or
+manager that is in default commits an offence and is liable on summary
+conviction to a fine of not less than fifty penalty units and not more than
+one hundred penalty units.
+Affidavit of solvency
+275.(1) Where it is proposed to wind up a company by way of a private
+liquidation, the directors of the company or, in the case of a company
+having more than two directors, the majority of the directors shall, at a
+meeting of the directors, make an affidavit to the effect that they have
+made a full enquiry into the affairs of the company, and that, having
+done so, they have formed the opinion that the company will be able to
+pay its debts and liabilities in full within a period of not more than twelve
+months from the commencement of the winding up that may be specified
+in the affidavit.
+(2) An affidavit made under subsection (1) does not have effect
+for the purposes of this Act unless,
+(a)it is made within five weeks immediately preceding the date
+of the passage of the resolution for the winding up of the
+company by way of private liquidation and is delivered to
+the Registrar for registration on or before that date; and
+(b)it embodies a statement of the assets and liabilities of the
+company at the latest practicable date before the making of
+the affidavit.
+222
+
+===== PAGE 223 =====
+
+Companies Act, 2019
+# [p223 fs=12.8] Act992
+(3) A director of a company who makes an affidavit under this
+# [p223 fs=10.9] section without having reasonable grounds for the opinion that the
+company will be able to pay its debts and liabilities in full within the
+period specified in the affidavit, commits an offence and is liable on sum-
+mary conviction to a fine of not less than three hundred and twenty-five
+penalty units and not more than seven hundred and fifty penalty units or
+to a term of imprisonment of not less than six months and not more
+than one year or to both the imprisonment and the fine.
+(4) Where the company is wound up in pursuance of the resolu-
+tion for the winding up of the company by way of private liquidation
+passed within the period of five weeks after the making of the affidavit,
+but the debts and liabilities of the company are not paid or provided for
+in full within the period stated in the affidavit, it shall be presumed, until
+the contrary is proven, that the director did not have reasonable ground
+for the opinion stated in the affidavit.
+Procedure on resolution for liquidation
+276.(1) A company may be wound up by way of private liquidation
+if,
+(a)the company resolves by special resolution that it shall be
+wound up by way of private liquidation, and
+(b)before the date of the resolution, an affidavit declaring that
+the company is solvent is made in accordance with section
+275.
+(2) The private liquidation commences at the time of the passing
+of the resolution.
+(3) Where a company passes a resolution for a private liquida-
+tion the company shall, within fourteen days after the passage of the
+resolution, send to the Registrar a copy of the resolution and the Regis-
+trar shall publish the resolution in theCompanies Bulletin.
+Statements and accounts of final financial year
+277.(1) For the purposes of sections 127 to 143, the final financial
+year of a company in liquidation under this Part ends immediately
+before the date of the commencement of the winding up, and, subject to
+# [p223 fs=10.9] subsection (2), the provisions of those sections shall continue to apply to
+the preparation, auditing and despatch of the statements, accounts and
+report referred to in those sections.
+223
+
+===== PAGE 224 =====
+
+# [p224 fs=12.8] Act992Companies Act, 2019
+(2) For the purposes of subsection (1),
+(a)a copy of the documents referred to in section 128 shall be
+sent to the liquidator appointed in accordance with section
+278 as well as to every member and debenture holder of the
+company in accordance with section 128; and
+(b)a copy of those documents shall be sent to the persons
+referred to in paragraph(a)within three months after the
+date of commencement of the winding up.
+Resolution for appointment and removal of liquidator
+278.(1) The resolution for the private liquidation of a company shall
+include the appointment as liquidator of a person named in the resolu-
+tion and the resolution is not valid for the purposes of this Part unless the
+person named has previously consented in writing to the appointment.
+(2) Where a vacancy occurs by death, resignation or otherwise
+in the office of liquidator, the company in general meeting may fill the
+vacancy and for that purpose a general meeting may be convened by a
+member or if there is more than one liquidator, by the continuing liqui-
+dators.
+(3) The Court may, on the application of a member of the com-
+pany or of the Registrar, remove a liquidator and appoint another in the
+place of the removed liquidator or appoint a liquidator if, for a sufficient
+cause, a liquidator is not acting.
+(4) The company or the Court, shall give notice to the Registrar
+of the removal or appointment of a liquidator, and the Registrar shall
+register the notice and publish the notice in theCompanies Bulletin.
+Remuneration of liquidator
+279.For the purposes of a private liquidation, the company shall, in
+general meeting, fix the remuneration to be paid to a liquidator appointed
+for the purpose of liquidation and where the appointment of a liquida-
+tor is made by the Court the remuneration of the liquidator shall be fixed
+by the Court.
+Disqualification of liquidator
+280.(1) The following persons are not eligible to be appointed or to act
+as liquidators of a company under this Act:
+(a)an infant;
+(b)a person found by a court of competent jurisdiction to be a
+person of an unsound mind;
+224
+
+===== PAGE 225 =====
+
+Companies Act, 2019
+# [p225 fs=12.8] Act992
+(c)a body corporate;
+(d)a person convicted, whether in Ghana or elsewhere, of an
+offence involving fraud or dishonesty, or of an offence in
+connection with the promotion, formation or management
+of a body corporate; and
+(e)an undischarged bankrupt or any other person subject to
+insolvency proceedings under the Insolvency Act, 2006
+(Act 708).
+(2) Despite subsection (1), a person convicted of an offence
+under paragraph(d)of subsection (1) is eligible to be appointed as a
+liquidator or to act as a liquidator of a company if ten years or more
+have passed since the end of the sentence.
+(3) A director of a company shall not be eligible for appoint-
+ment as a liquidator of that company.
+(4) An auditor of a company shall not be eligible to be appointed
+as a liquidator in a private liquidation of that company.
+(5) An appointment made in contravention of this section is void.
+(6) Where a person named in paragraph(a),(c),(d), or(e)of
+# [p225 fs=10.9] subsection (1) or in subsection (2) acts as liquidator of a company, that
+person commits an offence and is liable on summary conviction to a fine
+of not less than three hundred and twenty-five penalty units and not more
+than seven hundred and fifty penalty units or in the case of an individual
+to a fine of not less than three hundred and twenty-five penalty units and
+not more than seven hundred and fifty penalty units or to a term of
+imprisonment of not less than two years and not more than five years or
+to both the fine and the imprisonment.
+Status of liquidator
+281.A liquidator appointed for the purposes of a private liquidation
+stands in a fiduciary relationship to the company as if that liquidator
+were a director of the company and accordingly sections 190 to 217 shall,
+with the necessary modifications apply.
+Cessation of powers of directors
+282.On the appointment of a liquidator for the purposes of a
+private liquidation, the powers of the board of directors shall vest in the
+liquidator and the powers and authority of every director shall cease,
+except in so far as
+225
+
+===== PAGE 226 =====
+
+# [p226 fs=12.8] Act992Companies Act, 2019
+(a)the company in general meeting or the liquidator sanctions
+their continuance; or
+(b)it is necessary to enable the directors to prepare statements
+and accounts of the company.
+Powers of liquidator
+283.(1) A liquidator in a private liquidation may exercise the power
+of the liquidator in an official winding up under the Bodies Corporate
+(Official Liquidations) Act, 1963 (Act 180) and any other relevant enact-
+ment.
+(2) Where several liquidators are appointed, a power given by
+this Act may be exercised by any one or more of the liquidators as may be
+determined at the time of their appointment, or, in default of that deter-
+mination, by a number not less than two.
+(3) The Court shall have the same powers in relation to the liqui-
+dator in a private liquidation as are by the Bodies Corporate (Official
+Liquidations) Act, 1963 (Act 180) conferred on the Court in relation to
+official liquidation.
+(4) The liquidator may apply to the Court for directions in rela-
+tion to a matter arising in connection with the performance of the func-
+tions of office or to exercise all or any of the powers which the Court
+might exercise if the company were being wound up under the Bodies
+Corporate (Official Liquidations) Act, 1963 (Act 180) and on that appli-
+cation, the Court may give appropriate directions or make an appropri-
+ate order.
+Books and accounts during private liquidation
+284.(1) The liquidator in a private liquidation shall keep
+(a)proper records and accounting records with respect to the
+(i)acts and dealings of the liquidator,
+(ii)conduct of the winding up, and
+(iii) receipts and payments by the liquidator; and
+(b)a distinct account of the trading so long as the liquidator
+carries on the business of the company.
+(2) In the event of the winding up continuing for more than a
+year, the liquidator shall
+(a)summon a general meeting of the company at the end of
+the first year from the commencement of the winding up,
+and of each succeeding year, or at the first convenient date
+within three months of the end of the year or a longer
+period that the Registrar may allow, and
+226
+
+===== PAGE 227 =====
+
+Companies Act, 2019
+# [p227 fs=12.8] Act992
+(b)lay before the meeting an account of acts and dealings of
+the liquidator and of the conduct of the winding up during
+the preceding year and of the trading during the time that
+the business of the company has been carried on, and within
+twenty-eight days after the meeting, shall send a copy of
+the accounts to the Registrar for registration.
+(3) When the affairs of the company are fully wound up, the
+liquidator shall
+(a)prepare and deliver to every member of the company final
+accounts of the winding up showing how the winding up
+has been conducted, the result of the trading during the
+time that the business of the company has been carried on,
+and how the property of the company has been disposed
+of, and
+(b)convene a general meeting of the company for the purpose
+of laying before the company the accounts and of giving
+an explanation of the accounts.
+(4) Within twenty-eight days after the meeting referred to in
+# [p227 fs=10.9] subsection (3), the liquidator shall deliver to the Registrar for registra-
+tion, copies of the accounts laid before the meeting and a statement of
+the holding of the meeting and of the date of the meeting.
+(5) Where a quorum was not present at the meeting, the liquidator
+shall, in place of the statement mentioned, deliver a statement that the
+meeting was duly convened and that a quorum was not present at the
+meeting.
+(6) The records, books and accounts shall be in the form that the
+Registrar may prescribe and shall give a true and fair view of the matters
+recorded in them and of the administration of the affairs of the
+company and of the winding up.
+(7) The accounts referred to in subsections (2) and (3) shall be
+audited by the auditors of the company before being laid before the com-
+pany in general meeting in accordance with those subsections, and the
+auditors shall state in a report annexed to the accounts whether, in their
+opinion and to the best of their information,
+(a)they have obtained the information and explanations
+necessary for the purpose of their audit;
+227
+
+===== PAGE 228 =====
+
+# [p228 fs=12.8] Act992Companies Act, 2019
+(b)proper books and records have been maintained by the
+liquidator in accordance with this Act; and
+(c)the accounts are in accordance with the books and records
+and give
+(i)the information required by this Act in the manner
+required by this Act, and
+(ii)a true and fair view of the matters stated in the
+accounts.
+(8) For the purposes of this section, the audit and report of the
+auditors shall not be required if,
+(a)the liquidator, or one of the liquidators, if more than one,
+is duly qualified under section 138 for appointment as
+auditor of a public company; and
+(b)on or after the appointment as liquidator, the company
+resolved by special resolution that the accounts should not
+be required to be audited in accordance with subsection (7).
+(9) Meetings required to be convened under this section shall be
+convened and held, so far as may be, in accordance with the provisions
+of this Act and the constitution of a company relating to general meet-
+ings.
+(10) The liquidator shall preserve the books and papers of the
+company and of the liquidator for a period of five years from the disso-
+lution of the company, but after that period, may destroy those books
+and papers unless the Registrar otherwise directs, in which event, the
+liquidator shall not destroy them until the Registrar consents in writing.
+(11) A liquidator who fails to comply with a provision of this
+# [p228 fs=10.9] section commits an offence and is liable on summary conviction to a fine
+of not less than one hundred and twenty-five penalty units and not more
+than two hundred and fifty penalty units.
+(12) For the purposes of this section, the delivery of a document
+shall be considered as effective if delivered in the
+(a)hard copy form; or
+(b)electronic version, supported by evidence of same.
+Private liquidation account
+285.(1) The liquidator shall open the private liquidation account, with
+a bank nominated by the company in general meeting for the purposes
+of the private liquidation.
+228
+
+===== PAGE 229 =====
+
+Companies Act, 2019
+# [p229 fs=12.8] Act992
+(2) The receipts and payments by or on behalf of the liquidator
+in respect of the company shall be credited or debited, to the private
+liquidation account.
+(3) Where, on the application of the company or any other
+person interested in the liquidation proceedings, it appears to the Court
+before the termination of the liquidation, that assets have been lost to the
+estate by reason of a default by the liquidator, the Court may order that
+the private liquidation account be credited with the sum of money that
+the Court considers just.
+Duty of liquidator in case of insolvency
+286.(1) Where in a private liquidation the liquidator is at any time of
+the opinion that the company may not be able to pay its debts in full
+within the period stated in the affidavit made under section 275, the
+liquidator shall forthwith give notice of that fact, together with a state-
+ment of the liabilities and assets of the company to the Registrar.
+(2) The notice and statement shall be in the prescribed form.
+(3) The Registrar, whether or not makes an order under section 5
+of the Bodies Corporate (Official Liquidations) Act, 1963 (Act 180), shall
+register both the notice and the statement and cause a copy of the notice
+to be published in theCompanies Bulletinand the liquidator shall proceed
+in the same manner, so far as the provisions are applicable, as a liquida-
+tion under an order of the Court pursuant to the Bodies Corporate
+(Official Liquidations) Act 1963 (Act 180).
+(4) Where the liquidator fails to comply with this section, the
+liquidator is liable to pay to the Registrar, an administrative penalty of
+seven hundred and fifty penalty units.
+Stay of proceedings
+287.(1) At any time during the course of a private liquidation and
+before the dissolution of the company, the company in general meeting
+may, by special resolution, resolve that, subject to the confirmation of
+the Court, the liquidation proceedings shall be stayed.
+(2) After the passing of the special resolution
+(a)an application may be made to the Court by the liquidator
+or a member of the company; and
+(b)the Court may, and subject to terms and conditions that the
+229
+
+===== PAGE 230 =====
+
+# [p230 fs=12.8] Act992Companies Act, 2019
+Court deems fit, order that
+(i)the liquidation be stayed,
+(ii)the liquidator be discharged, and
+(iii) the directors be permitted to resume the management
+of the company.
+(3) At least twenty-eight days before the hearing of the applica-
+tion under subsection (2), written notice of the application shall be given
+by the applicant to the Registrar, to the directors of the company and to
+a liquidator of the company, and the Registrar shall publish the notice in
+theCompanies Bulletin.
+(4) The Registrar, a director, liquidator, member or creditor of
+the company is each entitled to appear on the hearing of the application
+and to call witnesses and give evidence.
+(5) Where an order confirming the resolution is made by the
+Court, the company shall send an official copy of the order to the Regis-
+trar and the Registrar shall register the order and publish a copy in the
+Companies Bulletinand on that publication, the liquidation shall cease
+and the company shall continue to be a going concern subject to the terms
+or conditions of the order.
+Dissolution and restoration of companies
+288.(1) Where the Registrar is satisfied that the winding up of the
+company is complete, the Registrar shall strike the name of the company
+off the register and publish the record of the strike off in theCompanies
+Bulletin.
+(2) The company is dissolved as at the date of the publication of
+the notification in theCompanies Bulletin.
+(3) Where a company is dissolved, the Court may
+(a)at any time within two years after the date of the dissolu-
+tion, and
+(b)upon an application made for the purpose by the Registrar
+or by the liquidator of the company or by a former officer,
+member, or creditor of the company or a person claiming
+through or under any of them,
+make an order, on the terms that the Court considers fit, declaring the
+dissolution void and ordering the name of the company to be restored to
+the register.
+(4) An official copy of an order made under subsection (3) shall
+be delivered to the Registrar for registration and the Registrar shall publish
+230
+
+===== PAGE 231 =====
+
+Companies Act, 2019
+# [p231 fs=12.8] Act992
+the copy of the order in theCompanies Bulletinand the name of the
+company shall be restored to the register.
+(5) Where registration and publication under subsection (3) takes
+effect, the company shall be deemed to have continued in existence as if
+it had not been dissolved, and for the purposes of a period of limitation
+the period between dissolution and restoration shall not be counted.
+(6) The Court may by the order give the directions and make the
+provisions that seem just for placing the company and any other person
+in the same position as nearly as may be as if the name of the company
+had never been struck off.
+Dissolution without full winding up
+289.(1) Where the Registrar, by reference to personal knowledge, or
+on information supplied by any officer, member or creditor of a com-
+pany, has reasonable cause to believe that the company is not carrying on
+business or is not in operation, the Registrar may by written communi-
+cation to the company enquire whether the company is carrying on busi-
+ness or is in operation.
+(2) Where the Registrar does not receive an answer to the written
+communication, within two months of the communication, the Regis-
+trar may send to the company a second written communication referring
+to the first written communication, stating that an answer has not been
+received by the Registrar, and that if an answer is not received to the
+second written communication within two months from the date of the
+second written communication, a notice will be published in theCompa-
+nies Bulletinwith a view to striking the nameof the company off the
+register.
+(3) Where the Registrar receives an answer from the company to
+the effect that it is not carrying on business or in operation, or does not
+within the specified time after sending the second written communica-
+tion receive an answer to the second written communication, the Regis-
+trar may publish in theCompanies Bulletinand send to the company by
+writ- ten communication a notice that at the expiration of three months
+from the date of that notice the name of the company shall, unless cause
+is shown to the contrary, be struck off the register and the company shall
+stand dissolved.
+(4) Where a company is being wound up and the Registrar has
+reasonable cause to believe that a liquidator is acting but is not satisfied
+231
+
+===== PAGE 232 =====
+
+# [p232 fs=12.8] Act992Companies Act, 2019
+that the winding up is complete, the Registrar may publish in theCompa-
+nies Bulletinand send to the company and to the last known place of
+business of the person last known to have acted as liquidator, a notice as
+is provided in subsection (3).
+(5) At or after the expiration of the time specified in the notice,
+the Registrar shall, unless cause is shown, strike the name of the
+company off the register and shall publish the notice of that fact in the
+Companies Bulletinand on that publication in theCompanies Bulletinthe
+company shall stand dissolved.
+(6) For the purposes of subsection (5), the liability of every director
+or other officer and member of the company shall continue and may be
+enforced as if the company had not been dissolved; but the subsection
+does not affect the power of the Court to order the winding up of the
+company.
+(7) When the name of a company is struck off the register under
+this section, at any time within twelve years after the publication in the
+Companies Bulletinin accordance with subsection (5), the Court may, on
+application made for this purpose by a liquidator or by a former officer,
+member or creditor of the company, or by a person claiming through or
+under any of them, make an order on the terms that the Court considers
+fit, declaring the dissolution void and ordering the name ofthe com-
+pany to be restored to the register and subsection (3) shall apply as if the
+order was one made under this section.
+(8) A notice or written communication to be sent under this
+# [p232 fs=10.9] section to a company
+(a)may be addressed to
+(i)the company at the registered office of the company,
+(ii)a company at the last known place of business of
+the company if an office has not been registered, or
+(iii) the care of an officer of the company, or
+(b)may be sent to the person or each of the persons who sub-
+scribed to the incorporation of the company addressed to
+that person at the address mentioned in the subscription to
+the incorporation of the company or to the Registrar if
+there is no officer of the company whose name and address
+are known.
+232
+
+===== PAGE 233 =====
+
+Companies Act, 2019
+# [p233 fs=12.8] Act992
+# [p233 fs=10.9] Part W: Documents
+Service of documents by company
+290.(1) A document may be served by a company on a member,
+debenture holder, or director of the company personally, or by sending it
+through the post in a prepaid letter addressed to that person at the
+address on the register of members, debenture holders, or directors, or if
+there is no registered address, at the address, supplied by that person to
+the company for the giving of notices, or by leaving it for that person
+with a person apparently over the age of sixteen years at that address.
+(2) A document may be served by a company on the joint holders
+of a share or debenture of the company by serving it on the joint holder
+named first in the register of members or debenture holders in respect of
+the share or debenture.
+(3) A document may be served by a company
+(a)on the person on whom ownership of a share or debenture
+has devolved by reason of that person being a legal
+personal representative, receiver or trustee in bankruptcy
+of a member or debenture holder personally,
+(b)by sending it through the post in a prepaid letter addressed
+to the person by
+(i)name,
+(ii)title of the representative of the deceased, receiver
+or trustee of the bankrupt or by any like descrip-
+tion at the address supplied for the purpose by that
+person; or
+(c)by leaving it for the person with a person apparently over
+the age of sixteen years at the address supplied for the
+pur- pose by the person.
+(4) Where an address has not been supplied by the person for the
+purpose of service under this section, the document may be served in a
+manner which the document might have been served, if the death,
+receivership or bankruptcy had not occurred.
+(5) Where a document is sent by post, service shall be deemed to
+(a)be effected by properly addressing, pre-paying and posting
+a letter containing the document, and
+(b)have been effected at the expiration of forty-eight hours after
+the letter containing the document is posted.
+233
+
+===== PAGE 234 =====
+
+# [p234 fs=12.8] Act992Companies Act, 2019
+(6) The letter need not be despatched by registered post but where
+it is sent to an address outside Ghana it shall be despatched by air-mail.
+(7) The service of a document on a shareholder or creditor
+includes sending the document by electronic mail, or facsimile machine
+and service shall be deemed to be effected by
+(a)properly addressing, attaching and mailing the document
+to the electronic mail address in the case of communica-
+tion by electronic mail, or
+(b)sending the document to a telephone contact used by the
+person concerned for the transmission of documents by
+facsimile subject to section 292.
+Service of documents on company
+291.(1) A document may be served on a company by
+(a)leaving it at, or sending it by post to, the registered office of
+the company, or the latest office registered by the Registrar
+as the registered address of the company,
+(b)sending it to the official electronic mail address of the
+company registered with the Registrar, and
+(c)sending it by facsimile machine to a telephone number used
+by that company for the transmission of documents by
+facsimile.
+(2) A document to be served by post on a company shall be posted
+in the time that admits of its being delivered in due course of delivery
+within the time prescribed for the service of the document.
+(3) In proving service it shall be sufficient to prove that a letter
+containing the document was properly addressed, prepaid and posted,
+whether or not by registered post.
+(4) Where the registered office of a company cannot be traced,
+service on a director of the company or, if a director cannot be traced in
+the Republic, on a member of the company, shall be deemed good and
+effectual service on the company.
+(5) Where it is proved that a document was in fact received by
+the director, managing director or Company Secretary, the document
+shall be deemed to have been served on the company despite the fact that
+service may not have been effected in accordance with subsections (1),
+(2), (3) or (4).
+(6) This section does not derogate from a provision in this Act
+234
+
+===== PAGE 235 =====
+
+Companies Act, 2019
+# [p235 fs=12.8] Act992
+relating to the service of a document, or from the power of a Court to
+direct how service shall be effected of a document relating to legal
+proceedings before that Court.
+(7) Paragraphs(b)and(c)of subsection (1) shall not apply to the
+service of legal proceedings on a company except otherwise determined
+by the Rules of Court.
+Additional provisions relating to service
+292.(1) Subject to subsection (2), and for the purposes of sections 290
+and 291
+(a)where a document is to be served by delivery to a natural
+person, service shall be made
+(i)by handing the document to the person; or
+(ii)where the person refuses to accept the document,
+by bringing it to the attention of, and leaving it in a
+place accessible to, the person;
+(b)a document sent by facsimile machine is deemed to have
+been received on the working day following the day on
+which it was sent; and
+(c)in proving service of a document by facsimile machine, it
+is sufficient to prove that the document was properly trans-
+mitted by facsimile to the person concerned.
+(2) Where a liquidator sends documents
+(a)to the last known address of a shareholder or creditor who
+is a natural person; or
+(b)to the address for service of a shareholder or creditor that
+is a company,
+and the documents are returned unclaimed on two consecutive times,
+the liquidator need not send further documents to the shareholder or credi-
+tor but shall forthwith circulate a notice in a daily newspaper of national
+circulation requesting the shareholder or creditor to convey to the liqui-
+dator within ten working days after publication of the notice, the
+relevant new address.
+(3) A document may be sent to a shareholder or creditor by elec-
+tronic means of communication provided that
+(a)the shareholder or creditor has consented in writing to that
+form of communication being used by the company or
+other person providing the communication; and
+235
+
+===== PAGE 236 =====
+
+# [p236 fs=12.8] Act992Companies Act, 2019
+(b)the shareholder or creditor has provided an electronic
+address to which such communication may be sent.
+(4) Any consent under subsection (3) may be revoked at any time
+on the provision of five days’ notice in writing to the person sending the
+document.
+(5) A document shall not be deemed to have been served or sent
+or delivered to a person where the person proves that, through no fault
+on the part of the person, the document was not received within the time
+specified.
+Books and registers
+293.(1) A register, minute book or accounting record required by this
+# [p236 fs=10.9] Act to be kept by a company may be kept by making entries in bound
+volumes, or by a system of mechanical, electronic or other recording.
+(2) Where the register, minute book or accounting record is not
+kept by making entries in bound volumes, adequate precautions shall be
+taken for guarding against the risk of falsification that might arise from
+the method of recording and for facilitating discovery and retrieval.
+(3) Where a system of recording is adopted, adequate arrange-
+ments shall be made for making the information in the recording avail-
+able in an intelligible form to a person lawfully inspecting the register,
+minute book or accounting record.
+(4) Where there is a default in complying with subsection (2) or
+(3), the company and an officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of two hundred and
+fifty penalty units.
+# [p236 fs=10.9] Part X: Invitations to the Public
+Control of public invitations
+294.(1) A person shall not make an invitation to the public,
+(a)to acquire or dispose of any shares or debentures of a com-
+pany, or
+(b)to deposit money with a company for a fixed period or
+payable at call, whether bearing or not bearing interest,
+unless the company concerned is a public company and the appropriate
+provisions contained in Part A of Chapter Four are duly complied with.
+(2) Subsection (1) does not render unlawful the sale of shares or
+debentures by or under the supervision of the Court.
+236
+
+===== PAGE 237 =====
+
+Companies Act, 2019
+# [p237 fs=12.8] Act992
+(3) Where an invitation to the public is made in breach of sub-
+# [p237 fs=10.9] section (1), the person who made the invitation and an officer of a body
+corporate who made the invitation each commits an offence and is liable
+on summary conviction
+(a)in the case of a body corporate, to a fine of not less than
+five hundred penalty units and not more than one thou-
+sand penalty units, and
+(b)in any other case to a fine of not less than five hundred
+penalty units and not more than one thousand penalty units
+or to a term of imprisonment of not less than one year and
+not more than two years or to both the fine and imprison-
+ment.
+(4) Where as a result of an invitation to the public in breach of
+# [p237 fs=10.9] subsection (1), a person acquires or disposes of shares or debentures or
+deposits money with a company, that person is entitled to rescind the
+transaction and in addition to or instead of rescinding, may recover com-
+pensation for a loss sustained by that person from a person who is liable,
+whether convicted or not, in respect of the breach.
+(5) Where, in accordance with subsection (4), a person claims to
+rescind a transaction, that person shall do so with reasonable prompti-
+tude and is not entitled to rescind a transaction with the company or to
+recover compensation from the company unless that person takes steps
+to rescind before the commencement of the winding up of the company.
+Meaning of “invitations to the public”
+295.(1) For the purposes of this Act, an invitation is made to the
+public if an offer or invitation to make an offer is
+(a)advertised or disseminated in the Republic by newspaper,
+broadcasting, cinematograph, electronic communication
+or any other means;
+(b)made to or circulated among persons whether selected as
+members or debenture holders of the company concerned
+or as clients of the persons making or circulating the invi-
+tation or in any other manner;
+(c)made to one or more persons on the terms that the person
+or persons to whom it is made may renounce or assign the
+237
+
+===== PAGE 238 =====
+
+# [p238 fs=12.8] Act992Companies Act, 2019
+benefit of the invitation or of shares or debentures to be
+obtained under the invitation in favour of any other
+person; or
+(d)made to one or more persons to acquire shares or deben-
+tures dealt in on a stock exchange or in respect of which the
+invitation states that application has been or will be made
+for permission to deal in those shares or debentures on a
+stock exchange subject to subsection (5).
+(2) Subsection (1) does not require an invitation to be treated as
+made to the public if the invitation can properly be regarded in all the
+circumstances as being a domestic concern of the persons making and
+receiving it.
+(3) For the purposes of subsection (1), an invitation made by or
+on behalf of a private company exclusively to the existing shareholders
+and debenture holders of the company, which is not greater in number
+than is prescribed by subsection (5) of section 7 and its existing employees
+is not an invitation to the public unless the invitation is of the type
+referred to in paragraph(c)or(d)of subsection (1).
+(4) For the purposes of subsection (1), the issue of a form of
+application for shares or debentures or of a form to be completed on the
+deposit of money with a company is an invitation to acquire those shares
+or debentures or to deposit money.
+(5) For the purposes of sections 329 to 342 the expression “invi-
+tation to the public” bears the meaning assigned to it in this section but
+an invitation made on behalf of an external or non-Ghanaian company,
+exclusively to its existing shareholders and debenture holders, which is
+not greater in number than is prescribed by subsection (5) of section 7,
+and its existing employees is not an invitation to the public unless the
+invitation is of the type referred to in paragraph(c)or(d)of subsection
+(1).
+Offers for sale deemed to be made by company
+296.(1) Where a company allots or agrees to allot any of the shares or
+debentures of the company to a person with a view to the public being
+invited to acquire any of those shares or debentures, for the purposes of
+this Act, an invitation so made is an invitation to the public made by the
+company as well as by the person actually making the invitation.
+238
+
+===== PAGE 239 =====
+
+Companies Act, 2019
+# [p239 fs=12.8] Act992
+(2) A person who acquires any of the shares or debentures in
+response to the invitation under subsection (1) is an allottee from the
+company of those shares or debentures.
+(3) For the purposes of subsection (1), where
+(a)an invitation to the public is made in respect of shares or
+debentures within six months after the allotment or agree-
+ment to allot, or
+(b)at the date when the invitation to the public was made, the
+whole consideration to be received by the company in respect
+of the shares or debentures had not been so received,
+it shall be assumed, unless the contrary is proven, that the allotment or
+agreement to allot was made by the company with a view to an invita-
+tion to the public being made in respect of those shares or debentures.
+(4) This section applies to an invitation to the public made in
+respect of shares or debentures of external and non-Ghanaian companies.
+# [p239 fs=10.9] CHAPTER THREE
+ADDITIONAL PROVISIONS APPLICABLE TO PRIVATE
+COMPANIES ONLY
+Default in complying with conditions constituting a private company
+297.(1) Where a private company defaults in complying with a con-
+dition by virtue of its incorporation as required by section 7, sections
+323 and 328 shall apply to the company as if the company were a public
+company.
+(2) When the Court is satisfied that the failure to comply with a
+condition, specified in subsection (1), was accidental or due to inadvert-
+ence or to any other sufficient cause, or that on other grounds it is just
+and equitable to grant relief, the Court may, on the application of the
+company or an officer or a member of the company, and on the terms
+and conditions that the Court considers just and expedient, order that
+the company be relieved of the consequences of the default.
+Documents to be annexed to the annual return of a private company
+298.(1) With the annual return required by section 126, a private com-
+pany shall send to the Registrar for registration,
+239
+
+===== PAGE 240 =====
+
+# [p240 fs=12.8] Act992Companies Act, 2019
+(a)a certification that the company has not, since the date of
+the last return, or, in the case of the first return, since the
+date of incorporation of the company, issued an invitation
+to the public to acquire shares or debentures of the com-
+pany or to deposit money with the company; and
+(b)a certification that the number of members and debenture
+holders of the company does not exceed fifty or that an
+excess over fifty consists solely of persons who are genuinely
+in the employment of the company and persons, who,
+having been formerly genuinely in the employment, of the
+company were, while in that employment, and have
+continued after the determination of that employment to
+be, members or debenture holders of the company.
+(2) In addition to complying with subsection (1), a private
+company shall send to the Registrar for registration,
+(a)a copy of every statement of financial position and
+consolidated financial statements circulated to the members
+and debenture holders pursuant to section 128 during the
+period to which the return relates, and a copy of the report
+of the directors and of the report of the auditors accompa-
+nying those accounts; or
+(b)a written statement by the auditors of the company that, to
+the best of the knowledge and belief of the auditors, the
+financial statements and reports referred to in section 128
+have been sent to the members and debenture holders in
+accordance with that section; and
+(c)a copy of the report so sent; and
+(d)a certificate that to the best of the knowledge and belief of
+the persons signing the certificate, a body corporate is not
+or has not been at any time beneficially interested, other-
+wise than by way of security, in an issued share of the
+company, or that if a body corporate is or has been so
+interested, it is an exempted body corporate as defined in
+# [p240 fs=10.9] subsection (6).
+(3) The certification required by paragraphs(a)and(b)of
+# [p240 fs=10.9] subsection (1) and paragraph(b)of subsection (2) shall be signed by a
+director and by the Company Secretary.
+(4) The copies required by paragraph(a)of subsection (2) shall
+be certified by a director and by the Company Secretary to be true copies.
+240
+
+===== PAGE 241 =====
+
+Companies Act, 2019
+# [p241 fs=12.8] Act992
+(5) The copy of the report of the auditors required by paragraph
+b)of subsection (2) shall be certified by the auditors to be a true copy
+and the statement referred to in that paragraph shall be signed by the
+auditors.
+(6) For the purposes of this section, a body corporate is an
+exempted body corporate if,
+(a)it is not a public company;
+(b)it has not at any time issued an invitation to the public to
+acquire any of its shares or debentures or to deposit money
+with the body corporate; and
+(c)at all times since it became beneficially interested in any
+shares of the company,
+(i)it has not had more than fifty members and deben-
+ture holders, not including persons who are genu-
+inely in the employment of the body corporate and
+persons who, having been formerly genuinely in the
+employment of the company were, while in that
+employment, and continued after the determination
+of that employment to be, members or debenture
+holders of the company; and
+(ii)another body corporate, other than an exempted
+body corporate, has not been beneficially interested,
+other than by way of security, in any issued shares
+of the body corporate.
+Requisitioning extraordinary general meetings of a private company
+299.(1) The directors of a private company, despite a provision in the
+constitution of that private company, shall duly convene an extraordi-
+nary general meeting of the company on the requisition of
+(a)two or more members of the company or a single member
+holding not less than one-tenth of the shares of the com-
+pany; or
+(b)in the case of a company limited by guarantee, one-tenth
+of the total voting rights of the members of the company.
+(2) The requisition shall state the nature of the business to be
+transacted at the meeting and shall be signed by the requisitionists and
+sent to or delivered at the registered office of the company.
+241
+
+===== PAGE 242 =====
+
+# [p242 fs=12.8] Act992Companies Act, 2019
+(3) If the directors do not, within seven days from the date of
+receipt of the requisition at the registered office of the company,
+proceed duly to convene a meeting for a date not later than twenty-eight
+days after the receipt of the requisition, the requisitionists or any of them
+may themselves convene a meeting, but a meeting so convened shall be
+held within four months from that date.
+(4) The reasonable expenses incurred by the requisitionists by
+reason of the failure of the directors to duly convene a meeting shall be
+repaid to the requisitionists by the company and the sum of money so
+repaid shall be retained by the company out of the fees or other remu-
+neration of the directors who were in default.
+(5) For the purposes of this section, the directors have not pro-
+ceeded duly to convene a meeting if they do not, within seven days after
+the receipt of the requisition at the registered office, cause notices of the
+meeting, to transact the business specified in the requisition, to be given
+in accordance with paragraphs 1 to 3 of the Eighth Schedule.
+Appointment and removal of directors of private companies
+300.(1) The appointment and removal of directors of a private com-
+pany may, subject to sections 171 to 176, be regulated by the registered
+constitution of the company.
+(2) In the absence of a contrary provision in a registered consti-
+tution of the company, each of the existing directors shall continue to
+hold office until the director vacates office under section 175, or is
+removed under section 176.
+(3) A company may at any time by ordinary resolution fill a
+vacancy in the number of directors and may at any time by ordinary
+resolution increase the number of directors, but the total number of
+directors shall not exceed the maximum prescribed by the registered
+constitution of that company if it has one.
+Unanimous agreement by shareholders
+301.(1) Where all shareholders of a private company agree to or con-
+cur in any action which has been taken or is to be taken by the company
+(a)the taking of that action is deemed to be validly authorised
+242
+
+===== PAGE 243 =====
+
+Companies Act, 2019
+# [p243 fs=12.8] Act992
+by the company despite any provision in the registered
+constitution of the company; and
+(b)the provisions in any of the constitutions referred to in the
+Second, Third and Fourth Schedules shall not apply in
+relation to that action.
+(2) Without limiting the matters which may be agreed to or
+concurred in under subsection (1), that subsection shall apply where all
+the shareholders of a private company agree to or concur in
+(a)the issue of shares by the company;
+(b)the making of a distribution by the company;
+(c)the repurchase or redemption of shares in the company;
+(d)the giving of financial assistance by a company for the pur-
+pose of, or in connection with, the purchase of shares in
+the company;
+(e)the payment of remuneration to a director, or the granting
+of a loan to a director or a member or the conferral of any
+other benefit on a director or member;
+(f)the making of a contract between an interested director or
+a member and the company;
+(g)the entry into a major transaction; or
+(h)the ratification after the event of any action which could
+have been authorised under this section.
+Conversion of private company to public company
+302.(1) A private company shall be converted into a public company
+(a)if the company alters its capacity to operate as a private
+company, and
+(b)where the company alters its registered constitution in a
+manner that is appropriate to a public company and not
+required in order to constitute a private company.
+(2) Within twenty-eight days after the date of the special resolu-
+tion toalter its capacity to operate as a private company or alter the
+registered constitution, the company shall deliver to the Registrar for
+registration a copy of the resolution in accordance with section 165.
+(3) The Registrar shall publish notice of the conversion of the
+company in theCompanies Bulletin.
+243
+
+===== PAGE 244 =====
+
+# [p244 fs=12.8] Act992Companies Act, 2019
+(4) Where there is a default in complying with subsection (1) or
+(2), the company and an officer of the company that is in default is liable
+to pay to the Registrar, an administrative penalty of five hundred
+penalty units.
+# [p244 fs=10.9] CHAPTER FOUR
+ADDITIONAL PROVISIONS APPLICABLE TO PUBLIC
+COMPANIES ONLY
+# [p244 fs=10.9] Part A: Prospectuses and Statements in lieu of Prospectus
+Statement in lieu of prospectus
+303.(1) A public company shall, within twenty-eight days after incor-
+poration, or after its conversion from a private company in accordance
+with section302, deliver to the Registrar for registration a statement in
+lieu of prospectus, signed by every person who is named in the statement
+as a director or a proposed director of the company or by the agent of
+that person authorised in writing, in the form and containing the
+particulars set out in Part One of the Ninth Schedule and, in the cases
+mentioned in Part Two of that Schedule, accompanied by the financial
+statements and reports specified in the Schedule.
+(2) A copy of the statement in lieu of prospectus shall be deliv-
+ered to the Commission.
+(3) A statement in lieu of prospectus delivered under subsection
+(1) shall, where the persons making the report specified in Part Two of
+the Ninth Schedule have made any adjustments as are mentioned in para-
+graph 27 of that Schedule, have endorsed on the statement or attached to
+the statement a written statement signed by those persons setting out the
+adjustments and giving the reason for the adjustments.
+(4) Where a company contravenes subsection (1), or (3), the com-
+pany and an officer of the company who is in default is liable to pay to
+the Registrar, an administrative penalty of five hundred penalty units.
+(5) Where a statement in lieu of prospectus delivered to the
+Registrar under subsection (1) includes an untrue statement or omits truth-
+244
+
+===== PAGE 245 =====
+
+Companies Act, 2019
+# [p245 fs=12.8] Act992
+fully to state any of the particulars required to be stated by virtue of the
+Ninth Schedule then,
+(a)a person, which expression for the purposes of this subsec-
+tion does not include the company itself, who authorised
+the delivery of the statement in lieu of prospectus for regis-
+tration commits an offence and is liable on summary
+conviction to a fine of not less than two hundred and fifty
+penalty units and not more than five hundred penalty units
+or to a term of imprisonment of not less than one year and
+not more than two years or to both the fine and the
+imprisonment, unless that person proves that the untrue or
+omitted statement was immaterial or that that person had
+reasonable grounds to believe and did, up to the time of
+delivery for registration of the statement in lieu of prospectus,
+believe that the untrue statement was true;
+(b)an allottee who acquired shares or debentures in the com-
+pany in reliance on the statement in lieu of prospectus, and
+who was misled by the untrue statement or omission, is
+entitled to rescind the allotment of those shares or deben-
+tures and to recover from a person guilty of an offence
+under paragraph(a)whether convicted or not, compensa-
+tion for a loss which the allottee has suffered by reason of
+that reliance; or
+(c)a person who acquires shares or debentures in the company
+from an allottee in reliance on the statement in lieu of pro-
+spectus, and who was misled by the untrue statement or
+omission, is entitled to recover from a person guilty of an
+offence under paragraph(a), whether convicted or not, com-
+pensation for a loss which that person has suffered by
+reason of that reliance.
+Prospectus on invitations to the public to acquire or dispose of securities
+304.(1) Despite section 294, an invitation to the public to acquire or
+dispose of any shares or debentures of a public company may be made
+if,
+(a)within six months before the making of the invitation there
+has been delivered to the Commission for examination and
+approval by the Commission in accordance with section
+308, a prospectus relating to the shares or debentures com-
+245
+
+===== PAGE 246 =====
+
+# [p246 fs=12.8] Act992Companies Act, 2019
+plying in all respects with relevant provisions of sections
+305 to 307 and that prospectus has been registered with the
+Registrar;
+(b)except as provided in subsection (2) of this section, a person
+to whom the invitation is made is supplied with a true copy
+of the prospectus at the time when the invitation is first
+made to that person; and
+(c)a copy of the prospectus states on its face that it has been
+approved by the Commission and the date of the approval
+indicated.
+(2) Electronic media with the prior consent in writing of the
+Commission or a newspaper may publish an advertisement or otherwise
+a summary of the contents of a prospectus, duly approved in accordance
+with section 308, so long as the summary
+(a)does not contain a form of application for any shares or
+debentures which has not been approved by the Commis-
+sion or, in respect of shares or debentures dealt in or to be
+dealt in on an approved stock exchange by that stock
+exchange; and
+(b)states with reasonable prominence where copies of the full
+prospectus may be obtained and the fact that it has been
+approved and the date of approval.
+General and restricted invitations to the public
+305.(1) Except as provided in section 306, where the invitation invites
+the public to acquire shares or debentures of a public company, the
+prospectus referred to in section 304 shall state the matters specified in
+# [p246 fs=10.9] Part One of the Tenth Schedule and set out the reports specified in Part
+Two of that Schedule.
+(2) Subsection (1) shall not apply to,
+(a)an invitation by a company in respect of shares or deben-
+tures of that company or any of the associated companies
+made solely to the existing shareholders or debenture holders
+of that company; or
+(b)an invitation by a company in respect of shares or deben-
+tures of that company which are in all respects uniform
+with shares or debentures of that company previously
+issued and for the time being dealt in on an approved stock
+exchange.
+246
+
+===== PAGE 247 =====
+
+Companies Act, 2019
+# [p247 fs=12.8] Act992
+(3) A prospectus relating to an invitation to the public to acquire
+or dispose of shares or debentures of a public company, which is an
+invitation not falling within subsection (1) because it does not invite the
+public to acquire shares or debentures, or because it is excluded from the
+ambit of that subsection by virtue of subsection (2) need not state the
+matters or set out the reports specified in the Tenth Schedule.
+(4) The prospectus referred to in subsection (3) shall not contain
+an untrue statement and, if the shares or debentures to which the pro-
+spectus relate are dealt in on a stock exchange, whether in the Republic or
+elsewhere, or if an application has been, or is being made to a stock
+exchange for permission to deal in those shares or debentures the
+prospectus, shall
+(a)state that the shares or debentures are dealt in on that stock
+exchange or that application has been or is to be made for
+permission to deal in those shares or debentures on that
+stock exchange;
+(b)state whether or not that stock exchange is an approved
+stock exchange within the meaning of this Act; and
+(c)contain the particulars and information required by that
+stock exchange; and in any other case shall state that the
+shares or debentures are not dealt in on a stock exchange.
+(5) An invitation falling within
+(a)subsection (1) is in this Act described as a general invita-
+tion; and
+(b)subsection (3) is in this Act described as a restricted invita-
+tion.
+Certificates of exemption
+306.(1) Where it is proposed to make a general invitation to the public
+to acquire shares or debentures of a public company, the Commission
+may, on the request of the applicant, grant exemption in respect of com-
+pliance with any of the requirements of the Tenth Schedule, having
+regard to the proposals as stated in the request as to the size and other
+circumstances of the invitation, compliance with the requirements of
+the Tenth Schedule would be burdensome.
+(2) A certificate of exemption specified in this section shall state
+that having regard to the proposals as stated in the request as to the size
+247
+
+===== PAGE 248 =====
+
+# [p248 fs=12.8] Act992Companies Act, 2019
+and other circumstances of the invitation, compliance with the require-
+ments of the Tenth Schedule would be unduly burdensome.
+(3) Where a certificate of exemption is granted and the proposals
+are adhered to, a prospectus containing the particulars and information
+required by the Commission if duly published in the manner required by
+the Commission, shall be deemed to be a prospectus complying with the
+Tenth Schedule.
+Consent of expert
+307.(1) Where a prospectus relating to an invitation to the public in
+respect of shares or debentures of a public company, whether a general
+invitation or a restricted invitation, includes a statement purporting to
+be made by an expert, the prospectus shall not be delivered for approval
+unless,
+(a)the expert has given a written consent, and has not, before
+delivery of the prospectus for examination and approval
+in accordance with section 308, withdrawn the consent, to
+the publication of the prospectus with the inclusion of the
+statement in the form and context in which it is included;
+and
+(b)a statement that the expert has given and not withdrawn
+the consent appears in the prospectus.
+(2) Where, after delivery of the prospectus to the Commission
+for examination and approval, the expert withdraws the consent, the
+person who delivered the prospectus for approval shall immediately notify
+the Commission.
+(3) In this section the expression “expert” includes lawyer, engi-
+neer, valuer, accountant, assayer and any other person whose profession
+or calling gives authority to a statement by that person.
+Registration of prospectus
+308.(1) A prospectus delivered to the Commission pursuant to
+# [p248 fs=10.9] section 304 shall be delivered in triplicate.
+(2) Where a general invitation is being made by or on behalf of a
+company in respect of the shares or debentures of the company, one copy
+of the prospectus delivered to the Commission shall be signed by every
+person who is named in the invitation as a director or proposed director
+of the company or by the agent of that person authorised in writing as
+well as being signed, in the manner referred to in subsections (3) and (4),
+by or on behalf of any other person also making the invitation.
+248
+
+===== PAGE 249 =====
+
+Companies Act, 2019
+# [p249 fs=12.8] Act992
+(3) In every case one copy of the prospectus so delivered shall be
+signed by the person making the invitation or by the agent of that person
+authorised in writing.
+(4) Where the person making the invitation is a firm or body
+corporate, it is sufficient if the prospectus is signed by or on behalf of the
+firm or body corporate by not less than half the partners or by not less
+than two directors of the body corporate, and any of those partners or
+directors may sign by the agent of that partner or director authorised in
+writing.
+(5) One copy of the prospectus so delivered shall have endorsed
+on it or attached to it,
+(a)a consent of an expert required by section307; and
+(b)in the case of a prospectus relating to a general invitation, a
+certified copy or translation of each of the documents
+required to be available for inspection in accordance with
+paragraph 45 of the Tenth Schedule, or, where a certificate
+of exemption has been granted pursuant to section 306
+required to be available for inspection under the regulations
+of the approved stock exchange but if a copy or translation
+of the document has already been delivered by the com-
+pany to the Registrar for registration, the Registrar may
+dispense with the need to endorse or attach a further copy
+of the document, where in the opinion of the Registrar, the
+copy originally delivered is readily identifiable and
+accessible.
+(6) Where the prospectus relates to shares or debentures dealt in
+on an approved stock exchange or states that application has been or will
+be made to an approved stock exchange for permission to deal in the
+shares or debentures to which the prospectus relates, there shall be deliv-
+ered to the Commission with the prospectus a certificate by or on behalf
+of that approved stock exchange that
+(a)the prospectus has been scrutinised by the stock exchange;
+and
+(b)its requirements relating to the contents of the document
+have been satisfied;
+and the Registrar shall register the prospectus within forty-eight hours of
+the approval by the Commission of the prospectus.
+(7) In a case which does not fall within subsection (5) or (6), the
+249
+
+===== PAGE 250 =====
+
+# [p250 fs=12.8] Act992Companies Act, 2019
+Registrar may, for the purposes of reaching an opinion on whether a
+prospectus
+(a)does not comply with this Act,
+(b)contains an untrue statement,
+(c)omits to state a material fact,
+(d)is otherwise incomplete or misleading,
+refer the prospectus to the Commission for the opinion of the Commission,
+and the Commission shall give its opinion within twenty-one days after
+the reference, in relation to the prospectus.
+(8)A copy of a prospectus which has been delivered for
+registration in accordance with this section shall state at its head the
+following:
+“A copy of this prospectus has been delivered to the
+Securities and Exchange Commission in accordance
+with subsection (8) of section 308 of the Companies
+Act, 2019 (Act 992). For the financial soundness of
+the company or the value of the securities on offer
+investors are advised to consult a dealer, investment
+adviser or any other professional for the appropriate
+advice.”.
+(9) For the purposes of this Act, and until the contrary is shown,
+the first publication of the prospectus is the date of registration.
+Waiting period
+309.(1) For the purposes of this Act, “waiting period” means a
+period of twenty-one days after the first publication of a registered
+prospectus or a longer period that is stated in the prospectus as the
+period before the expiration of which applications, offers or acceptances
+in response to the prospectus will not be accepted or treated as binding.
+(2) For the purposes of subsection (1),
+(a)where the shares or debentures to which the invitation
+relates are dealt in on a stock exchange or where the
+prospectus states that application has been or will be made
+for permission to deal in the shares or debentures on a stock
+exchange, and
+(b)to comply with the requirements of that stock exchange it
+is necessary to advertise the prospectus in one or more daily
+newspapers of national circulation,
+250
+
+===== PAGE 251 =====
+
+Companies Act, 2019
+# [p251 fs=12.8] Act992
+then unless the prospectus is advertised there has not been a publication
+of the prospectus.
+(3) A binding contract or legally enforceable obligation shall not
+be entered into in response to an invitation to the public in respect of the
+shares or debentures of a public company until after the expiration of the
+offer period, and an application, offer or acceptance by a person in
+response to the invitation is revocable by that person at any time before
+the expiration of the offer period.
+(4) Subsection (3) does not invalidate a genuine underwriting
+agreement in respect of those shares or debentures.
+Withdrawal of applications after the offer period
+310.Where a general invitation is made to the public in respect of the
+shares or debentures of a public company, an application for the shares
+or debentures is not revocable during a period of seven days immediately
+after the expiration of the offer period unless, before the expiration of
+the period of seven days, a person responsible for the prospectus has, in
+accordance with section 313, given public notice having the effect under
+that section of excluding or limiting the responsibility of the person
+giving it.
+Invitations in respect of securities to be dealt in on a stock exchange
+311.(1) Where a prospectus, issued in connection with a general or
+restricted invitation to the public to acquire shares or debentures in a
+public company states that application has been or will be made for
+permission for the shares or debentures to be dealt in on a stock exchange,
+an agreement to acquire those shares or debentures made in pursuance
+of that prospectus shall become void if the application is refused by that
+stock exchange or if permission to deal in the shares or debentures is not
+granted within twenty-eight days after the expiration of the offer period.
+(2) Where an agreement becomes void in accordance with sub-
+# [p251 fs=10.9] section (1), the person or persons making the invitation shall forthwith
+repay and restore without interest the money and other property received
+from a person in response to the invitation.
+(3) Where the money or other property is not repaid or restored
+in accordance with subsection (2) within eight days after it becomes
+251
+
+===== PAGE 252 =====
+
+# [p252 fs=12.8] Act992Companies Act, 2019
+repayable or returnable, the person or persons making the invitation and,
+in the case of a body corporate, the directors of that body corporate is or
+are jointly and severally liable to repay that money or restore that property
+with interest at the yearly interest rate of a ninety-one day government
+treasury bill on the amount or value from the expiration of the eighth
+day.
+(4) A director is not liable under subsection (3) if the director
+proves that the default in the repayment of the money was not due to the
+misconduct or negligence of the director.
+(5) So long as the person making the invitation may become
+liable to repay the money in accordance with subsection (2), the moneys
+received in response to the invitation shall be kept in a separate bank
+account and shall be held on trust to give effect to this section; and where
+there is a default in complying with this subsection, the persons making
+the invitation and, in the case of a body corporate, every officer of the
+body corporate who is in default is liable to pay to the Registrar, an
+administrative penalty of seven hundred and fifty penalty units.
+Minimum subscription
+312.(1) Where a public company makes a general invitation to the
+public to subscribe for any of the shares or debentures of the company,
+the amount of money payable on application for the shares or deben-
+tures shall not be less than twenty per cent of the subscription price.
+(2) Unless, within twenty-eight days of the expiration of the
+offer period, the amount stated in the prospectus as the minimum amount
+of money which, in the opinion of the directors, must be raised in order
+to provide for the matters specified in subparagraph(b)of paragraph 22
+of the Tenth Schedule, in this section called the minimum subscription,
+has been subscribed and the amount payable on application for the mini-
+mum subscription has been paid to and received by the company, an
+agreement to subscribe for those shares or debentures shall become void
+at the expiration of the twenty-eight days.
+(3) Where an agreement becomes void in accordance with
+# [p252 fs=10.9] subsection (2), the company shall repay without interest the moneys
+received from any persons in response to the invitation.
+252
+
+===== PAGE 253 =====
+
+Companies Act, 2019
+# [p253 fs=12.8] Act992
+(4) If the money is not repaid in accordance with subsection (3)
+within eight days after it becomes repayable, the directors of the company
+are jointly and severally liable to repay that money with interest at the
+yearly interest rate of a ninety-one day government treasury bill on the
+amount or value from the expiration of the eighth day.
+(5) A director is not liable under subsection (4) if the director
+proves that the default in the repayment of the money was not due to the
+misconduct or negligence of the director.
+(6) So long as the company may become liable to repay the money
+in accordance with subsection (3), the moneys received in response to
+the invitation shall be kept in a separate bank account and shall be held
+on trust to give effect to this section and where there is a default in complying
+with this subsection the company and every officer of the company who
+is in default is liable to pay to the Registrar, an administrative penalty of
+seven hundred and fifty penalty units.
+Civil remedy for mis-statements or omissions in a prospectus
+313.(1) Where a prospectus published in connection with a general or
+restricted invitation to the public in respect of shares or debentures of a
+public company contains an untrue statement or omits to state any of
+the particulars or to set out any of the reports which, under this Act, it is
+required to state or set out, subject to this section, a person specified in
+# [p253 fs=10.9] subsection (2) is liable to pay compensation to the persons who acquire
+or dispose of the shares or debentures on the faith of the prospectus for
+the loss they may have sustained by reason of the untrue statement or
+omission.
+(2) Subject to this section, the following persons are liable to pay
+compensation in accordance with subsection (1):
+(a)a person making the invitation to which the prospectus
+relates;
+(b)a person who was a director of a body corporate making
+the invitation at the time when the prospectus was
+published;
+(c)where the invitation was made by the company to whose
+shares or debentures the invitation relates,
+(i)a person who has personally authorised to be named
+and is named in the prospectus as a director or as
+having agreed to become a director, immediately
+or after an interval of time; or
+253
+
+===== PAGE 254 =====
+
+# [p254 fs=12.8] Act992Companies Act, 2019
+(ii)a promoter of the company who was a party to the
+preparation of the prospectus; and
+(d)a person who, pursuant to section 307 has consented to the
+publication of the prospectus containing a statement by that
+person as an expert.
+(3) A person is not liable under subsections (1) and (2) if that
+person proves
+(a)that as regards an untrue statement, not purporting to be
+made on the authority of an expert, other than that person,
+or of a public official document or statement, that person
+had reasonable grounds to believe and did believe up to the
+time of the publication of the prospectus or, where a waiting
+period applies, up to the expiration of the waitingperiod,
+that the statement was true;
+(b)that as regards an omission, that person was not cognisant
+of the omission up to the time of the publication of the
+prospectus or, where a waiting period is applicable, up to
+the expiration of the waiting period;
+(c)that as regards an untrue statement purporting to be a state-
+ment by an expert, other than that person, or contained in
+what purports to be a copy of or extract from a report or
+valuation of an expert, it fairly represented the statement,
+or was a correct and fair copy of or extract from the report
+or valuation, and that that person had reasonable grounds
+to believe and did believe up to the time of the publication
+of the prospectus that the person making the statement was
+competent to make it and had given the consent required
+by section 307 and had not withdrawn that consent before
+the date of registration of the prospectus;
+(d)that as regards an untrue statement purporting to be a state-
+ment made by an official person or contained in what
+purports to be a copy of or extract from a public official
+document, it was a correct and fair representation of the
+statement or copy of or extract from the document;
+(e)that after the publication of the prospectus but before the
+expiration of a waiting period that person, on becoming
+aware of an untrue statement in the prospectus or omission
+254
+
+===== PAGE 255 =====
+
+Companies Act, 2019
+# [p255 fs=12.8] Act992
+from the prospectus withdrew the consent given to the
+prospectus and gave reasonable public notice of the
+withdrawal and of the reason for the withdrawal; or
+(f)that the prospectus was published without the knowledge
+of, and that, on becoming aware of the publication, that
+person forthwith gave reasonable public notice that it was
+published without the knowledge of that person.
+(4) A person specified in subparagraph(i)of paragraph(c)of
+# [p255 fs=10.9] subsection (2) is not liable under subsections (1) and (2) if that person
+proves that having consented to being named as a director or as having
+agreed to become a director the consent was withdrawn before the regis-
+tration of the prospectus and that it was published without the authority
+or consent of that person.
+(5) A person specified in paragraph(d)of subsection (2) is not
+liable under subsections (1) and (2) of this section,
+(a)if the untrue statement or omission was not made by that
+person;
+(b)if that person proves
+(i)that as regards an untrue statement made by that
+person, that person was competent to make the state-
+ment and had reasonable grounds to believe and did
+believe, up to the date of publication of the pro-
+spectus or, where a waiting period applies, up to
+the expiration of the waiting period, that the state-
+ment was true;
+(ii)that having given the consent under section 307 that
+person withdrew the consent in writing before
+delivery of the prospectus for registration; or
+(iii) that, after delivery of the prospectus for registration
+but before publication of the prospectus, or, where
+a waiting period applies, before the expiration of
+the waiting period, that person, on becoming aware
+of the untrue statement or omission, withdrew the
+consent in writing and gave reasonable public
+notice of the withdrawal, and of the reason for the
+withdrawal.
+(6) Where,
+(a)a person is named in a prospectus as a director of a company
+or as having agreed to become a director of a company,
+255
+
+===== PAGE 256 =====
+
+# [p256 fs=12.8] Act992Companies Act, 2019
+and that person has not consented to become a director or
+has withdrawn that consent before the publication of the
+prospectus and has not authorised or consented to the pub-
+lication, or
+(b)the consent of a person is required under section 307 to the
+publication of the prospectus and that person has not given
+that consent or has withdrawn the consent before the publi-
+cation of the prospectus,
+a person making the invitation to which the prospectus relates and a person
+who was a director of a body corporate making the invitation at the time
+when the prospectus was published, except a person without whose knowl-
+edge or consent the prospectus was published, is liable to indemnify the
+person referred to in paragraph(a)or(b)of this subsection against the
+damages, costs and expenses to which that person may be made liable by
+reason of the name having been inserted in the prospectus or of the inclusion
+in the prospectus of a statement purporting to be made by that person as
+an expert, or in contesting legal proceedings brought against that person
+in respect of the prospectus.
+Recission for mis-statements in a prospectus
+314.(1) Where a person acquires shares or debentures of a public com-
+pany from that company or disposes of shares or debentures of a public
+company to that company as a result of an untrue statement of a material
+fact made, whether innocently or fraudulently, in a prospectus published
+in connection with an invitation to the public made by or on behalf of
+that company, that person is, subject to subsection (2), entitled to rescind
+the acquisition or disposition of the shares or debentures.
+(2) A person is not entitled to rescission unless that person claims
+to rescind with reasonable promptitude after discovering that the untrue
+statement was made and, in any case, before the commencement of the
+winding up of the company.
+Voting rights of shares offered to the public
+315.(1) An invitation shall not be made to the public to acquire shares
+in a public company unless the voting rights attached to the shares of the
+company are stated as required by sections 52 and 53.
+(2) Where a person makes an invitation to the public in breach of
+# [p256 fs=10.9] subsection (1), that person is liable to pay to the Registrar, an administra-
+tive penalty of one thousand penalty units and if the invitation is made
+by or on behalf of the company, the company and each officer of the
+company who is in default, is liable to a like penalty.
+256
+
+===== PAGE 257 =====
+
+Companies Act, 2019
+# [p257 fs=12.8] Act992
+Public invitations to deposit money with public companies
+316.(1) Despite section 294, an invitation to the public to deposit money
+with a public company may be made if,
+(a)the public company is licensed, under the Banks and
+Specialised Deposit-Taking Institutions Act, 2016 (Act 930)
+and Non-Bank Financial Institutions Act, 2008 (Act 774),
+to carry on banking business; or
+(b)before the making of the invitation the written consent of
+the Commission has been obtained to the making of the
+invitation and the invitation is made in accordance with
+the conditions and restrictions that the Registrar has im-
+posed.
+(2) The Commission may grant or withhold the consent and with-
+out limiting the generality of this subsection, may require the registra-
+tion with and approval by the Registrar of an advertisement or a
+circular to be used in connection with the invitation.
+(3) Where an advertisement or a circular used in connection with
+the invitation contains an untrue statement then, subject to subsection
+(4), a person who made the invitation and a person who was a director of
+a body corporate making the invitation at the time when the adver-
+tisement or circular was published, is liable to pay compensation to the
+persons who deposited money with the public company on the faith of
+the advertisement or circular for the loss they may have sustained by
+reason of the untrue statement.
+(4) A person is not liable under subsection (3) if that person
+proves,
+(a)that that person had reasonable grounds to believe and did
+believe up to the time of publication of the advertisement
+or circular that the statement was true; or
+(b)that the advertisement or circular was published without
+the knowledge of, and that on becoming aware of its publi-
+cation, that person forthwith gave reasonable public notice
+that the advertisement or circular was published without
+the knowledge of that person.
+(5) Where a person deposits money with a public company as a
+result of an untrue statement of a material fact made, whether innocently
+or fraudulently in an advertisement or a circular published in connection
+with an invitation to the public made by or on behalf of that company,
+257
+
+===== PAGE 258 =====
+
+# [p258 fs=12.8] Act992Companies Act, 2019
+that person is entitled to require the company immediately to repay the
+money with interest at the yearly rate of five per cent, or a higher rate as
+may have been agreed to be paid on the deposit.
+Prohibition of waiver and notice clauses
+317.A condition purporting to require or bind a person to waive com-
+pliance with a section of this Part, or purporting to affect that person
+with notice of a contract, document or matter, not specifically referred
+to in a prospectus or statement in lieu of prospectus, advertisement or
+circular, is void.
+Criminal liability for mis-statements
+318.(1) Where a prospectus, an advertisement or a circular published
+in relation to an invitation to the public to acquire or dispose of shares or
+debentures of a company or to deposit money with a company,
+(a)contains an untrue statement, or
+(b)omits truthfully to state any of the matters which, under a
+# [p258 fs=10.9] section of this Part, it is required to state,
+a person who authorised the publication of the prospectus, advertise-
+ment or circular commits an offence and is liable on summary convic-
+tion to a fine of not less than five hundred penalty units and not more
+than one thousand penalty units or to a term of imprisonment of not less
+than one year and not more than two years or to both the fine and
+imprisonment, or in the case of a body corporate to a fine of not less
+than five hundred penalty units and not more than one thousand penalty
+units, unless that person proves that, the untrue or omitted statement
+was immaterial or that, that person had reasonable grounds to believe
+and did believe, up to the time of publication of the prospectus that, the
+statement was true.
+(2) For the purposes of subsection (1), a person has not authorised
+the publication of a prospectus by reason only of that person having
+given the consent required by section 307 and the Registrar has not
+authorised the publication of an advertisement or circular by reason of
+the Registrar having given the consent referred to in section 316.
+Commission to waive or modify the application of Part A of Chapter
+Four
+319.(1) Despite any other provision of this Act, the Commission may
+waive or modify the requirements of a provision of Part A of Chapter
+Four in relation to an invitation to the public to acquire or dispose of
+shares or debentures of a company or to deposit money with the com-
+258
+
+===== PAGE 259 =====
+
+Companies Act, 2019
+# [p259 fs=12.8] Act992
+pany for a fixed period or payable at call whether bearing or not bearing
+interest.
+(2) An invitation and a prospectus relating to that invitation shall
+be deemed to comply with this Act to the extent that the Commission has
+waived or modified any of the requirements.
+# [p259 fs=10.9] Part B: Dividends and Transfers
+Limitation on liability of members in public companies to restore
+illegal dividends
+320.Where a public company pays a dividend in contravention of
+# [p259 fs=10.9] subsection (1) of section 72, a member of the company is not liable to
+restore to the company the amount received by the member in respect of
+the dividend if the member proves that, at the time when the member
+received the money, the member did not know that the payment contra-
+vened the subsection.
+Interim dividends
+321.(1) The directors of a public company with shares may, unless the
+registered constitution of the company otherwise provides, pay to the
+member of the company interim dividends on account of dividends to
+be declared by the company in accordance with section 76.
+(2) For the purposes of subsection (1),
+(a)a dividend shall not be paid in contravention of subsection
+(1) of section 72; and
+(b)if a payment is made in contravention of subsection (1) of
+# [p259 fs=10.9] section 72, the person specified in subsection (2) of section
+72 is liable to restore the money to the company with inter-
+est in accordance with the subsection as qualified by this
+# [p259 fs=10.9] section.
+Restrictions on the transferability of securities of public companies
+322.(1) Despite subsection (2) of section 98, the constitution of a public
+company shall not impose a restriction on the right to transfer shares of
+the company and if the constitution purports to impose that restriction,
+it shall be void.
+(2) Subsection (1) shall not,
+(a)prohibit a restriction on the right to transfer shares on which
+there is an unpaid liability; or
+259
+
+===== PAGE 260 =====
+
+# [p260 fs=12.8] Act992Companies Act, 2019
+(b)preclude a company from refusing to register a transfer of
+shares to a person who is an infant or to a person found by
+a court of competent jurisdiction to be of unsound mind.
+(3) Despite subsection (2) of section 100, a public company shall
+not issue a debenture of the company which imposes a restriction on the
+right to transfer the debenture and if the debenture purports to contain
+that restriction, it shall be ineffective.
+# [p260 fs=10.9] Part C: Documents Accompanying Annual Returns
+Documents to be annexed to annual returns of a public company
+323.The annual return of a public company required by section 126
+shall be accompanied by a copy, certified by a director and the Company
+Secretary to be a true copy, of each statement of financial position,
+statement of comprehensive income, statement of changes in equity and
+statement of cash flows, report of directors and report of auditors sent to
+members and debenture holders of the company in accordance with
+# [p260 fs=10.9] section 128 during the period to which the return relates.
+# [p260 fs=10.9] Part D: Extraordinary General Meetings
+Extraordinary general meetings of public companies
+324.(1) The directors of a public company, despite anything in the
+constitution of that company, shall on the requisition of members of the
+company holding not less than one-twentieth of the shares of the
+company, or, in the case of a company limited by guarantee, members of
+the company representing not less than one-twentieth of the total voting
+rights of the members of the company, forthwith proceed duly to
+convene an extraordinary general meeting of the company.
+(2) The requisition shall
+(a)state the nature of the business to be transacted at the meeting,
+and
+(b)be signed by the requisitionists and sent to or deposited at
+the registered office of the company.
+(3) The requisition may consist of several documents in the like
+form each signed by one or more requisitionists.
+(4) If the directors do not, within twenty-eight days from the
+260
+
+===== PAGE 261 =====
+
+Companies Act, 2019
+# [p261 fs=12.8] Act992
+date of receipt of the requisition at the registered office of the company,
+proceed duly to convene a meeting for a date not later than twenty-eight
+days after the receipt, the requisitionists, or any of them, may themselves
+convene a meeting but a meeting so convened shall not be held after the
+expiration of four months from that date.
+(5) The reasonable expenses incurred by the requisitionists by
+reason of the failure of the directors duly to convene a meeting shall be
+repaid to the requisitionists by the company, and the sum of money so
+repaid shall be retained by the company out of the fees or other remu-
+neration of any of the directors who were in default.
+(6) For the purposes of this section, the directors have not
+proceeded duly to convene a meeting if they do not, within twenty-eight
+days of the receipt of the requisition at the registered office, give notices
+of the meeting to transact the business specified in the requisition in
+accordance with paragraphs 1 to 3 of the Eighth Schedule.
+# [p261 fs=10.9] Part E: Directors
+Rotation of directors of a public company
+325.Subject to sections 172 to 176 and sections 326 and 327and except
+as otherwise provided in a registered constitution of a company, the
+following rules shall apply to the retirement and appointment of directors
+of a public company:
+(a)at the first annual general meeting of the company every
+director shall retire from office, and at the annual general
+meeting in every subsequent year one-third of the directors
+for the time being or, if the number of directors is not three
+or a multiple of three, then the number nearest one-third,
+shall retire from office;
+(b)the directors to retire in every year shall be those who have
+served longest in office since their last election, but, as be-
+tween persons who became directors on the same day those
+to retire shall, unless the directors otherwise agree among
+themselves, be determined by lot;
+(c)a director appointed to the office of managing director shall
+not, while holding that office, be subject to retirement by
+rotation or be taken into account in determining the rota-
+tion of retirement of directors;
+(d)a retiring director is eligible for re-election;
+261
+
+===== PAGE 262 =====
+
+# [p262 fs=12.8] Act992Companies Act, 2019
+(e)the company, at the annual general meeting at which a di-
+rector retires as provided in this section, may fill the va-
+cated office by electing a person to that office, and in de-
+fault the retiring director shall, if offering to stand for re-
+election, be deemed to have been re-elected unless at the
+meeting it is expressly resolved not to fill the vacated office
+or unless a resolution for the re-election of the director has
+been put to the meeting and lost;
+(f)a person is not eligible for election to the office of director
+unless not less than three days and not more than twenty-
+eight days before the date appointed for the general meeting,
+a notice in writing
+(i)of the intention to propose that person for election,
+signed by a member entitled to attend and vote at
+the meeting; and
+(ii)of the consent to be elected as a director, signed by
+the person proposed, is lodged at the registered
+office of the company; and
+(g)on an increase or a decrease in the number of directors, the
+company may, by ordinary resolution determine in what
+rotation the increased or decreased number is to retire from
+office.
+Voting for directors of a public company
+326.(1) At a general meeting of a public company, other than a com-
+pany limited by guarantee, a resolution for the appointment of two or
+more persons as directors of the company by a single resolution shall not
+be moved unless a resolution that it shall be so moved has first been
+carried unanimously.
+(2) A resolution moved in contravention of subsection (1) is void,
+whether or not the resolution being so moved was objected to at that
+time.
+(3) For the purposes of this section, a resolution approving
+appointments or nominating persons for appointment shall be treated as
+a resolution for appointment.
+(4) This section shall not apply where a registered constitution
+of a company provides for cumulative voting in accordance with section
+327.
+262
+
+===== PAGE 263 =====
+
+Companies Act, 2019
+# [p263 fs=12.8] Act992
+Cumulative voting for directors of a public company
+327.(1) The registered constitution of a public company may provide
+that directors shall be elected by cumulative voting.
+(2) Where the registered constitution of a company provides for
+cumulative voting,
+(a)although there is a provision to the contrary in the consti-
+tution of the company, the minimum number of directors
+of the company shall not be less than three and the whole
+of the directors, including a managing director, shall retire
+from office at each annual general meeting;
+(b)the votes of each member shall, for the purposes of electing
+directors to fill the resulting vacancies, be multiplied by the
+number of vacancies;
+(c)a member may cast the resulting votes of that member in
+favour of one candidate for election or may distribute the
+resulting votes among as many candidates as that member
+thinks fit;
+(d)the candidates receiving the highest number of votes up to
+the number of directors to be elected, shall be declared
+elected;
+(e)despite section 176, unless the whole board of directors is
+removed by an ordinary resolution duly passed in accor-
+dance with that section, a director may not be removed
+under that section if the votes cast against the removal
+would, when multiplied by the total number of directors,
+have been sufficient to secure the return of that director at
+an election of the whole board conducted in accordance
+with the rules contained in paragraphs(a), (b), (c)and(d)of
+this subsection.
+Prohibition of loans by public companies to directors
+328.(1) A public company shall not grant a loan to a person who is a
+director or a director of an associated company, or enter into a guaran-
+tee or provide a security in connection with a loan made to that person
+by any other person.
+(2) Subsection (1) does not apply,
+(a)to the making of a loan to an associated company or the
+entering into a guarantee or the providing of a security in
+connection with a loan made to an associated company by
+any other person; or
+263
+
+===== PAGE 264 =====
+
+# [p264 fs=12.8] Act992Companies Act, 2019
+(b)subject to subsection (3), in the case of a company whose
+ordinary business includes the lending of money or the giv-
+ing of guarantees in connection with loans made by other
+persons, to anything done by the company in the ordinary
+course of that business.
+(3) Paragraph(b)of subsection (2) does not authorise the mak-
+ing of loans or the entering into a guarantee or the providing of a secu-
+rity, unless the total amount lent, guaranteed and secured in respect of
+loans to those persons does not exceed one per cent of the net assets of
+the company.
+(4) Where a company defaults in complying with this section,
+the company and any officer of the company that is in default is liable to
+pay to the Registrar, an administrative penalty of five hundred penalty
+units, and the directors authorising the making of the loan or the enter-
+ing into the guarantee or the providing of the security are jointly and
+severally liable to indemnify the company against the loss arising from
+the default.
+(5) For the purpose of subsection (3), “net assets” means the
+assets less the liabilities of the company as shown in the last audited
+statement of financial position of the company.
+# [p264 fs=10.9] CHAPTER FIVE
+PROVISIONS APPLICABLE TO EXTERNAL COMPANIES
+Meaning of “external company”
+329.(1) Sections 330 to 342 apply to external companies as defined in
+this section.
+(2) An external company is a body corporate formed outside the
+Republic which, has an established place of business in the country.
+(3) The expression “established place of business” means a
+branch, management, share, transfer, or registration office, factory, mine,
+or any other fixed place of business, but does not include an agency
+unless the agent has, and habitually exercises, a general authority to
+264
+
+===== PAGE 265 =====
+
+Companies Act, 2019
+# [p265 fs=12.8] Act992
+negotiate and conclude contracts on behalf of the body corporate or main-
+tains a stock of merchandise belonging to that body corporate from which
+the agent regularly fills orders on behalf of the body corporate.
+(4) For the purposes of subsection (3),
+(a)a body corporate does not have an established place of
+business in the Republic merely because the body corporate
+carries on business dealings in the Republic through a
+genuine broker or general commission agent acting in the
+ordinary course of business as a broker or general commission
+agent; or
+(b)the fact that a body corporate has a subsidiary which is
+incorporated, resident, or carrying on business in the
+Republic, whether through an established place of business
+or otherwise, does not of itself constitute the place of busi-
+ness of that subsidiary, an established place of business of
+that body corporate.
+Documents to be delivered to Registrar by external company
+330.(1) An external company which establishes a place of business in
+the country shall, within one month of the establishment of the place of
+business, deliver to the Registrar for registration
+(a)a copy of the certificate of incorporation and where appli-
+cable a copy of the constitution, charter, statutes, regula-
+tions, memorandum and articles, or any other instrument
+constituting or defining the constitution of the company,
+in a language acceptable to the Registrar;
+(b)a statement duly notarised in the jurisdiction of origin of
+the company giving the following particulars regarding the
+company:
+(i)the name;
+(ii)the nature of business or businesses or other main
+objects of the company, if any;
+(iii) the present forename and surname and a former
+forename or surname, and the address and business
+occupation of one person or more persons, in this
+# [p265 fs=10.9] Act referred to as a local manager, authorised to
+manage the business of the company in the Republic;
+265
+
+===== PAGE 266 =====
+
+# [p266 fs=12.8] Act992Companies Act, 2019
+(iv) if the company has shares, the number and nominal
+value of the authorised and issued shares, the
+amount paid up on the shares and the amount
+remaining payable on the shares distinguishing be-
+tween the amounts paid and payable in cash and
+the amounts paid and payable otherwise than in
+cash;
+(v)the address of the registered or principal office or
+website in the country of incorporation;
+(vi) the address of the principal place of business in
+Ghana including an electronic mail address, digital
+address, the post office box number and the tele-
+phone contact; and
+(vii) the name and address in Ghana of a person, in this
+# [p266 fs=10.9] Act referred to as a process agent, authorised by the
+company to accept service of process and other
+documents on behalf of the company; and
+(c)a statement duly notarised in the jurisdiction of origin of
+the company giving the following particulars regarding the
+beneficial owners of the company:
+(i)the full name and any former or alternate name;
+(ii)the date and place of birth;
+(iii) the telephone number;
+(iv) the nationality and national identity number or pass-
+port number or any other appropriate identification;
+(v)the residential and postal address;
+(vi) the nature of the interest including the details of
+any legal, financial, security, debenture or informal
+arrangement giving rise to the beneficial ownership;
+and
+(vii) a confirmation as to whether the beneficial owner is
+a politically exposed person; and
+(d)the particulars, and copies, of the charges on the property
+of the company that are required to be delivered for regis-
+tration in accordance with section337, or, if there are no
+charges, a statement in the prescribed form to that effect.
+266
+
+===== PAGE 267 =====
+
+Companies Act, 2019
+# [p267 fs=12.8] Act992
+(2) The Registrar shall register the documents in the register of
+external companies and publish the particulars contained in the statement
+referred to in paragraph(b)of subsection (1) in theCompanies Bulletin.
+(3) For the purposes of paragraphs(b)and(c)of subsection (1)
+(a)in the case of a person usually known by a title different
+from the surname, the expression “surname” includes that
+title; and
+(b)reference to a former name does not include,
+(i)in the case of a person usually known by a title, the
+name by which that person was known before the
+succession to that title;
+(ii)a name changed or disused before the person bear-
+ing the name attained the age of eighteen years, or
+changed or disused for a period of not less than
+twenty years; or
+(iii) in the case of a married woman, the name by which
+she was known before the marriage.
+Notice of alteration of registered particulars
+331.(1) Where an alteration is made in the certificate of incorpora-
+tion and where applicable a copy of the constitution, charter, statutes,
+regulations, memorandum and articles, or any other instrument referred
+to in paragraph(a)of subsection (1) of section 330, the company shall
+deliver to the Registrar for registration, notice in the prescribed form
+giving details of the alteration within two months of the effective date of
+the alteration.
+(2) Where an alteration is made in any of the particulars con-
+tained in the statement referred to in paragraph(b)or(c)of subsection (1)
+of section330, the company shall deliver to the Registrar for registration
+notice in the prescribed form giving details of the alteration within the
+times prescribed by subsection (3) or (4).
+(3) In the case of an alteration in any of the particulars referred
+to in subparagraph (i), (ii), (iv) or (v) of paragraph(b)or(c)of subsection
+(1) of section 330, the notice required by subsection (2) shall be delivered
+to the Registrar within two months after the effective date of the alter-
+ation.
+(4) In the case of an alteration in any of the particulars referred
+267
+
+===== PAGE 268 =====
+
+# [p268 fs=12.8] Act992Companies Act, 2019
+to in subparagraph (iii), (vi) or (vii) of paragraph(b)of subsection (1) of
+# [p268 fs=10.9] section 330, the notice required by subsection (2) shall be delivered to the
+Registrar within twenty-eight days of the date of the alteration, and the
+Registrar shall publish the particulars in the notice in theCompanies Bulletin.
+Local manager
+332.(1) An external company may appoint a person as the local manager
+of the external company in a statement or notice delivered to the Regis-
+trar under this Act.
+(2) A person is eligible to be appointed a local manager of an
+external company if that person is eligible to be appointed a director of a
+company formed in the Republic under this Act.
+(3) The acts of a person registered as the local manager of an
+external company while carrying on the business in the Republic of that
+company shall bind the company unless the local manager does not have
+authority so to act, and the person with whom the local manager was
+dealing had actual knowledge of the absence of authority, or, having
+regard to the position of the local manager with or relationship to the
+company, ought to have known of the absence of authority.
+(4) The scope of authority of the local manager shall be filed
+with the Registrar.
+Service on external company
+333.(1) A process or any other document shall be sufficiently served
+on an external company if
+(a)delivered or sent through an electronic address provided by
+the company to the Registrar or delivered or sent by post to
+the person last registered as the process agent of the com-
+pany at the last registered address of that agent, even if the
+process agent refuses to accept service or the company has
+ceased to maintain a place of business in the Republic; or
+(b)sent by facsimile machine to a telephone number used for
+the transmission of documents by facsimile at the regis-
+tered office of the company, or address for service or the
+head office or principal place of business of the company.
+(2) Subsection (1) does not apply to service of a document,
+(a)if the company was struck off the register of external com-
+panies under section 340 more than six years previously;
+268
+
+===== PAGE 269 =====
+
+Companies Act, 2019
+# [p269 fs=12.8] Act992
+(b)if one person was last registered as process agent and that
+person is dead or, in the case of a body corporate, dissolved;
+or
+(c)if two or more persons were last registered as process agents
+and each of those persons is dead, or in the case of a body
+corporate, dissolved.
+(3) Where,
+(a)a registration of the name and address of a person as the
+process agent of an external company has not been effected,
+or
+(b)subsection (1) does not apply by reason of paragraph(b)or
+(c)of subsection (2),
+a process or any other document shall be sufficiently served on the com-
+pany if delivered or sent by post to a place of business of the company in
+the Republic or, if the company has ceased to have a place of business in
+the Republic, to the registered office or principal place of business of the
+company in the country of incorporation.
+(4) A document to be served by post on an external company
+shall be posted within a period that will admit ofthe document being
+delivered in due course of delivery within the time prescribed for the
+service of the document.
+(5) In proving service, it shall be sufficient to prove that a letter
+containing the document was properly addressed, prepaid, and posted,
+whether or not by registered post.
+(6) Where it is proved that a document was in fact received by
+(a)a local manager or a process agent,
+(b)the board of directors of the external company, or
+(c)the managing director or Company Secretary of the external
+company,
+the document shall be deemed to have been served on that company
+although service may not have been effected in accordance with subsec-
+tions (4) and (5).
+(7) This section shall not derogate from the power of a Court to
+direct how service shall be effected of a document relating to legal pro-
+ceedings before that Court.
+269
+
+===== PAGE 270 =====
+
+# [p270 fs=12.8] Act992Companies Act, 2019
+Financial statements of external company
+334.(1) An external company shall, once in every year at intervals of
+not more than fifteen months, make out and deliver to the Registrar for
+registration, a statement of financial position, statement of comprehensive
+income, statement of changes in equity and statement of cash flows, in
+the form and containing the particulars of financial statements which,
+under paragraph(a)of subsection (1) of section 128, the directors would
+have been required to send to the members and debenture holders of the
+company if it were a company formed in Ghana under this Act.
+(2) The Registrar may accept for registration statement of financial
+position, statement of comprehensive income, statement of changes in
+equity and statement of cash flows prepared in the form required under
+the law of the place of the incorporation of the company if, in the opinion
+of the Registrar, the financial statements give substantially the same, or
+greater, information as that required to be given in the financial state-
+ments referred to in section 128.
+(3) The financial statements mentioned in subsection (1) shall be
+in the English language.
+(4) Although the statement of financial position and the state-
+ment of comprehensive income prepared in the form required under the
+law of the place of the incorporation of the company do not give
+substantially as much information as that required in the statement of
+financial position referred to in section 130, the Registrar may, neverthe-
+less agree to accept the financial statements for registration in compliance
+with subsection (1) but in that event, subject to subsection (7), the
+company shall also deliver to the Registrar for registration, in the English
+language
+(a)a statement of comprehensive income, made out as nearly
+as may be in the form and containing the particulars
+required by section 129 and giving a true and fair view of
+the profit or loss, during the period to which the statement
+relates, on the operations of the company in the Republic
+as if the operations had been conducted by a separate com-
+pany formed in the Republic under this Act;
+(b)a statement as at the end of the financial year of the com-
+pany showing the assets of the company locally situated in
+270
+
+===== PAGE 271 =====
+
+Companies Act, 2019
+# [p271 fs=12.8] Act992
+the Republic classified, distinguished and valued in accor-
+dance with section 130 and Part Two of the Sixth Schedule,
+and the nature and amount of the specific charges on the
+assets; and
+(c)a report on the account and statement referred to in para-
+graphs(a)and(b)of this subsection by an auditor qualified
+in accordance with section 138 stating that in the opinion
+of the auditor and to the best of the information available
+the accounts and statements are in accordance with the
+books and records of the company and give the informa-
+tion required by this Act in the manner required and give a
+true and fair view of the matters stated.
+(5) Subsection (4) does not apply to a company which,
+(a)has at any time made in the Republic an invitation to the
+public to acquire any of shares or debentures of the com-
+pany or to deposit money with the company; or
+(b)has issued shares or debentures which are for the time
+being dealt in on a stock exchange in the Republic.
+(6) In the statement of comprehensive income referred to in para-
+graph(a)of subsection (4), the company is entitled to make the appor-
+tionments and to add the notes and explanations that, in the opinion of
+the company, are necessary or desirable in order to give a true and fair
+view of the profit or loss on the operations of the company in the Republic
+and for this purpose may debit a reasonable rate of interest on capital
+employed in the Republic.
+(7) Although the Registrar agrees to accept a statement of finan-
+cial position, statement of comprehensive income, statement of changes
+in equity and statement of cash flows under subsection (4), the Registrar
+may waive compliance with paragraphs(a), (b)and(c)of that subsection
+or any of those paragraphs if satisfied that compliance with any of them
+is impracticable having regard to the nature of the operations of the com-
+pany in the Republic.
+(8) In relation to the accounts and statements referred to in this
+# [p271 fs=10.9] section, the Registrar shall have the same powers to modify the require-
+ments of Parts One, Two and Three of the Sixth Schedule as the Registrar
+has in relation to companies formed in the Republic under this Act.
+271
+
+===== PAGE 272 =====
+
+# [p272 fs=12.8] Act992Companies Act, 2019
+(9) The Minister may, in the public interest and by legislative
+instrument, modify in relation to an external company any of the
+requirements in this section for purpose of adapting them to the circum-
+stances of the external company but a modification shall not derogate
+from the obligations imposed by this section to give a true and fair view
+of the profit or loss of the company.
+Obligation to state name of external company
+335.(1) An external company shall,
+(a)conspicuously exhibit on every place where it carries on
+business in Ghana the company name, the country in which
+the company is incorporated, and, if the liability of the
+members is limited, the fact that it is so limited; and
+(b)state the name of the company and of the country in which
+the company is incorporated and if the liability of the mem-
+bers is limited that fact that it is so limited, in legible letters
+at the head of the business letters of the company despatched
+in Ghana.
+(2) Where the name of the company is in a foreign language, the
+requirements of this section relating to the name of the company are
+fulfilled if the company exhibits and states a translation of the name in a
+language acceptable to the Registrar.
+(3) The fact that the word “limited”, or its equivalent in a
+foreign language, forms part of the name of the company is not suffi-
+cient compliance with the obligations imposed by this section relating to
+the exhibition and stating of the fact that the liability of the members is
+limited.
+Publication of names of local managers
+336.(1) An external company shall, in its trade circulars and business
+letters on or in which the name of the company appears and which are
+despatched in the Republic by or on behalf of the company, state in
+legible letters with respect to each local manager,
+(a)the present forename or initial and the present surname of
+the local manager, and
+(b)any former forename or surname of the local manager.
+(2) If special circumstances exist which render it in the opinion
+of the Registrar expedient that an exemption should be granted, the
+272
+
+===== PAGE 273 =====
+
+Companies Act, 2019
+# [p273 fs=12.8] Act992
+Registrar may, in consultation with the Board, grant, subject to the
+conditions specified in theCompanies Bulletin, exemption from the
+obligations imposed by this section in respect of a company.
+(3) Subsection (3) of section 330 applies to this section.
+Registration of particulars of charges
+337.(1) Part L of Chapter Two extends to charges on property in the
+Republic which are, or have been, created, and to charges on property in
+the Republic which is acquired, by an external company.
+(2) For the purposes of subsection (1), particulars of charges
+created before the date when the external company had an established
+place of business in the Republic, shall be deemed to be duly regis-
+tered if particulars of those charges are duly delivered to the Regis-
+trar for registration in accordance with section 330 and the failure to
+register any of the charges shall not affect the validity of the charge.
+Winding up of external company
+338.(1) Where, in the case of an external company,
+(a)a winding up order is made by a court of the country in
+which the company is incorporated, or
+(b)a resolution is passed or other appropriate proceedings
+are taken in that country to lead to the voluntary winding
+up of the company, or
+(c)the company is dissolved or otherwise ceases to exist
+according to the law of the country in which it was
+incorporated,
+the local manager or process agent of the company shall, within twenty-
+four hours after that event, give notice in the prescribed form of that
+event to the Registrar who shall register same and publish the particulars
+contained in the notice in theCompanies Bulletin, and in any other
+medium.
+(2) Where an event referred to in paragraph(a)or(b)of
+# [p273 fs=10.9] subsection (1) has occurred, the local manager of the company shall,
+on every invoice, order or business letter issued in the Republic by or
+on behalf of the company, which is a document on or in which the
+name of the company appears, indicate in legible letters to the effect
+that the company is being wound up in the country where it is incor-
+porated.
+273
+
+===== PAGE 274 =====
+
+# [p274 fs=12.8] Act992Companies Act, 2019
+(3) Where a person has served the Registrar with a notice in
+accordance with section (1), that person shall cease to carry on busi-
+ness or purport to carry on business on behalf of a company specified
+in subsection (1).
+(4) A person who in the Republic carries on, or purports to
+carry on, business on behalf of the company after the date on which it
+was dissolved or has otherwise ceased to exist in the country in which
+it was incorporated, is liable to pay to the Registrar, an administra-
+tive penalty of twenty-five penalty units for each day during which
+that person continues so to do.
+(5) This section does not derogate from the provisions of the
+Bodies Corporate (Official Liquidations) Act, 1963 (Act 180) enabling
+an external company, whether or not the external company has been
+dissolved or has otherwise ceased to exist according to the law of the
+country in which it was incorporated, to be wound up under that Act.
+(6) A liquidator of an external company or a person exercising
+the powers and functions of such a liquidator shall
+(a)before any distribution of the assets of the external com-
+pany is made, by advertisement in a newspaper circulating
+generally in each country where the external company had
+been carrying on business before the liquidation and where
+no liquidator has been appointed for that place, invite all
+creditors to make their claims against the external company
+within a reasonable time before the distribution;
+(b)not, subject to the provisions of the Bodies Corporate (Of-
+ficial Liquidations) Act, 1963 (Act 180), without leave of
+the Court, pay out any creditor to the exclusion of any other
+creditor; and
+(c)unless the Court otherwise directs, only recover and realise
+the assets of the external company in Ghana and shall sub-
+ject to paragraph(b)and to the provisions of the Bodies
+Corporate (Official Liquidations Act) 1963, (Act 180) pay
+the net amount so recovered and realised to the liquidator
+of that external company for the place where the external
+company was formed or incorporated after paying any debts
+and satisfying any liabilities incurred in Ghana by the
+external company.
+(7) Where an external company has been wound up so far as the
+274
+
+===== PAGE 275 =====
+
+Companies Act, 2019
+# [p275 fs=12.8] Act992
+assets of the external company in Ghana are concerned and there is no
+liquidator for the place of the incorporation or origin of the company,
+the liquidator may apply to the Court for directions as to the disposal of
+the net amount recovered under paragraph(c)of subsection (6).
+(8) Where a report has been made by an inspector under this Act
+regarding an external company, the Registrar may apply to the Court for
+an order for the winding-up of the affairs of the company in so far as
+they relate to the assets of the company in Ghana.
+(9) Where on an application, an order is made for the affairs of
+the company to be wound up, so far as assets in Ghana are concerned,
+the company shall not carry on business or establish or keep a place of
+business in Ghana unless the Court directs otherwise.
+Winding up of external company in specified business
+339.In the case of an external company that is
+(a)a deposit-taking business under the Banks and Specialised
+Deposit-Taking Institutions Act, 2016 (Act 930);
+(b)a collective investment scheme; or
+(c)a life insurance company under the Insurance Act, 2006
+(Act 724)
+the Court, shall, after providing for all interested parties to have the
+opportunity of being heard, determine whether the assets of the
+company in Ghana should be segregated in order to first effect payment
+rateably of the debts of the company in Ghana and the amounts payable
+to depositors, investors in the mutual fund company and life insurance
+beneficiaries, in priority to any payment being made in relation to debts
+and liabilities to other parties outside Ghana.
+Cessation of business of external company
+340.(1) Where an external company ceases to have an established place
+of business in the Republic, it shall within twenty-eight days after so ceasing,
+give notice of the cessation to the Registrar in the prescribed form in
+duplicate and the Registrar shall register the cessation and publish a copy
+of the notice in theCompanies Bulletin.
+(2) The Registrar shall then strike the name of the company off
+the register of external companies.
+(3) After notice is given to the Registrar in accordance with sub-
+# [p275 fs=10.9] section (1) and so long as the company does not have an established place
+of business in the Republic except as provided in subsection (6), a person
+275
+
+===== PAGE 276 =====
+
+# [p276 fs=12.8] Act992Companies Act, 2019
+shall not be under an obligation to deliver a document relating to the
+company to the Registrar pursuant to sections 329 to 338.
+(4) Where the Registrar has reasonable cause to believe that an
+external company has ceased to have a place of business in the Republic,
+the Registrar may send by registered post to the registered local manager
+and process agent and, if more than one, to all of those persons, a letter
+enquiring whether the company is maintaining an established place of
+business in the Republic.
+(5) Where the Registrar receives an answer to the effect that the
+company has ceased to have an established place of business in the
+Republic or does not, within three months, receive a reply, the Registrar
+may strike the name of the company off the register of external companies.
+(6) At any time within six years after the date on which the com-
+pany was struck off, the register of external companies under subsections
+(1) and (2) or (4) and (5), a person has the right to inspect the documents
+relating to that company.
+(7) During the six years after the date on which the company was
+struck off the register of external companies, the company shall, despite
+# [p276 fs=10.9] subsection (3) continue to be under the obligation imposed by section
+331to give notice of an alteration in the names of the process agent of
+the company.
+Penalties and disabilities
+341.(1) Where an external company or a local manager or process
+agent of an external company fails to comply with any of the obligations
+imposed on that external company or that local manager or process agent
+by sections 330 to 337, the external company and a local manager or
+process agent that is in default is liable to pay to the Registrar, an admin-
+istrative penalty of two hundred and fifty penalty units or, in the case of
+a continuing default, five penalty units for each day during which the
+default continues.
+(2) Where there is a default in delivering to the Registrar a docu-
+ment for registration pursuant to sections 330 to 340, the rights of the
+external company concerned under or arising out of a contract made in
+the Republic during the time that the default continues shall not be
+enforceable by action or any other legal proceedings.
+276
+
+===== PAGE 277 =====
+
+Companies Act, 2019
+# [p277 fs=12.8] Act992
+(3) For the purposes of subsection (2),
+(a)the external company may apply to the Court for relief
+against the disability imposed by that subsection and the
+Court, on being satisfied that it is just and equitable to grant
+relief, may grant a relief generally or as respects a particu-
+lar contract and on the conditions that the Court may
+impose;
+(b)that subsection does not affect the rights of any other
+parties against the external company in respect of the
+contract;
+(c)if an action or a proceeding is commenced by any other
+party against the external company to enforce the rights of
+that party in respect of that contract, subsection (2) shall
+not preclude the external company from enforcing in that
+action or proceeding by way of counterclaim, set off or
+otherwise, the rights that external company has against that
+party in respect of that contract.
+Control of public invitations relating to external companies
+342.(1) Where a person makes in the country an invitation to the
+public to acquire or dispose of shares or debentures of an external com-
+pany or to deposit money with an external company for a fixedperiod
+or payable at call, whether bearing or not bearing interest, subject to any
+other provisions of this Act, Part X of Chapter Two and Part A of Chapter
+Four shall apply as if the external company were a public company within
+the meaning of this Act.
+(2) An invitation and a prospectus relating to that invitation shall
+be deemed to comply with this Act to the extent that the Commission
+has waived or modified any of the requirements.
+(3) Where the invitation to the public is a general invitation within
+the meaning of section 305, the prospectus, in addition to complying
+with the Tenth Schedule subject to the modifications made in accordance
+with subsection (2) and subject to section 306, shall also contain particu-
+lars with respect to
+(a)the instrument constituting or defining the constitution of
+the company;
+277
+
+===== PAGE 278 =====
+
+# [p278 fs=12.8] Act992Companies Act, 2019
+(b)the enactments, or provisions having the force of an enact-
+ment, by or under which the incorporation of the com-
+pany was effected;
+(c)an address in the Republic where copies of the documents
+referred to in paragraphs(a)and(b)or, if those documents
+are in a foreign language, certified translations of those
+documents can be inspected; and
+(d)the date on which and the country in which the company
+was incorporated.
+(4) A prospectus registered and an advertisement or a circular
+published in connection with that invitation shall state the country in
+which the external company is incorporated and the address of the prin-
+cipal place of business in the Republic.
+(5) Unless this section is complied with, the making of the invi-
+tation is a breach of section 294.
+Control of public invitations relating to other non-Ghanaian companies
+343.(1) For the purposes of this section and of section 295 the expression
+“non-Ghanaian company” means an association incorporated or to be
+incorporated outside the Republic which is not an external company as
+defined in section 329.
+(2) Where a person makes in Ghana an invitation to the public
+which is,
+(a)a general invitation, as defined by section 305 to acquire
+shares or debentures of a non-Ghanaian company, or
+(b)an invitation to deposit money with a non-Ghanaian com-
+pany for a fixed period or payable at call whether bearing
+or not bearing interest,
+subject to any other provision of this Act, Part X of Chapter Two and
+# [p278 fs=10.9] Part A of Chapter Four shall apply as if the non-Ghanaian company
+were a public company within the meaning of this Act, and subsections
+(2) and (3) of section 342 apply as if that company were an external com-
+pany.
+(3) A prospectus, an advertisement or a circular registered or
+published in connection with that invitation shall state the country in
+which the non-Ghanaian company is incorporated and, if the liability
+of the members is limited shall so state.
+278
+
+===== PAGE 279 =====
+
+Companies Act, 2019
+# [p279 fs=12.8] Act992
+(4) Unless this section is complied with, the making of the
+invitation is a breach of section 294.
+(5) Sections 313, 314, 317 and 318 shall apply in relation to an
+invitation to the public to acquire or dispose of any shares or debentures
+of a non-Ghanaian company, whether or not an invitation of the types
+referred to in subsection (2) and sections 316, 317 and 318 shall apply in
+relation to an invitation to the public to deposit money with a non-
+Ghanaian company, as if the company were a public company within
+the meaning of this Act.
+# [p279 fs=10.9] CHAPTER SIX—SUPPLEMENTARY
+# [p279 fs=10.9] Part A: Miscellaneous Offences
+Inducing persons to invest
+344.(1) A person who by a statement, promise or forecast which is
+untrue, misleading, false or deceptive induces or attempts to induce an-
+other person to enter into or offers to enter into,
+(a)an agreement for or with a view to acquiring, disposing of,
+or underwriting, securities, or lending or depositing money
+to or with a body corporate, or
+(b)an agreement the purpose or purported purpose of which
+is to secure a profit to any of the parties from the yield of
+securities or by reference to fluctuations in the value of
+securities,
+commits an offence and is liable on summary conviction to a term of
+imprisonment of not less than three years and not more than seven years
+unless the accused person proves that the accused person had reasonable
+grounds to believe and did believe that the statement was true or that the
+promise or forecast was not misleading, false or deceptive.
+(2) A person who, by a dishonest concealment of material facts
+induces or attempts to induce another person to enter into any of the
+transactions referred to in subsection (1) commits an offence and on sum-
+mary conviction is subject to the punishment prescribed by subsection
+(1).
+279
+
+===== PAGE 280 =====
+
+# [p280 fs=12.8] Act992Companies Act, 2019
+Penalty for false statements
+345.(1) A person who in any return, report, certificate, account, or
+other document required under a provision of this Act to be sent to the
+Registrar wilfully makes a false statement, knowing it to be false, com-
+mits an offence and is liable on summary conviction to a fine of not less
+than two hundred and fifty penalty units and not more than five hundred
+penalty units or to a term of imprisonment of not less than one year and
+not more than two years or to both the fine and the imprisonment.
+(2) Subsection (1) does not affect the liability of a body corporate
+or any other person under any other section of this Act or any other
+enactment but the penalties imposed by this section shall be alternative,
+and not additional, to the penalties imposed by the other section or enactment.
+Penalty for improper use of “incorporated” or “limited”
+346.Where any person trades or carries on business in the Republic
+under a name or title of which
+(a)the words “incorporated”, “corporation” or any contrac-
+tion or imitation of those words or an equivalent in any
+other language forms part, or
+(b)the word “limited” or a contraction or an imitation of those
+words or an equivalent in any other language is the last
+word,
+that person is, unless duly incorporated under this Act or any other
+enactment and, where “limited” or a contraction or an imitation of that
+word is the last word, unless duly incorporated with limited liability,
+liable to pay to the Registrar, an administrative penalty of twenty-five
+penalty units for each day during which that name or title has been or is
+used.
+Publication of misleading statements regarding shares or capital
+347.(1) A body corporate shall not state the number of the authorised
+or issued shares or the amount of the stated capital in any notice, adver-
+tisement, business letter or other publication of the body corporate
+unless the statement includes with equal prominence accurate particulars
+of the number of shares issued, and of the stated and paid up capital of
+the body corporate.
+(2) In the event of a breach of subsection (1), the body corporate
+and an officer of the body corporate that is in default is liable to pay to
+the Registrar, an administrative penalty of seven hundred and fifty pen-
+alty units.
+280
+
+===== PAGE 281 =====
+
+Companies Act, 2019
+# [p281 fs=12.8] Act992
+# [p281 fs=10.9] Part B: Legal Proceedings
+Costs in actions by limited companies
+348.Where a body corporate with limited liability is the plaintiff in
+legal proceedings the Court may, if it appears by credible evidence that
+there is reason to believe that the body corporate will be unable to pay the
+costs if the defendant is successful, require sufficient security to be given
+for the costs, and may stay the proceedings until the security is given.
+Contribution between joint wrongdoers
+349.(1) Where more than one officer of a body corporate or any other
+persons are liable to pay damages, costs, compensation, debt, or mon-
+etary penalty under, or in respect of a breach of a section of this Act, the
+persons shall have a right of contribution amongst themselves.
+(2) In an action to enforce liability or in an action to recover
+contribution, the Court may award contribution on the terms that it
+considers equitable in all the circumstances and may exempt a person
+from liability to make contribution, or direct that the contribution to be
+recovered from any persons shall amount to a complete indemnity.
+Power to grant relief
+350.(1) Where in proceedings against a member, an officer or an
+auditor of a company for a default or a breach of duty under this Act, or
+against a trustee for debenture holders in respect of a breach of duty or
+trust, it appears to the Court hearing the case that the member, officer,
+auditor or trustee is or may be liable but that the member, officer, auditor
+or trustee has acted honestly and reasonably and that, having regard to
+the circumstances of the case, that person ought fairly to be excused, the
+Court may relieve that person in whole or in part from that liability on
+the terms that the Court considers fit.
+(2) Where the member, officer, auditor or trustee has reason to
+believe that a claim may be made against that person in respect of a breach
+of duty or trust, that person may apply to the Court for relief.
+(3) The Court on the application, shall have the same power to
+relieve that person as under this section as it would have had if it had
+been a court before which proceedings against that person for breach of
+duty or trust had been brought.
+(4) Written notice of an application to the Court under subsec-
+tion (2) shall be given to the Registrar at least twenty-one days before the
+date of the hearing of the application and the Registrar may appear at
+281
+
+===== PAGE 282 =====
+
+# [p282 fs=12.8] Act992Companies Act, 2019
+the hearing of the application and call evidence and make the representa-
+tions that the Registrar deems fit.
+# [p282 fs=10.9] Part C: Establishment of the Office of the Registrar of Companies
+Establishment of the Office of the Registrar of Companies
+351.(1) There is established by this Act, the Office of the Registrar of
+Companies as a body corporate with perpetual succession.
+(2) The Office of the Registrar of Companies may, for the
+performance of the functions under this Act, acquire and hold property
+and enter into a contract or any other transaction.
+(3) Where there is a hindrance to the acquisition of immovable
+property, the property may be acquired for the Office of the Registrar of
+Companies under the State Lands Act, 1962 (Act 125) and the cost shall
+be borne by the Office of the Registrar of Companies.
+(4) The Registrar shall have a seal which shall bear the words
+“Registrar of Companies, Ghana”.
+Status of the Office of the Registrar of Companies
+352.The Office of the Registrar of companies has financial autonomy
+subject to the provisions of this Act.
+Object and functions of the Office of the Registrar of Companies
+353.(1) The object of the Office of the Registrar of Companies is to
+register and regulate all types of businesses in conformity with this Act
+and any other relevant enactments.
+(2) To achieve the object, the Office of the Registrar of Compa-
+nies shall
+(a)register
+(i)business names in accordance with the Registration
+of Business Names Act, 1962 (Act 151),
+(ii)companies,
+(iii) partnerships in accordance with the Incorporated
+Private Partnerships Act, 1962 (Act 152), and
+(iv) professional bodies pursuant to the Professional
+Bodies Registration Act, 1973 (N.R.C.D. 147), other
+than professional bodies established by an Act of
+Parliament;
+(b)appoint inspectors, a receiver or manager to ensure the ef-
+fective compliance with the Act;
+282
+
+===== PAGE 283 =====
+
+Companies Act, 2019
+# [p283 fs=12.8] Act992
+(c)discharge duties and perform functions of the Office as the
+Official Liquidator under the Bodies Corporate (Official
+Liquidations) Act, 1963 (Act 180); and
+(d)manage the finances and fixed assets of the Office of the
+Registrar.
+(3) The Registrar shall appoint a receiver or manager in accor-
+dance with subsection (2) of section 261.
+(4) Without limiting subsection (1), the Office of the Registrar
+has the duty to undertake public education programmes to educate the
+general public engaged in business activities on the operation of companies,
+partnerships and business names.
+Governing body of the Office of the Registrar of Companies
+354.(1) The governing body of the Office of the Registrar of Compa-
+nies is a Board consisting of
+(a)a chairperson nominated by the President,
+(b)one representative of the Office of the Attorney-General
+not below the rank of a Principal State Attorney,
+(c)one representative of the Ministry of Trade and Industry
+not below the rank of a Director nominated by the Minis-
+ter,
+(d)one representative of the Securities and Exchange Com-
+mission nominated by the governing body of the Commis-
+sion,
+(e)one representative of the Private Enterprise Federation
+nominated by the Federation,
+(f)one lawyer with at least ten years’ experience in corporate
+law practice, nominated by Ghana Bar Association,
+(g)two other persons with expertise in corporate law practice,
+at least one of whom is a woman, nominated by the Presi-
+dent,
+(h)one representative from the Institute of Chartered Accoun-
+tants, Ghana nominated by the Council of the Institute,
+(i)one representative from Ghana Association of Restructur-
+ing and Insolvency Advisors nominated by the governing
+body of the Association, and
+(j)the Registrar of Companies appointed under section 362.
+(2) The members of the Board shall be appointed by the Presi-
+dent in accordance with article 70 of the Constitution.
+283
+
+===== PAGE 284 =====
+
+# [p284 fs=12.8] Act992Companies Act, 2019
+(3) The President shall in appointing the members of the Board
+take into account gender balance.
+(4) A member of the Board has the same fiduciary relationship
+with the Office of the Registrar and the same duty to act with loyalty and
+in good faith as a director of a company in accordance with section 190.
+(5) The Board shall ensure the proper and effective performance
+of the functions of the Office of the Registrar.
+Tenure of office of members
+355.(1) A member of the Board shall hold office for a period of four
+years and is eligible for re-appointment for another term only.
+(2) Subsection (1) does not apply to the Registrar of Companies.
+(3) A member of the Board may at any time resign from office in
+writing addressed to the President through the Minister.
+(4) A member of the Board, other than the Registrar of Companies,
+who is absent from three consecutive meetings of the Board without
+sufficient cause ceases to be a member of the Board.
+(5) The President, may by letter addressed to a member revoke
+the appointment of that member.
+(6) Where a member of the Board is, for a sufficient reason,
+unable to act as a member, the Minister shall determine whether the
+inability would result in the declaration of a vacancy.
+(7) Where there is a vacancy
+(a)under subsection (3) or (4) or subsection (2) of section 357,
+(b)as a result of a declaration under subsection (6), or
+(c)by reason of the death of a member,
+the Minister shall notify the President of the vacancy and the President
+shall appoint a person to fill the vacancy.
+Meetings of the Board
+356.(1) The Board shall meet at least once every three months for the
+despatch of business at the time and place determined by the chairper-
+son.
+(2) The chairperson shall at the request in writing of not less than
+one-third of the membership of the Board convene an emergency
+general meeting of the Board at the time and place determined by the chair-
+person.
+284
+
+===== PAGE 285 =====
+
+Companies Act, 2019
+# [p285 fs=12.8] Act992
+(3) The chairperson shall preside at meetings of the Board and in
+the absence of the chairperson, a member of the Board elected by the
+members present from among their number shall preside.
+(4) The quorum at a meeting of the Board is five members of the
+Board.
+(5) Matters before the Board shall be decided by a majority of the
+members present and voting and in the event of an equality of votes, the
+person presiding shall have a casting vote.
+(6) The Board may co-opt a person to attend a Board meeting
+but that person shall not vote on a matter for decision at the meeting.
+(7) Proceedings of the Board shall not be invalidated by reason
+of a vacancy among the members of the Board or by a defect in the
+appointment of the members.
+(8) Subject to this section, the Board shall determine the proce-
+dure for its meetings.
+Disclosure of interest
+357.(1) A member of the Board who has an interest in a matter for
+consideration by the Board shall
+(a)disclose the nature of the interest and the disclosure shall
+form part of the record of the consideration of the matter;
+and
+(b)not participate in the deliberations of the Board in respect
+of that matter.
+(2) A member ceases to be a member of the Board, if that member
+has an interest in a matter before the Board and
+(a)fails to disclose that interest, or
+(b)participates in the deliberations of the Board in respect of
+the matter.
+Establishment of committees
+358.(1) The Board may establish committees consisting of members
+of the Board or non-members or both to perform a function.
+(2) Section 357 applies to members of committees of the Board.
+(3) A committee of the Board composed of non-members of the
+Board shall be advisory.
+285
+
+===== PAGE 286 =====
+
+# [p286 fs=12.8] Act992Companies Act, 2019
+Fees and allowances
+359.Members of the Board and members of a committee of the Board
+shall be paid fees or allowances to be determined by the Minister in con-
+sultation with the Minister responsible for Finance.
+Regional offices
+360.(1) The Board shall establish regional offices of the Office of the
+Registrar in each regional capital within a period that the Board may
+determine.
+(2) The Board may on the recommendation of the Registrar of
+Companies appointed under section 362, shut down or direct the
+cessation of the operation of a regional office established under subsec-
+tion (1) where the exigencies so require.
+(3) A regional office of the Office of the Registrar shall perform
+the functions of the Office of the Registrar in the region that the Board
+on the advice of the Registrar may direct.
+Policy directives
+361.The Minister may give general policy directives in writing to the
+Board and the Board shall comply.
+# [p286 fs=10.9] Part D: Administrative and Financial Provisions of the Office of the Registrar
+Appointment of Registrar of Companies
+362.(1) The President shall in accordance with article 195 of the
+Constitution appoint a person other than the Registrar General as the
+Registrar of Companies to perform the functions vested by or under this
+# [p286 fs=10.9] Act or any other enactment.
+(2) The Registrar of Companies shall hold office on the terms
+and conditions specified in the letter of appointment of the Registrar.
+(3) Anything authorised or required to be done under this Act by
+the Registrar may be done by the Deputy Registrar or an Assistant Regis-
+trar and is as valid and effectual as if done by the Registrar.
+Appointment of other staff
+363.(1) The President shall in accordance with article 195 of the
+Constitution appoint
+(a)two Deputy Registrars,
+(b)Assistant Registrars, and
+(c)any other staff
+286
+
+===== PAGE 287 =====
+
+Companies Act, 2019
+# [p287 fs=12.8] Act992
+for the Office of the Registrar that are necessary for the proper and effective
+performance of the functions of the Office.
+(2) The President may delegate the power of appointment of
+public officers in accordance with clause (2) of article 195 by directions
+in writing to the Board.
+(3) Other public officers may be transferred or seconded to the
+Office of the Registrar or may otherwise give assistance to the Office.
+(4) The lawyers of the Office of the Registrar are members of the
+Legal Service and shall enjoy the salaries and benefits attached to the
+respective posts.
+(5) The Office of the Registrar may engage the services of
+experts and consultants on the recommendations of the Board.
+(6) The Office of the Registrar shall designate an officer as the
+Secretary to the Board.
+Funds of the Office of the Registrar
+364.The funds of the Office of the Registrar include
+(a)moneys approved by Parliament,
+(b)fees and charges accruing to the Office of the Registrar in
+the performance of the functions consisting of,
+(i)fees and charges in respect of services rendered by
+the Office of the Registrar, and
+(ii)proceeds from the sale of theCompanies Bulletinand
+other publications of the Office of the Registrar;
+(c)donations and grants,
+(d)interests from investment, and
+(e)income from any other source approved by the Minister in
+consultation with the Minister responsible for Finance.
+Management of the finances of the Office of the Registrar
+365.(1) The Registrar shall manage the finances of the Office of the
+Registrar, subject to the directives of the Board and in accordance with
+the Public Financial Management Act, 2016 (Act 921).
+(2) Despite the Ministries, Departments and Agencies (Retention
+of Funds) Act, 2007 (Act 735), the Public Financial Management Act,
+2016 (Act 921), the Earmarked Funds Capping and Realignment Act,
+2017 (Act 947) and any other relevant enactment, the Office of the Regis-
+trar is authorised to retain all moneys realised in the performance of the
+functions of the Office of the Registrar.
+287
+
+===== PAGE 288 =====
+
+# [p288 fs=12.8] Act992Companies Act, 2019
+(3) The preparation and submission of estimates and the reporting
+and accounting of estimates are subject to the Public Financial Manage-
+ment Act, 2016 (Act 921).
+(4) Despite any other provision in any enactment to the contrary,
+internally generated funds
+(a)can only be utilised when the activities on which the expen-
+diture will be incurred have been programmed and approved
+in the expenditure budget of the Office of the Registrar,
+and
+(b)shall not be used for the payment of salaries, staff benefits
+and other allowances except where the allowances are
+directly related to the provision of services that will lead to
+increased revenue.
+(5) The Office of the Registrar shall have an Internal Audit Unit
+in accordance with section 83 of the Public Financial Management Act,
+2016 (Act 921).
+Loans, bank accounts and investments
+366.(1) Subject to the Public Financial Management Act, 2016 (Act
+921), the Office of the Registrar may obtain loans and credit facilities
+that the Office requires for the implementation of the functions of the
+Office.
+(2) The Board shall with the approval of the Controller and
+Accountant-General open bank accounts that the Board considers necessary,
+except that a bank account opened outside the country shall be subject to
+paragraph(b)of clause (2) of article 183 of the Constitution.
+(3) The Office of the Registrar may make prudent investments
+in government securities as the Office considers necessary.
+Accounts and audit
+367.(1) The Board shall keep books of account, records, returns and
+other documents relevant to the accounts in the form approved by the
+Auditor-General.
+(2) The Board shall submit the accounts of the Office of the
+Registrar to the Auditor-General for audit at the end of the financial
+year.
+288
+
+===== PAGE 289 =====
+
+Companies Act, 2019
+# [p289 fs=12.8] Act992
+(3) The Auditor-General shall, within six months after the end
+of the immediately preceding financial year, audit the accounts, submit
+the report to Parliament and forward a copy each of the audit report to
+the Minister and the Board.
+(4) The financial year of the Office of the Registrar is the same
+as the financial year of the Government.
+Annual report and other reports
+368.(1) The Board shall within one month after the receipt of the
+audit report, submit an annual report to the Minister covering the activities
+and the operations of the Office of the Registrar for the year to which the
+report relates.
+(2) The annual report shall include the report of the Auditor-
+General, and the periodic report of the Registrar of Companies referred
+to in section 369, where the periodic report is due.
+(3) The Minister shall, within one month after the receipt of the
+annual report, submit the report to Parliament with a statement that the
+Minister considers necessary.
+(4) The Board shall also submit to the Minister any other reports
+which the Minister may require in writing.
+# [p289 fs=10.9] Part E: General Provisions
+Submission of periodic reports by Registrar
+369.(1) The Registrar shall, every two years, prepare and submit a
+report on the operation of this Act to the Minister who shall present the
+report to Parliament.
+(2) In the report, the Registrar shall
+(a)in addition to giving general statistical information relating
+to the registration and dissolution of companies, report on
+the exercise by the Registrar of the powers of the Registrar
+under this Act, and
+(b)in particular, refer to the cases in which the Registrar has,
+under the powers conferred by this Act, waived compliance
+with, or modified, any of the normal provisions of this
+Act, and give stated reasons in each case for so doing.
+289
+
+===== PAGE 290 =====
+
+# [p290 fs=12.8] Act992Companies Act, 2019
+Companies Bulletin
+370.(1) There is established by this Act an official bulletin known as
+theCompanies Bulletin.
+(2) The Registrar shall
+(a)keep and maintain theCompanies Bulletinin an accurate form
+as determined by the Board; and
+(b)ensure the accessibility of theCompanies Bulletinin the hard
+copy format and the electronic format.
+(3) TheCompanies Bulletinshall also be maintained as a secured
+electronic database.
+Fees
+371.(1) The Office of the Registrar shall, in accordance with the Fees
+and Charges (Miscellaneous Provisions) Act, 2009 (Act 793), prescribe
+fees chargeable under this Act.
+(2) The Registrar shall publish in theCompanies Bulletinthe fees
+payable.
+Documents to be translated
+372.Where, under a section of this Act, a document is required to be
+prepared or registered, that document shall, unless the section otherwise
+provides, be in the English language.
+Registration of documents
+373.(1) There is established by this Act a register to be known as the
+Central Register to capture beneficial ownership data of legal persons
+and arrangements.
+(2) The Registrar shall
+(a)keep and maintain the Central Register both in manual and
+electronic formats; and
+(b)enter in the Central Register,
+(i)particulars required to be submitted for registration
+under subsection (2) of section 13;
+(ii)particulars required to be submitted for registration
+under subsection (6) of section 35;
+(iii) particulars required to be submitted for registration
+under paragraph(c)of subsection (1) of section 330;
+and
+290
+
+===== PAGE 291 =====
+
+Companies Act, 2019
+# [p291 fs=12.8] Act992
+(iv) particulars required to be submitted for registration
+under subsection (2) of section 331;
+(v)any other information that the Registrar may
+require including, information on beneficial own-
+ership.
+(3) The Registrar shall
+(a)collaborate with other authorities for purpose of maintaining,
+verifying and updating the Central Register;
+(b)on request and in a timely manner, make information
+entered in the Central Register available to the relevant
+authorities for inspection; and
+(c)in line with open data best practices, make an electronic
+format of the Central Register available to members of the
+public for inspection.
+(4) Subject to section 378 where, under a section of this Act, a
+document or particulars are required to be registered by the Registrar,
+registration shall be effected by inserting the document or making the
+appropriate entries of the particulars in the register maintained at the
+Office of the Registrar.
+(5) For the purposes of a provision of this Act, a document has
+not or particulars have not, been delivered to the Registrar for registra-
+tion until the appropriate registration fee has been paid to the Registrar.
+(6) Where the Registrar is of opinion that the document or
+particulars delivered to the Registrar for registration,
+(a)contain any matter contrary to law,
+(b)by reason of an error, omission or a mis-description have
+not been duly completed,
+(c)do not otherwise comply with the requirements of this Act,
+or
+(d)contain an error,
+the Registrar may request that the document or particulars be appropri-
+ately amended or completed and re-submitted, and may refuse to register
+the document or particulars until appropriately amended or completed;
+and in that event the document has not or the particulars have not, been
+delivered for registration until re-submitted as appropriately amended or
+completed.
+291
+
+===== PAGE 292 =====
+
+# [p292 fs=12.8] Act992Companies Act, 2019
+(7) For the purpose of this section, “competent authority” means
+public authorities with designated responsibilities for combating money
+laundering or terrorist financing, in particular, the Financial Intelligence
+Centre and the authorities that have the functions of investigating or
+prosecuting money laundering and associated predicate offences and
+terrorist financing.
+(8) The Minister may, by legislative instrument, make Regula-
+tions to prescribe the
+(a)mode and format for the submission of particulars required
+to be entered in the Central Register;
+(b)procedure for companies to maintain up to date and accu-
+rate records of beneficial ownership;
+(c)procedure for collection, authentication, verification or
+rectification of information entered in the Central Register;
+and
+(d)penalty for a default in complying with reporting require-
+ments in respect of the Central Register.
+Prescribed forms
+374.(1) Subject to section 378 where a section of this Act provides that
+a document shall be in the prescribed form, the document shall be in the
+form prescribed by the Registrar by legislative instrument.
+(2) Where a section of this Act provides that a document shall be
+delivered to the Registrar for registration, the Registrar may refuse to
+accept the document if in the opinion of the Registrar, the document is
+insufficiently legible or is written on paper insufficiently durable to be
+suitable for registration.
+(3) Where the Registrar, refuses to accept a document for regis-
+tration, the document is not, for the purposes of this Act, duly delivered
+to the Registrar within the time prescribed by that subsection or within
+the extended time that the Registrar may allow for the delivery of a copy
+of the document, unless a copy of the document is in a form acceptable
+to the Registrar and duly delivered within the time prescribed or other
+prescribed time that the Registrar may allow for the delivery of a copy.
+Inspection, copies and evidence of registered documents
+375.(1) A person may,
+(a)inspect the register of particulars of charges and a docu-
+292
+
+===== PAGE 293 =====
+
+Companies Act, 2019
+# [p293 fs=12.8] Act992
+ment registered by the Registrar on payment of the fee pre-
+scribed for that purpose by the Registrar for each inspec-
+tion of the register and documents relating to one com-
+pany; or
+(b)require a certificate of the incorporation of a company or
+a copy of any other document, or a part of any other docu-
+ment, registered by the Registrar to be signed by the Regis-
+trar, on payment of the fees prescribed by the Registrar.
+(2) A disclosure under this section is subject to the Data Protection
+Act, 2012 (Act 843) and any other relevant enactment.
+(3) A process for compelling the production of a document kept
+by the Registrar shall not issue from a Court except with the leave of that
+Court, and a process if issued shall bear on the process a statement that it
+is issued with the leave of the Court.
+(4) A copy of, or extract from, a document registered by the
+Registrar, certified by the Registrar to be a true copy, the official
+position, proof of which shall not be necessary, is admissible in legal
+proceedings in evidence as of equal validity with the original document.
+Authentication of documents issued by Registrar
+376.(1) The documents purporting to be orders, certificates, licences,
+approvals or revocations of those documents made or issued by the
+Registrar for the purposes of this Act, and purporting to be sealed with
+the seal of the Registrar, or be signed by the Registrar, or by a properly
+authorised officer, shall be received in evidence without further proof of
+validity unless the contrary is proven.
+(2) A certificate that an order made, certificate issued, or an act
+done by the Registrar is the order, certificate, or act of the Registrar, is
+conclusive evidence of the fact so certified.
+Enforcement of duty to make returns
+377.(1) The Registrar or a member or a creditor of a body corporate
+may apply to the Court, where the body corporate or an officer or a
+liquidator of a body corporate, having defaulted in complying with a
+provision of this Act which requires the body corporate or the officer or
+the liquidator of a body corporate, to deliver a return, a financial state-
+293
+
+===== PAGE 294 =====
+
+# [p294 fs=12.8] Act992Companies Act, 2019
+ment, or any other document, or to give notice of a matter, fails to end
+the default within twenty-eight days after the service of a notice on the
+body corporate or the officer or liquidator requiring the returns, financial
+statement or other document or the officer or liquidator to do so.
+(2) The Court may
+(a)make an order directing the body corporate and an officer
+of the body corporate or the liquidator to make good the
+default within the time that is specified in the order; and
+(b)provide that the costs of, and incidental to, the applica-
+tion shall be borne by the body corporate or by the
+officer or liquidator of the body corporate responsible
+for the default.
+Electronic transactions
+378.(1) Despite a provision of this Act and any other enactment, the
+Registrar may authorise
+(a)the incorporation or the registration of a company;
+(b)the reservation of a company name;
+(c)the filing of particulars;
+(d)the conversion of a company;
+(e)the filing of annual returns and financial statements;
+(f)the keeping and maintenance of a register;
+(g)arrangements, compromises, mergers, divisions and sale
+of undertakings;
+(h)the removal of the name of a company from the register
+upon cessation, dissolution or liquidation of the company;
+(i)reports on statistical data on companies;
+(j)the inspection of a register;
+(k)the registration of debentures;
+(l)the transfer of debentures;
+(m)the alteration of debentures;
+(n)the registration of a contract or agreement with respect
+to the issue of shares;
+(o)the registration of charges;
+(p)keeping of accounting records;
+(q)a service of a notice or document;
+(r)the dissolution of a company;
+(s)searches on a company register;
+294
+
+===== PAGE 295 =====
+
+Companies Act, 2019
+# [p295 fs=12.8] Act992
+(t)an offer to be made to the public or an invitation to make
+an offer to the public;
+(u)payment of fees;
+(v)the filing of any notice or document; and
+(w)the performance of any act or thing required to be done
+in relation to paragraphs(a)to(v)
+to be effected electronically in the manner and through an electronic
+system approved by the Registrar subject to subsection (5).
+(2) With effect from the date as may be published in theCompanies
+Bulletin, the Registrar may direct that any matter, act or thing
+referred to in subsection (1), or required to be done under this Act, shall
+be submitted or done electronically.
+(3) For the purpose of facilitating the operation of a system of
+dematerialised or immobilised securities electronically, a security shall
+not have a distinctive number.
+(4) Every new company incorporated after the commencement
+of this Act, that has a website, shall endeavour to post on that website
+any information required to be filed with the Office of the Registrar.
+(5) The Registrar shall inform clients that desire to transact busi-
+ness with the Registrar electronically, of the electronic system intended
+to be used as the medium for the electronic communication and obtain
+the written consent of the client concerned to use the designated
+electronic system.
+(6) Without limiting subsections (2) and (3), a document or
+information may be sent in electronic form to a person, a company, member
+or officer of a company, by the Registrar through an electronic system
+for the performance of any act or thing under this Act if
+(a)the intended recipient has consented in writing to the
+despatch and receipt of the document or information as a
+substitute for the hard copy form, at a designated electronic
+address to and from the party responsible for sending it; or
+(b)it is required by law to receive a document or information
+in electronic form.
+(7) The Minister may by legislative instrument make Regulations
+(a)to prescribe the mode of electronic transactions
+(i)between companies and the general public;
+(ii)between companies and regulatory agencies;
+295
+
+===== PAGE 296 =====
+
+# [p296 fs=12.8] Act992Companies Act, 2019
+(iii) between companies; and
+(iv) within a company;
+(b)for application procedures for incorporation and registra-
+tion matters by electronic filing;
+(c)to provide for the use of documents reproduced electroni-
+cally or by other means by the Registrar as original docu-
+ments despite any enactment to the contrary;
+(d)for electronic record keeping of documents by companies;
+(e)for procedures for the authentication of electronic docu-
+ments by companies;
+(f)for the use of websites and electronic filing addresses for
+the purposes of this Act;
+(g)for the format for electronic filing of statutory forms and
+documents;
+(h)to prescribe the payment systems for electronic filing,
+electronic searches and electronic downloads of requested
+documents from the Registrar;
+(i)for the destruction of any documents that has been recorded
+or stored electronically or by other means;
+(j)to give effect to and ensure the efficient operation of any
+device or facility of the kind referred to in subsection (1);
+and
+(k)required for the purposes of electronic transactions under
+this Act.
+(8) Where in an enactment a person is required to provide
+evidence of a transaction in respect of a matter specified in this Act,
+proof of that matter as transacted electronically in the manner approved
+by the Registrar shall suffice.
+(a)For purposes of this section,
+“electronic transaction” means a transaction by an elec-
+tronic agent;
+“electronic agent” means a computer programme or an
+electronic or other automated means used indepen-
+dently to initate an action or respond to electronic
+records or performances in whole or in part, in an
+automated transaction; and
+296
+
+===== PAGE 297 =====
+
+Companies Act, 2019
+# [p297 fs=12.8] Act992
+“automated transaction” means an electronic transac-
+tion conducted or performed in whole or in part,
+by means of electronic records in which the con-
+duct or electronic records of one or both parties are
+not reviewed by an individual in the ordinary course
+of business or employment of the individual.
+Power of Registrar to obtain directions of the Court
+379.The Registrar may apply to the Court for directions in relation to
+a matter arising in connection with the functions of the Registrar under
+this Act, and on that application, the Court may give the appropriate
+directions or make the appropriate order.
+Extension to bodies corporate not registered under this Act
+380.The Minister may, by legislative instrument, direct that any of
+the provisions of this Act shall apply to a body corporate formed in the
+Republic otherwise than under this Act or to certain classes of those bodies
+corporate or to certain named bodies corporate formed in the Republic,
+as specified in the instrument, as if they were companies registered
+under this Act.
+Regulations
+381.(1) The Minister may on the advice of the Board, by legislative
+instrument, make Regulations regulating the exercise by the Registrar of
+any of the powers and discretions conferred on the Registrar by this Act.
+(2) Regulations made under subsection (1) shall include regula-
+tions
+(a)to provide for the payment to the Registrar of moneys for
+the publication of matters required by this Act to be pub-
+lished in theCompanies Bulletinby the Registrar,
+(b)in respect of matters required to be prescribed by the Regis-
+trar,
+(c)for classifying companies as large, medium or small to grant
+waivers and exemptions under this Act,
+(d)to prescribe the template for beneficial ownership data
+required to be submitted to the Registrar,
+(e)to amend Part One of the Ninth Schedule in respect of
+statement in lieu of prospectus and financial position and
+report to accompany the statement,
+(f)to prescribe thresholds for the effective application of
+# [p297 fs=10.9] section 373 of this Act; and
+297
+
+===== PAGE 298 =====
+
+# [p298 fs=12.8] Act992Companies Act, 2019
+(g)to prescribe administrative and other penalties for offences
+committed under this Act.
+(3) Without limiting subsection (1), the Minister may, on the
+advice of the Board, by legislative instrument, make Regulations to
+provide for any other matter necessary for the effective implementation
+of the provisions of this Act.
+Guidelines
+382.(1) The Registrar of Companies may issue directives and guide-
+lines to give full effect to the provisions of this Act.
+(2)The guidelines shall be published in the CompaniesBulletin
+and any daily newspaper of national circulation.
+# [p298 fs=10.9] Interpretation
+383.In this Act, unless the context otherwise requires, the expressions
+defined in the First Schedule have the meanings assigned to them in that
+# [p298 fs=10.9] Schedule.
+Repeals and savings
+384.(1) The Companies Act, 1963 (Act 179) as amended by
+(a)the Companies (Amendment) Act, 1994 (Act 474),
+(b)the Companies (Amendment) Act, 1997 (Act 531),
+(c)the Companies (Amendment) Act, 2012 (Act 835), and
+(d)the Companies (Amendment) Act, 2016 (Act 920)
+are hereby repealed.
+(2) Despite the repeal of the Companies Act, 1963 (Act 179), the
+Regulations, by-laws, notices, orders, directions, appointments or any
+other act lawfully made or done under the repealed enactment and in
+force immediately before the commencement of this Act, shall be consid-
+ered to have been made or done under this Act and shall continue to have
+effect until reviewed, cancelled or terminated.
+(3) Any register, fund and account kept immediately before the
+commencement of this Act and every document prepared or issued
+under the Companies Act, 1963 (Act 179) shall continue in force as if
+kept, prepared or issued under the corresponding provision of this Act.
+Transitional provisions
+385.(1) On the commencement of this Act, the Office of the Registrar
+established under section 351, shall assume the status of a Category III
+subvented agency as classified under the Subvented Agencies Act, 2006
+(Act 706) and operate under the Ministry responsible for Justice.
+298
+
+===== PAGE 299 =====
+
+Companies Act, 2019
+# [p299 fs=12.8] Act992
+(2) The rights, assets and liabilities accrued in respect of the
+properties vested in the Registrar-General’s Department established un-
+der the Civil Service (Structure) Regulations, 1961 (L.I. 139) in relation
+to the registration and regulation of companies in existence immediately
+before the commencement of this Act are transferred to the Office of the
+Registrar established under section 351 of this Act and accordingly pro-
+ceedings relating to the establishment or regulation of companies taken
+by or against the Registrar-General may be continued by or against the
+Office of the Registrar.
+(3) The President shall, in accordance with the advice of the
+Board given in consultation with the Public Services Commission and
+within a period the President shall determine on the commencement of
+this Act, transfer to the Office of the Registrar the number as the
+President may determine, of personnel seconded to or employed for or
+by the Registrar-General’s Department immediately before the commence-
+ment of this Act.
+(4) Where a person to whom subsection (3) applies is not trans-
+ferred under that subsection, the Legal Service shall deal with the
+appointment as it considers fit.
+(5) The President may delegate the power of appointment
+under subsection (3) in accordance with clause (2) of article 195 of the
+Constitution.
+(6) A transfer to the Office of the Registrar shall for the purposes
+of pension and other retirement benefits constitute a continuous service
+in the Legal Service.
+(7) The terms and conditions of service of a person transferred
+to the Office of the Registrar under subsection (3) shall not be less
+favourable than those applicable to that person immediately before the
+commencement of this Act.
+(8) A contract relating to the establishment and regulation of com-
+panies subsisting between the former Registrar-General’s Department and
+another person and in effect immediately before the commencement of
+this Act shall subsist between the Office of the Registrar and that other
+person.
+(9) A matter specified under section 378 in respect of which a
+transaction may be effected electronically on the commencement of this
+Act, shall after five years from the commencement date of this Act be
+effected electronically only.
+299
+
+===== PAGE 300 =====
+
+# [p300 fs=12.8] Act992Companies Act, 2019
+(10) Section 378 does not affect the validity of anything done
+manually relating to the operation of companies established before the
+commencement of this Act.
+Application of the Electronic Transactions Act, 2008 (Act 772)
+386.The Electronic Transactions Act, 2008 (Act 772) shall be read as
+one with section 378 of this Act and where there is a conflict between
+# [p300 fs=10.9] section 378 and Act 772, section 378 of this Act shall prevail.
+Commencement
+387.The Office of the Registrar of Companies shall be established
+within two years of the coming into force of this Act.
+300
+
+===== PAGE 301 =====
+
+Companies Act, 2019
+# [p301 fs=12.8] Act992
+FIRST SCHEDULE
+(Section 383) Definitions
+In this Act, unless the context otherwise requires,
+“acquire” in relation to securities,
+(a)means that securities are obtained whether from the body
+corporate whose securities they are or from a former holder
+and whether for cash or for a consideration other than cash
+or for no consideration, and
+(b)except where the context otherwise requires, includes an
+agreement to acquire;
+“alternate director” has the meaning assigned to it by section 181;
+“annual return” means the return required to be made under section
+126;
+“approved stock exchange” means a body corporate approved as a stock
+exchange under the Securities Industry Act, 2016 (Act 929);
+“arrangement” includes a reorganisation of the authorised shares of a
+company by the
+(a)consolidation of shares of different classes;
+(b)division of shares into shares of different classes; or
+(c)combination of the methods referred to in paragraphs(a)
+and(b);
+“asset” means any kind of property or any legal or equitable right;
+“associated company” where used in this Act to describe the relation-
+ship of one body corporate to another means that the body corpo-
+rate so described is the subsidiary or holding company of that other,
+or a subsidiary of that other’s holding company, or a holding com-
+pany of that other’s subsidiary;
+“beneficial owner” means an individual
+(a)who directly or indirectly ultimately owns or exercises
+substantial control over a person or company;
+(b)who has a substantial economic interest in or receives
+substantial economic benefits from a company whether
+acting alone or together with other persons;
+(c)on whose behalf a transaction is conducted; or
+(d)who exercises significant control or influence over a legal
+person or legal arrangement through a formal or informal
+agreement;
+301
+
+===== PAGE 302 =====
+
+# [p302 fs=12.8] Act992Companies Act, 2019
+“benefits” in relation to a director
+(a)includes a fee, percentage or other payment, and the mon-
+etary value of any consideration, allowance or perquisite,
+given directly or indirectly, to the director in relation to the
+management of the affairs of the company or of a related
+company, whether as a director or otherwise; but
+(b)does not include an amount given in payment or reimburse-
+ment of out-of-pocket expenses incurred for the benefit of
+the company;
+“body corporate” means a corporation formed under this Act or other-
+wise and whether in Ghana or elsewhere but does not include a
+corporation sole such as an incorporated office;
+“book” includes any account, deed, writing or document, and any other
+record of information however compiled, recorded or stored;
+“buy”, in relation to securities means
+(a)an acquisition of the securities for cash; or
+(b)an agreement to acquire those securities;
+“calls” means a sum which the company has validly resolved to call up
+in respect of any shares issued with an unpaid liability and whereby
+the terms of issue of a share a sum becomes payable on applica-
+tion, allotment or at any fixed date that sum is a call duly made
+and payable on the date on which by the terms of issue the same
+become payable;
+“capitalisation issue” has the meaning assigned to it by subsection (1)
+of section 77;
+“charge” includes a security on property or a mortgage whether legal or
+equitable statement to the effect that it is a true and complete copy
+of the original or, an accurate translation of the original, under
+the seal of the company or signed by a director and the Company
+Secretary;
+“Commission” means the Securities and Exchange Commission;
+“company” means a body formed and registered under this Act; “com-
+pany limited by shares” and “company limited by guarantee” have
+the meanings assigned to them in section 7;
+“Company Secretary” includes a person occupying the position of
+secretary by whatever name called;
+302
+
+===== PAGE 303 =====
+
+Companies Act, 2019
+# [p303 fs=12.8] Act992
+“compromise” means an agreement between a company and its creditors
+including
+(a)cancelling all or part of a debt of the company;
+(b)varying the
+(i) rights of creditors; or
+(ii) terms of a debt of the company; and
+(c)relating to an alteration of the constitution of the company,
+that affects the ability of the company to pay a debt of the
+company.
+“constitution” includes
+(a)a registered constitution of a company duly delivered in
+accordance with section 23; and
+(b)the constitution of a company as specified in the Second,
+Third and Fourth Schedules;
+“contribution” in relation to a pension scheme, includes the payment
+of an insurance premium, paid for the purposes of the scheme by
+or in respect of persons rendering services in respect of which pen-
+sions will or may become payable under the scheme, but does not
+include a payment in respect of two or more persons if the amount
+paid in respect of each of them is not ascertainable;
+“Court” means the High Court;
+“debenture” includes
+(a)a written acknowledgment of indebtedness issued by a com-
+pany in respect of a loan made or to be made to it or to any
+other person or money deposited or to be deposited with
+the company or any other person or the existing indebted-
+ness of the company or any other person whether consti-
+tuting a charge on any of the assets of the company or not;
+(b)debenture stock;
+(c)convertible debenture;
+(d)a bond or an obligation;
+(e)loan stock;
+(f)an unsecured note; or
+(g)any other instrument executed, authenticated, issued or created
+in consideration of such a loan or existing indebtedness;
+(h)but does not include
+(i)a bill of exchange;
+(ii)a promissory note;
+303
+
+===== PAGE 304 =====
+
+# [p304 fs=12.8] Act992Companies Act, 2019
+(iii) a letter of credit;
+(iv) an acknowledgment of indebtedness issued in the
+ordinary course of business for goods or services
+supplied;
+(v)a policy of insurance; or
+(vi) a deposit certificate, pass book or other similar
+document issued in connection with a deposit or
+current account at a banking company;
+“default” means the failure to comply with a provision of this Act and
+being liable to a fine or penalty or to pay damages or compensation
+or to discharge a debt or obligation;
+“delivery”includes electronic delivery;
+“derivative actions” has the meaning assigned to it in section 201;
+“director” in relation to a company, has the meaning assigned to it by
+# [p304 fs=10.9] section 170 and in relation to any other body corporate means a
+person whose position in relation to that body corporate is one
+that that person would be a director of the body corporate if that
+body corporate were a company;
+“dispose” in relation to any securities means
+(a)that the securities are parted with whether to the body
+corporate to which the securities belong or to any other
+person and whether for cash or for a consideration other
+than cash or for no consideration; or
+(b)an agreement to part with securities except where the con-
+text otherwise requires;
+“distribution test” includes circumstances where
+(a)a company is able to pay its debts as they fall due; and
+(b)the amount or value of any payment, return or distribution
+made by the company does not exceed its retained earnings
+immediately before the making of the payment,return
+or distribution;
+“division” means a scheme by which the undertaking, property and
+liabilities of a company, in respect of which a compromise or an
+arrangement is proposed, are to be divided among and transferred
+to two or more companies which are either
+(a)existing companies; or
+(b)new companies;
+“document” includes
+(a)a written expression in any form;
+304
+
+===== PAGE 305 =====
+
+Companies Act, 2019
+# [p305 fs=12.8] Act992
+(b)writing on any material;
+(c)a book, graph or drawing; and
+(d)information recorded or stored by any electronic or other
+technological means and capable, with or without the aid
+of equipment, of being reproduced;
+“equity share” has the meaning assigned to it by section 51;
+“external company” has the meaning assigned to it by section 329;
+“financial statement” in relation to a company includes a
+(a)statement of financial position;
+(b)statement of comprehensive income;
+(c)statement of changes in equity;
+(d)statement of cash flows; and
+(e)description of significant accounting policies, and explana-
+tory notes to the financial statement of a companyprepared
+in compliance with International Financial Reporting Stan-
+dards approved or adopted by the Institute of Chartered
+Accountants, or any other standards approved or adopted
+by the Institute;
+“financial year” means the period covered by the statement of compre-
+hensive income of the company in accordance with section 129;
+“floating charge” has the meaning assigned to it by section 90;
+“in default” means that the person concerned knowingly authorises or
+permits the default, refusal or contravention mentioned in the
+# [p305 fs=10.9] section;
+“infant” means a natural person under the age of eighteen years or any
+other age that is declared by an enactment to be of full age for legal
+purposes;
+“insolvency practitioner’ means a person who
+(a)acts as a receiver under this Act;
+(b)acts as a manager under this Act;
+(c)acts as an administrator under this Act;
+(d)acts as a trustee in bankruptcy under the Insolvency Act,
+2006 (Act 708); or
+(e)acts as a liquidator in bankruptcy under the Bodies Corpo-
+rate (Official Liquidations) Act, 1963 (Act 180); and
+(f)demonstrates proof of a professional indemnity insurance;
+“liquidator” means the person appointed to wind up a body corporate;
+“local manager” in relation to an external company, has the meaning
+assigned to it by section 332;
+“major transaction” has the meaning assigned to it in section 145;
+305
+
+===== PAGE 306 =====
+
+# [p306 fs=12.8] Act992Companies Act, 2019
+“manager” includes a receiver and a person appointed to perform the
+functions referred to in subsections (1) and (2) of section 266;
+“managing director” means a director to whom has been delegated the
+powers of the board of directors, to direct and administer the
+business of the company;
+“merger” includes merger by
+(a)absorption by which the undertaking, property and liabili-
+ties of one or more companies, including the company in
+respect of which a scheme is proposed, are to be transferred
+to another existing company; or
+(b)formation of a new company by which the undertaking,
+property and liabilities of two or more companies, includ-
+ing the company in respect of which the scheme is proposed,
+are to be transferred to a new company and the consider-
+ation envisaged for the transfer is shares in the transferee
+company receivable by a member of the transferor company
+with or without any cash payment to that member;
+“Minister” means the Minister responsible for Justice;
+“non-Ghanaian” means an association incorporated or to be incorpo-
+rated outside the Republic ;
+“notarise” means to officially witness and sign a document required for
+certification that may be used as proof or evidence of certain facts;
+“Office of the Registrar” means the body corporate established as the
+Office of the Registrar of Companies established under section 351
+of this Act;
+“officer” in relation to a body corporate includes any director, secretary
+or employee of that body corporate and a receiver and manager of
+a part of the undertaking of that body corporate, appointed under
+a power contained in an instrument, and a liquidator of a com-
+pany appointed in a members’ voluntary winding up, but does not
+include a receiver, not being a manager, a receiver and manager
+appointed by the Court, or a liquidator appointed under the provi-
+sions of the Bodies Corporate (Official Liquidations) Act, 1963 (Act
+180), or an auditor of a company;
+“Official Trustee” means the Registrar of Companies;
+“ordinary resolution” means a resolution passed by a simple majority
+of votes cast by the members of the company who, being entitled so
+to do, vote in person or, where proxies are allowed, by proxy at a
+general meeting;
+“payment in cash” has the meaning assigned to it by section 48;
+“penalty unit” means the pecuniary value of a fine provided for in the
+# [p306 fs=10.9] Interpretation Act, 2009 (Act 792);
+“pension” means any superannuation allowance, superannuation
+306
+
+===== PAGE 307 =====
+
+Companies Act, 2019
+# [p307 fs=12.8] Act992
+gratuity, or similar payment;
+“pension scheme” means a scheme for the provision of pensions in
+respect of services as an officer of a company which is maintained
+in whole or in part by contributions;
+“politically exposed person” includes
+(a)a person who is or has been entrusted with a prominent
+public function in this country, a foreign country or an
+international organisation including
+(i)senior political party official, government, judicial
+or military official;
+(ii)a person who is or has been an executive of a State
+owned company;
+(iii) a senior political party official in a foreign coun-
+try; and
+(b)an immediate family member or close associate of a
+person referred to in paragraph(a);
+“preference share” has the meaning assigned to it by section 51;
+“prescribed form” has the meaning assigned to it by section 374;
+“private company” and “public company” have the meanings assigned
+to them in section 7;
+“private liquidation” has the meaning assigned to it by section 276;
+“process agent” in relation to external companies has the meaning
+assigned to it by section 330;
+“Producer Price Index” means an index that measures the average
+change over time in the prices received by domestic producers of
+goods and services in the wholesale market as calculated by the
+Ghana Statistical Service;
+“professional body” means a professional body registered under the
+Professional Bodies Registration Act, 1973 (N.R.C.D. 143);
+“purchase” in relation to securities means an acquisition of securities
+for cash and except where the context otherwise requires, includes
+an agreement to buy;
+“receiver” includes a manager and a person appointed to perform the
+functions referred to in subsection (1) of section 266;
+“registration” has the meaning assigned to it by section 373;
+“registration officer” has the meaning assigned to it by subsection (12)
+of section 35;
+“registered constitution” means the document registered with the
+Registrar under section 23 as representing the constitution of a
+company;
+“Registrar” includes
+307
+
+===== PAGE 308 =====
+
+# [p308 fs=12.8] Act992Companies Act, 2019
+(a)the Office of the Registrar of Companies; and
+(b)the Registrar of Companies appointed in accordance with
+# [p308 fs=10.9] section 362 where the context otherwise requires;
+“representative actions” has the meaning assigned to it in section 205;
+“Republic” means the Republic of Ghana;
+“reserves” has the meaning assigned to it by section 70;
+“resolution requiring confirmation” has the meaning assigned to it by
+# [p308 fs=10.9] subsection (2) of section 78;
+“retained earnings” has the meaning assigned to it by section 71;
+“seal” means the common seal of a company;
+“securities” include
+(a)shares or debentures;
+(b)securities of the Government or any country or territory
+outside Ghana;
+(c)rights or interests, whether described as units or otherwise
+under a unit trust; and
+(d)rights, whether actual or contingent in respect of money
+lent to or deposited with, a person that is not a body corpo-
+rate licensed, under the Banks and Specialised Deposit-Tak-
+ing Institutions Act, 2016 (Act 930) or any other enactment
+to carry on banking business;
+“sell” in relation to securities means a disposal of securities for cash and
+except where the context otherwise requires, includes an agreement
+to sell;
+“shares” mean the interests of members of a body corporate who are
+entitled to share in the capital or income of the body corporate;
+“solvent” in relation to a body corporate means the ability to pay its
+debts as they fall due;
+“special resolution” has the meaning assigned to it in paragraph 14 of
+the Eighth Schedule;
+“stated capital” has the meaning assigned to it by section 68;
+“stock exchange” means any body corporate or association of persons
+operating an exchange or market on which securities are acquired
+and disposed of;
+“subscribe” in relation to securities includes
+(a)the purchase of those securities from the body corporate
+whose securities they are, and
+(b)an agreement to purchase those securities from the body
+corporate whose securities they are;
+“subscriber” in relation to a body corporate means a person who
+308
+
+===== PAGE 309 =====
+
+Companies Act, 2019
+# [p309 fs=12.8] Act992
+applies for the incorporation of a company;
+“subsidiary” and “holding company” means a body corporate that is
+the subsidiary of another and that other is its holding company if,
+(a)that other body corporate by the exercise of a power
+directly or indirectly vested in it, whether by virtue of the
+beneficial ownership of shares or otherwise, can appoint
+or remove or procure the appointment or removal of all or
+not less than half of its directors for the time being or can
+prevent the appointment or removal of all or not less than
+half of its directors; but
+(i)a power exercisable in a fiduciary capacity for
+another person shall be treated as exercisable by that
+other person and not by the fiduciary;
+(ii)a power exercisable by virtue of shares held by way
+of security only for the purpose of a transaction
+entered into in the ordinary course of business of
+that other body corporate shall be disregarded; and
+(iii) a body corporate has a power to appoint a director
+of another body corporate if the appointment of
+that person as director of that other body corporate
+necessarily follows from that person’s appointment
+as director or other officer of that first named body
+corporate; or
+(b)it is a subsidiary of a body corporate which is that other’s
+subsidiary;
+“substitute director” has the meaning assigned to it by section 180;
+“treasury shares” has the meaning assigned to it by subsection (5) of
+# [p309 fs=10.9] section 61;
+“unlimited company” has the meaning assigned to it in section 7;
+“untrue statement” means a statement which is false or misleading in
+the form, context or circumstances in which it was made having
+regard to a failure to state other facts;
+“vendor” means a person who has entered into a contract, absolute or
+conditional, for the sale or leasing, of a property or for the granting
+of an option to purchase or lease, a property;
+309
+
+===== PAGE 310 =====
+
+# [p310 fs=12.8] Act992Companies Act, 2019
+“wholly owned subsidiary” means where a holding company is benefi-
+cially entitled, whether the registered holder or not, to all the issued
+shares of any of its subsidiaries that subsidiary is the wholly owned
+subsidiary of that holding company;
+“winding up under an order of a Court” has the meaning assigned to it
+by section 274;
+“written” includes
+(a)the recording of words in a permanent or legible form; and
+(b)the display of words by any form of electronic or other
+means of communication in a manner that enables the
+words to be readily stored in a permanent form and with or
+without the aid of any equipment to be retrieved and read;
+and
+“written communication” includes communication by registered post,
+and electronic communication, but excludes oral communication.
+310
+
+===== PAGE 311 =====
+
+Companies Act, 2019
+# [p311 fs=12.8] Act992
+SECOND SCHEDULE
+(Sections 24, 25, 27 and 301)
+Constitution for a Private Company Limited by Shares
+1.Pursuant to section 18 of this Act, a company has the powers of a
+natural person of full capacity.
+2.The powers of the board of directors are limited in accordance
+with sections 189 and 195 of this Act.
+3.The liability of the members of the company is limited.
+4.The company is a private company and accordingly,
+(a)the right to transfer shares is restricted in that the directors
+may, in their absolute discretion and without assigning a
+reason, decline to register a transfer of a share;
+(b)the number of members and debenture holders of the
+company, exclusive of persons who are genuinely in the
+employment of the company and of persons who having
+been formerly genuinely in the employment of the com-
+pany were while in that employment and have continued
+after the determination of the employment to be members
+or debenture holders of the company, is limited to fifty, but
+where two or more persons hold one or more shares or
+debentures jointly, they shall for the purposes of this clause
+be treated as a single member;
+(c)the company is prohibited from making an invitation to
+the public to acquire any of the shares or debentures of the
+company;
+(d)the company is prohibited from making an invitation to
+the public to deposit money for fixed periods or payable at
+call whether bearing or not bearing interest.
+Shares and variation of rights
+5.The company may, by a special resolution amend this constitution
+(a)to increase the number of the shares by creating new shares;
+(b)to reduce the number of shares of the company by cancel-
+ling shares which have not been taken or agreed to be taken
+by a person, or by consolidating the existing shares, whether
+issued or not, into a smaller number of shares;
+311
+
+===== PAGE 312 =====
+
+# [p312 fs=12.8] Act992Companies Act, 2019
+(c)to provide for different classes of shares by attaching to
+certain of the shares preferred, deferred or otherspecial
+rights or restrictions whether with regard to dividend,
+voting, repayment or otherwise, but the voting rights of
+equity shares shall comply with sections 34 and 53 of this
+# [p312 fs=10.9] Act and the voting rights of preference shares shall comply
+with sections 34 and 52 of this Act; and
+(d)in accordance with section 61 of this Actto create prefer-
+ence shares which are, at the option of the company liable,
+to be redeemed on the terms and in the manner that may be
+provided, but subject to compliance with sections 62 to 65
+of the Act.
+6.(1) The company shall not issue any new or unissued shares for
+cash unless the shares are offered in the first instance to the members
+or to the members of the class or classes of shares being issued in
+proportion as nearly as may be to the existing holdings of the mem-
+bers.
+(2) The offer to the existing members shall be by notice specifying
+the number of shares to which a member is entitled to subscribe
+and within a specified time, not being less than twenty-eight days
+after the date of service of the notice, after the expiration of which
+the offer, if not accepted, will be deemed to be declined.
+(3) After the expiration of that time, or on receipt of an intima-
+tion from the member that the member declines to accept the shares
+offered, the board of directors may, subject to the terms of a resolu-
+tion of the company and to section 189 of this Act dispose of the
+shares at a price not less than that specified in the offer in the
+manner that the board of directors think most beneficial to the
+company.
+(4) This clause is not alterable except with the unanimous consent
+of the members of the company.
+7.Where the shares are divided into different classes, the rights
+attached to a class may be varied with the written consent of the
+holders of at least three-fourths of the issued shares of that class or
+the sanction of special resolution of the holders of the shares of
+that class.
+312
+
+===== PAGE 313 =====
+
+Companies Act, 2019
+# [p313 fs=12.8] Act992
+# [p313 fs=10.9] 8. Subject to compliance with sections 62 to 65 of this Act, the
+company may exercise the powers conferred by section 61 of this
+# [p313 fs=10.9] Act to,
+(a)purchase its own shares;
+(b)acquire its own shares by a voluntary transfer to the com-
+pany or nominees of the company;
+(c)forfeit in accordance with this constitution any shares
+issued with an unpaid liability for non-payment of calls or
+other sums payable in respect of those shares.
+# [p313 fs=10.9] 9. The company may pay commission or brokerage to a person in
+consideration of that person subscribing or agreeing to subscribe
+or agreeing to procure subscriptions for any shares in the company
+provided that, the payment does not exceed ten percent of the price
+at which the shares are issued.
+# [p313 fs=10.9] 10. Share certificates shall be issued in accordance with section 55 of
+this Act.
+Calls on shares
+11. (1) Where shares are issued on the terms that a part of the price
+payable for the shares is not payable at a fixed time, the board of
+directors may from time to time make calls upon the members in
+respect of any moneys unpaid on their shares, provided that, a call
+shall not be payable less than twenty-eight days from the date fixed
+for the payment of the last preceding call, and each member shall,
+subject to receiving not less than fourteen days notice specifying
+the time and place of payment, pay to the company at the time
+and place so specified, the amount called upon the shares of that
+person.
+(2) A call may be revoked or postponed as the directors may deter-
+mine.
+12.A call is made at the time when the resolution of the directors
+authorising the call is passed and may be required to be paid by
+instalments.
+13.The joint holders of a share are jointly and severally liable to pay
+all calls in respect of that share.
+313
+
+===== PAGE 314 =====
+
+# [p314 fs=12.8] Act992Companies Act, 2019
+14.If a sum called in respect of a share is not paid before or on the day
+appointed for payment, the person from whom the sum is due shall
+pay interest on that sum from the date appointed for payment to
+the time of actual payment at the yearly rate not exceeding five
+percent as the board of directors may determine, but the board of
+directors shall be at liberty to waive payment of the interest in whole
+or in part.
+15.A sum which by the terms of issue of a share becomes payable on
+application for the shares or on allotment, or at a fixed date is, for
+the purposes of this constitution, a call duly made and payable on
+the date on which by the terms of issue the sum becomes payable,
+and in the case of non-payment, all the relevant provisions of this
+constitution as to payment of interest and expenses, forfeiture, sale
+or otherwise shall apply as if the sum had become payable by vir-
+tue of a call duly made and notified.
+16.As between shares of the same class the company shall not differ-
+entiate between the holders as to the amount of calls to be paid or
+the times of payment.
+17.If the company receives from a shareholder all or any part of the
+moneys not presently payable or called upon any shares held by the
+member, the sum shall not be treated as a payment in respect of the
+shares until the sum becomes due and payable on those shares and
+in the meantime, shall be deemed to be a loan to the company upon
+which the company may pay interest at the rate prevailing as may
+be agreed between the board of directors and the member.
+Forfeiture of shares
+18.Where a shareholder fails to pay any call or instalment of a call,
+including a sum which is a call under clause 15, the board of direc-
+tors may at any time after the failure during the time that a part of
+the call or instalment remains unpaid, serve a notice on the member
+requiring payment of so much of the call or instalment as is
+unpaid, together with the interest which may have accrued.
+19.The notice shall state a further day not earlier than the expiration
+of fourteen days from the date of service of the notice on or before
+which the payment required by the notice is to be made, and shall
+state that, in the event of non-payment at or before the times
+appointed, the shares in respect of which the call was made will be
+liable to be forfeited.
+314
+
+===== PAGE 315 =====
+
+Companies Act, 2019
+# [p315 fs=12.8] Act992
+20.If the requirements of the notice are not complied with, a share in
+respect of which the notice was given may, before the payment
+required by the notice has been made, be forfeited by a resolution
+of the directors to that effect.
+21.A forfeited share may be cancelled by alteration of this constitu-
+tion or may be retained as a treasury share until sold or otherwise
+disposed of on the terms and in the manner that the board of
+directors considers fit.
+22.A person whose shares have been forfeited ceases to be a member in
+respect of the forfeited shares and is bound to surrender to the com-
+pany for cancellation the share certificate or certificates in respect
+of the shares so forfeited but shall, despite that, remain liable to
+pay to the company the moneys which, at the date of the forfei-
+ture, were payable by that person to the company in respect of the
+shares, but that liability shall cease if and when the company
+receives payment in full of the moneys in respect of the shares.
+23.A statutory declaration in writing that the declarant is a director or
+the Company Secretary and that a share in the company has been
+duly forfeited on the date stated in the declaration, is conclusive
+evidence of the facts stated in the declaration as against the persons
+claiming to be entitled to the share.
+Lien
+24.(1) The company shall have a first and paramount lien on all shares
+issued with an unpaid liability for the moneys, whether presently
+payable or not, called or payable at a fixed time in respect of that
+share.
+(2) The lien of the company extends to the dividends payable on
+the shares.
+25.Where a sum in respect of which the company has a lien is pres-
+ently payable by the board of directors, after serving the notice
+required by clauses 18 and 19 of this Schedule, the company may at
+any time before the payment required by the notice has been made,
+sell a share on which the company has the lien instead of forfeiting
+the share in accordance with clause 18.
+315
+
+===== PAGE 316 =====
+
+# [p316 fs=12.8] Act992Companies Act, 2019
+26.(1) To give effect to a sale under clause 25, the board of directors
+may authorise a person to transfer the shares sold to the purchaser
+of those shares.
+(2) The purchaser shall be registered as the holder of the share stated
+in the transfer and the purchaser is not bound to see to the applica-
+tion of the purchase money nor shall the title of the purchaser to
+the shares be affected by an irregularity or invalidity in the proceedings
+in reference to the sale.
+27.The proceeds of the sale shall be received by the company and ap-
+plied in payment of the part of the amount in respect of which the
+existing payable lien, and the residue shall, subject to a like lien for
+sums not presently payable, as existed upon the shares before the
+sale, be paid to the person entitled to the share at the date of the sale
+but, the company is not bound to make the payment unless and
+until that person has surrendered to the company for cancellation,
+the share certificate or certificates relating to the shares so sold.
+Transfer and transmission of shares
+28.Subject to clause (4)(a)shares shall be transferable and transfers
+shall be registered in the manner provided by sections 98 and 101
+of this Act.
+29.In the event of the death of a member or in the event of the owner-
+ship of a share devolving upon a person by reason of that person
+being the legal personal representative, receiver, or trustee in bank-
+ruptcy of the holder, or by operation of law, section 102 of this Act
+shall apply.
+Dividends
+30.The company may, by ordinary resolution, declare dividends in
+respect of a year or any other period but, a dividend shall not
+exceed the amount recommended by the board of directors.
+31.A dividend shall not be paid unless,
+(a)the company will, after the payment, be able to pay its debts
+as they fall due; and
+(b)the amount of the payment does not exceed the amount of
+the retained earnings of the company immediately before
+making of the payment.
+316
+
+===== PAGE 317 =====
+
+Companies Act, 2019
+# [p317 fs=12.8] Act992
+32.The board of directors may, before recommending a dividend, set
+aside out of the profits or retained earnings of the company, the
+sums that the board of directors think proper in order to provide
+for a known liability, including a disputed or contingent liability,
+or as a depreciation or replacement provision and may, carry for-
+ward any profits or retained earnings which the board of directors
+may consider prudent not to distribute.
+33.Dividends shall be declared and paid as a fixed sum for each share
+and not as a proportion of the amount paid in respect of a share.
+34.The board of directors may deduct from a dividend payable to a
+member the sums of money presently payable by the member to the
+company in respect of the shares of the member.
+35.(1) A dividend payable in cash may be paid by cheque or warrant
+sent by post directed to the registered address of the member or, in
+the case of joint holders, to the registered address of the one who is
+first named on the register of members, or to the person and to the
+address that the holder or joint holders may in writing direct.
+(2) The cheque or warrant shall be made payable to the order of
+the person to the whom the cheque or warrant is sent.
+(3) Any one of two or more joint holders may give effectual
+receipts for any dividends.
+(4) A dividend payment shall be accompanied by a statement show-
+ing the gross amount of the dividend, and the tax deducted or
+deemed to be deducted from the gross amount.
+36.A dividend shall not bear interest against the company.
+Capitalisation Issues and Non-Cash Dividends
+37.The company, on the recommendation of the directors, may exer-
+cise the powers conferred by section 77 of this Act, to
+(a)make capitalisation issues of shares in accordance with sub-
+# [p317 fs=10.9] section (1) of section 77,
+(b)resolve, in accordance with subsection (3) of section 77 that,
+a sum standing to the credit of the retained earnings of the
+company and which could have been distributed by way of
+317
+
+===== PAGE 318 =====
+
+# [p318 fs=12.8] Act992Companies Act, 2019
+dividend shall be applied in paying up amounts for the time
+being unpaid on shares,
+(c)direct, in accordance with subsection (4) of section 77 that,
+payment of a dividend shall be, wholly or partly, by distri-
+bution of securities for money or fully paid shares or de-
+bentures of another body corporate or of fully paid deben-
+tures of the company.
+Accountsand audit
+38.Auditors, qualified in accordance with section 138 of this Act, shall
+be appointed and their duties regulated in accordance with sec-
+tions 139 to 143 of this Act.
+39.The board of directors shall cause proper books of account to be
+kept and financial statements to be prepared, audited and circu-
+lated in accordance with sections 127 to 137 of this Act.
+General meetings and Resolutions
+40.The powers of the members in general meeting shall be as stated in
+# [p318 fs=10.9] section 144 of this Act.
+41.Annual general meetings shall be held in accordance with section
+157 of this Act.
+42.Extraordinary general meetings may be convened by the directors
+whenever the directors think fit in accordance with section 158 of
+this Act and shall be convened by the directors on a requisition of
+members in accordance with section 299 of this Act.
+43.Notice of general meetings shall be given in accordance with sec-
+tions 160 and 168 and paragraphs 2 to 6 of the Eighth Schedule to
+the Act and accompanied by any statements required to be circu-
+lated with the notice in accordance with section 168 and paragraphs
+5 and 6 of the Eighth Schedule of this Act.
+44.Meetings may be attended by the persons referred to in section 157
+of this Act but a member shall not be entitled to attend unless all
+calls or other sums presently payable by that member in respect of
+shares in the company have been paid.
+45.The quorum required for a general meeting shall be as stated in
+paragraph 8 of the Eighth Schedule to this Act.
+46.(1) In accordance with paragraph 9 of the Eighth Schedule of this
+Act, a member entitled to attend and vote at a meeting of the com-
+pany is entitled to appoint another person, whether a member of
+318
+
+===== PAGE 319 =====
+
+Companies Act, 2019
+# [p319 fs=12.8] Act992
+the company or not, as a proxy to attend and vote instead of that
+member, and the proxy shall have the same rights as the member to
+speak at the meeting.
+(2) An instrument appointing a proxy shall be in the following form
+or a form as near to this form as circumstances admit.
+“John Mensah & Co., Limited
+I/We ..................................of ..........................being a member/
+members of the above-named company hereby appoint……………… of
+……………………or failing him/her as my/our proxy to vote for me/
+us on my/our behalf at the annual/extraordinary general meeting of the
+company to be held on the ..........day of ........... 20.........and at any
+adjournment thereof.
+Signed thisday of 20…..
+This form is to be used:
+*In favour of resolution numbered 1 against
+*In favour of resolution numbered 2 against”
+[Delete if only one resolution is to be proposed; add further instruc-
+tions if more than two resolutions are to be proposed.]
+Unless otherwise instructed, the proxy will vote as the proxy thinks fit.
+*Strike out whichever is not desired.
+47.A body corporate which is a member of the company may attend
+and vote by proxy or by a representative appointed in accordance
+with paragraph 11 of the Eighth Schedule to this Act.
+48.(1) Meetings shall be conducted in accordance with paragraphs 12
+to 19 of the Eighth Schedule to this Act.
+(2) On a poll being demanded, the chairperson of the meeting shall
+not be required to direct a postal ballot in accordance with sub-
+paragraphs(f),(g)and(h)of paragraph 16 of the Eighth Schedule
+to this Act unless the chairperson thinks fit or an ordinary resolu-
+tion to that effect is moved at the meeting and passed on a show of
+hands.
+319
+
+===== PAGE 320 =====
+
+# [p320 fs=12.8] Act992Companies Act, 2019
+49.In accordance with section 163 of this Act a resolution in writing
+signed by the members for the time being entitled to attend and
+vote at general meetings, or being bodies corporate by their duly
+authorised representatives, and if the company has only one mem-
+ber entitled to attend and vote, the vote by that member shall be as
+valid and effective for all purposes, except as provided by section
+163, as if the resolution had been passed at a general meeting of the
+company duly convened and held, and if described as a special
+resolution shall be deemed to be a special resolution within the
+meaning of this Act.
+50.Minutes of general meetings shall be kept in accordance with sec-
+tion 166 of this Act.
+51.If at any time the shares of the company are divided into different
+classes, this constitution shall apply to a meeting of a class of mem-
+bers in like manner as the constitution apply to general meetings
+but the necessary quorum shall be as set out in section 164 of the
+Act.
+Votes of members
+52.Subject to any rights or restrictions for the time being attached to a
+class of preference shares and which may be validly attached, that
+class, pursuant to section 51 of this Act,
+(a)on a show of hands each member and each proxy lawfully
+present at the meeting shall have one vote, and on a poll
+each member present in person or by proxy shall have one
+vote for each share held by that member; or
+(b)in the event of a postal ballot being directed pursuant to
+subparagraphs(f),(g)and(h)of paragraph 16 of the Eighth
+# [p320 fs=10.9] Schedule to this Act, each member entitled to attend and
+vote at the meeting shall have one vote for each share held
+by that member.
+Directors
+53.The number of directors, not being less than two or more than five,
+shall be determined by ordinary resolution of the members in
+general meeting and until so determined shall be two.
+320
+
+===== PAGE 321 =====
+
+Companies Act, 2019
+# [p321 fs=12.8] Act992
+54.The continuing directors may act despite a vacancy in the number
+of directors but if and so long as their number is reduced below
+two or below the number fixed by the directors as the necessary
+quorum, they may act for four weeks after the number is so reduced,
+but after that, may act only for the purpose of increasing the num-
+ber of directors to that number or of summoning a general meet-
+ing of the company and for no other purpose.
+55.The appointment of directors shall be regulated by sections 172 and
+300 of this Act.
+56.The persons referred to in section 173 of the Act shall not be com-
+petent to be appointed directors of the company.
+57.A director need not hold any shares in the company.
+58.The office of director shall be vacated in accordance with section
+175 of this Act and a director may be removed from office in accor-
+dance with section 176 of this Act.
+59.(1) The company may appoint substitute directors in accordance
+with section 180 of this Act and a director may appoint an alter-
+nate director in accordance with section 181 of this Act.
+(2) An alternate director shall not be entitled to be remunerated
+otherwise than out of the remuneration of the director appointing
+that alternate director.
+60.At least one director of the company shall at all times be resident in
+Ghana.
+61.The remuneration payable to a director in whatever capacity shall
+be determined or approved by the members in general meeting in
+accordance with section 185 of this Act.
+62.The proceedings of the directors shall be regulated by section 188
+of this Act and the board of directors may delegate any of their
+powers to committees of the directors in accordance with that
+# [p321 fs=10.9] section.
+63.Minutes of meetings of the board of directors and of a committee
+of directors shall be kept in accordance with section 188 of this
+Act.
+Powers and duties of directors
+321
+
+===== PAGE 322 =====
+
+# [p322 fs=12.8] Act992Companies Act, 2019
+64.(1) The business of the company shall be managed by the directors
+who may pay all expenses incurred in promoting and registering
+the company.
+(2) Subject to section 189 of this Act, the board of directors may
+exercise the powers of the company, including power to borrow
+money and to mortgage or charge the property of the company
+and undertaking or a part of the property and undertaking and to
+issue debentures, which are not by the Act or this constitution
+required to be exercised by the members in general meeting.
+65.In a transaction with the company or on behalf of the company
+and in the exercise of powers, the directors shall observe the duties
+and obligations imposed on them by sections 190 to 192 of this
+Act.
+66.Subject to compliance with section 194 of this Act, a director may
+enter into a contract with the company and the contract or any
+other contract of the company in which a director is in any way
+interested, shall neither be liable to be avoided nor shall a director
+be liable to account for a profit made by virtue of that contract, by
+reason of the director holding the office of director or of the fidu-
+ciary relationship established by the status as a director.
+67.A director may act personally or by the firm of that director in a
+professional capacity for the company, except as auditor, and the
+director or the firm shall be entitled to proper remuneration for
+professional services as if the director were not a director.
+Executive and managing directors
+68.The board of directors may exercise the powers conferred by sec-
+tion 183 of this Act to appoint one or more of the members of the
+board of directors to any other office or place of profit under the
+company, other than the office of auditor, for the period and on
+the terms that the board of directors may determine and, subject to
+the terms of an agreement entered into in a particular case, may
+revoke that appointment.
+69.(1) The board of directors may exercise the power conferred by
+# [p322 fs=10.9] section 184 of this Act to appoint one or more of the members of
+the board of directors to the office of managing director for the
+period and on the terms that the board of directors may determine
+322
+
+===== PAGE 323 =====
+
+Companies Act, 2019
+# [p323 fs=12.8] Act992
+and, subject to the terms of an agreement entered into in a particular
+case, may revoke the appointment and the appointment shall be
+automatically determined if the holder of the office ceases for any
+cause to be a director.
+(2) The directors may entrust to and confer on a managing director any
+of the powers exercisable by the directors on the terms and with the
+restrictions that they think fit, and either collaterally with, or on
+the exclusion of, their own powers, and subject to the terms of an
+agreement entered into in a particular case, may from time to time
+revoke or vary all or any of those powers.
+70.Remuneration shall not be payable to a director in respect of any
+office or place of profit to which the director is appointed in this
+constitution, unless and until, the terms of the appointment have
+been approved by ordinary resolution of the company in general
+meeting in accordance with section 185 of this Act.
+Company Secretary and officers and agents
+71.The Company Secretary shall be appointed by the board of directors
+for the time, at the remuneration, and on the conditions that board
+considers fit, and a Company Secretary so appointed may be
+removed by the board of directors, subject to the right of the Company
+Secretary to claim damages if removed in breach of contract.
+72.A provision in this Act or this constitution requiring or authorising
+a thing to be done by a director and the Company Secretary shall
+not be satisfied by the thing being done by that person acting both
+as director and as, or in place of, the Company Secretary.
+73.(1) The board of directors may from time to time appoint officers
+and agents of the company and may appoint a body corporate,
+firm, or body of persons, whether nominated directly or indirectly,
+by the board of directors, to be the attorney or attorneys of the
+company for the purposes and with the powers, authorities and
+discretions, not exceeding those vested in or exercisable by the
+directors in this constitution, and for the period and subject to the
+conditions that the board of directors may consider fit.
+(2) The powers of attorney may contain the provisions for the
+protection and convenience of persons dealing with that attorney
+323
+
+===== PAGE 324 =====
+
+# [p324 fs=12.8] Act992Companies Act, 2019
+that the directors may consider fit, and may also authorise that
+attorney to delegate all or any of the powers, authorities and
+discretions vested in that attorney.
+Serviceof documents
+74.A document may be served by the company on a member, deben-
+ture holder or director of the company in the manner provided by
+# [p324 fs=10.9] section 290 of this Act.
+Winding-up
+75.(1) Where the company is being wound up, the liquidator may,
+with the sanction of a special resolution of the company and any
+other sanction required by this Act or by the Bodies Corporate
+(Official Liquidations) Act, 1963 (Act 180), divide amongst the members
+in specie or kind, the whole or a part of the assets of the company,
+whether they consist of property of the same kind or not, and may
+for that purpose set the value that the liquidator thinks fair on the
+property to be divided, and may determine how the division shall
+be carried out as between the members or different classes of
+members.
+(2) The liquidator may, with the like sanction, vest the whole or a
+# [p324 fs=10.9] part of the assets in trustees upon the trusts for the benefit of the
+members that the liquidator, with the like sanction, thinks fit.
+(3) Despite subparagraphs (1) and (2), a member shall not be
+compelled to accept any securities on which there is a liability.
+# [p324 fs=10.9] Interpretation
+76.In this constitution unless the context otherwise requires,
+(a)“Act” means the Companies Act, 2019 (Act 992);
+(b)words or expressions have the meanings assigned to them
+in this Act; and
+(c)references to sections of this Act mean the sections as
+specified in this Act.
+A private company may, in a constitution registered by the private
+company, exclude or modify any of the provisions of this Schedule to
+the extent permitted by this Act.
+324
+
+===== PAGE 325 =====
+
+Companies Act, 2019
+# [p325 fs=12.8] Act992
+THIRD SCHEDULE
+(sections 24, 25, 27 and 301)
+Constitution for a Public Company Limited by Shares
+1.Pursuant to section 18 of this Act, a company, in furtherance of its
+authorised businesses, has the powers of a natural person of full
+capacity.
+2.The powers of the board of directors are limited in accordance
+with section 195 of this Act.
+3.(1) The liability of the members of the company is limited.
+(2) Without limiting any special rights previously conferred on the holders
+of any existing shares or class of shares, but subject to this Act,
+shares in the company may be issued by the directors and any such
+shares may be issued with the rights or restrictions that the directors
+may determine, subject to section 192 and any other provision of
+this Act, and any ordinary resolution of the company.
+Shares and variation of rights
+4.The company may, by special resolution amending this constitu-
+tion
+(a)increase the number of the shares of the company by creating
+new shares;
+(b)reduce the number of shares by cancelling shares which have
+not been taken or agreed to be taken by a person, or by con-
+solidating the existing shares, whether issued or not, into a
+smaller number of shares;
+(c)provide for different classes of shares by attaching to some
+class of the shares preferred, deferred or other special rights
+or restrictions whether in regard to dividend, voting,
+repayment, or otherwise, but the voting rights of equity
+shares shall comply with sections 34 and 53 of this Act and
+the voting rights of preference shares shall comply with
+sections 34 and 52 of this Act; and
+(d)in accordance with section 61 of this Act, create preference
+shares which are, or at the option of the company liable, to
+be redeemed on the terms and in the manner that may be
+provided, but subject to compliance with sections 62 to 65
+of this Act.
+325
+
+===== PAGE 326 =====
+
+# [p326 fs=12.8] Act992Companies Act, 2019
+5.On the issue of any new or unissued shares in the company, the
+directors shall comply with section 189 of this Act.
+6.If at any time the shares are divided into different classes, the rights
+attached to a class may be varied with the written consent of the
+holders of at least three-fourths of the issued shares of that class or
+the sanction of a special resolution of the holders of the shares of
+that class.
+7.Subject to compliance with sections 62 to 65 of this Act the com-
+pany may exercise the powers conferred by section 61 of this Act,
+to,
+(a)purchase its own shares;
+(b)acquire its own shares by a voluntary transfer to the com-
+pany or to nominees for it; or
+(c)forfeit in the manner appearing in this constitution any
+shares issued with an unpaid liability for non-payment of
+calls or other sums payable in respect of the shares.
+8.The company may pay commission or brokerage to a person in
+consideration of that person subscribing or agreeing to subscribe
+or procuring or agreeing to procure subscriptions for any shares in
+the company, provided that, the payment does not exceed ten
+percent of the price at which the shares are issued.
+9.Share certificates shall be issued in accordance with section 55 of
+this Act.
+10.(1) Where shares are issued on the terms that a part of the price
+payable for the shares is not payable at a fixed time, the board of
+directors may from time to time make calls on the members in
+respect of any moneys unpaid on their shares, provided that a call
+shall not be payable less than twenty-eight days from the date fixed
+for the payment of the last preceding call, and each member shall,
+subject to receiving not less than fourteen days notice specifying
+the time and place of payment, pay to the company at the time and
+place so specified the amount called on the shares of that member.
+(2) A call may be revoked or postponed as the directors may deter-
+mine.
+11.A call is made at the time when the resolution of the directors
+authorising the call was passed and may be required to be paid by
+instalments.
+12.The joint holders of a share are jointly and severally liable to pay all
+calls in respect of that share.
+326
+
+===== PAGE 327 =====
+
+Companies Act, 2019
+# [p327 fs=12.8] Act992
+13.If a sum called in respect of a share is not paid before or on the day
+appointed for payment, the person from whom the sum is due shall
+pay interest on that sum from the date appointed for payment to
+the time of actual payment at the yearly rate not exceeding five
+percent that the board of directors may determine, but the board
+of directors shall be at liberty to waive payment of the interest
+wholly or in part.
+14.A sum which by the terms of issue of a share becomes payable on
+application for the shares or on allotment, or at a fixed date shall
+for the purposes of this constitution be treated as a call duly made
+and payable on the date on which by the terms of issue the sum
+becomes payable, and in the case of non-payment the relevant pro-
+visions of this constitution as to payment of interest and expenses,
+forfeiture, sale or otherwise shall apply as if that sum had become
+payable by virtue of a call duly made and notified.
+15.As between shares of the same class, the company shall not differ-
+entiate between the holders as to the amount of calls to be paid or
+the times of payment.
+16.If the company receives from a member all or any part of the moneys
+not presently payable or called upon any shares held by the member,
+the sum shall not be treated as a payment in respect of the shares
+until the sum becomes due and payable on the shares and in the
+meantime the sum shall be treated as a loan to the company upon
+which the company may pay interest at the yearly rate not exceeding
+five percent as may be agreed between the board of directors and
+the member.
+Forfeiture of shares
+17.If a member fails to pay any call or instalment of a call, including a
+sum treated as a call under clause 14 of this constitution, the board
+of directors may at any time during the time that a part of the call
+or instalment remains unpaid, serve a notice on the member
+requiring payment of so much of the call or instalment as is
+unpaid, together with the interest which may have accrued.
+18.The notice shall state a further day, not earlier than the expiration
+of fourteen days from the date of service of the notice on or before
+327
+
+===== PAGE 328 =====
+
+# [p328 fs=12.8] Act992Companies Act, 2019
+which the payment required by the notice is to be made, and shall
+state that in the event of non-payment at or before the times
+appointed, the shares in respect of which the call was made will be
+liable to be forfeited.
+19.If the requirements of the notice are not complied with, a share in
+respect of which the notice has been given may, at any time, before
+the payment required by the notice has been made, be forfeited by a
+resolution of the directors to that effect.
+20.A forfeited share may either be cancelled by amendment of this
+constitution or may be retained as a treasury share until sold or
+otherwise disposed of on the terms and in the manner the board of
+directors considers fit.
+21.A person whose shares have been forfeited ceases to be a member in
+respect of the forfeited shares and that person shall surrender to the
+company for cancellation the share certificate or certificates in
+respect of the shares so forfeited but shall, nonetheless, remain liable
+to pay to the company moneys which, at the date of the forfeiture,
+were payable by that person to the company in respect of the shares,
+but the liability of that person shall cease if and when the company
+receives payment in full of the moneys in respect of the shares.
+22.A statutory declaration in writing that the declarant is a director or
+the Company Secretary and that a share in the company has been
+duly forfeited on the date stated in the declaration, is conclusive
+evidence of the facts stated in the declaration as against a person
+claiming to be entitled to the share.
+Lien
+23.(1) The company shall have a first and paramount lien on the shares
+issued with an unpaid liability for the moneys, whether presently
+payable or not, called or payable at a fixed time in respect of the
+shares.
+(2) The lien of the company extends to all dividends payable on
+the shares.
+24.If a sum in respect of which the company has a lien is presently
+328
+
+===== PAGE 329 =====
+
+Companies Act, 2019
+# [p329 fs=12.8] Act992
+payable, the board of directors after serving the notice required by
+clauses 17 and 18 of this constitution may, at any time before the
+payment required by the notice has been made, sell a share on which
+the company has a lien instead of forfeiting it in accordance with
+clause 19 of this constitution.
+25.(1) To give effect to the sale, the board of directors may authorise a
+person to transfer the shares sold to the purchaser of the shares.
+(2) The purchaser shall be registered as the holder of the shares
+stated in the transfer and the purchaser shall not be bound to see to
+the application of the purchase money nor shall the title to the shares
+be affected by an irregularity or invalidity in the proceedings in
+reference to the sale.
+26.The proceeds of the sale shall be received by the company and ap-
+plied in payment of the part of the amount in respect of which the
+lien exists as is presently payable, and the residue shall, subject to a
+like lien for sums not presently payable as existed upon the shares
+before the sale, be paid to the person entitled to the share at the date
+of the sale, but the company is not bound to make the payment
+unless and until that person has surrendered to the company for
+cancellation the share certificate or certificates relating to the shares
+so sold.
+Transfer and transmission of shares
+27.(1) The board of directors may decline to register,
+(a)the transfer of a share on which there is an unpaid liability;
+or
+(b)the transfer of a share to a person who is an infant or to a
+person found by a court of competent jurisdiction in Ghana
+to be a person of unsound mind.
+(2)Subject to subclause (1), there shall be no restriction on the right to
+transfer any shares in the company.
+28.Shares shall be transferable and transfers shall be registered in the
+manner provided by sections 98 and 101 of this Act.
+329
+
+===== PAGE 330 =====
+
+# [p330 fs=12.8] Act992Companies Act, 2019
+29.In the event of the death of a member or in the event of the owner-
+ship of a share devolving on a person by reason of that person
+being the legal personal representative, receiver or trustee in bank-
+ruptcy of the holder, or by operation of law, section 102 of this Act
+shall apply.
+Dividends
+30.The company may by ordinary resolution declare dividends in
+respect of a year or other period but a dividend shall not exceed the
+amount recommended by the board of directors.
+31.The board of directors may exercise the power conferred by
+# [p330 fs=10.9] section 321 of the Act to pay interim dividends.
+32.A dividend shall not be paid unless,
+(a)the company will, after the payment, be able to pay its debts
+as they fall due; and
+(b)the amount of the payment does not exceed the amount of
+the retained earnings of the company immediately before
+the making of the payment.
+33.The board of directors may, before recommending a dividend, set
+aside out of the profits or retained earnings of the company, the
+sums that it considers proper in order to provide for a known
+liability, including a disputed or contingent liability, or as a
+depreciation or replacement provision and may carry forward any
+profits or retained earnings which the board of directors may
+consider prudent not to distribute.
+34.The dividends shall be declared and paid as a fixed sum for a share
+and not as a proportion of the amount paid in respect of a share.
+35.The board of directors may deduct from a dividend payable to a
+member the sums of money presently payable by the member to
+the company in respect of the shares.
+36.(1) A dividend payable in cash may be paid by cheque or warrant
+or electronic transfer sent by post directed to the registered address
+of the member or, in the case of joint holders, to the registered
+address of the person who is first named on the register of members,
+or to a person and to an address that the holder or joint holders
+may in writing direct.
+330
+
+===== PAGE 331 =====
+
+Companies Act, 2019
+# [p331 fs=12.8] Act992
+(2) A cheque or warrant shall be made payable to the order of the
+person to whom it is sent.
+(3) Any one of two or more joint holders may give effectual
+receipts for any dividends.
+(4) A dividend payment shall be accompanied by a statement showing
+the gross amount of the dividend, and the tax deducted or deemed
+to be deducted from the gross amount.
+37.A dividend shall not bear interest against the company.
+Capitalisation issues and non-cash dividends
+38.The company, on the recommendation of the directors, may exercise
+the powers conferred by section 77 of this Act,
+(a)to make capitalisation issues of shares in accordance with
+# [p331 fs=10.9] subsection (1) of section 77;
+(b)to resolve, in accordance with subsection (3) of section 77
+that a sum standing to the credit of the retained earnings
+of the company and which could have been distributed by
+way of dividend shall be applied in paying up amounts for
+the time being unpaid on shares; or
+(c)to direct, in accordance with subsection (4) of section 77
+that payment of a dividend shall be wholly or partly, by
+distribution of securities for money or fully paid shares or
+debentures of another body corporate or of fully paid
+debentures of the company.
+Branch registers
+39.The company may exercise the powers conferred by sections 106
+and 107 of this Act with respect to the keeping of branch registers
+and the board of directors may, subject to those sections, make the
+# [p331 fs=10.9] regulations that they think fit respecting the keeping of those regis-
+ters and may vary the regulations subject to those sections.
+331
+
+===== PAGE 332 =====
+
+# [p332 fs=12.8] Act992Companies Act, 2019
+Accounts and audit
+40.The board of directors shall cause accounting records to be kept
+and financial statements to be prepared, audited and circulated in
+accordance with sections 127 to 137 of this Act.
+41.Auditors, qualified in accordance with section 138 of this Act, shall
+be appointed and their duties regulated in accordance with sections
+139 to 142 of this Act.
+General meetings and resolutions
+42.The powers of the members in general meeting shall be as stated in
+# [p332 fs=10.9] section 144 of this Act.
+43.Annual general meetings shall be held in accordance with section
+157 of this Act.
+44.Extraordinary general meetings may be convened by the directors
+whenever they think fit in accordance with section 158 of this Act
+and shall be convened by the directors on a requisition of members
+in accordance with section 324 of this Act.
+45.Notice of general meetings shall be given in accordance with para-
+graphs 1 to 6 of the Eighth Schedule to this Act and section 168 of
+this Act and accompanied by any statements required to be circu-
+lated with the notice in accordance with paragraphs 5 and 6 of the
+Eighth Schedule to this Act and section 168 of this Act.
+46.Meetings may be attended by the persons referred to in paragraph 7
+of the Eighth Schedule to this Act but a member is not entitled to
+attend unless the calls or other sums presently payable by the mem-
+ber in respect of shares in the company have been paid.
+47.The quorum required for a general meeting shall be as stated in
+paragraph 8 of the Eighth Schedule to this Act.
+332
+
+===== PAGE 333 =====
+
+Companies Act, 2019
+# [p333 fs=12.8] Act992
+48.(1) In accordance with paragraph 9 of the Eighth Schedule to this
+# [p333 fs=10.9] Act a member entitled to attend and vote at a meeting of the com-
+pany is entitled to appoint another person, whether a member of
+the company or not, as a proxy to attend and vote instead of that
+member and the proxy shall have the same rights as the member to
+speak at the meeting.
+(2) An instrument appointing a proxy shall be in the following form
+or a form as near to the form as circumstances admit:
+“Gower McKenzie Company Limited
+I/We..............................of.............................being a member/
+members of the above-named company hereby appoint.......................
+of...................................as my/our proxy to vote for me/us on my/
+our behalf at the annual/extraordinary general meeting of the company
+to be held on the day of.....................20 ......... and at any adjourn-
+ment of that meeting.
+Signed this ......... day of......................20 ..................
+This form is to be used,
+*in favour of resolution numbered 1 against
+*in favour of resolution numbered 2 against”
+[Delete if only one resolution is to be proposed; add further instructions
+if more than two resolutions are to be proposed.]
+Unless otherwise instructed, the proxy will vote as the proxy thinks fit.
+*Strike out whichever is not desired”.
+49.A body corporate which is a member of the company may attend
+and vote either by proxy or by a representative appointed in accor-
+dance with paragraph 11 of the Eighth Schedule to this Act.
+50.(1) Meetings shall be conducted in accordance with paragraphs 12
+to 19 of the Eighth Schedule to this Act.
+333
+
+===== PAGE 334 =====
+
+# [p334 fs=12.8] Act992Companies Act, 2019
+(2) On a poll being demanded the chairperson of the meeting shall not
+be required to direct a postal ballot in accordance with sub- para-
+graphs(f),(g)and(h)of paragraph 16 of the Eighth Schedule to the
+# [p334 fs=10.9] Act unless the chairperson thinks fit or an ordinary resolution to
+that effect is moved at the meeting and passed on a show of hands.
+51.In accordance with section 163 of this Act, a resolution in writing
+signed by the members for the time being entitled to attend and
+vote at general meetings, or being bodies corporate by their duly
+authorised representatives, and if the company has only one mem-
+ber, by that member shall be as valid and effective for all purposes,
+except as provided by section 163 as if the resolution had been passed
+at a general meeting of the company duly convened and held, and
+if described as a special resolution shall be treated as a special reso-
+lution within the meaning of this Act.
+52.Minutes of general meetings shall be kept in accordance with
+# [p334 fs=10.9] section 166 of this Act.
+53.If at any time the shares of the company are divided into different
+classes, this constitution shall apply to meetings of a class of mem-
+bers in like manner as the constitution apply to general meetings
+but so that the necessary quorum shall be as set out in section 164 of
+this Act.
+Votes of members
+54.Subject to any rights of restrictions for the time being attached to a
+class of preference shares and which may be validly attached to
+that class pursuant to section 52 of this Act,
+(a)on a show of hands, each member and each proxy lawfully
+present at the meeting shall have one vote, and on a poll
+each member present in person or by proxy, shall have one
+vote for each share held by that member; or
+(b)in the event of a postal ballot being directed pursuant to
+subparagraphs(f),(g)and(h)of paragraph 16 of the Eighth
+# [p334 fs=10.9] Schedule to the Act, each member entitled to attend and
+vote at the meeting shall have one vote for each share held
+by that member.
+334
+
+===== PAGE 335 =====
+
+Companies Act, 2019
+# [p335 fs=12.8] Act992
+Directors
+55.The number of directors, not being less than five or more than
+twelve, shall be determined by ordinary resolution of the members
+in general meeting and until so determined shall be seven.
+56.The continuing directors may act despite a vacancy in their number
+but if and so long as the number of continuing directors is reduced
+below two or below the number fixed by the directors as the neces-
+sary quorum, the continuing directors may act for four weeks after
+the number is so reduced, but after that, may act only for the purpose
+of increasing their number to that number or of summoning a
+general meeting of the company and for no other purpose.
+57.The appointment of directors shall be regulated by sections 172,
+325 and 326 of this Act.
+58.The persons referred to in section 173 of this Act shall not be com-
+petent to be appointed directors of the company.
+59.A director need not be a member of the company or hold any shares
+in the company.
+60.The office of director shall be vacated in accordance with section
+175 of this Act and a director may be removed from office in
+accordance with section 176 of this Act.
+61.(1) The company may appoint substitute directors in accordance
+with section 180 of this Act and a director may appoint an alter-
+nate director in accordance with section 181 of this Act.
+(2) An alternate director is not entitled to be remunerated other-
+wise than out of the remuneration of the director appointing the
+alternate director.
+62.At least one director of the company shall at all times be resident in
+Ghana.
+63.The remuneration payable to a director in whatever capacity shall
+be determined or approved by the members in general meeting in
+accordance with section 185 of this Act.
+335
+
+===== PAGE 336 =====
+
+# [p336 fs=12.8] Act992Companies Act, 2019
+64.The proceedings of the directors shall be regulated by section 188
+of this Act and the board of directors may delegate any of their
+powers to committees of the directors in accordance with that
+# [p336 fs=10.9] section.
+65.Minutes of meetings of the board of directors and of a committee
+of directors shall be kept in accordance with section 188 of this
+Act.
+Powers and duties of directors
+66.(1) The business of the company shall be managed by the directors
+who may pay all expenses incurred in promoting and registering
+the company.
+(2) Subject to section 189 of this Act, the board of directors may
+exercise the powers of the company, including the power to bor-
+row money and to mortgage or charge property and undertaking
+or any part of the property and undertaking of the company and
+to issue debentures, that are not by this Act or this constitution
+required to be exercised by the members in general meeting.
+67.In a transaction with the company or on behalf of the company
+and in the exercise of their powers, the directors shall observe the
+duties and obligations imposed on them by sections 190 to 192 of
+this Act.
+68.Subject to compliance with section 194 of this Act, a director may
+enter into a contract with the company and the contract or any
+other contract of the company in which a director is in any way
+interested, shall not be liable to be avoided, nor shall a director be
+liable to account for a profit made pursuant to that contract by
+reason of the director holding the office of director, or of the fidu-
+ciary relationship established in respect of the contract.
+69.A director may act personally or by the firm of the director in a
+professional capacity for the company, except as auditor, and the
+director or the firm shall be entitled to proper remuneration for
+professional services as if the director were not a director.
+336
+
+===== PAGE 337 =====
+
+Companies Act, 2019
+# [p337 fs=12.8] Act992
+Executive and managing directors
+70.The board of directors may exercise the powers conferred by sec-
+tion 183 of this Act to appoint one or more of their number to any
+other office or place of profit under the company other than the
+office of auditor for the period, and on the terms that the board of
+directors may determine and, subject to the terms of an agreement
+entered into in a particular case, may revoke the appointment.
+71.(1) The board of directors may exercise the power conferred by
+# [p337 fs=10.9] section 184 of this Act to appoint one or more of their number to
+the office of managing director for the period and on the terms
+that they may determine and, subject to the terms of an agreement
+entered into in a particular case, may revoke the appointment which
+shall be automatically determined if the holder of the office ceases
+from any cause to be a director.
+(2) The directors may entrust to and confer on a managing director
+any of the powers exercisable by them on the terms and with the
+restrictions that the director think fit, and collaterally with, or to
+the exclusion of, their own power, and subject to the terms of an
+agreement entered into in a particular case, may revoke or vary all
+or any of those powers.
+72.Remuneration shall not be payable to a director in respect of any
+office or place of profit to which the director is appointed in this
+constitution, unless and until the terms of the appointment have
+been approved by ordinary resolution of the company in general
+meeting in accordance with section 185 of this Act.
+73.The Company Secretary shall be appointed by the board of directors
+for the time, at the remuneration, and on the conditions that the
+board of directors considers fit, and a Company Secretary so
+appointed may be removed by the board of directors, subject to the
+right of the Company Secretary to claim damages if removed in
+breach of contract.
+74.A provision in this Act or this constitution requiring or authorising
+a thing to be done by a director and the Company Secretary shall
+not be satisfied by the thing being done by a person acting both as
+director and as, or in place of, the Company Secretary.
+337
+
+===== PAGE 338 =====
+
+# [p338 fs=12.8] Act992Companies Act, 2019
+75.(1) The board of directors may appoint officers and agents of the
+company and may appoint a body corporate, firm of body of
+persons, whether nominated directly or indirectly, by the board of
+directors, to be the attorney or attorneys of the company for the
+purposes and with the powers, authorities and discretions, not
+exceeding those vested in or exercisable by the directors in this con-
+stitution, and for the period and subject to the conditions that the
+board of directors may think fit.
+(2) The powers of attorney may contain provisions for the protec-
+tion and convenience of persons dealing with the attorney which
+the directors think fit and may also authorise the attorney to del-
+egate all or any of the powers, authorities and discretions vested in
+the attorney.
+Service of Documents
+76.A document may be served by the company on a member, deben-
+ture holder or director of the company in the manner provided by
+# [p338 fs=10.9] section 290 of this Act.
+Winding up
+77.(1) If the company is being wound up, the liquidator may, with the
+sanction of a special resolution of the company and any other sanc-
+tion required by this Act or by the Bodies Corporate (Official
+Liquidations) Act, 1963 (Act 180) divide amongst the members in
+specie or kind the whole or part of the assets of the company,
+whether the assets consist of property of the same kind or not, and
+may for the purpose set a value that the liquidator considers fair
+upon the property to be divided and may determine how the divi-
+sion shall be carried out as between the members or different classes
+of members.
+(2) The liquidator may, with the like sanction vest the whole or a
+# [p338 fs=10.9] part of the assets in trustees upon the trusts for the benefit of the
+members that the liquidator, with the like sanction, thinks fit.
+(3) Despite any other provisions of this paragraph, a member
+shall not be compelled to accept any securities on which there is a
+liability.
+338
+
+===== PAGE 339 =====
+
+Companies Act, 2019
+# [p339 fs=12.8] Act992
+# [p339 fs=10.9] Interpretation
+78.In this constitution unless the context otherwise requires,
+(a)“Act” means the Companies Act, 2019 (Act 992);
+(b)words or expressions have the meaning assigned to them in
+this Act; and
+(c)references to sections of this Act mean the sections as speci-
+fied in this Act.
+339
+
+===== PAGE 340 =====
+
+# [p340 fs=12.8] Act992Companies Act, 2019
+FOURTH SCHEDULE
+(sections 24, 25, 27 and 301)
+Constitution of a Company Limited by Guarantee
+1.The income and property of the Society shall be applied solely
+towards the promotion of the objects of the Society and a portion
+of the income or property shall not be paid or transferred, directly
+or indirectly, by way of dividend, bonus or profit to a person who
+is a member of the Society or of its Council, but
+(a)the constitution shall neither prevent the payment in good
+faith, of reasonable and proper remuneration to an officer
+of the Society, to a member of the Society in return for any
+services actually rendered to the Society, nor shall it pre-
+vent the payment of interest at a yearly rate not exceeding
+the Ninety-One Day treasury bill rate for each hundred on
+money lent, or reasonable and proper rent for premises let
+to the Society;
+(b)a member of the Council of the Society shall not be
+appointed to a salaried office of the Society or office of the
+Society paid by fees;
+(c)a remuneration or other benefit in money or moneys’ worth
+shall not be given by the Society to a member of the
+Council except in repayment of out-of-pocket expenses and
+interestat the rate mentioned in paragraph(a)on money
+lent or reasonable and proper rent for premises let to the
+Society.
+2.Pursuant to section 18 of this Act, the Society has the powers of a
+natural person of full capacity.
+3.(1) The board of directors of the Society shall be known as the
+Council.
+(2) The first members of the Council are,
+(The Names of the first members)
+4.The powers of the Council are limited in accordance with sections
+189 and 195 of this Act.
+5.The liability of the members is limited.
+6.Each member of the Society undertakes to contribute to the assets
+of the Society in the event of the Society being wound up while
+340
+
+===== PAGE 341 =====
+
+Companies Act, 2019
+# [p341 fs=12.8] Act992
+that person is a member or within one year after that person ceases
+to be a member, for payment of the debts and liabilities of the
+Society and of the costs of winding up, the amount that may be
+required not exceeding [five thousand cedis].
+7.If upon the winding up or dissolution of the Society, there remains
+after the discharge of its debts and liabilities a property of the
+Society, the property shall not be distributed among the members
+but shall be transferred to any other company limited by guarantee
+having objects similar to the objects of the Society or applied to a
+charitable object, the other company or charity to be determined
+by ordinary resolution of the members in general meeting before
+the dissolution of the Society.
+Ordinary members
+8.(1) The subscribers to this constitution and any other persons who
+the Council admits to ordinary membership shall be members of
+the Society.
+(2) The members in general meeting may by ordinary resolution
+prescribe qualifications for membership of the Society and unless
+the resolution otherwise provides, a person shall not be admitted to
+membership by the Council unless that person has the prescribed
+qualifications.
+Associate members
+9.(1) The society in general meeting may resolve by ordinary resolu-
+tion that the Council may admit to associate membership of the
+Society and may prescribe qualifications for the associate member-
+ship.
+(2) Associate members shall be permitted to take part in the
+proceedings and functions of the Society that the resolution shall
+prescribe or, in default of prescription, that the Council considers
+fit, but shall not be members of the Society in its corporate capacity
+and shall not have a vote on a resolution at a general meeting of the
+Society, or be counted towards a quorum.
+341
+
+===== PAGE 342 =====
+
+# [p342 fs=12.8] Act992Companies Act, 2019
+Honorary membership
+10.(1) The Society in general meeting may resolve by ordinary reso-
+lution that the Council may admit to honorary membership of the
+Society a person, whether or not an ordinary or associate member
+of the Society, who in the opinion of the Council has rendered
+significant service to the Society or to any of the objects which the
+Society is formed to promote.
+(2) An honorary member, unless also admitted as an ordinary
+member of the Society, shall have the same rights as an associate
+member and if also admitted as an ordinary member, shall have
+the same rights as an ordinary member but is not liable to pay a
+subscription to the Society.
+Resignation or exclusion of members
+11.(1) Subject to compliance with section 8 of this Act, in the case of
+ordinary members of the Society,
+(a)any ordinary, associate or honorary member may resign
+membership by notice in writing to the Council;
+(b)the Council may exclude from membership of the Society
+an ordinary or associate member,
+(i)if the subscription payable to the Society by the
+ordinary or associate member is not paid six months
+after the same became due and payable; or
+(ii)if in the opinion of the Council the continued
+membership of that person would be detrimental
+to the interests of the Society or to the furtherance
+of its objects.
+(2) The ordinary members of the Society may by an ordinary reso-
+lution passed at a general meeting remove from office any member
+of the Council.
+(3)The Council may by a resolution passed at a meeting of the
+Council remove any member of the Society.
+Subscriptions
+12.(1) Ordinary and associate members shall pay the annual subscrip-
+tions that the members in general meeting on the recommendation
+of the Council may determine by ordinary resolution.
+342
+
+===== PAGE 343 =====
+
+Companies Act, 2019
+# [p343 fs=12.8] Act992
+(2) The subscription is due and payable on admission to member-
+ship and on the first day of January in each year or on any other
+date that the resolution shall provide.
+(3) The subscription may differ as between ordinary and associate
+members and a different subscription may be prescribed in the case
+of corporate bodies admitted to membership or in the case of a
+person admitted to membership, as representing an institution or
+unincorporated association.
+Accounts and audit
+13.The Council shall cause accounting records to be kept and financial
+statements to be prepared, audited and circulated in accordance
+with sections 127 to 137 of this Act.
+14.Auditors, qualified in accordance with section 138 of this Act, shall
+be appointed and their duties regulated in accordance with
+sections 139 to 143 of this Act.
+General meetings and resolutions
+15.Annual general meetings shall be held in accordance with section
+157 of this Act.
+16.Extraordinary general meetings may be convened by the Council
+whenever the Council considers fit in accordance with section 158
+of this Act, and shall be convened on the requisition of ordinary
+members in accordance with section 324 of this Act.
+17.Notice of general meetings shall be given in accordance with
+# [p343 fs=10.9] section 168 and paragraphs 1 to 6 of the Eighth Schedule to this
+# [p343 fs=10.9] Act and accompanied by any statements required to be circulated
+with the notice in accordance with section 168 and paragraphs 5
+and 6 of the Eighth Schedule to this Act.
+18.General meetings may be attended by the persons referred to in
+paragraph 7 of the Eighth Schedule to this Act and the quorum
+required shall be as stated in paragraph 8 to the Eighth Schedule of
+the Act.
+19.A member is not entitled to attend or vote at a general meeting by
+proxy.
+343
+
+===== PAGE 344 =====
+
+# [p344 fs=12.8] Act992Companies Act, 2019
+20.A body corporate which is a member of the Society may attend
+and vote at a general meeting by a representative appointed in
+accordance with paragraph 11 of the Eighth Schedule to this Act.
+21.(1) General meetings shall be conducted in accordance with para-
+graphs 12 to 19 of the Eighth Schedule to this Act.
+(2) The President, or in the absence of the President, the Vice-Presi-
+dent of the Society, shall preside as chairperson at general meeting
+but if neither is present within five minutes after the time appointed
+for holding the meeting, the members present shall choose one of
+their number to be chairperson of the meeting.
+(3) On a poll being demanded on a resolution at a general meeting,
+the chairperson of the meeting may direct a postal ballot of the
+ordinary members in accordance with subparagraphs(f),(g)and
+(h)of paragraph 16 of the Eighth Schedule to this Act, and shall so
+direct if an ordinary resolution to that effect is moved at the meet-
+ing and passed on a show of hands or if the resolution concerned
+is,
+(a)a special resolution, or
+(b)a resolution referred to in paragraphs 8, 9, 10, 11 or 12 of
+this constitution.
+22.In accordance with section 163 of this Act, a resolution in writing
+signed by the members, or being bodies corporate by the duly
+authorised representatives, shall be as valid and effective for all pur-
+poses, except as provided by section 163, as if the same had been
+passed at a general meeting of the Society duly convened and held,
+and if described as a special resolution, shall be deemed to be a
+special resolution within the meaning of this Act and this constitu-
+tion.
+23.Minutes of general meetings shall be kept in accordance with
+# [p344 fs=10.9] section 166 of this Act.
+Votes of members
+24.Each ordinary member present at a general meeting shall have one
+vote on a show of hands or a poll and if a postal ballot is directed
+in accordance with clause 21 and subparagraphs(f),(g)and(h)of
+paragraph 16 of the Eighth Schedule to this Act, each ordinary
+member, whether or not present at the meeting, shall have one vote.
+344
+
+===== PAGE 345 =====
+
+Companies Act, 2019
+# [p345 fs=12.8] Act992
+The Council
+25.The number of members of the Council, not being less than two
+and more than twelve, shall be determined by ordinary resolution
+of the members in general meeting and until so determined shall
+be nine.
+26.The continuing members of the Council may act despite a vacancy
+in their number but if and so long as their number is reduced
+below two or below the number fixed by the Council as the neces-
+sary quorum, they may act for four weeks after the number is so
+reduced, but after that, may act only for the purpose of increasing
+their number to that number or of summoning a general meeting
+of the Society and for no other purpose.
+27.Members of the Council shall be appointed from among the
+ordinary members of the Society in the manner set out in this clause:
+(a)at the first annual general meeting of the Society, the mem-
+bers of the Council shall retire from office and at the
+annual general meeting in a subsequent year, one-third of
+their number or, if their number is not three or a multiple
+of three, then the number nearest one-third shall retire from
+office;
+(b)the members of the Council to retire in every year shall be
+those who have served longest in office since their last elec-
+tion, but as between persons who became members on the
+same day, those to retire shall, unless the members other-
+wise agree among themselves, be determined by lot;
+(c)election to the Council shall be by secret ballot at which an
+ordinary member wishing to nominate another ordinary
+member or member for election to the Council shall notify
+the Secretary in writing, accompanied by the consent of
+the nominee in writing, at least twenty-one days before the
+date of the annual general meeting of the Society;
+(d)a retiring member is eligible for re-election without nomi-
+nation and shall be deemed to stand for re-election unless
+that retiring member notifies the Secretary in writing at
+least twenty-one days before the date of the annual general
+meeting, that the retiring member does not wish to stand
+for re-election;
+345
+
+===== PAGE 346 =====
+
+# [p346 fs=12.8] Act992Companies Act, 2019
+(e)if the number of nominees competent for appointment as
+members of the Council and retiring members offering
+themselves for re-election exceeds the number of vacancies
+to be filled, the Secretary shall, at least fourteen days before
+the date of the annual general meeting, send to each ordi-
+nary member a ballot paper containing a list of the names
+of the nominees and retiring members offering themselves
+for re-election requesting that ordinary member to indicate
+by means of a distinctive mark on the ballot paper the names
+of the persons for whom the ordinary member votes, and
+each member may vote for one or more persons not ex-
+ceeding in number, the number of vacancies to be filled;
+(f)a ballot paper shall not be valid unless returned to the regis-
+tered office of the Society not less than twenty-four hours
+before the time appointed for the annual general meeting
+and shall be counted by scrutineers appointed at the meet-
+ing who shall inform the chairperson of the meeting of the
+votes obtained by each candidate, and the chairperson shall
+announce the names of the successful candidates to the
+meeting;
+(g)a ballot paper on which votes have been cast in excess of
+the number of vacancies is not valid, and in case of doubt
+as to the validity of a ballot paper or the intention of the
+voter, the decision of the chairperson of the meeting shall
+be final and conclusive;
+(h)if the number of competent nominees and retiring mem-
+bers offering themselves for re-election does not exceed the
+number of vacancies, the chairperson of the meeting shall,
+subject to article 296 of the Constitution of the Republic,
+declare the candidates duly elected;
+(i)if the number so elected is less than the number of vacan-
+cies, the remaining vacancies may be filled as casual vacan-
+cies;
+(j)a casual vacancy in the number of members of the Council
+may be filled by the Council or by ordinary resolution of
+the members in general meeting in accordance with
+# [p346 fs=10.9] section 172 of this Act.
+346
+
+===== PAGE 347 =====
+
+Companies Act, 2019
+# [p347 fs=12.8] Act992
+28.The persons referred to in section 173 of this Act are not compe-
+tent to be appointed members of the Council.
+29.Membership of the Council shall be vacated in accordance with
+# [p347 fs=10.9] section 175 of this Act and a member may be removed from the
+Council in accordance with section 176 of this Act.
+30.(1) Proceedings of the Council shall be regulated by section 188 of
+this Act.
+(2) At the meetings of the Council, the President or in the absence
+of the President, the Vice-President if present, shall be chairperson.
+31.Minutes of meetings of the Council and of a committee of the
+Council shall be kept in accordance with section 188 of this Act.
+Powers and duties of the Council
+32.(1) The activities of the Society shall be managed by the Council
+who may pay the expenses incurred in promoting and registering
+the Society.
+(2) Subject to section 189 of this Act, the Council may exercise all
+the powers of the Society, including power to borrow money and
+to mortgage or charge the property of the Society and to issue
+debentures, that are not by this Act or this constitution required to
+be exercised by the members in general meeting.
+33.In a transaction with the Society or on behalf of the Society, the
+members of the Council shall, in the exercise of their powers,
+observe the duties and obligations imposed on them by sections
+190 to 192 of this Act.
+34.To the extent permitted by clause 1 of this constitution and subject
+to compliance with section 194 of this Act, a member of the Council
+may enter into a contract with the Society and the contract or any
+other contract of the Society in which a member of the Council is
+in any way interested, shall neither be liable to be avoided, nor shall
+a member of the Council be liable to account for a profit made as a
+result of that contract by reason of that member being a member
+of the Council or of the fiduciary relationship established by the
+contract.
+347
+
+===== PAGE 348 =====
+
+# [p348 fs=12.8] Act992Companies Act, 2019
+President and Vice-President
+35.(1) The Council at its first meeting and at its first meeting held
+after each annual general meeting, shall elect from the members a
+President and Vice-President of the Society who shall hold office
+for the ensuing year or until successors are elected.
+(2)A vacancy occurring in these offices shall be filled in like manner
+at the next meeting of the Council held after the occurrence of the
+vacancy.
+Committees
+36.(1) The Council may appoint committees from among its own
+members or from the members of the Society or from a combination
+of both.
+(2) The President, or if unable or unwilling to act, the Vice-President,
+shall be an ex-officio member of every committee.
+(3) The terms of reference and duration of office of the committees
+shall be prescribed by the Council and the committees are committees
+of the Council for the purposes of this Act.
+Secretary and treasurer and officers
+37.(1) The Council shall appoint a secretary and a treasurer or a
+secretary/ treasurer who may be a member of the Council or a
+member of the Society or neither.
+(2) Where a member of the Council is appointed the office shall
+be an honorary one without remuneration.
+(3) The Council may also appoint any other officer and agent as
+may be necessary or expedient.
+The Seal
+38.(1) The Council is empowered to adopt a common seal for use by
+the Society and shall provide for the safe custody of the seal.
+(2) The seal shall only be used by the authority of the Council or
+of a committee of the Council authorised by the Council in that
+behalf, and an instrument to which the seal is affixed shall be signed
+by a member of the Council and shall be countersigned by the
+Secretary or a second member of the Council or by some other
+person appointed by the Council for the purpose
+348
+
+===== PAGE 349 =====
+
+Companies Act, 2019
+# [p349 fs=12.8] Act992
+39.A document may be served by the Society on an ordinary member,
+debenture holder or member of the Council in the manner
+provided by section 290 of this Act and may be served in like manner
+on an associate or honorary member either personally or at the
+address provided by that member to the Society for the purpose of
+service of notices.
+# [p349 fs=10.9] Interpretation
+40.In this constitution, unless the context otherwise requires,
+(a)“Act” means the Companies Act, 2019. (Act 992);
+(b)words or expressions have the meaning assigned to them
+in this Act; and
+(c)references to sections of this Act mean the sections as
+specified in this Act.
+349
+
+===== PAGE 350 =====
+
+# [p350 fs=12.8] Act992Companies Act, 2019
+FIFTH SCHEDULE
+(Section 126)
+CONTENTS OF ANNUAL RETURN
+1.The name of the company.
+2.The nature of the authorised business or businesses of the company
+or, if the company is not formed for the purpose of carrying on a
+business, the nature of its objects.
+3.The address of the registered office of the company, the number of
+the post office box of the registered office and the telephone
+contact of the company.
+4.The address of the principal place of business of the company in
+Ghana and where applicable the website address.
+5.The particulars with respect to the persons who at the date of the
+return are the directors and Company Secretary of the company
+as are required by section 215 of this Act to be contained in the
+register of directors and Company Secretaries.
+6.The following personal particulars of every member of the com-
+pany:
+(a)the names and surnames and all former forenames and
+surnames;
+(b)the nationality;
+(c)residential and postal addresses;
+(d)business occupation; and
+(e)the number of shares held at the date of the return.
+7.The following particulars of each beneficial owner of the company;
+(a)the full name and any other former or other name;
+(b)the date and place of birth;
+(c)the telephone number;
+350
+
+===== PAGE 351 =====
+
+Companies Act, 2019
+# [p351 fs=12.8] Act992
+(d)the nationality, national identity number, passport number
+or other appropriate identification, and proof of identity;
+(e)residential, postal and e-mail address, if any;
+(f)place of work and position held;
+(g)the nature of interest including the details of the legal,
+financial, security, debenture or informal arrangement
+giving rise to the beneficial ownership; and
+(h)confirmation as to whether the beneficial owner is a politi-
+cally exposed person.
+8.Particulars of shares transferred since the last return by persons who
+are still members of the company, that is, the number of the shares
+and the date of registration of the transfer.
+9.Particulars of shares transferred since the last return by persons who
+have ceased to be members of the company, that is, the number of
+the shares and the date of registration of the transfer and the folio
+of the register containing particulars of that member.
+10.If the register of members of the company is kept and maintained
+elsewhere than at the registered office of the company, the address
+at which it is kept.
+11.If the company maintains a register of debenture holders elsewhere
+than at the registered office of the company, the address at which it
+is kept.
+12.Particulars of the total amount of the indebtedness of the com-
+pany in respect of the charges, particulars of which are required to
+be registered with the Registrar pursuant to Part L of Chapter Two
+of this Act.
+13.The names, countries of incorporation, and nature of the businesses
+of the subsidiaries of the company and of the bodies corporate in
+which the company is beneficially entitled to equity shares confer-
+ring the right to exercise more than twenty-five percent of the votes
+exercisable at a general meeting of the body corporate, but the infor-
+351
+
+===== PAGE 352 =====
+
+# [p352 fs=12.8] Act992Companies Act, 2019
+mation required by this paragraph need not be given if, and to the
+extent that, the information would conflict with a direction given
+by the Registrar under subsection (6) of section 136 of this Act.
+14.The number of directors meetings held within the year.
+15.The date of the last Annual General Meeting and the number of
+Extraordinary General Meetings held within the year.
+16.The financial statements and the audited independent report.
+17.If the company has shares,
+(a)the amount of the stated capital, distinguishing between
+the amounts attributable to each of the items specified in
+# [p352 fs=10.9] subsection (1) of section 68 of this Act;
+(b)the number of the authorised shares of each class;
+(c)the number of issued shares of each class;
+(d)the number of treasury shares of each class;
+(e)the total amount of any unpaid instalments or calls which
+are due and payable and the number and class of shares
+concerned;
+(f)the total number of shares of each class which have been
+forfeited;
+(g)in the case of a company limited by shares,
+(i)the total amount of the unpaid liability, on the shares
+of each class, which is not yet due for payment, and
+(ii)the amount, if any, of the unpaid liability on the
+shares which, pursuant to section 57 of this Act,
+the company has resolved shall not be capable of
+being called up except in the event, and for the
+352
+
+===== PAGE 353 =====
+
+Companies Act, 2019
+# [p353 fs=12.8] Act992
+purpose of the company being wound up.
+18.The date of filing the last Annual Returns.
+19.Unclaimed dividends.
+353
+
+===== PAGE 354 =====
+
+# [p354 fs=12.8] Act992Companies Act, 2019
+SIXTH SCHEDULE
+(Sections 129, 130, 131, 334 (4) (b) and 334 (8))
+FINANCIAL STATEMENTS
+# [p354 fs=10.9] PART ONE
+PROVISIONS AS TO PROFIT AND LOSS ACCOUNT OR
+STATEMENT OF COMPREHENSIVE INCOME
+1.There shall be separately shown,
+(a)gross sales, less discounts, returns, and allowances, or where
+appropriate, the amount of operating or other equivalent
+revenues;
+(b)the cost of goods sold as normally computed under the
+International Financial Reporting Standards or, where
+appropriate, the operating or other equivalent expenses;
+(c)selling, general and administrative expenses, and any other
+expenses that, under the International Financial Reporting
+Standards, would normally be deducted in arriving at the
+trading profit;
+(d)income from investments distinguishing between, income
+from
+(i)associated companies;
+(ii)other trade investments; and
+(iii) other investments;
+(e)income from any other sources, distinguishing between each
+significant source of income;
+(f)the amount charged to revenue by way of provision for the
+loss, diminution in value, depreciation, renewal or replace-
+ment of assets, in the Schedule referred to as depreciation
+or replacement provision in respect of property, plant and
+equipment;
+(g)interest on the debentures and other loans of the company
+other than those classified in the statement of financial
+position as current liabilities;
+(h)interest in respect of other loans and indebtedness of the
+354
+
+===== PAGE 355 =====
+
+Companies Act, 2019
+# [p355 fs=12.8] Act992
+company;
+(i)the aggregate of the amounts paid or payable by the com-
+pany to the directors of the company for the financial year
+required to be disclosed in accordance with section 132 of
+this Act, together with a statement, by way of note, of the
+amounts paid or payable by other persons than the com-
+pany;
+(j)the remuneration of the auditors of the company including
+the sums paid by the company in respect of the expenses of
+the auditors;
+(k)the amounts of the charges and credits for income tax showing,
+by way ofnote or otherwise, the amounts ofeach
+distinct tax with a description of the tax and a statement of
+the period in respect of which the tax is payable;
+(l)the amounts of charges and credits in respect of discount
+or premiums on debentures;
+(m)a profit or loss arising on the sale, realisation or disposal of
+property, plant and equipment;
+(n)any preliminary expenses, and expenses incurred on the
+issue of shares or debentures, including the sums paid by
+way of commission or brokerage on the issue of shares or
+debentures;
+(o)the amount of the voluntary contributions to any chari-
+table or other funds, other than pension funds for the
+benefit of employees of the company or an associated
+company; and
+(p)any other expenses, distinguishing between each significant
+class of expense.
+2.If any of the items shown in the profit and loss account or state-
+ment of comprehensive income are stated net of income tax relating
+to the account, this shall be indicated.
+3.There shall be stated by way of note or otherwise, any material
+respects in which any items shown in the profit and loss account or
+statement of comprehensive income are affected by
+(a)a change in the basis of accounting;
+(b)an amount relating to an earlier financial year; and
+(c)an adjustment arising from the over or under statement of
+revenue or expenses in the profit and loss account or state-
+355
+
+===== PAGE 356 =====
+
+# [p356 fs=12.8] Act992Companies Act, 2019
+ment of comprehensive income of an earlier financial year;
+and a statement made under this paragraph shall indicate the
+amount by which the profit and loss account or statement of com-
+prehensive income has been affected and whether that represents
+an addition to or a deduction from the profit that would otherwise
+have been shown.
+4.If an item in the profit and loss account or statement of compre-
+hensive income includes an amount in respect of money provided
+under paragraph(c)of section 60 of this Act, this fact shall be
+indicated by way of note or otherwise and the amount of the item
+stated, and so far as any money provided under that subsection is
+included in the amount stated in accordance with section 132 of
+this Act, the amount so included shall also be indicated.
+5.The balance of the profit and loss account or statement of compre-
+hensive income after the inclusion of the items required by para-
+graphs 1 to 4 so far as these are relevant to the figures in the
+account, shall be transferred to an account to be called the retained
+earnings.
+6.An amount shall not be credited to the profit and loss account or
+statement of comprehensive income that cannot properly enter into
+the composition of the retained earnings in accordance with
+# [p356 fs=10.9] section 71 of this Act.
+7.An amount shall not be debited to the profit and loss account or
+statement of comprehensive income in respect of an addition to a
+reserve other than by way of transfer of the balance of the profit
+and loss account or statement of comprehensive income for the
+financial year to the retained earnings, clearly indicated and in par-
+ticular amount shall not be debited to the profit and loss account or
+statement of comprehensive income other than as a transfer to the
+retained earnings, unless it is the amount of an actual money outlay
+or is in the opinion of the directors reasonably necessary in order
+to provide for known future expenditure or for a known liability,
+which term includes a disputed or contingent liability, or for a known
+or estimated loss in value of current assets, or as a depreciation or
+replacement provision.
+356
+
+===== PAGE 357 =====
+
+Companies Act, 2019
+# [p357 fs=12.8] Act992
+8.An amount shall not be credited to the profit and loss account or
+statement of comprehensive income in respect of a withdrawal
+from a reserve other than by way of transfer of the balance of the
+profit and loss account or statement of comprehensive income for
+the financial year to the retained earnings clearly indicated.
+9.If a company is under an obligation to transfer or set aside a sum
+to reserve out of profits of the company, this obligation is fulfilled
+if the sum is transferred to stated capital or if a note is made upon
+the statement of financial position in accordance with paragraph
+35 of this Schedule to the effect that the company is under an obli-
+gation to withhold from distribution as dividend a corresponding
+# [p357 fs=10.9] part of the retained earnings.
+10.Except in the case of the first profit and loss account or statement
+of comprehensive income drawn up after the commencement of
+this Act the corresponding amount of each item for the immedi-
+ately preceding financial year shall be shown.
+11.Where the amount of an item shown in the profit and loss account
+or statement of comprehensive income or included in an amount
+shown cannot be determined with substantial accuracy, an estimated
+amount described as an estimate shall be included in respect of
+that item and shall be distinguished, by way of note or otherwise,
+together with a description of the item.
+12.A provision of this Schedule with respect to the information to be
+shown in the profit and loss account or statement of comprehensive
+income does not require the amount of an item that is of no mate-
+rial significance to be shown separately.
+357
+
+===== PAGE 358 =====
+
+# [p358 fs=12.8] Act992Companies Act, 2019
+# [p358 fs=10.9] PART TWO
+PROVISIONS AS TO STATEMENT OF FINANCIAL POSITION
+General
+13.The assets and liabilities shall be classified under headings appro-
+priate to the business of the company, distinguishing between
+current and non-current assets including property, plant and equip-
+ment, and between current liabilities and other liabilities, and each
+class shall be described in a way adequate to indicate the general
+nature of the assets or liabilities included in that class in accor-
+dance with the International Financial Reporting Standards and
+consistent with industry best practice.
+Assets
+14.Without limiting paragraph 13, the following classes of assets shall,
+so far as they are appropriate to the affairs of the company, be
+distinguished:
+(a)interests in land, distinguishing between land owned
+absolutely and land held for a term of years or other period;
+(b)goodwill, patents, trade-marks, development expenditure,
+and other intangible assets of a like nature;
+(c)trade investments;
+(d)loans and advances;
+(e)trading inventory, distinguishing where practicable between,
+(i)inventory of raw materials and components;
+(ii)work-in-progress;
+(iii)inventory of finished products; and
+(iv)other inventory;
+(f)trade debtors;
+(g)bills of exchange and promissory notes;
+(h)payments-in-advance;
+(i)marketable securities; and
+(j)cash in hand and in the bank.
+15.A class of assets shall not stand in the statement of financial
+position at a value, which, after deduction of the aggregate depre-
+358
+
+===== PAGE 359 =====
+
+Companies Act, 2019
+# [p359 fs=12.8] Act992
+ciation or replacement provision relating to the assets is in the opin-
+ion of the directors greater than,
+(a)the value which those assets could reasonably be expected
+to realise in the market after deduction of any expenses
+incurred in order to realise them, or
+(b)the value which is reasonably justified by the expected
+contribution of those assets to the business, whether by sale
+in the ordinary course of business or otherwise; but in the
+case of a company whose sole or main object is that of
+carrying on the business of extracting a mineral deposit,
+the Registrar may, on the application of the company, and
+on the conditions that the Registrar considers appropriate,
+authorise a wasting asset held for the purpose of the busi-
+ness in question to be shown in the statement of financial
+position at cost.
+16. (1) Assets shall be shown at a value after deduction of the aggregate
+depreciation or replacement provision relating to those assets or at
+a value before this deduction, in the Schedule described as the gross
+value.
+(2) If shown at the gross value the aggregate depreciation or
+replacement provision relating to that value shall be shown as a
+separate item and shall be so described as to identify it with the
+class of assets to which it refers.
+17.(1) There shall be included in or attached to the statement of financial
+position in respect of each class of property, plant and equipment
+shown in the statement of financial position, a statement contain-
+ing the following information:
+(a)the gross value;
+(b)the original cost, if this differs from the gross value;
+(c)the aggregate depreciation or replacement provision;
+(d)if the gross value differs from the original cost, a statement
+explaining how the gross value has been calculated, and as
+at what date;
+(e)whether the depreciation or replacement provision has been
+calculated on the basis of,
+(i)the original cost of the assets;
+(ii)the replacement value of the assets;
+(iii)some other basis;
+and where the depreciation or replacement provision is not
+based on original cost, the general principle used in calcu-
+359
+
+===== PAGE 360 =====
+
+# [p360 fs=12.8] Act992Companies Act, 2019
+lating the replacement cost or other valuation on which it
+is based shall be stated;
+(f)a statement reconciling both the gross value and the aggre-
+gate depreciation or replacement provision with the equiva-
+lent figures at the end of the immediately preceding financial
+year, and in particular showing,
+(i)the amount of an addition to the gross value and to
+a depreciation or replacement provision relating to
+the addition indicating the nature of the addition;
+and
+(ii)the amount of a deduction from the gross value and
+from the aggregate depreciation or replacement
+provision relating to that amount arising from sale
+or otherwise, indicating the reason for the deduc-
+tion and showing any profit or loss arising from
+the transaction.
+(2) So far as information required to be shown by this paragraph
+relating to matters arising before the commencement of this Act
+cannot be ascertained without unreasonable delay or expense, the
+paragraph may be modified with respect to that information as the
+directors consider appropriate, and in that case the statement in or
+attached to the statement of financial position in accordance with
+this paragraph, shall indicate in what respects the information
+shown has been modified as the result of the operation of this para-
+graph.
+18.There shall be included in or attached to the statement of financial
+position, statements reconciling respectively, the amounts stated in
+accordance with sub-sub paragraph(f)of subparagraph (1) of para-
+graph 17 of this Schedule in respect of additions to and deductions
+from the depreciation or replacement provision with the amount
+stated in the profit and loss account or statement of comprehensive
+income for depreciation or replacement provision in accordance
+with subparagraph(f)of paragraph 1 of Part One of this Schedule,
+and reconciling a profit or loss on the sale, realisation or disposal
+360
+
+===== PAGE 361 =====
+
+Companies Act, 2019
+# [p361 fs=12.8] Act992
+of any property, plant and equipment stated in accordance with
+paragraph 17 with the amount stated in the profit and loss account
+or statement of comprehensive income in accordance with sub-
+paragraph(m)of paragraph (1) of Part One of this Schedule.
+19.For each class of current assets there shall be provided, by way of
+note or otherwise, information sufficient to indicate the basis of
+valuation and in particular the nature of the valuation procedure
+followed in arriving at the statement of financial position value.
+20.Assets in respect of which different methods or basis of valuation
+or provision for depreciation or replacement are used shall for the
+purposes of this Schedule, be regarded as assets of different classes.
+21.There shall be shown the aggregate of the amounts due to the com-
+pany at the end of the financial year which are included in the
+sums disclosed in accordance with section 133 of this Act together
+with a statement, by way of note, of the other information required
+to be disclosed by that section.
+22.There shall be shown the aggregate of the amounts due to the com-
+pany in respect of advances made in accordance with section 60 of
+this Act.
+23.The amount of any preliminary expenses, and expenses incurred
+on the issue of shares or debentures, including any sums paid by
+way of commission or brokerage on the issue of shares or deben-
+tures, shall be debited to the profit and loss account and shall not be
+treated as an asset.
+24.The expenses incurred on the issue of shares when determined to
+be direct and incremental shall be deducted from the total proceeds
+on issue and any other expenses that are not direct and incremen-
+tal shall be debited to the profit and loss account or statement of
+comprehensive income.
+Liabilities
+25.For the purposes of this Act, current liabilities are liabilities due
+and payable, other than liabilities, the payment of which may, at
+the option of the company, be postponed within twelve months of
+the date of the statement of financial position together with any
+other liabilities that are under the International Financial Reporting
+361
+
+===== PAGE 362 =====
+
+# [p362 fs=12.8] Act992Companies Act, 2019
+Standards appropriately so classified.
+26.Without limiting paragraph 13 of this Schedule, each of the following
+classes of liabilities shall, so far as they are applicable to the busi-
+ness of the company, be distinguished:
+(a)bank borrowings and overdrafts;
+(b)bills of exchange and promissory notes payable;
+(c)trade creditors;
+(d)the net amount payable to members in respect of dividends
+declared or recommended;
+(e)any amounts due to directors and other officers of the com-
+pany other than items arising in the ordinary course of
+business;
+(f)income tax, distinguishing between different taxes and
+between amounts due in respect of different fiscal periods;
+(g)debts secured by debentures, other than those shown under
+subparagraph(a)stating in respect of each class of deben-
+tures the date or dates on or after which the company has
+the option of redemption, and the date or dates on or before
+which the company is under the obligation finally to
+redeem the loans or debentures or any part of the loans or
+debentures specifying in each case the proportion of the
+total issue that may or must be redeemed, and the redemp-
+tion price;
+(h)any borrowing other than those stated in this paragraph;
+and
+(i)other accrued liabilities.
+27.A liability shall not stand in the statement of financial position at a
+value less than the amount at which the liability is repayable other
+than at the option of the company, at the statement of financial
+position date or, if the liability is not then repayable at the amount
+at which the liability will first become so repayable at an earlier
+date after that date, where appropriate, a reasonable deduction for
+discount until that date.
+28.If a liability of the company is secured otherwise than by the
+operation of law on any assets of the company, the fact that the
+362
+
+===== PAGE 363 =====
+
+Companies Act, 2019
+# [p363 fs=12.8] Act992
+liability is so secured shall be stated, together with a statement of
+the assets upon which it is secured, and, where more than one class
+of liabilities is so secured, their relative priorities with respect to
+payment of interest and redemption.
+29.If any of the debentures of the company have been beneficially
+acquired by the company or by a nominee acting on behalf of the
+company, the amount of these debentures, calculated on the same
+basis as the total amount standing in the statement of financial
+position in respect of the debentures of that class, shall, unless the
+debentures so purchased are cancelled, be shown as a deduction
+from that total; and if the amount of the debentures purchased is
+greater or less than the amount expended upon purchase, the dif-
+ference shall be shown in the profit and loss account or statement
+of comprehensive income as if it were a premium or discount on
+debentures.
+30.There shall be stated by way of note or otherwise, particulars of
+any debentures of the company that have been redeemed or pur-
+chased by or on behalf of the company which the company has
+power to re-issue.
+31.There shall be included in or attached to the statement of financial
+position in respect of each class of liabilities referred to in subpara-
+graphs(f)and(g)of paragraph 26 of this Schedule that is shown in
+the statement of financial position at the end of the immediately
+preceding financial year, a statement containing the following
+information:
+(a)the balance shown at the end of the immediately preceding
+financial year;
+(b)the amounts of additions to, and deductions from, the state-
+ment of financial position during the financial year ending
+on the date of the statement of financial position, with
+particulars of the additions and deductions sufficient to
+identify clearly the source of each item; and
+(c)the balance at the date of the statement of financial
+position.
+363
+
+===== PAGE 364 =====
+
+# [p364 fs=12.8] Act992Companies Act, 2019
+Reserves
+32.There shall be recorded in an account, to be called the reserves
+account, the amount by which the reserves, as defined in section 70
+of this Act, exceeds the credit balance on the share deals account
+plus the balance on the retained earnings if a credit, or minus if
+that balance is a debit.
+33. (1) There shall be shown
+(a)the stated capital of the company distinguishing between
+amounts relating to different classes of shares;
+(b)the amount standing to the credit of the reserves account;
+(c)the amount standing to the credit of the share deals account;
+(d)the balance of retained earnings, and if that balance is a
+debit balance, it shall be deducted from the sum of the three
+preceding amounts.
+(2)There shall be included in or attached to the statement of financial
+position in respect of each item referred to in subparagraph (1) of
+this paragraph that is shown in the statement of financial position
+at the end of the immediately preceding financial year, a statement
+containing the following information:
+(a)the balance shown at the end of the immediately preceding
+financial year;
+(b)the amounts of any additions to, and deductions from, that
+balance during the financial year, with particulars of the
+additions and deductions sufficient to identify clearly the
+source of each item; and
+(c)the balance at the date of the statement of financial posi-
+tion.
+(3)The aggregate amounts of dividends paid or recommended, net of
+the tax deductible from those amounts distinguishing between divi-
+dends on different classes of shares, shall be debited to retained
+earnings.
+34.There shall be shown in the statement of financial position, or in a
+# [p364 fs=10.9] schedule attached to the statement of financial position,
+(a)the amount of stated capital attributable to each of the items
+specified in subsection (1) of section 68 of this Act, distin-
+364
+
+===== PAGE 365 =====
+
+Companies Act, 2019
+# [p365 fs=12.8] Act992
+guishing, in the case of items (a) and (b) between different
+classes of shares;
+(b)the number of authorised shares of each class;
+(c)the number of issued shares of each class;
+(d)the number of treasury shares of each class;
+(e)the amount of any unpaid instalments or calls on shares
+which are due and payable and the number and class of
+shares concerned;
+(f)in the case of a company limited by shares,
+(i)the amount of the unpaid liability, on the shares of
+each class, which is not yet due for payment; and
+(ii)the amount of the unpaid liability which, pursuant
+to section 57 of this Act, the company has resolved
+shall not be capable of being called up except in the
+event and for the purpose of the company being
+wound up;
+(g)in respect of any shares on which there are any arrears of
+fixed dividends, the total amount of the arrears, stating
+whether the amount is net or gross of the tax that may be
+deducted;
+(h) if an issue of shares has been made in contemplation of
+the redemption of preference shares out of the proceeds of
+the issue, a statement to that effect and of the total amount
+made available for use in the redemption; and
+(i)the number of shares which a person has an option to
+subscribe for, distinguishing those in respect of which the
+option can be exercised by directors of the company,
+together with the following particulars of each option:
+(i)the period or periods during which it is exercisable;
+and
+(ii)the price or prices during each period to be paid for
+shares subscribed for under the option.
+35.There shall be stated by way of note an amount standing to the
+365
+
+===== PAGE 366 =====
+
+# [p366 fs=12.8] Act992Companies Act, 2019
+credit of the retained earnings which the company is, in accordance
+with paragraph 9 of this Schedule or otherwise, under an obliga-
+tion not to distribute by way of dividend.
+Supplementary
+36.There shall be stated by way of note or otherwise,
+(a)the basis on which foreign currencies have been converted
+into Ghanaian currency;
+(b)particulars of a charge on the assets of the company to
+secure the liabilities of any other person, including a state-
+ment of the amount or estimated amount secured;
+(c)the general nature of any contingent liabilities not provided
+for and not otherwise disclosed and the amount or estimated
+amount of those liabilities;
+(d)the general nature of contracts for capital expenditure not
+provided for and the amount or estimated amount of those
+contracts; and
+(e)the general nature of any credit facilities available to the
+company under a contract, other than trade credit available
+in the ordinary course of business, and not taken up at the
+end of the financial year.
+37.Except in the case of the first statement of financial position drawn
+up after the commencement of this Act there shall be shown the
+corresponding amount of each item for the immediately preceding
+financial year.
+38.Where an item shown in the statement of financial position or in-
+cluded in amounts shown in the statement of financial position
+cannot be determined with substantial accuracy, an estimated
+amount described as such shall be included in respect of that item
+and shall be distinguished, by way of note or otherwise, together
+with a description of the item.
+39.A provision of this Schedule with respect to the information to be
+shown in the statement of financial position does not require the
+366
+
+===== PAGE 367 =====
+
+Companies Act, 2019
+# [p367 fs=12.8] Act992
+amount of an item that is of no material significance to be shown
+separately.
+# [p367 fs=10.9] PART THREE
+PROVISIONS APPLICABLE TO HOLDING COMPANIES
+40.This Part of this Schedule shall apply where the company is a holding
+company as defined in the First Schedule.
+41.There shall be stated by way of note or otherwise,
+(a)the total number of shares held by or on behalf of the com-
+pany in each of its associated companies, and
+(b)the total number of the shares and amount of debentures
+of the company held by or on behalf of subsidiaries, but
+excluding in both cases shares and debentures held as per-
+sonal representative or as trustee of a trust in which neither
+the company nor any of the associated companies is ben-
+eficially interested otherwise than by way of security in the
+ordinary course of business, distinguishing shares and
+debentures of different classes, and stating the total number
+of shares and the amount of debentures of each class in
+issue at the date of the balance sheet.
+42.Where it is reasonably practicable, the amount included under each
+head of revenue or expense shown in the income statement that is
+received or receivable from, or paid or payable to, an associated
+company shall be distinguished.
+43.The amount included in each class of assets shown in the state-
+ment of financial position in respect of financial interests in asso-
+ciated companies shall be distinguished.
+44.The amount included in each class of liabilities shown in the state-
+ment of financial position in respect of indebtedness to associated
+companies shall be distinguished.
+45.Where consolidated financial statements are not prepared, there
+shall be attached to the statement of financial position, a statement
+showing,
+(a)the reasons why subsidiaries are not dealt with in the
+367
+
+===== PAGE 368 =====
+
+# [p368 fs=12.8] Act992Companies Act, 2019
+consolidated financial statements;
+(b)the net aggregate amount, so far as it concerns the interests
+of the holding company, of the balances transferred from
+the income statements of the subsidiaries to the retained
+earnings accounts of the holding company, or the equiva-
+lent amount in the case of foreign or other subsidiaries not
+having retained earnings accounts,
+(i)for the respective financial years of the subsidiaries
+ending with or during the financial year of the com-
+pany giving, so far as is practicable, the same infor-
+mation with respect to that amount as is required
+by paragraph 3 of this Schedule to be given with
+respect to the statement comprehensive income of
+the company;
+(ii)for the total period covered by the previous finan-
+cial years of the subsidiaries since they respectively
+became the subsidiaries of the holding company so
+far as it has not been dealt with in the accounts of
+the company of a previous financial year;
+(c)the net aggregate amount so transferred so far as this
+amount is dealt with in the accounts of the company for
+the financial year; and
+(i)any qualifications contained in the report of the
+auditors of the subsidiaries on the financial state-
+ments of the subsidiaries for their respective finan-
+cial years ending as stated in subparagraph (i) of
+paragraph(b), and any note or saving contained in
+those financial statements to call attention to a mat-
+ter which, apart from the note or saving, would
+properly have been referred to in that qualification
+in so far as the matter, which is the subject of the
+qualification or note is not covered by the financial
+statements of the company, and is material from
+the point of view of the interest of the company,
+or, in so far as the information required by this para-
+368
+
+===== PAGE 369 =====
+
+Companies Act, 2019
+# [p369 fs=12.8] Act992
+graph is not obtainable, a statement that it is not
+obtainable.
+46.Subparagraphs(b)and(c)of paragraph 45 shall apply only to the
+amounts that could properly enter into the composition of the
+retained earnings of the holding company.
+47.There shall be stated by way of note, in accordance with subsection
+(9) of section 131 of this Act, in relation to subsidiaries, whose
+financial years do not coincide with that of the company,
+(a)the reasons why the directors of the company consider that
+the financial years of the subsidiaries should not coincide;
+and
+(b)the name of each subsidiary whose financial year does not
+coincide with that of the holding company and the date on
+which its relevant financial year ended.
+48.The consolidated financial statements, if prepared as consolidated
+financial statements, shall combine the information contained in
+the separate statement of financial position and income statements
+of the holding company and of the subsidiaries dealt with by the
+consolidated financial statements with the adjustments, that the
+directors consider appropriate, and the consolidated financial state-
+ments shall, in giving the information, comply so far as is practi-
+cable, with the requirements of this Act as if they were the financial
+statements of a single company.
+49.Where consolidated financial statements are prepared and the fi-
+nancial statements of some subsidiaries are not incorporated in
+the consolidated financial statements, the consolidated financial
+statements shall incorporate with respect to those subsidiaries,
+information equivalent to that required to be given in the financial
+statements of the holding company.
+50.Where consolidated financial statements are prepared other than
+in the form of consolidated financial statements, they shall provide
+the same information, so far as is relevant and material, as would
+369
+
+===== PAGE 370 =====
+
+# [p370 fs=12.8] Act992Companies Act, 2019
+have been provided by consolidated financial statements.
+# [p370 fs=10.9] PART FOUR
+EXEMPTIONS
+FOR SPECIAL CLASSES OF COMPANIES
+51.Paragraphs, 4, 5, 6, 9, 22, 32, 33, 34 and 35 of this Schedule shall
+not apply to a company limited by guarantee.
+52.(1) A company licensed to carry on the business of banking shall
+not be subject to Part One or Two of this Schedule other than
+paragraphs 1(f),(g),(i),(j)and(p), 2, 3(a)and paragraphs 4, 5, 9,
+10, 11, 12, 13, 15, 16, 21, 22, 23, 27, 29, 30, 34, 35, 37, 38 and 39.
+(2) Where a banking company as is referred to in subparagraph (1)
+has reserves which are not separately stated in the statement of fi-
+nancial position, a heading in the statement of financial position
+stating an amount arrived at after taking into account that reserve
+or a transfer to, or from, that reserve shall be so framed or marked
+as to indicate that fact, and the statement of comprehensive
+income shall indicate by appropriate words the manner in which
+the amount stated for the profit or loss of the company has been
+arrived at.
+53.(1) The Minister may, in the national interest and by legislative
+instrument, prescribe that, companies of a class described in the
+instrument shall be exempt from any of the provisions of this Schedule,
+but a company taking advantage of this paragraph shall be subject
+to the conditions prescribed in the instrument as to matters to be
+stated in the financial statements, or by way of note to the financial
+statements and as regards information to be furnished to the
+Minister or to the Registrar.
+(2) If the Minister is satisfied that any of the conditions has not
+been complied with in the case of a company, the Minister may
+direct that so long as the direction remains in force, the company
+shall be excluded from the exemption, wholly or to the extent speci-
+370
+
+===== PAGE 371 =====
+
+Companies Act, 2019
+# [p371 fs=12.8] Act992
+fied in the direction, although the company is a company of the
+class prescribed in the instrument.
+54.Despite an exemption conferred by or under this Part of this Schedule,
+the financial statements of a company shall give the true and fair
+view required by this Act, but the financial statements shall not be
+regarded as not giving a true and fair view by reason of the fact
+that the financial statements do not comply with any of the provi-
+sions of this Schedule from which the company is exempt by
+reason of this Part of this Schedule or an instrument made under
+the Schedule.
+55.Where the company entitled to an exemption under this Part of
+this Schedule is a holding company, the consolidated financial state-
+ments, if prepared as consolidated financial statements, shall be
+regarded as complying with the requirements of this Act if the con-
+solidated financial statements comply with the requirements ap-
+plying to the separate financial statements of the company.
+371
+
+===== PAGE 372 =====
+
+# [p372 fs=12.8] Act992Companies Act, 2019
+SEVENTH SCHEDULE
+(section 137)
+Matters to be Expressly Stated in the Report of the Auditors
+1.Whether the auditors have obtained the information and explana-
+tions which to the best of the knowledge of the auditors and belief
+were necessary for the purposes of the audit.
+2.Whether, in the opinion of the auditors, proper books of account
+have been kept by the company, so far as appears from the exami-
+nation of those books, and proper returns adequate for the pur-
+poses of the audit have been received from branches not visited by
+the auditors.
+3.Whether the statement of financial position of the company and,
+unless it is designated as a consolidated profit and loss account or
+statement of comprehensive income, profit and loss account or
+statement of comprehensive income dealt with by the report, are
+in agreement with the accounting records and returns.
+4.Whether, in the opinion of the auditors and to the best of their
+information and according to the explanations given to the audi-
+tors, the accounts give the information required by this Act in the
+manner so required and give a true and fair view,
+(a)in the case of the statement of financial position, of the
+state of affairs of the company at the end of the financial
+year, and
+(b)in the case of the profit and loss account or statement of
+comprehensive income, of the profit or loss for the finan-
+cial year,of the statement of financial position or the profit
+and loss account or statement of comprehensive income
+subject to the non-disclosure of any matters to be indicated
+in the report, which by virtue of Part Four of the Sixth
+# [p372 fs=10.9] Schedule to this Act, are not required to be disclosed.
+5.In the case of a holding company submitting group accounts,
+372
+
+===== PAGE 373 =====
+
+Companies Act, 2019
+# [p373 fs=12.8] Act992
+whether, in the opinion of the auditors, the group accounts have
+been properly prepared in accordance with this Act so as to give a
+true and fair view of the state of affairs and profit or loss of the
+company and its subsidiaries dealt with so far as it concerns the
+interests of the company or so as to give a true and fair view of
+those affairs or of the profit or loss subject to the non-disclosure of
+any matters to be indicated in the report, which by virtue of Part
+Four of the Sixth Schedule to this Act are not required to be
+disclosed.
+6.Whether the auditors were independent of the company under
+audit pursuant to section 143 of this Act.
+373
+
+===== PAGE 374 =====
+
+# [p374 fs=12.8] Act992Companies Act, 2019
+EIGHTH SCHEDULE
+(Sections 157, 160, 161, 164, 168, 169, 176, 299, 324 (5))
+Procedure for General Meetings
+1.Notice of meetings
+(a)Meetings, other than adjourned meetings, shall be convened
+by notice in writing to the persons who are, under subpara-
+graph(f), entitled to receive notice of general meetings.
+(b)Subject to subparagraphs(c)and(d), at least twenty-one
+days notice, or in the case of a special resolution under
+# [p374 fs=10.9] section 2 of the Bodies Corporate (Official Liquidations)
+Act, 1963 (Act 180), seven days notice exclusive of the day
+on which the notice is served, but inclusive of the day for
+which notice is given, shall be given.
+(c)The registered constitution of a company may provide for
+a period of notice longer, but not shorter, than that speci-
+fied in subparagraph(b).
+(d)A meeting of a company shall, although it is called by
+shorter notice than that specified in subparagraph(b), or
+in the registered constitution of the company, be deemed
+to have been duly called if it is so agreed,
+(i)in the case of a meeting called as the annual general
+meeting, by the members entitled to attend and vote
+at that meeting, and
+(ii)in the case of any other meeting, by a majority in
+number of the members having a right to attend
+and vote at the meeting, which is a majority hold-
+ing not less than ninety-five percent of the shares
+giving a right to attend and vote at the meeting or,
+in the case of a company limited by guarantee, by
+a ninety-five percent majority in number of the mem-
+bers.
+(e)Where the members are entitled to vote only on some reso-
+lutions to be moved at the meeting and not on others, those
+members shall be taken into account for the purposes of
+374
+
+===== PAGE 375 =====
+
+Companies Act, 2019
+# [p375 fs=12.8] Act992
+subparagraph(d)in respect of the former resolutions, and
+not in respect of the latter.
+(f)The persons entitled to receive notice of general meetings,
+are,
+(i)member;
+(ii)person on whom the ownership of a share devolves
+by reason of that person being a legal personal
+representative, receiver or a trustee in bankruptcy
+of a member;
+(iii) director of the company; and
+(iv) auditor for the time being of the company.
+2.Contents of notice
+(a)The notice of a meeting shall specify
+(i)the place, date and hour of the meeting,
+(ii)the general nature of the business to be transacted at
+the meeting in sufficient detail to enable those to
+whom the notice is given to decide whether to
+attend or not; and
+(iii) where the meeting is to consider a special resolu-
+tion, shall set out the terms of the resolution.
+(b)In the case of notice of an annual general meeting, a state-
+ment that the purpose is to transact the ordinary business
+of an annual general meeting is a sufficient specification
+that the business is,
+(i)to declare a dividend;
+(ii)consideration of the financial statements and reports
+of the directors and auditors;
+(iii) the election of directors in the place of those retir-
+ing;
+(iv) the fixing of the remuneration of the auditors; and
+(v)for the removal and election of auditors and direc-
+tors;
+(c)A business may not be transacted at a general meeting
+unless notice of it has been duly given.
+3.Service of notice
+(a)Notice may be given by the company to a member or director
+personally, or by
+(i)sending it through the post addressed to the member
+375
+
+===== PAGE 376 =====
+
+# [p376 fs=12.8] Act992Companies Act, 2019
+or director at the registered address of the member
+or director, or
+(ii)leaving it for the member or director with a person
+apparently over the age of sixteen years at that
+address, or
+(iii) sending it to the member or director through
+electronic means.
+(b)Notice may be given to the joint holders of a share by giving
+the notice to the joint holder named first in the register of
+members in respect of the share.
+(c)Notice may be given to a person on whom ownership of a
+share has devolved by reason of that person being a legal
+personal representative, receiver or trustee in bankruptcy
+of a member personally, or
+(i)by sending the notice through the post addressed to
+that person by name, or
+(ii)by the title of representatives of the deceased or
+receiver or trustee of the bankrupt, or
+(iii) by any like description, at the address supplied for
+the purpose by that person, or
+(iv) by leaving the notice for that person with a person
+apparently over the age of sixteen years at that
+address, or,
+(v)until that address has been supplied, by giving the
+notice in a manner in which the same might have
+been given if the death, receivership or bankruptcy
+had not occurred.
+(d)Where a notice is sent by post, service is effected by properly
+addressing, pre-paying, and posting a letter containing the
+notice and is considered to have been effected at the expira-
+tion of forty-eight hours after the letter containing the no-
+tice is posted.
+(e)The letter need not be registered but where it is sent to an
+address outside Ghana the letter shall be despatched by air
+mail.
+4.Accidental failure to give notice
+The accidental omission to give notice of a meeting to, or the non-
+376
+
+===== PAGE 377 =====
+
+Companies Act, 2019
+# [p377 fs=12.8] Act992
+receipt of notice of a meeting by, a person entitled to receive notice shall
+not invalidate the proceedings at that meeting.
+5.Circulation of resolutions and supporting circulars of members
+(a)A company shall, at the expense of the company, on the
+request in writing of a member entitled to attend and vote
+at a general meeting, include in the notice of that general
+meeting, notice of a resolution which may properly be
+moved and is intended to be moved at that meeting and, at
+the like request, include in that notice, a statement of not
+more than five hundred words with respect to the matter
+referred to in the proposed resolution or any other business
+to be dealt with at that meeting.
+(b)If the proposed resolution is not passed at that meeting,
+that resolution or one substantially to that effect shall not be
+moved at a general meeting within three years, unless the
+(i)directors otherwise agree, or
+(ii)request within three years is supported in writing
+by members of the company representing not less
+than one-twentieth of the total voting rights of the
+members having at the date of the request a right to
+vote on the resolution to which the request relates.
+(c)For the purposes of subparagraph(a), a company is not
+bound to give notice of a resolution or to circulate a state-
+ment unless the written request or requests, signed by the
+member or members concerned, together with the resolu-
+tion and statement, are deposited at the registered office of
+the company not less than six weeks before the meeting.
+(d)If, after the documents have been deposited, a general meeting
+is called for a date not more than six weeks after the
+deposit, the documents shall be deemed to have been prop-
+erly deposited.
+6.Circulation of circulars of members
+(a)At the request in writing of a member entitled to attend and
+vote at a general meeting, a company shall, unless the com-
+pany otherwise resolves, but at the expense of that member,
+circulate to members of the company a statement of not
+more than one thousand words with respect to a business
+377
+
+===== PAGE 378 =====
+
+# [p378 fs=12.8] Act992Companies Act, 2019
+to be dealt with at that meeting.
+(b)The statement shall be circulated to members of the com-
+pany in a manner permitted for service of notice of the
+meeting and, so far as practicable, at the same time as
+notice of the meeting, or, if that is impracticable, as soon
+as possible after the giving of the notice of the meeting.
+(c)A company is not bound to circulate the statement unless,
+(i)thewrittenrequest, signedbythemember
+concerned, together with the statement, is deposited
+at the registered office of the company not less than
+ten days before the meeting; and
+(ii)there is also deposited with the request a sum of
+money reasonably sufficient to meet the expenses
+of the company in giving effect to the request.
+# [p378 fs=10.9] 7. Attendance at meetings
+(a)Despite a provision in the registered constitution of a
+company to the contrary, the following persons are entitled
+to attend a general meeting of the company:
+(i)each member of the company;
+(ii)each director of the company;
+(iii) the Company Secretary; and
+(iv) each auditor for the time being of the company.
+(b)For the purposes of subparagraph(a),
+(i)if the constitution of a company so provides, a
+member is not entitled to attend unless the calls or
+other sums of money presently payable by that
+member in respect of shares in the company have
+been paid; and
+(ii)a member who is a holder of preference shares only
+is not entitled to attend if the right to do so is
+validly suspended in accordance with section 52.
+(c)Subparagraph(b)does not preclude any other person from
+attending a general meeting with the permission of the
+chairperson of the meeting.
+8.Quorum
+(a)Subject to subparagraph(b), a business shall not be trans-
+378
+
+===== PAGE 379 =====
+
+Companies Act, 2019
+# [p379 fs=12.8] Act992
+acted at a general meeting unless a quorum of members is
+present at the time when the meeting commences, but where
+a quorum is present, the meeting may validly proceed with
+that business despite that a quorum is not present through-
+out.
+(b)In dealing with a quorum under subparagraph(a), where
+members present are entitled to vote only on some resolu-
+tions and not on others, those members shall be counted
+towards a quorum in respect of the former resolutions but
+not in respect of the latter.
+(c)Unless otherwise provided in the constitution of a com-
+pany, quorum is constituted,
+(i)if the company has only one member, by that member
+being present in person or, where proxies are
+allowed, by proxy;
+(ii)in any other case, by two members present in person
+or, where proxies are allowed, by proxy, or one
+member so present holding shares representing
+more than fifty per cent of the total voting rights of
+the members having a right to vote at the meeting.
+(d)Unless otherwise provided in the constitution of the com-
+pany, if a quorum is not present within half an hour after
+the time appointed for the meeting, the meeting if
+convened on the requisition of members in accordance with
+sections 299 and 324 of this Act, shall be dissolved, and in
+any other case, shall stand adjourned to the same day, in
+the next week, at the same time and place or to any other
+day, place and time that the directors may determine.
+(e)If at the adjourned meeting a quorum is not present within
+half an hour after the time appointed, the member or members
+present shall constitute a quorum.
+(f)Where the meeting is adjourned to the same day, place and
+time in the following week, notice is not required to be
+given, otherwise notice of the adjourned meeting shall be
+published in at least one daily newspaper circulating in the
+district in which the registered office of the company is
+379
+
+===== PAGE 380 =====
+
+# [p380 fs=12.8] Act992Companies Act, 2019
+situated.
+9.Proxies
+(a)A member of a company entitled to attend and vote at a
+meeting of the company is entitled to appoint another person,
+whether a member of the company or not, as a proxy to
+attend and vote on behalf of that member, and the proxy
+shall have the same rights as the member to speak at the
+meeting.
+(b)Unless the registered constitution ofthe company other-
+wise provides, subparagraph(a)shall not apply in the case
+of a company limited by guarantee.
+(c)The instrument appointing the proxy shall be in writing
+signed personally by the appointor or the agent of the
+appointor duly authorised in writing or, if the appointor is
+a body corporate, under the seal of the body corporate or
+signed personally by an officer or agent duly authorised.
+(d)An instrument appointing a proxy shall be in the form
+prescribed in the Second and Third Schedules, or in the
+form that the registered constitution of a company
+provides, but despite a provision in the constitution of the
+company, an instrument in the form prescribed in the Third
+# [p380 fs=10.9] Schedule shall be sufficient.
+(e)Unless the registered constitution of the company
+otherwise provides, the instrument appointing a proxy and
+the power of attorney or other authority under which the
+instrument is signed or a notarised copy of that power or
+authority, shall be deposited with the designated receiving
+officer
+(i)by electronic mail;
+(ii)personally at the registered office of the company,
+or at any other place within the Republic as speci-
+fied in the notice convening the meeting; or
+(iii) by any other means approved by the company, not
+less than forty-eight hours before the time for holding
+the meeting or adjourned meeting, or not later than
+twenty-one days before the meeting or in the case
+of a poll,
+not less than twenty-four hours before the time appointed
+380
+
+===== PAGE 381 =====
+
+Companies Act, 2019
+# [p381 fs=12.8] Act992
+for the taking of the poll and in default, the instrument of
+proxy shall not be treated as valid.
+(f)A provision contained in the registered constitution of a
+company is void in so far as it would have the effect of
+requiring the documents referred to in the constitution to
+be deposited more than forty-eight hours before the time
+for holding the meeting or adjourned meeting or, in the
+case of a poll, more than twenty-four hours before the time
+appointed for taking the poll.
+(g)Where instruments of proxy have been deposited in accor-
+dance with subparagraph(e), a person entitled, in the right
+of that person, or as proxy for another member or members,
+or partly in one way and partly in another, to more than
+ten per cent of the total voting rights of the members
+entitled to vote at the meeting, shall be entitled, at any time
+during business hours before the conclusion of the meeting,
+or the taking of the poll, but subject to any reasonable
+restrictions that the company may impose, to inspect the
+deposited instruments of proxy and the original or notarised
+copy of powers of attorney or other authority under which
+the instruments are signed.
+(h)The appointment of a proxy shall be terminated by the death
+or insanity of the appointor or by the revocation of the
+proxy or the authority under which the proxy was executed,
+and the personal attendance of a member at the meeting or
+the later appointment of another proxy in respect of the
+same share shall be deemed to be a revocation.
+(i)A vote taken in accordance with the terms of an instru-
+ment of proxy may be treated by the company as valid
+despite the termination or revocation of the appointment,
+so long as a notice in writing of the termination, or revoca-
+tion, or of the events causing same has not been received
+by the company at the registered office or other place
+appointed for the deposit of instruments of proxy, before
+the commencement of the meeting or adjourned meeting
+or more than twenty-four hours before a poll.
+(j)If, for the purpose of a meeting of a company, invita-
+tions to appoint as proxy a person, or a number of persons
+specified in the invitations are issued at the expense of
+the company, then,
+381
+
+===== PAGE 382 =====
+
+# [p382 fs=12.8] Act992Companies Act, 2019
+(i)the invitations shall be sent to the members entitled
+to attend and vote at the meeting;
+(ii)the invitations shall be accompanied by forms for
+the appointment of a proxy which shall entitle the
+members to direct the proxy to vote either for or
+against each resolution;
+(iii) where instruments of proxy are duly completed and
+returned in accordance with the instructions in the
+invitation and are not revoked then, the chairper-
+son of the meeting shall demand a poll after a vote
+by show of hands, unless the result on the show of
+hands is in accordance with the directions given in
+the instruments of proxy and on a poll, the votes of
+the members concerned shall be deemed to be cast
+in accordance with the directions, in the instruments
+of proxy despite the absence, abstention, or
+purported vote of the proxy to the contrary.
+(k)Where a member, not having been invited so to do, requests
+the company to issue that member with a form of appoint-
+ment of proxy or a list of persons willing to act as proxy,
+the company may issue the form or list to that member with-
+out doing so to the other members entitled to attend and
+vote, but the form or list shall be available on request in writing
+to that member and any forms of appointment so issued
+shall comply with subsubparagraph (ii) of subparagraph(j)
+and shall be deemed to be an instrument of proxy to which
+sub-subparagraph (iii) of sub-paragraph(j)applies.
+10.Obtaining proxies by misrepresentation
+(a)The vote of a proxy shall not be rejected at a meeting on the
+ground that the appointment of a proxy was obtained by
+misrepresentation.
+(b)The Court may, on the application of
+(i)the company,
+(ii)a member entitled to vote at the meeting, or
+(iii) the Registrar,
+annul the appointment of a proxy if satisfied that the
+appointment was obtained by a material misrepresentation
+of fact whether made fraudulently or not.
+382
+
+===== PAGE 383 =====
+
+Companies Act, 2019
+# [p383 fs=12.8] Act992
+(c)Where an order is made, the Court may further
+order that the holding of the meeting shall be post-
+poned until the date that the Court may order and
+may give any ancillary or consequential directions
+that the Court considers fit.
+11.Representation of corporations at meetings
+(a)A body corporate, whether a company within the meaning
+of this Act or not, may, by resolution of its directors or
+other governing body, authorise a person that the body
+corporate considers fit to act as its representative,
+(i)if the body corporate is a member of a company, at
+any meeting of the company; or
+(ii)if the body corporate is a creditor, including a
+debenture holder, of a company, at a meeting of
+any creditors of the company held in pursuance of
+this Act or of the Bodies Corporate (Official Liqui-
+dations) Act, 1963 (Act 180) or of any rules made
+under this Act or that Act or in pursuance of the
+provision contained in a debenture or trust deed.
+(b)A person authorised under subparagraph(a), on produc-
+tion of a copy of the resolution by which that person was
+authorised, is entitled to exercise the same powers on
+behalf of the body corporate which that person represents
+as that body corporate could exercise if the body corporate
+were an individual shareholder, creditor or holder of
+debentures of that other company.
+(c)This paragraph does not preclude a body corporate from
+appointing a proxy to attend and vote on its behalf.
+# [p383 fs=10.9] 12. Chairperson of meetings
+(a)Unless otherwise provided in the registered constitution of
+a company, the chairperson of the board of directors shall
+preside as chairperson at a general meeting of the company.
+(b)If the board does not have a chairperson or, if the chairperson
+is not present within fifteen minutes after the time appointed
+for holding the meeting or is unwilling to act, the directors
+present shall elect one of their number to be chairperson of
+the meeting.
+(c)If a director is not present or willing to act, the members
+383
+
+===== PAGE 384 =====
+
+# [p384 fs=12.8] Act992Companies Act, 2019
+present shall choose one of their number to be chairperson
+of the meeting.
+# [p384 fs=10.9] 13. Adjournments
+(a)The chairperson may, with the consent of the meeting at
+which a quorum is present, and shall if so directed by an
+ordinary resolution passed at the meeting, adjourn the meeting
+from time to time and from place to place, but a business
+shall not be transacted at an adjourned meeting other than
+the business left unfinished at the meeting from which the
+adjournment took place and an additional business of
+which due notice shall be given as in the case of an original
+meeting.
+(b)Where a meeting is adjourned for thirty days or more, notice
+of the adjourned meeting shall be given as in the case of an
+original meeting.
+(c)Subject to this section, and unless the registered constitu-
+tion of a company otherwise provides, it is not necessary
+to give notice of the adjournment of a meeting at which a
+quorum was present, or of the business to be transacted at
+the adjournment.
+14.Types of resolution
+(a)A resolution is an ordinary resolution when it is passed by
+a simple majority of votes cast by the members of the com-
+pany who, being entitled so to do, vote in person or, where
+proxies are allowed, by proxy at a general meeting.
+(b)A resolution is a special resolution when it is passed by not
+less than three-fourths of the votes cast by the members of
+the company who being entitled so to do, vote in person
+or, where proxies are allowed, by proxy at a general meeting
+of which, notice specifying the intention to propose the
+resolution as a special resolution, has been duly given.
+(c)A reference in this Act or in the registered constitution of a
+company, debentures or debenture trust deed to an
+ordinary or special resolution of a meeting of a class of
+members, creditors, or debenture holders bears a like meaning
+to that specified in subparagraph(a)or(b)of this para-
+graph with the substitution of the members of the class for
+the members of the company.
+384
+
+===== PAGE 385 =====
+
+Companies Act, 2019
+# [p385 fs=12.8] Act992
+# [p385 fs=10.9] 15. Amendments
+The terms of a resolution, special or ordinary, before a general meeting
+may be amended by ordinary resolution moved at the meeting if by the
+terms of the resolution as amended, adequate notice of the intention to
+pass the resolution can be deemed to have been given in accordance with
+paragraph 2.
+# [p385 fs=10.9] 16. Procedure on voting
+(a)Unless the registered constitution of a company otherwise
+provides, a resolution put to vote at a meeting shall be
+decided on a show of hands unless a poll is, before or on the
+declaration of the result of the show of hands, demanded
+by
+(i)the chairperson,
+(ii)at least three members present in person or by proxy,
+or
+(iii) a member or the members present in person or by
+proxy and representing not less than one-twentieth
+of the total voting rights of the members having the
+right to attend and vote on the resolution.
+(b)A provision contained in the registered constitution of a
+company regarding voting procedure is void in so far as it
+would have the effect,
+(i)of excluding the right to demand a poll on a question
+other than the election of the chairperson or the
+adjournment of the meeting; or
+(ii)of making ineffective a demand for a poll on a question
+which is made by the persons specified in subpara-
+graph(a)(i), (ii) or (iii).
+(c)The demand for a poll may be withdrawn.
+(d)On a show of hands, each member who is personally present
+and entitled to vote and each proxy for a member entitled
+to vote shall have one vote.
+(e)Unless a poll is effectively demanded, a declaration by the
+chairperson that a resolution has, on a show of hands been
+carried, or carried unanimously, or by a particular majority,
+or lost, and an entry to that effect in the book containing
+the minutes of the meeting is conclusive evidence of the
+fact without proof of the number or proportion of votes
+recorded in favour of or against the resolution.
+385
+
+===== PAGE 386 =====
+
+# [p386 fs=12.8] Act992Companies Act, 2019
+(f)If a poll is effectively demanded, it shall be taken at the
+time and in the manner that the chairperson directs.
+(g)In place of directing that a poll shall be taken of those mem-
+bers present in person or by proxy at the poll, the chair-
+person may direct that voting shall be by postal ballot of
+the members entitled to attend and vote on the resolution.
+(h)For the purposes of subparagraph(g), ballot papers shall be
+served on the members entitled to attend and vote on the
+resolution in the same manner as notice of the meeting is
+required to be given to them, and the members may cast
+their votes by personally completing the ballot papers or by
+having the ballot papers completed by their proxies whose
+instrument of appointment has been deposited, in accor-
+dance with subparagraph(e)of paragraph 9, not less than
+twenty-four hours before the time appointed for the
+closing of the ballot.
+(i)Despite subparagraph(f)of this paragraph, a postal ballot
+in accordance with subparagraphs(g)and(h)shall be
+directed by the chairperson if,
+(i)the constitution of the company so provides, or
+(ii)on, or after the chairperson has directed a poll, an
+ordinary resolution in favour of a postal ballot
+under this subparagraph is moved at the meeting
+and passed on a show of hands.
+(j)A postal ballot in accordance with subparagraphs(g)and
+(h)of this paragraph shall be deemed to be a poll.
+(k)Except as otherwise provided in the registered constitution
+of a company, on a poll each member entitled to vote shall
+have one vote for each share held by the member and each
+member of a company limited by guarantee shall have one
+vote.
+(l)On a poll a member entitled to more than one vote, or a
+proxy representing more than one member or a member
+entitled to more than one vote, need not, in voting, use all
+the votes or cast all the votes the member uses in the same
+way.
+386
+
+===== PAGE 387 =====
+
+Companies Act, 2019
+# [p387 fs=12.8] Act992
+(m)Unless the registered constitution of the company other-
+wise provides, in the case of an equality of votes, whether
+on a show of hands or a poll, the chairperson of the meeting
+at which the show of hands takes place or at which the poll
+is demanded is entitled to a second or casting vote.
+17.Voting by joint holders
+In the case of joint holders, the vote of the senior who tenders a vote,
+whether in person or by proxy, shall be accepted, to the exclusion of the
+votes of the other joint holders; and for this purpose, seniority shall be
+determined by the order in which the names stand in the register of mem-
+bers.
+18.Votes by persons of unsound mind
+A member of unsound mind may vote, whether on a show of hands or
+a poll, by the person appointed for the purpose by the Court and the
+person so appointed may vote by proxy.
+19.Date of passing of resolutions
+(a)A resolution is passed at an adjourned meeting, on the date
+on which it was in fact passed at the adjourned meeting.
+(b)A resolution is passed on a poll, on the day on which the
+result of the poll is declared, and not on any earlier day.
+387
+
+===== PAGE 388 =====
+
+# [p388 fs=12.8] Act992Companies Act, 2019
+NINTH SCHEDULE
+(Section 303)
+FORM OF STATEMENT IN LIEU OF PROSPECTUS AND FINANCIAL
+STATEMENT AND REPORT TO ACCOMPANY THE STATEMENT
+# [p388 fs=9.1] PART ONE
+FORM OF STATEMENT AND PARTICULARS TO BE CONTAINED IN THE
+STATEMENT
+Statement in Lieu of Prospectus delivered for registration by [insert
+full name of company]
+1.Unless more than two years have elapsed since the registration of the company
+(a)the amount or estimated amount of the(a)
+expenses incidental or preliminary to
+the promotion and registration of the
+company;
+(b)by whom these expenses have been paid(b)
+or are payable;
+(c)
+(c)the names of the promoters;
+(d)the amount paid or intended to be paid(d)Name of Promoter
+to any promoter;
+...........................
+Amount in Gh Cedis
+...............................
+(e)the consideration for the payment;(e)
+(f)any other benefit given or intended to be
+(f)Name of Promoter
+given to any promoter;.........................
+Nature and value of
+benefit................
+(g)the consideration for the giving of that(g)
+benefit;
+(h)full particulars of the nature and extent of(h)
+the interest of every director and proposed
+director of the company in the promotion
+of the company
+388
+
+===== PAGE 389 =====
+
+Companies Act, 2019
+# [p389 fs=12.8] Act992
+2.The name, address and professional qualification of the2.
+auditors of a company, and if auditors have not been
+appointed a statement to that effect.
+3.The names and addresses of the bankersandlegal3.
+practitioners of the company
+4.
+4.The names, countries of incorporation, and nature of
+the business of the subsidiaries of the company and of
+the bodies corporate in which the company is beneficially
+entitled to equity shares conferring the right to exercise
+more than twenty-five percent of the votes exercisable at
+a general meeting of the body corporate; but if, on the
+application of the directors of the company, the Regis-
+trar is satisfied that mention of any of the matters re-
+ferred to in this paragraph would be harmful to the busi-
+ness of the company or any of the associated compa-
+nies, the Registrar may direct that the matter need not be
+stated. If the company is a subsidiary, the name, country
+of incorporation and nature of the business of the hold-
+ing company and the number of each class of shares of
+the company held by the holding company.
+5.Where the company is proposing to acquire securities in
+5.
+a body corporate in this Schedule called a proposed sub-
+sidiary which, by reason of the acquisition or anything
+to be done in consequence with the requisition or in con-
+nection with the acquisition will become a subsidiary of
+the company, the name, country of incorporation, and
+nature of the business of that proposed subsidiary.
+6.Where the company is proposing to acquire a business, a
+6.
+full description of the nature of that business.
+389
+
+===== PAGE 390 =====
+
+# [p390 fs=12.8] Act992Companies Act, 2019
+7.
+7.Whether in the opinion of the directors the working capital of
+the company is sufficient and, if not, how the company proposes to
+provide the additional working capital thought by the directors to be
+necessary.
+8.The amount of the stated capital of the company distinguishing8.
+between each of the items specified in subsection (1) of section 68 of
+this Act and, in the case of items(a)and(b), between different classes
+of shares.
+9.
+9.The number and description of the
+(a)authorised shares of each class,
+(a)
+(b)issued shares of each class, and
+(b)
+(c)treasury shares of each class
+(c)
+of the company
+10.
+10.The amount paid on the issued shares of each class
+(a)
+(a)in cash, and
+(b)
+(b)otherwise than in cash.
+11.
+11.The amount remaining payable on the issued shares of each class
+(a)
+(a)presently due for payment,
+(b)
+(b)not yet due for payment, and
+(c)
+(c)which the company has resolved shall not be capable of
+being called up except in the event and for the purposes of
+the company being wound up.
+12.The amounts of the dividends per share paid by the company in respect12.
+of each class of share in each of the five completed financial years of
+the company immediately preceding the date of the statement, and
+particulars of any cases in which dividends have not been paid in
+respect of a class in any of those years.
+13.The number of unissued shares of each class agreed to be issued and13.
+the amount payable thereof
+(a)
+(a)in cash, and
+(b)
+(b)otherwise than in cash.
+14.(1) The name of each holder and, if any, beneficial owner of more14. (1)
+than twenty-five percent of the shares of a class of share of the
+company; and
+(2)
+(2) the number and description of the shares held or owned.
+390
+
+===== PAGE 391 =====
+
+Companies Act, 2019
+# [p391 fs=12.8] Act992
+15.The amount of the outstanding debentures issued or agreed to be issued15.
+by
+(a)the company, and
+(a)
+(b)any of its subsidiaries and proposed subsidiaries.(b)
+16.The amount of any bank overdrafts of16.
+(a)the company, and
+(a)
+(b)any of the subsidiaries and proposed subsidiaries.
+(b)
+17.The nature of the consideration for the issue of any of the shares or
+17.
+debentures of the company issued or agreed to be issued otherwise than
+for cash.
+18.Particulars of the shares or debentures of any of the subsidiaries and18.
+proposed subsidiaries of the company which have, within the two years
+immediately preceding the date of the statement, been issued or which
+are proposed to be issued otherwise than for cash and the nature of the
+consideration.
+19.
+19.Particulars of the shares or debentures of the company or any of the
+subsidiaries and proposed subsidiaries which have, within two years
+immediately preceding the date of the statement, been issued for cash,
+stating
+(a)the price, and
+(a)
+(b)if not already fully paid, the dates when any instalments are
+(b)
+payable.
+20.
+20.Where the shares or debentures of the company or any of the subsidiar-
+ies and proposed subsidiaries are under option, or agreed conditionally
+or unconditionally to be put under option,
+(a)the number and description of the shares,(a)
+(b)
+(b)the amount and description of the debentures,
+(c)
+(c)the period during which the option is exercisable,
+(d)
+(d)the price to be paid for the shares or debentures,
+(e)
+(e)the consideration for the grant of the option; and
+(f)
+(f)the persons to whom the option was given, or, if given to
+existing members or debenture holders, as members or de-
+benture holders the relevant shares or debentures.
+21.Where a property has been acquired or is proposed to be acquired by
+21.
+the company or any of the subsidiaries and proposed subsidiaries, except
+where the contract for the acquisition was either completed and a
+391
+
+===== PAGE 392 =====
+
+# [p392 fs=12.8] Act992Companies Act, 2019
+purchase money fully paid more than two years
+before the date of the statement, or entered into in
+the ordinary course of business and there is no con-
+nection between the contract and the incorporation
+of the company or the conversion from a private to a
+public company,
+(a)the names and addresses of the vendors
+(a)Name of vendor.......
+(b)the amount paid or to be paid in cash,
+shares, debentures or otherwise to each ven-
+dor stating
+(i) ........................
+(i)the total purchase price paid or to
+be paid,
+(ii)the amount paid or to be paid in
+(ii) ......................
+cash,
+(iii)the amount paid or to be paid in
+(iii) Shares..............
+shares and the number and de-
+scription of such shares,
+(iv)the amount paid or to be paid in
+(iv) Amount in Debentures
+debentures and the number and
+......................
+denomination of such debentures,
+and
+(v)the nature of, and value attributed(v)Nature...................
+to, other consideration;
+Value...................
+(b)Name of Vendor
+..........................
+(i) ........................
+(ii) ......................
+(iii) Amount paid in shares
+.............................
+(iv) Amount in Debentures
+.......................
+(v)Nature..................
+Value.....................
+392
+
+===== PAGE 393 =====
+
+Companies Act, 2019
+# [p393 fs=12.8] Act992
+(c)the total amount paid or to be paid in,(c)
+(i)cash,(i)
+(ii)shares,(ii)
+(iii)debentures, and(iii)
+(iv)other consideration;(iv)
+(v)specifying the amount paid or to be(v)
+paid for goodwill;
+(d)
+(d)full particulars of the nature and extent of the
+interest, direct or indirect, of each director or
+proposed director of the company or any of
+the subsidiaries and proposed subsidiaries in
+that property;
+(e)particulars of all transactions relating to that(e)
+property which were entered into or com-
+pleted within the two years immediately pre-
+ceding the date of the statement.
+22.(1) The dates of, parties to, and general nature of every
+22. (1)
+material contract, other than contracts entered into in
+the ordinary course of business, or completed more
+than two years before the date of this statement.
+(2) Address
+(2) The place and time, not being less than twenty-eight
+days at which such contracts or copies of the contract
+Between the.......of.....
+or, in the case of any contract not reduced into writing,
+and the.........of..........
+a memorandum giving full particulars thereof in a lan-
+from...........until........
+guage acceptable to the Registrar, may be inspected.
+(Saturdays, Sundays
+and public holidays
+excepted)
+23.Names, and the former names, addresses and business23.
+occupations of the directors of the company or
+proposed directors and Company Secretary, or proposed
+Company Secretary, and particulars of any other direc-
+torships held by the directors or proposed directors, in
+the manner prescribed by section 215 of this Act.
+393
+
+===== PAGE 394 =====
+
+# [p394 fs=12.8] Act992Companies Act, 2019
+DIRECTORS AND PROPOSED DIRECTORS
+NameFormerAddressBusinessOther
+Whether vetted
+appointed
+NamesOccupationDirectorships
+or not
+COMPANY SECRETARY OR PROPOSED COMPANY
+SECRETARY
+Whether vetted
+NameFormerAddressBusinessOther
+appointed
+NamesOccupationDirectorships
+or not
+24.Names, and addresses of accountants making the reports, if any,24.
+delivered for registration with this statement.
+......................
+(Signatures of the persons above-named as directors or proposed
+......................
+directors or of their agents authorised in writing)
+......................
+Date ...............................
+394
+
+===== PAGE 395 =====
+
+Companies Act, 2019
+# [p395 fs=12.8] Act992
+# [p395 fs=10.9] PART TWO
+FINANCIAL STATEMENTS AND REPORTS TO ACCOMPANY
+STATEMENT
+25.Where the company has been incorporated for more than fifteen
+months,
+(a)copies of the financial statements, consolidated accounts
+and reports required to be circulated to the members and
+debenture holders of the company in accordance with sec-
+tion 128 of this Act in respect of each of the five completed
+financial years immediately preceding the date of the state-
+ment, or in respect of each of the financial years since the
+incorporation of the company, if this occurred less than
+five years before that date; but the accounts and reports shall
+not be required for a financial year in respect of which cop-
+ies of the accounts and reports have been annexed to the
+annual return of the company in accordance with section
+298 of this Act.
+(b)Unless the reports of the auditors on the accounts for those
+financial years have been made by auditors duly qualified
+under section 138 of this Act to be appointed auditors of
+the company, if it had been a public company at the date
+of each report of the auditors, a report by accountants duly
+qualified under section 138 of this Act to be appointed
+auditors of the company with respect to the profits or losses
+of the company in each of these financial years, and with
+respect to the assets and liabilities of the company as at the
+end of the last financial year, or, if the company is a hold-
+ing company, a like report with respect to the profits or
+losses and assets and liabilities of the company and the
+subsidiaries, so far as these profits or losses and assets can
+properly be regarded as attributable to the interests of the
+company.
+26.Where the company, whether or not incorporated for more than
+fifteen months, at any time within the five years immediately preceding
+395
+
+===== PAGE 396 =====
+
+# [p396 fs=12.8] Act992Companies Act, 2019
+the date of the statement, has acquired a business or a subsidiary, or
+where at the date of the statement, the company proposes to acquire a
+business or a proposed subsidiary,
+(a)copies of the financial statements of the business, or sub-
+sidiary or proposed subsidiary in respect of each of the
+five financial years immediately preceding the date of the
+statement, or in respect of each of the financial years since
+the commencement of that business, or the incorporation
+of that subsidiary or proposed subsidiary, if that occurred
+less than five years before the date of the statement; but it
+shall not be necessary to deliver for registration, copies of
+the financial statements of a business or subsidiary for a
+financial year in respect of which the profit or losses and
+assets and liabilities of the business or subsidiary are dealt
+with in the accounts or consolidated financial statements
+of the company for that financial year;
+(b)a report by accountants duly qualified under section 139 of
+this Act to be appointed auditors of the company with re-
+spect to the profits or losses of that business or subsidiary
+or proposed subsidiary in respect of each of the financial
+years for which an income statement has been delivered for
+registration pursuant to sub-paragraph(a)of this paragraph,
+and with respect to the assets and liabilities of that business
+or subsidiary or proposed subsidiary as at the end of the
+last financial year; but
+(i)the report shall deal with the profits or losses and
+assets and liabilities of a subsidiary or proposed
+subsidiary which can properly be regarded as at-
+tributable to the interests of the company;
+(ii)when the report relates to a financial year before
+the subsidiary became a subsidiary of the company
+or relates to a proposed subsidiary, only those of its
+profits or losses and assets and liabilities shall be
+regarded as attributable to the interests of the com-
+pany as would have been properly attributable if
+the company had held the securities in the subsidiary
+396
+
+===== PAGE 397 =====
+
+Companies Act, 2019
+# [p397 fs=12.8] Act992
+or proposed subsidiary which it holds at the date
+of the statement or proposes to acquire;
+(iii) where that subsidiary or proposed subsidiary also
+has subsidiaries, the report shall be extended to the
+profits or losses and assets and liabilities of that sub-
+sidiary or proposed subsidiary and the subsidiaries
+so far as same can properly be regarded as attribut-
+able to the interests of the company;
+(iv) the report required by this paragraph need not
+extend to a period in respect of which the profits or
+losses of that business or the appropriate part of
+the profits or losses of that subsidiary are dealt with
+in the accounts or consolidated financial statements
+of the company; and
+(v)the report required by this paragraph need not
+extend to the assets and liabilities of a business or
+subsidiary if same or the appropriate part of the
+assets and liabilities are dealt with in the last state-
+ment of financial position of the company.
+27.(1) In making a report that is required by paragraph 25 or 26 of
+this Schedule, the accountants shall make the adjustments that are in their
+opinion appropriate.
+(2) Where the adjustments are made, the statement shall, in accor-
+dance with subsection (3) of section 303 of this Act, have endorsed on,
+or attached to, the statement, a written statement signed by the accoun-
+tants setting out the adjustments and giving the reasons for the adjust-
+ments.
+TENTH SCHEDULE
+397
+
+===== PAGE 398 =====
+
+# [p398 fs=12.8] Act992Companies Act, 2019
+(Sections 304, 305, 306, 307, 308, 312 and 342 (3))
+CONTENTS OF PROSPECTUS ON GENERAL INVITATION
+Pursuant to subsection (8) of section 308 of this Act, the prospectus
+shall state at the head a statement to the effect that,
+“A copy of this prospectus has been delivered to the Securities and
+Exchange Commission in accordance with subsection (1) of
+# [p398 fs=10.9] section 308 of the Companies Act, 2019 (Act 992). For the financial
+soundness of the company of the value of the securities on offer,
+investors are advised to consult a dealer, investment advisor or any
+other professional for appropriate advice.”.
+# [p398 fs=10.9] PART ONE
+398
+
+===== PAGE 399 =====
+
+Companies Act, 2019
+# [p399 fs=12.8] Act992
+MATTERS TO BE SPECIFIED
+1.The full name of the company.
+2.(1) A full description of the securities which the public are being
+invited to acquire, and of the terms on which the public are being invited
+to acquire the securities including,
+(a)the date prior to the expiration of which applications will
+not be accepted or treated as binding;
+(b)if securities are being offered for subscription or purchase,
+the total amount payable for each share or debenture and
+the amount payable on application, allotment, and other-
+wise, for each share or debenture;
+(c)the policy which will be adopted if applications exceed the
+shares or debentures on offer.
+(2) Where the securities are unsecured debentures, they shall be
+described as “unsecured loan stock”, “unsecured notes” or the like, and
+not as “debentures” or “bonds”.
+3.Whether application has been or is being made to a stock exchange
+for permission to deal in the securities concerned
+(a)if so, whether the stock exchange is an approved stock
+exchange; and
+(b)if not, a statement that there will not be a market for the
+securities an d that a holder wishing to dispose of those
+securities may be unable to do so.
+4.The full name, address and business occupation of each person
+making the invitation, if other than the company.
+5.The address and the number of the Post Office Box and the digital
+and electronic addresses of the registered office of the company.
+6.The full name, address and business occupation of each director
+and proposed director and of the Company Secretary or proposed
+Company Secretary.
+7.The name, address and professional qualification of the auditors
+of the company.
+8.The name and address of the registration officer, if any.
+9.The name and address of an underwriter of the invitation.
+10.The names and addresses of the bankers, stock-brokers and legal
+399
+
+===== PAGE 400 =====
+
+# [p400 fs=12.8] Act992Companies Act, 2019
+practitioners of the company.
+11.If the invitation relates to debentures, the names and addresses
+of any trustees for debenture holders, the date of the resolutions creating
+the debentures, and short particulars of the security for the debentures
+or, if the debentures are unsecured, a statement to that effect.
+12.The authorised business or businesses of the company.
+13.A brief summary of the history of the company and of any
+businesses to which the company has succeeded.
+14.(1) The names, countries of incorporation, and nature of the
+businesses of the subsidiaries of the company and of the bodies corporate
+in which the company is beneficially entitled to equity shares conferring
+the right to exercise more than twenty-five percent of the votes exercis-
+able at a general meeting of the body corporate.
+(2) If the company is a subsidiary, the name, country of incorporation
+and nature of the business of the holding company and the number of
+each class of shares of the company held by the holding company.
+15.Where the company is proposing to acquire securities in a body
+corporate, in this Schedule called a proposed subsidiary, which, by
+reason of the acquisition or anything to be done in consequence of, or in
+connection with, the requisition will become a subsidiary of the
+company, the name, country of incorporation, and nature of the
+business of that proposed subsidiary.
+# [p400 fs=10.9] 16. Where the company is proposing to acquire a business, a full
+description of the nature of that business.
+17.The location, area, and tenure, including, where appropriate,
+the rent and unexpired term of a lease or concession, of the main places
+of business of the company and the subsidiaries and proposed subsid-
+iaries.
+18.A statement on,
+(a)the financial and trading prospects of the company together
+with a material information which may be relevant to those
+prospects; and
+(b)the material changes in the financial or trading position of
+the company which may have occurred since the end of
+the last completed financial year of the company.
+# [p400 fs=10.9] 19. A statement by the directors of the company that in their
+400
+
+===== PAGE 401 =====
+
+Companies Act, 2019
+# [p401 fs=12.8] Act992
+opinion, the working capital of the company is sufficient or, if not, it is
+proposed to provide the additional working capital thought by the
+reductions to be necessary.
+# [p401 fs=10.9] 20. The amount or estimated amount of the expenses incidental
+and preliminary to the invitation, including the expenses of an applica-
+tion to a stock exchange for permission to deal in the securities concerned
+in the invitation, and by whom the expenses are payable.
+# [p401 fs=10.9] 21. Particulars of any commissions paid within the two preceding
+years, or payable, as commission for acquiring any shares or debentures
+of the company or of any of the subsidiaries and proposed subsidiaries.
+# [p401 fs=10.9] 22. Where the company is inviting or, under section 296 of this
+Act, is deemed to be inviting, the public to subscribe for any of the shares
+or debentures,
+(a)a statement or an estimate of the net proceeds of the issue
+and a statement on how the proceeds were or are to be
+applied;
+(b)the minimum amount which in the opinion of the directors
+of the company must be raised by the issue in order to
+provide sums, or, if part of the sums is to be defrayed in
+any other manner, the balance of the sums, required to be
+provided in respect of each of the following matters;
+(i)the purchase price of a property purchased or to be
+purchased which is to be defrayed in whole or in
+# [p401 fs=10.9] part out of the proceeds of the issue;
+(ii)any expenses incidental and preliminary to the
+invitation and issue, including the expenses of an
+application to a stock exchange for permission to
+deal in the shares or debentures, payable by the company,
+and the commission so payable to a person in
+consideration of that person agreeing to subscribe
+for, or of that person procuring or agreeing to
+procure subscriptions for, any shares or debentures
+of the company;
+(iii) the repayment of any moneys borrowed by the
+company in respect of any of the matters stated in
+this paragraph; and
+401
+
+===== PAGE 402 =====
+
+# [p402 fs=12.8] Act992Companies Act, 2019
+(iv) working capital; and
+(c)the amounts to be provided in respect of the matters stated
+in subparagraph(b)of this paragraph otherwise than out
+of the proceeds of the issue and the sources out of which
+these amounts are to be provided.
+# [p402 fs=10.9] 23. Where a person other than the company is inviting the public
+to purchase any shares or debentures of the company, whether or not,
+under section 296 of this Act, the invitation is made by the company,
+(a)if the shares or debentures were issued by the company for
+cash, a statement of the price for each share or debenture at
+which those shares or debentures were issued, and of the
+total net proceeds of the issue;
+(b)if the shares or debentures were issued by the company for
+a consideration other than cash, a statement of the nature
+of the consideration and an estimate by the directors of a
+fair value of the consideration and of the price for each
+share or debenture which the consideration represents; and
+(c)if the person making the invitation did not acquire the shares
+or debentures directly from the company on their issues,
+(i)if that person purchased them for cash, a statement
+of the price for each share or debenture at which
+that person purchased the share or debenture or, if
+purchased over a period of time at different prices,
+the lowest and highest prices, and the total purchase
+price paid by that person; or
+(ii)if that person acquired them for a consideration
+other than cash, a statement of the nature of the
+consideration and an estimate by that person of a
+fair value of the consideration and of the price for
+each share or debenture which the consideration
+represents.
+# [p402 fs=10.9] 24. The stated capital of the company, distinguishing between each
+of the items specified in subsection (1) of section 68 of this Act, and, in
+the case of paragraphs(a)and(b)between different classes of shares.
+402
+
+===== PAGE 403 =====
+
+Companies Act, 2019
+# [p403 fs=12.8] Act992
+# [p403 fs=10.9] 25. The number and description of the
+(a)authorised shares of each class,
+(b)issued shares of each class, and
+(c)treasury shares of each class
+of the company.
+26.The amount paid on the issued shares of each class
+(a)in cash, and
+(b)otherwise than in cash.
+27.The amount remaining payable on the issued shares of each class,
+distinguishing between the amount presently due for payment and the
+amount not yet due for payment and, in the latter case, stating what
+amount the company has resolved shall not be capable of being called
+up, except in the event and for the purpose of the company being wound
+up.
+28.The number of unissued shares of each class agreed to be issued
+and the amount payable for the shares distinguishing between the amount
+payable in cash and the amount payable otherwise than in cash.
+29.If the shares of the company are divided into different classes, the
+rights in respect of voting, repayment, dividends and any other special
+rights attached to the several classes, and a statement on the consents
+necessary for the variation of those rights.
+30.The amounts of the dividends for each share paid by the com-
+pany in respect of each class of share in each of the ten completed finan-
+cial years of the company immediately preceding the date of publica-
+tion of the prospectus and particulars of any cases in which dividends
+have not been paid in respect of a class of shares in any of those years.
+31.If any of the shares of the company are redeemable preference
+shares, the earliest date on which the company has power to redeem those
+shares.
+32.The name of every holder and beneficial owner of more than
+twenty-five percent of the shares or a class of shares of the company and
+the number and description of the shares held or owned.
+33.The amount of the outstanding debentures issued or agreed to be
+issued by the company and any of the subsidiaries and proposed subsid-
+iaries or, if none, a statement to that effect.
+34.Particulars of any bank overdrafts of the company and any of
+the subsidiaries and proposed subsidiaries as at the latest practicable date,
+which shall be stated, or if there are no bank overdrafts, a statement to
+that effect.
+35.The nature of the consideration for the issue of any of the shares
+403
+
+===== PAGE 404 =====
+
+# [p404 fs=12.8] Act992Companies Act, 2019
+or debentures of the company issued or proposed to be issued otherwise
+than in cash.
+36.Particulars of any shares or debentures of any of the subsidiaries
+and proposed subsidiaries of the company which have, within two years
+immediately preceding the publication of the prospectus, been issued, or
+which are proposed to be issued, otherwise than for cash and the nature
+of the considerations.
+37.Particulars of any shares or debentures of the company or any of
+the subsidiaries and proposed subsidiaries which have, within two years
+immediately preceding the publication of the prospectus, been issued, or
+which are proposed to be issued, for cash, the price and terms upon which
+the shares or debentures have been or are to be issued and, if not already
+fully paid, the dates when any instalments are payable.
+38.Particulars of any shares or debentures of the company or any of
+the subsidiaries and proposed subsidiaries which are under option, or
+agreed conditionally or unconditionally to be put under option, with the
+price to be paid for the securities under option, the duration of the
+option, the consideration for which the option was granted, and the name
+and address of the grantee, but where the option is to the members or
+debenture holders or a class of the members or debenture holders it shall
+be sufficient, so far as names are concerned, to record that fact without
+giving the names and addresses of the grantees.
+39.Where property has been acquired or is proposed to be acquired
+by the company or any of the subsidiaries and proposed subsidiaries,
+except where the contract for acquisition of the property was completed
+and the purchase money fully paid, more than two years before the date
+of publication of the prospectus, or entered into in the ordinary course
+of business and there is no connection between the contract and the
+invitation,
+(a)the names and addresses of the vendors, and
+(b)the amount paid or to be paid in cash, shares, debentures
+or otherwise to the vendor and, where there is more than
+one separate vendor or the company or subsidiary or
+proposed subsidiary is a sub-purchaser, the amount so paid
+or to be paid to each vendor, distinguishing between the
+amounts paid or to be paid,
+(i)in cash,
+(ii)in shares,
+404
+
+===== PAGE 405 =====
+
+Companies Act, 2019
+# [p405 fs=12.8] Act992
+(iii) in debentures,
+(iv) the nature of, and value attributed to any other
+consideration, and
+(v)the amount paid or payable for goodwill;
+(c)full particulars of the nature and extent of the interest, direct
+or indirect, of each director or proposed director of the
+company or any of the subsidiaries and proposed subsidiaries
+in that property; and
+(d)particulars of the transactions relating to that property which
+were entered into or completed within the two years imme-
+diately preceding the date of publication of the prospectus.
+40.Unless more than two years have elapsed since the registration of
+the company,
+(a)the amount or estimated amount of the expenses incidental
+or preliminary to the promotion and registration of the
+company and by whom those expenses have been paid or
+are payable;
+(b)the names of the promoters of the company;
+(c)the amount of the cash or securities paid, or benefit given
+or proposed to be given to a promoter and the consider-
+ation for the payment or benefit; and
+(d)full particulars of the nature and extent of the interest of
+each director and proposed director in the promotion of
+the company.
+41.Where the prospectus includes a statement purporting to be made
+by an expert, another statement given by that expert to the effect that the
+expert has given a written consent to the publication of the prospectus
+and has not withdrawn that consent and the statement must be included
+in the form and context in which the statement is required.
+42.The dates of, parties to, and general nature of, every material
+contract, other than contracts entered into in the ordinary course of business
+or completed more than two years before the date of publication of the
+prospectus.
+43.(1) A reasonable time, not being less than twenty-eight days
+during which, and place at which, the following documents, or certified
+copies of those documents may be inspected:
+(a)the constitution of the company;
+(b)where the invitation relates to debenture, the debenture trust
+deed;
+405
+
+===== PAGE 406 =====
+
+# [p406 fs=12.8] Act992Companies Act, 2019
+(c)each contract disclosed pursuant to paragraph 42 of this
+# [p406 fs=10.9] Schedule or, in the case of a contract not reduced into writing,
+a memorandum giving full particulars of the contract;
+(d)the financial statements, consolidated accounts and reports
+required to be circulated to the members and debenture
+holders of the company in accordance with section 128 of
+this Act, for the five financial years of the company imme-
+diately preceding the date of publication of the prospectus
+or, if the company has been incorporated for less than five
+years, for the number of years in respect of which the com-
+pany has or should, in accordance with section 128, have
+circulated the accounts and reports;
+(e)the financial statements of every subsidiary and proposed
+subsidiary of the company and of every business acquired
+or to be acquired by the company for each of the five financial
+years immediately preceding the date of publication of the
+prospectus, or, if a subsidiary or proposed subsidiary has
+been incorporated or a business has been carried on for less
+than five years, for the number of financial years completed
+since the incorporation or commencement except that, this
+subparagraph shall not apply to the financial statements of
+a subsidiary or business in respect of any financial years in
+which the profits or losses and assets and liabilities of the
+subsidiary or business are dealt with in the accounts or
+consolidated accounts of the company;
+(f)the other reports, letters, balance sheets, valuations and
+statements by an expert any part of which is extracted or
+referred to in the prospectus; and
+(g)a written statement, signed by the accountants making the
+reports required under Part Two of this Schedule, setting
+out the adjustments made by the accountants in arriving at
+the figures shown in the reports of the accountants and
+giving the reasons for the adjustments.
+(2) If the whole or a part of any of the above-mentioned docu-
+ments is in any other language, a certified translation of the docu-
+ment or of the parts of the document shall be made available in a
+406
+
+===== PAGE 407 =====
+
+Companies Act, 2019
+# [p407 fs=12.8] Act992
+language acceptable to the Registrar for inspection instead of the original
+or a certified copy.
+# [p407 fs=10.9] 44. The names and addresses of the accountants making the
+reports required under Part Two of this Schedule.
+# [p407 fs=10.9] PART TWO
+REPORTS TO BE SET OUT
+45.(1) A report by accountants duly qualified under section 138 of
+this Act to be appointed auditors of the company,
+(a)with respect to the profits or losses of the company in
+respect of each of the ten completed financial years
+immediately preceding the publication of the prospectus,
+or in respect of each of the financial years since the
+incorporation of the company if this occurred less than
+ten years before the publication, and if the last financial
+year of the company ended more than three months
+before the date of the publication of the prospectus, with
+respect to the profits or losses from the end of the last
+financial year to the latest practicable date not being less
+than three months before the date of the publication of
+the prospectus;
+(b)where the company is a holding company, in lieu of the
+report required by subparagraph(a)of this paragraph, a
+like report with respect to the profits or losses of the com-
+pany and of the subsidiaries, so far as the profits or losses
+can properly be regarded as attributable to the interests
+of the company;
+(c)with respect to the assets and liabilities of the company
+as at the end of the last financial year or, if the financial
+year ended more than three months before the date of
+publication of the prospectus, as at the latest practicable
+date not being less than three months before the date of
+publication of the prospectus;
+(d)where the company is a holding company, in lieu of the
+report required by subparagraph(c)of this paragraph, a
+like report with respect to the assets and liabilities of the
+407
+
+===== PAGE 408 =====
+
+# [p408 fs=12.8] Act992Companies Act, 2019
+company, and of the subsidiaries so far as the assets can
+properly be regarded as attributable to the interests of the
+company;
+(e)with respect to the aggregate emoluments paid by the
+company to the directors of the company or an associated
+company during the last period for which the accounts have
+been made up, and the amount by which the emoluments
+would differ from the amounts payable under any arrange-
+ments in force at the date of publication of the prospectus;
+and
+(f)with respect to any other matters which appear to the
+accountants to be relevant having regard to the purpose of
+the report.
+(2) In making the report, the accountants shall make the adjust-
+ments that are in their opinion appropriate for the purposes of the
+prospectus.
+46.(1) Where within the ten years immediately preceding the publi-
+cation of the prospectus the company has acquired a business or a
+subsidiary, or where at the date of the publication of the prospectus the
+company proposes to acquire a business or a proposed subsidiary, a
+report in a manner stated in this paragraph by accountants duly qualified
+under section 138 of this Act to be appointed auditors of the company,
+(a)with respect to the profits or losses of that business or sub-
+sidiary or proposed subsidiary in respect of each of the ten
+financial years immediately preceding the publication of
+the prospectus, or in respect of each of the financial years
+since the commencement of that business or the incorpora-
+tion of that subsidiary or proposed subsidiary, if that
+occurred less than ten years before the publication of the
+prospectus, and if the last financial year of that business,
+subsidiary or proposed subsidiary ended more than three
+months before the date of the publication of the prospectus,
+with respect to the profits or losses from the end of the last
+financial year to the latest practicable date not being less
+than three months before the date of the publication of the
+prospectus; but
+(i)the report shall deal with any of the profits or losses
+of a subsidiary or proposed subsidiary that can
+properly be regarded as attributable to the interests
+of the company;
+408
+
+===== PAGE 409 =====
+
+Companies Act, 2019
+# [p409 fs=12.8] Act992
+(ii)where the report relates to a financial year before
+the subsidiary became a subsidiary of the company
+or relates to a proposed subsidiary only, any of the
+profits or losses shall be regarded as attributable to
+the interests of the company which would have been
+properly so attributable if the company had held the
+securities in the subsidiary or proposed subsidiary
+which the company holds at the date of publication
+of the prospectus or proposes to acquire; and
+(iii) where the subsidiary or proposed subsidiary also has
+subsidiaries, the report shall be extended to the
+profits or losses of the subsidiary or proposed sub-
+sidiary and the subsidiaries so far as those profits or
+losses can properly be regarded as attributable to the
+interests of the company; and
+(iv) the report required by this paragraph need not
+extend to a period in respect of which the profits or
+losses of that business or the appropriate part of
+the profits or losses of that subsidiary are dealt with
+in the report required under paragraph 45;
+(b)where a business or subsidiary has been acquired since the
+latest date to which the accounts of the company have been
+prepared, or where the company proposes to acquire a busi-
+ness or a proposed subsidiary, with respect to the assets and
+liabilities of that business or that subsidiary or proposed
+subsidiary as at the end of the last financial year or, if the
+financial year ended more than three months before the date
+of publication of the prospectus, as at the latest practicable
+date not being less than three months before the date of
+publication of the prospectus but
+(i)the report shall deal with the assets and liabilities of
+the subsidiary or proposed subsidiary so far as the
+assets and liabilities can properly be regarded as
+attributable to the interests of the company;
+(ii)in relation to a proposed subsidiary only the assets
+and liabilities shall be regarded as attributable to the
+interests of the company which would have been
+409
+
+===== PAGE 410 =====
+
+# [p410 fs=12.8] Act992Companies Act, 2019
+properly so attributable if the company had held
+the securities in the proposed subsidiary which the
+company proposes to acquire; and
+(iii) where the subsidiary or proposed subsidiary also
+has subsidiaries, the report shall be extended to the
+assets and liabilities of that subsidiary or proposed
+subsidiary and the subsidiaries so far as those assets
+and liabilities can properly be attributable to the
+interests of the company; and
+(c)with respect to any other matters which appear to the
+accountants to be relevant having regard to the purpose of
+the report.
+(2) In making the report, the accountants shall make the adjust-
+ments, that are, in the opinion of the accountants appropriate for the
+purposes of the prospectus.
+410
+
+===== PAGE 411 =====
+
+Companies Act, 2019
+# [p411 fs=12.8] Act992
+Date ofGazettenotification:2nd August, 2019.
+411
+
+===== PAGE 412 =====
+
+# [p412 fs=12.8] Act992Companies Act, 2019
+GPCL, ASSEMBLY PRESS, ACCRA.GPCL/A733/2,000/08/2019
+Website: www.ghpublishing.comE-mail: info@ghpublishing.com
+412

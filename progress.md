@@ -9,7 +9,7 @@
 
 **Repo:** `C:\Users\Samuel Kyeremeh\Desktop\regulus` → https://github.com/kyeremehS/regulus (public, `main`)
 
-**Status:** Phase 0 nearly complete — **owner adding `OPENAI_API_KEY` + `DATABASE_URL` to `.env` manually**. Resume point: run `npm run smoke:gateway` and `npm run db:migrate`, then start Phase 1 (fetcher → parse inspection gate). Planned continuation: weekend of 2026-11-07/08.
+**Status:** Phase 0 code-complete but exits blocked (no `OPENAI_API_KEY`; `DATABASE_URL` still placeholder — **owner chose Neon free tier 2026-11-09, signup pending**). Phase 1 ingestion in progress: **fetcher + parser done, 9/9 sources fetched and parsed, parse inspection gate OPEN — owner must review `sources/parsed/*.md`**. Next: gate review → `scripts/chunk.ts` → (blocked) embeddings/DB. 2026-11-09.
 
 ---
 
@@ -95,8 +95,9 @@ Legend: `TODO` · `WIP` · `DONE` · `BLOCKED`
 ### Phase 1 — Ingestion + naive RAG
 
 **Ingestion (§5)**
-- [ ] Fetcher: download sources, store raw copy + content hash
-- [ ] **Gate:** human inspects parsed text dump — headings, section numbers, tables must survive before proceeding (§19 risk #1). Prefer HTML sources where PDF parsing fails.
+- [x] Fetcher: download sources, store raw copy + content hash — `scripts/fetch.ts` (`npx tsx scripts/fetch.ts --force-unverified`), 9/9 fetched, sha256 in manifest
+- [x] Parser: structure-preserving text extraction — `scripts/parse.ts` (pdfjs-dist, line grouping by y-position, median body font, heading heuristics) → `sources/parsed/*.md`
+- [ ] **Gate:** human inspects parsed text dump — headings, section numbers, tables must survive before proceeding (§19 risk #1). **OPEN 2026-11-09: all 9 docs now yield text** (3 were scanned images; re-sourced to text-layer copies via `scripts/probe-textlayer.ts`). Review `sources/parsed/*.md` — known artifacts: Companies Act title duplication (`Companies Act, 2019Companies Act, 2019`), `Act992` missing space, VAT 1151 false-positive headings (running header `Act 1151`, wrapped lines), WHT rate-table rows concatenated (still readable)
 - [ ] Chunk on legal structure (Part/Section/Subsection), fallback 300–600 tokens with small overlap; prefix each chunk with its section path (`VAT Act > Part II > Section 7`)
 - [ ] Enrich metadata: document, section path, effective date, source URL, page number
 - [ ] Embed → pgvector; build Postgres full-text index for keyword search (used in Phase 3, index now)
@@ -279,7 +280,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 ## 5. Open questions for the user
 
 - [ ] **`OPENAI_API_KEY` in `.env`** — owner will add manually; then run `npm run smoke:gateway` (Phase 0 exit)
-- [ ] **`DATABASE_URL` in `.env`** — owner picks Neon vs Supabase (or says "provision it"); then `npm run db:migrate` (Phase 0 exit)
+- [x] **Database choice** — owner picked **Neon free tier** (2026-11-09). Still pending: owner signs up and pastes connection string into `.env` as `DATABASE_URL` (currently the `prisma init` placeholder) → then `npm run db:migrate` (Phase 0 exit)
 - [ ] Daily budget cap for model + hosting costs (dollar figure)? (`.env.example` defaults to 5 USD)
 - [ ] Confirm the exact v1 source list and verify each source's terms of use/licensing (§5 — human check, required before Phase 1 ingest: flip `termsChecked: true` in `sources/manifest.json`)
 
@@ -296,6 +297,7 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
 | 2026-11-06 | **Pushed to GitHub:** https://github.com/kyeremehS/regulus (public, `main`). 4 commits: Phase 0 skeleton → tracker → Drizzle switch → cleanup. | implementation session |
 | 2026-11-06 | README written (Veritas-style) then eval-harness section promoted to a lead section (owner priority: evals are the most important part). **Versioning adopted (D5):** SemVer tags, MAJOR = phase complete. Tagged `v0.1.0` = Phase 0 skeleton. | implementation session |
 | 2026-11-06 | Session paused. Owner will add OPENAI_API_KEY + DATABASE_URL to `.env` manually; project resumes weekend of 2026-11-07/08. Resume point: smoke:gateway + db:migrate → Phase 1. | implementation session |
+| 2026-11-09 | **Ingestion pipeline built.** `scripts/fetch.ts` (sha256 + manifest updates, Windows-safe CLI guard), `scripts/parse.ts` (pdfjs-dist structure-preserving parse → inspection dumps), `scripts/diagnose.ts` (text-vs-image), `scripts/probe-textlayer.ts` (candidate URL text-layer prober). Real GRA URLs scraped from gra.gov.gh/acts + /practice-notes (websearch tool broken, HTTP 402 — used direct scraping). 9 sources in manifest. **Parse gate caught #1 risk live: Income Tax Act 896, VAT Act 1151, VAT Guidelines 1151 were scanned images (0 text).** Re-sourced: Act 896 → brr.gov.gh consolidated as-amended copy (111pp text), Act 1151 → a-tla.org mirror (87pp), VAT Guidelines → ghtaxclub.com mirror (19pp), Companies Act 992 → Wayback snapshot of ghalii.org (412pp; RGD dead, ORC no library, ghalii 403s bots). **9/9 now parse: 15,448 + 3,545 + 2,867 blocks etc., 0 zero-block docs.** Gate open for owner review of `sources/parsed/*.md`. DATABASE_URL: owner chose Neon free tier (signup pending). | implementation session |
 
 ---
 
