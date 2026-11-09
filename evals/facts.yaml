@@ -1,0 +1,194 @@
+# Regulus facts.yaml — DESIGN.md §10.2
+# The rates, thresholds, deadlines, and section numbers that questions turn on.
+# Every fact is grounded in a content-addressed chunk id from sources/enriched/
+# (verified 2026-11-09 via scripts/eval-validate.ts).
+#
+# Rules:
+#   - `chunks` lists the passage(s) that prove the fact. Eval cases referencing
+#     this fact must cite at least one of them (Recall@k target).
+#   - `expected` values are exact-match strings for the deterministic evaluator
+#     (normalized: lowercase, strip punctuation/units where noted).
+#   - If a source is re-fetched and its hash changes, chunk ids change and
+#     validation FAILS — re-verify facts before re-running evals.
+#
+# Known corpus conflicts are FEATURED, not hidden (§19 risk 4): where the old
+# act, the new act, and GRA guidance disagree, each carries its own fact entry
+# and the eval case tests that the system surfaces the conflict rather than
+# picking silently.
+
+facts:
+
+  # --- VAT rate ---------------------------------------------------------------
+  - id: vat-rate-standard
+    label: Standard VAT rate
+    value: "15%"
+    expected: ["15 percent", "15%", "fifteen percent", "fifteen per cent"]
+    chunks:
+      - vat-act-2025-act-1151:209a8c58:4
+      - vat-act-2013-act-870:32aa74aa:3
+    note: >-
+      Both VAT acts set 15%. Act 1151 s.3 (2025) is current; Act 870 s.3 (2013)
+      says the same. Citing either is acceptable; citing Act 1151 preferred.
+
+  - id: vat-rate-flat-scheme
+    label: VAT flat rate scheme (wholesalers of goods)
+    value: "3%"
+    expected: ["3 percent", "3%", "three percent"]
+    chunks:
+      - practice-note-vat-flat-rate:00b75aa0:14
+      - practice-note-vat-flat-rate:00b75aa0:15
+    note: GRA Practice Note on the VAT Flat Rate Scheme — marginal VAT&NHIL rate.
+
+  # --- VAT registration threshold (THE conflict) ------------------------------
+  - id: vat-registration-threshold-870
+    label: VAT registration threshold — Act 870 (2013, superseded in part)
+    value: "GHS 120,000 in 12 months (or GHS 30,000 in 3 months)"
+    expected: ["120,000", "one hundred and twenty thousand"]
+    chunks:
+      - vat-act-2013-act-870:32aa74aa:6
+    note: Act 870 s.6 — the OLD threshold. Superseded by Act 1151 s.6.
+
+  - id: vat-registration-threshold-1151
+    label: VAT registration threshold — Act 1151 (2025, current for goods)
+    value: "GHS 750,000 in 12 months (or GHS 187,500 in 3 months)"
+    expected: ["750,000", "seven hundred and fifty thousand"]
+    chunks:
+      - vat-act-2025-act-1151:209a8c58:8
+    note: >-
+      Act 1151 s.6(1)(b) goods threshold 750,000; s.6(2)(a) three-month
+      threshold 187,500 (both in the same chunk, spanning a page break).
+      Services register within 30 days regardless of threshold (same chunk).
+
+  - id: vat-registration-services-30-days
+    label: VAT registration for taxable supplies of SERVICES
+    value: "Register within 30 days of engaging in the activity — no threshold"
+    expected: ["thirty days", "30 days"]
+    chunks:
+      - vat-act-2025-act-1151:209a8c58:8
+    note: Act 1151 s.6(1)(a) — services have NO turnover threshold.
+
+  - id: vat-registration-threshold-gra-faq
+    label: VAT registration threshold as stated by GRA's public FAQ
+    value: "GHS 200,000"
+    expected: ["200,000"]
+    chunks: []
+    note: >-
+      NOT IN CORPUS — recorded so eval authors know GRA's website says
+      200,000 while the corpus acts say 120,000 (Act 870) and 750,000
+      (Act 1151). A correct system answering from corpus must present the
+      act figures and may flag that guidance differs; it must not invent
+      200,000 from nothing.
+
+  # --- Income tax -------------------------------------------------------------
+  - id: income-tax-return-deadline
+    label: Annual income tax return deadline
+    value: "Not later than 4 months after the end of each basis period"
+    expected: ["four months", "4 months"]
+    chunks:
+      - income-tax-act-2015-act-896:3afc5779:173
+    note: Act 896 s.124(1), as substituted by Act 924 s.11.
+
+  - id: paye-rates-resident-individual
+    label: PAYE graduated rates — resident individual (First Schedule)
+    value: "0% to GHS 3,132 · 5% to +840 · 10% to +1,200 · 17.5% to +33,720 · 25% to +81,108 · 35% above GHS 120,000"
+    expected: ["35 percent", "35%"]
+    chunks:
+      - income-tax-act-2015-act-896:3afc5779:202
+    note: First Schedule pt.1, as substituted by Act 973 s.1(a).
+
+  - id: cit-rate-standard
+    label: Corporate income tax — standard rate
+    value: "25%"
+    expected: ["twenty five percent", "25 percent", "25%"]
+    chunks:
+      - income-tax-act-2015-act-896:3afc5779:204
+    note: First Schedule pt.3(1) — companies generally.
+
+  - id: cit-rate-hotel
+    label: Corporate income tax — hotel industry
+    value: "22%"
+    expected: ["twenty two percent", "22 percent", "22%"]
+    chunks:
+      - income-tax-act-2015-act-896:3afc5779:204
+    note: First Schedule pt.3(2).
+
+  - id: cit-rate-nontraditional-exports
+    label: Corporate income tax — export of non-traditional goods
+    value: "8%"
+    expected: ["eight percent", "8 percent", "8%"]
+    chunks:
+      - income-tax-act-2015-act-896:3afc5779:204
+    note: First Schedule pt.3(3).
+
+  # --- Withholding tax --------------------------------------------------------
+  - id: wht-nonresident-goods-services
+    label: WHT — goods & services, non-resident (final)
+    value: "20%"
+    expected: ["20%", "20 percent"]
+    chunks:
+      - wht-guide-codes-rates-2015:effdf895:0
+    note: WHT table 2015, code WNONGSF.
+
+  - id: wht-nonresident-management-technical
+    label: WHT — management & technical service fees, non-resident
+    value: "20%"
+    expected: ["20%", "20 percent"]
+    chunks:
+      - wht-guide-codes-rates-2015:effdf895:0
+    note: WHT table 2015, code WNONMTSF.
+
+  - id: wht-nonresident-dividend-interest
+    label: WHT — dividends & interest, non-resident (final)
+    value: "8%"
+    expected: ["8%", "8 percent"]
+    chunks:
+      - wht-guide-codes-rates-2015:effdf895:0
+    note: WHT table 2015, codes WNODF / WNONIICF.
+
+  # --- VAT return / compliance ------------------------------------------------
+  - id: vat-return-electronic-filing
+    label: VAT return may be filed electronically
+    value: "Electronic filing permitted via fiscal electronic device (Act 966) under s.26 of Act 772"
+    expected: ["electronically"]
+    chunks:
+      - vat-act-2025-act-1151:209a8c58:73
+    note: Act 1151 return-filing provision.
+
+  - id: vat-deregistration-cancellation
+    label: VAT cancellation of registration
+    value: "Commissioner-General cancels registration where the person ceases to be taxable / grounds in s.19"
+    expected: []
+    chunks:
+      - vat-act-2013-act-870:32aa74aa:17
+    note: Act 870 s.19 — Cancellation of registration.
+
+  # --- Company formation ------------------------------------------------------
+  - id: incorporation-application-contents
+    label: What an incorporation application must include
+    value: "Prescribed form delivered to the Registrar: name, type, nature of business, addresses, auditor + subscriber particulars"
+    expected: []
+    chunks:
+      - companies-act-2019-act-992:ab7564da:17
+      - companies-act-2019-act-992:ab7564da:18
+    note: Act 992 s.13(1)–(2).
+
+  - id: incorporation-age-requirement
+    label: Who may apply for incorporation
+    value: "A person aged 18 years and above"
+    expected: ["eighteen"]
+    chunks:
+      - companies-act-2019-act-992:ab7564da:16
+    note: Act 992 s.12.
+
+  # --- Absence facts (ground truth for abstention cases) ----------------------
+  - id: absence-tax-objection-procedure
+    label: Tax assessment objection procedure
+    value: ABSENT
+    expected: []
+    chunks: []
+    note: >-
+      Verified absent 2026-11-09: no "notice of objection"/"Tax Appeals
+      Tribunal" text exists in any of the 9 corpus docs (objection hits in
+      Act 870/992 are unrelated cross-references). The procedure lives in the
+      Tax Administration Act, which is NOT in the corpus. Correct behavior:
+      abstain — "not found in sources" — never invent the 30-day rule.

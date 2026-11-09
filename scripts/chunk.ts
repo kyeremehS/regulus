@@ -180,12 +180,6 @@ function tailTokens(text: string, n: number): string {
   return spaceIdx > 0 ? tail.slice(spaceIdx + 1) : tail;
 }
 
-interface ParsedFile {
-  id: string;
-  title: string;
-  blocks: ParsedBlock[];
-}
-
 export async function runChunk(ids?: string[]): Promise<{ docId: string; chunks: Chunk[] }[]> {
   const manifest = await loadManifest();
   await mkdir(CHUNKS_DIR, { recursive: true });

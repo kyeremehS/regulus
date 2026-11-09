@@ -6,7 +6,6 @@
 import { readFile } from "node:fs/promises";
 import { writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
-import os from "node:os";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const TMP = path.join(ROOT, "sources", "raw", "_probe");
