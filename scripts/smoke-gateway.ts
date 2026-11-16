@@ -1,16 +1,23 @@
 /**
  * Phase 0 exit test: one traced gateway call.
- * Run: npm run smoke:gateway   (requires OPENAI_API_KEY in .env)
+ * Run: npm run smoke:gateway
+ * Requires a model key in .env: OPENROUTER_API_KEY (default provider — free
+ * tier, no card) or OPENAI_API_KEY (set MODEL_PROVIDER=openai).
  * Exit 0 + printed trace record = Phase 0 done.
  */
 import "dotenv/config";
-import { callModel } from "../lib/gateway";
+import { callModel, resolveModelId, resolveProvider } from "../lib/gateway";
 
 async function main() {
-  if (!process.env.OPENAI_API_KEY) {
-    console.error("FAIL: OPENAI_API_KEY not set (add it to .env)");
+  const provider = resolveProvider();
+  const keyVar = provider === "openrouter" ? "OPENROUTER_API_KEY" : "OPENAI_API_KEY";
+  if (!process.env[keyVar]) {
+    console.error(`FAIL: ${keyVar} not set (add it to .env) — provider=${provider}`);
     process.exit(1);
   }
+  console.log(
+    `provider=${provider} small=${resolveModelId("small")} large=${resolveModelId("large")}`,
+  );
 
   const result = await callModel({
     tier: "small",
