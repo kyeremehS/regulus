@@ -28,6 +28,11 @@ import { createOpenRouter } from "@openrouter/ai-sdk-provider";
 // fresh account). Free ids are env-swappable (MODEL_SMALL / MODEL_LARGE)
 // because the free roster rotates; tiers stay stable so the app never
 // hardcodes a model id. When the OpenAI key returns: MODEL_PROVIDER=openai.
+//
+// NOTE (observed 2026-11-16): the free tier defaults are REASONING models —
+// they emit thinking tokens before the visible answer, counted as output
+// tokens. Give calls headroom (maxOutputTokens ≥ ~256, or leave unset) or
+// the budget is consumed by reasoning and `text` comes back empty.
 
 export const DEFAULT_MODELS = {
   openrouter: {
@@ -183,6 +188,20 @@ export async function callModel(
       const inputTokens = usage.inputTokens ?? 0;
       const outputTokens = usage.outputTokens ?? 0;
       const latencyMs = Date.now() - startedAt;
+
+      // Reasoning models can burn the whole output budget on thinking and
+      // return nothing visible — surface it instead of passing silently.
+      if (!text.trim()) {
+        console.warn(
+          JSON.stringify({
+            event: "gateway.call.empty_text",
+            model: modelName,
+            outputTokens,
+            note: "zero visible text (reasoning likely consumed maxOutputTokens)",
+            ts: new Date().toISOString(),
+          }),
+        );
+      }
 
       const record = {
         provider: resolveProvider(),

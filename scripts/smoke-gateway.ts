@@ -25,7 +25,10 @@ async function main() {
     corpusVersion: "0.1.0",
     system: "You are a connectivity check. Reply with exactly: OK",
     prompt: "ping",
-    maxOutputTokens: 16,
+    // Free-tier models reason by default — a 16-token cap got fully consumed
+    // by thinking and returned empty text (seen 2026-11-16). Give reasoning
+    // models headroom (≥ ~256) or the visible answer may be cut off.
+    maxOutputTokens: 512,
   });
 
   console.log("SMOKE RESULT:", JSON.stringify(result, null, 2));
