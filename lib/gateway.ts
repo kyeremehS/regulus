@@ -11,7 +11,7 @@
  * In Phase 1 this records to structured logs; Phase 1b persists Trace rows to Postgres.
  */
 
-import { generateText, type LanguageModel } from "ai";
+import { generateText, streamText, type LanguageModel } from "ai";
 import { openai } from "@ai-sdk/openai";
 import { createOpenRouter } from "@openrouter/ai-sdk-provider";
 
@@ -381,6 +381,140 @@ export async function embedTexts(
 }
 
 export { EMBED_MAX_BATCH };
+
+// --- Streaming (naive RAG answer path, §7) ----------------------------------
+
+export interface GatewayStreamOptions {
+  tier: TierName;
+  promptVersion: string;
+  corpusVersion: string;
+  system: string;
+  prompt: string;
+  /** Injected in tests to bypass the network */
+  model?: LanguageModel;
+}
+
+export interface GatewayStreamHandle {
+  /**
+   * Async-iterable text deltas for the answer body. SINGLE consumer: drain it
+   * to completion before awaiting `finished` (finished reads the buffer this
+   * iterator fills — two consumers on one stream interleave and corrupt text).
+   */
+  textStream: AsyncIterable<string>;
+  /** Resolves when the stream ends; carries the full trace record. */
+  finished: Promise<GatewayCallResult>;
+}
+
+/**
+ * Streaming counterpart of callModel — same responsibilities (retries are NOT
+ * possible mid-stream, so the initial connection gets the retry loop; after
+ * the first delta the stream must succeed or fail visibly). Usage/cost are
+ * accounted in `finished`.
+ */
+export function streamModel(opts: GatewayStreamOptions): GatewayStreamHandle {
+  const startedAt = Date.now();
+
+  // Open the connection eagerly (with retries) and hold the first delta so
+  // nothing is consumed twice: transient errors retry BEFORE any output, and
+  // both the consumer and `finished` read from the same iterator.
+  async function open(): Promise<{
+    first: IteratorResult<string>;
+    rest: AsyncIterator<string>;
+    result: ReturnType<typeof streamText>;
+  }> {
+    let lastError: unknown;
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+      try {
+        const result = streamText({
+          model: opts.model ?? TIERS[opts.tier](),
+          system: opts.system,
+          prompt: opts.prompt,
+        });
+        const iter = result.textStream[Symbol.asyncIterator]();
+        const first = await withTimeout(
+          iter.next(),
+          TIMEOUT_MS,
+          `model stream timed out before first token (${TIMEOUT_MS}ms)`,
+        );
+        return { first, rest: iter, result };
+      } catch (err) {
+        lastError = err;
+        if (!isRetryable(err) || attempt === MAX_ATTEMPTS) break;
+        await sleep(BACKOFF_MS[Math.min(attempt - 1, BACKOFF_MS.length - 1)]);
+      }
+    }
+    throw new GatewayError(
+      `model stream failed after ${MAX_ATTEMPTS} attempt(s): ${String(lastError)}`,
+      MAX_ATTEMPTS,
+      lastError,
+    );
+  }
+
+  const opened = open();
+  // The ONLY stream consumer is textStream (the caller's for-await). It
+  // appends every delta here; `finished` reads this buffer instead of touching
+  // the iterator — two consumers on one iterator would interleave and corrupt
+  // the text (observed 2026-11-26).
+  const state = { text: "" };
+
+  const textStream: AsyncIterable<string> = {
+    async *[Symbol.asyncIterator]() {
+      const { first, rest } = await opened;
+      if (!first.done) {
+        state.text += first.value;
+        yield first.value;
+      }
+      while (true) {
+        const next = await rest.next();
+        if (next.done) break;
+        state.text += next.value;
+        yield next.value;
+      }
+    },
+  };
+
+  const finished = (async (): Promise<GatewayCallResult> => {
+    const { result } = await opened;
+    const modelName = resolveModelId(opts.tier);
+    const text = state.text;
+    const usage = await result.usage;
+    const inputTokens = usage.inputTokens ?? 0;
+    const outputTokens = usage.outputTokens ?? 0;
+    const latencyMs = Date.now() - startedAt;
+    if (!text.trim()) {
+      console.warn(
+        JSON.stringify({
+          event: "gateway.call.empty_text",
+          model: modelName,
+          outputTokens,
+          note: "zero visible text (reasoning likely consumed maxOutputTokens)",
+          ts: new Date().toISOString(),
+        }),
+      );
+    }
+    const record = {
+      provider: resolveProvider(),
+      model: modelName,
+      promptVersion: opts.promptVersion,
+      corpusVersion: opts.corpusVersion,
+      inputTokens,
+      outputTokens,
+      totalTokens: inputTokens + outputTokens,
+      costUsd: estimateCost(modelName, inputTokens, outputTokens),
+      latencyMs,
+      attempts: 1,
+      ts: new Date().toISOString(),
+    };
+    console.log(JSON.stringify({ event: "gateway.stream", ...record }));
+    return {
+      text,
+      usage: { inputTokens, outputTokens, totalTokens: record.totalTokens },
+      ...record,
+    };
+  })();
+
+  return { textStream, finished };
+}
 
 // --- Helpers --------------------------------------------------------------
 
