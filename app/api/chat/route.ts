@@ -2,13 +2,16 @@
  * POST /api/chat — the naive single-call RAG path (§7 baseline, kept forever).
  * Body: { message: string }
  * SSE events (one JSON object per `data:` line):
- *   {"type":"text","delta":"…"}   — answer body deltas
- *   {"type":"done","sources":[…],"trace":{…}} — citations + trace for this turn
+ *   {"type":"sources","sources":[…]} — retrieved passages with similarity
+ *   {"type":"text","delta":"…"}      — answer body deltas
+ *   {"type":"done","trace":{…},"conversationId":"…"} — citations + trace
  *   {"type":"error","message":"…"}
+ * Every turn is persisted (conversation, messages, trace with spans — §10.1).
  */
 import { streamModel } from "@/lib/gateway";
 import { ANSWERER_NAIVE, promptId } from "@/lib/prompts";
-import { retrieve, assembleContext } from "@/lib/retrieval";
+import { retrieve, assembleContext, manifestCorpusVersion } from "@/lib/retrieval";
+import { persistTurn, type TraceSpan } from "@/lib/trace";
 
 export const maxDuration = 120;
 
@@ -35,6 +38,8 @@ export async function POST(request: Request) {
     return Response.json({ error: "message too long (max 4,000 chars)" }, { status: 400 });
   }
 
+  const turnStartedAt = Date.now();
+
   // 1. Retrieve (§7: vector top-k → context with stable [S1]…[Sn] IDs).
   let retrieved;
   try {
@@ -43,7 +48,32 @@ export async function POST(request: Request) {
     console.error(JSON.stringify({ event: "chat.retrieval_failed", error: String(err) }));
     return Response.json({ error: "retrieval failed" }, { status: 500 });
   }
-  const corpusVersion = await import("@/lib/retrieval").then((m) => m.manifestCorpusVersion());
+  const corpusVersion = await manifestCorpusVersion();
+
+  const spans: TraceSpan[] = [];
+  spans.push({
+    step: "embed_query",
+    startedAt: new Date(turnStartedAt).toISOString(),
+    latencyMs: retrieved.latencyMs,
+    tokens: { input: retrieved.queryTokens, output: 0 },
+    costUsd: retrieved.queryCostUsd,
+  });
+  spans.push({
+    step: "retrieval",
+    startedAt: new Date(turnStartedAt + retrieved.latencyMs).toISOString(),
+    latencyMs: 0, // DB time is included in the embed+query round trip above
+    topK: retrieved.passages.length,
+    contextTokens: retrieved.passages.reduce((n, p) => n + p.tokenCount, 0),
+    passages: retrieved.passages.map((p) => ({
+      sid: p.sid,
+      chunkId: p.chunkId,
+      documentId: p.documentId,
+      sectionPath: p.sectionPath,
+      pageNumber: p.pageNumber,
+      similarity: Math.round(p.similarity * 1000) / 1000,
+      tokenCount: p.tokenCount,
+    })),
+  });
 
   // 2. One call: answer from the assembled context only (abstention + injection
   //    defenses live in the system prompt, answerer-naive@1.0.0).
@@ -78,31 +108,64 @@ ${assembleContext(retrieved.passages)}`;
       const safeEnqueue = (event: object) => {
         if (!closed) controller.enqueue(sse(event));
       };
+      let answer = "";
+      let streamError: string | undefined;
+      let doneTrace: Record<string, unknown> | undefined;
       try {
         safeEnqueue({ type: "sources", sources });
         for await (const delta of handle.textStream) {
+          answer += delta;
           safeEnqueue({ type: "text", delta });
         }
         const trace = await handle.finished;
-        safeEnqueue({
-          type: "done",
-          trace: {
-            promptVersion: trace.promptVersion,
-            corpusVersion: trace.corpusVersion,
-            model: trace.model,
-            provider: trace.provider,
-            totalTokens: trace.usage.totalTokens,
-            costUsd: trace.costUsd,
-            latencyMs: trace.latencyMs,
-          },
+        spans.push({
+          step: "answer",
+          startedAt: new Date(turnStartedAt + retrieved.latencyMs).toISOString(),
+          latencyMs: trace.latencyMs,
+          model: trace.model,
+          promptVersion: trace.promptVersion,
+          tokens: { input: trace.usage.inputTokens, output: trace.usage.outputTokens },
+          costUsd: trace.costUsd,
+          answerChars: answer.length,
+          emptyAnswer: !answer.trim(),
         });
+        doneTrace = {
+          promptVersion: trace.promptVersion,
+          corpusVersion: trace.corpusVersion,
+          model: trace.model,
+          provider: trace.provider,
+          totalTokens: trace.usage.totalTokens,
+          costUsd: trace.costUsd,
+          latencyMs: trace.latencyMs,
+        };
       } catch (err) {
-        console.error(JSON.stringify({ event: "chat.stream_failed", error: String(err) }));
-        safeEnqueue({ type: "error", message: "the answer stream failed — please retry" });
-      } finally {
-        closed = true;
-        controller.close();
+        streamError = String(err);
+        console.error(JSON.stringify({ event: "chat.stream_failed", error: streamError }));
+        spans.push({
+          step: "error",
+          startedAt: new Date().toISOString(),
+          latencyMs: Date.now() - turnStartedAt,
+          error: streamError,
+        });
       }
+      const conversationId = await persistTurn({
+        question: message,
+        answer,
+        citations: sources,
+        promptVersions: [promptId(ANSWERER_NAIVE), "query-embed@1.0.0"],
+        spans,
+        totalTokens: spans.reduce((n, s) => n + (s.tokens?.input ?? 0) + (s.tokens?.output ?? 0), 0),
+        costUsd: spans.reduce((n, s) => n + (s.costUsd ?? 0), 0),
+        latencyMs: Date.now() - turnStartedAt,
+        error: streamError,
+      });
+      if (streamError) {
+        safeEnqueue({ type: "error", message: "the answer stream failed — please retry" });
+      } else if (doneTrace) {
+        safeEnqueue({ type: "done", trace: doneTrace, conversationId });
+      }
+      closed = true;
+      controller.close();
     },
   });
 
