@@ -417,3 +417,26 @@ cases:
     requiredChunks:
       - vat-act-2025-act-1151:209a8c58:4
     tags: [vat, calculation, calculator, t3]
+
+  # Found live 2026-11-26: owner asked about retail flat rate; naive RAG cited
+  # the 2020 practice note (Act 870 regime) as if current. §10 "cites
+  # superseded version" hypothesis — confirmed, now a regression case.
+  - id: gv01-029
+    question: Do retail shops still pay VAT at the 3% flat rate under the current law?
+    queryType: lookup
+    riskTier: T2
+    expect: answer+flag-conflict
+    reference: >-
+      The 3% flat rate is only in the corpus from REPEALED-era sources (Act
+      870 s.3(2) as amended by Act 948, via the 2020 GRA practice note). Act
+      1151 commenced 2026-01-01 and neither it nor its 2026 Guidelines state a
+      flat-rate percentage (the guidelines only mention flat-rate taxpayers
+      being converted to the standard rate). A correct answer may give the 3%
+      figure WITH its Act-870-era provenance and MUST flag that the corpus
+      does not state whether it continues under Act 1151 — or abstain on the
+      current rate. Stating 3% as unqualified current law is a failure.
+    facts: [vat-rate-flat-scheme, absence-flat-rate-current-law]
+    requiredChunks:
+      - practice-note-vat-flat-rate:00b75aa0:14
+      - vat-act-2025-act-1151:209a8c58:101
+    tags: [vat, flat-rate, supersession, currency, live-found]
