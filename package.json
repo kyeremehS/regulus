@@ -9,6 +9,7 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "smoke:gateway": "tsx scripts/smoke-gateway.ts",
+    "embed": "tsx scripts/embed.ts",
     "eval:validate": "tsx scripts/eval-validate.ts",
     "db:generate": "drizzle-kit generate && tsx scripts/strip-bom.ts",
     "db:migrate": "drizzle-kit migrate",

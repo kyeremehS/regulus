@@ -1,5 +1,5 @@
 {
-  "$comment": "Regulus v1 corpus manifest — DESIGN.md §5. URLs verified 2026-11-09; 4 sources re-pointed to text-layer copies after the parse gate caught GRA scans with no text layer (scripts/probe-textlayer.ts). termsChecked=false: owner must confirm terms BEFORE ingest into the answer corpus (fetching for parse inspection is fine with --force-unverified). Status: candidate | verified | fetched | ingested | rejected.",
+  "$comment": "Regulus v1 corpus manifest — DESIGN.md §5. URLs verified 2026-11-09; 4 sources re-pointed to text-layer copies after the parse gate caught GRA scans with no text layer (scripts/probe-textlayer.ts). TERMS: owner reviewed all 9 sources (official GRA/BRR publications + mirrors of public statute texts) and approved ingest 2026-11-26 — all termsChecked=true. Status: candidate | verified | fetched | ingested | rejected.",
   "corpusVersion": "0.1.0",
   "sources": [
     {
@@ -9,9 +9,9 @@
       "url": "https://www.brr.gov.gh/acc/registry/docs/TAX%20896-INCOME%20TAX%20ACT,%202015%20(ACT%20896)%20AS%20AMENDED%20BY%20ACTS%20902,%20907,%20915,%20924,%20941,%20956,%20967%20AND%20973.pdf",
       "publishedAt": "2015-12-31",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's own copy is a scanned image (0 text chars). Consolidated as amended by Acts 902/907/915/924/941/956/967/973; income-tax-amendments-updated-2026 covers later changes. Confirm reproduction terms before ingest.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "3afc57797c3bc6e879e2efadaf29c0e6eda5db22479a0dc63ee7a0958a4c6677",
       "fetchedAt": "2026-11-09T16:36:37.112Z"
     },
@@ -22,9 +22,9 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2026/09/Amendments-To-The-Income-Tax-2015-Act-896_Updated-1.pdf",
       "publishedAt": "2026-09-01",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Critical for corpus currency (§19 risk 4): keeps Act 896 answers current. GRA terms as above.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "fdd3f8179f3d8d75aa9a9b48fce525491687e4b55104534d66980a865f8bb294",
       "fetchedAt": "2026-11-09T16:36:37.611Z"
     },
@@ -35,9 +35,9 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/vat_act_870.pdf",
       "publishedAt": "2013-12-18",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Superseded in part by Act 1151 (2025) — both retained; effective dates disambiguate (§19 risk 4).",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "32aa74aad647b525288e899a4c1a7084e38ad89040e0928b41be4b9f65a46408",
       "fetchedAt": "2026-11-09T16:36:37.715Z"
     },
@@ -48,9 +48,9 @@
       "url": "https://a-tla.org/sites/default/files/2026-03/Ghana%20-%20Value%20Added%20Tax%20Act,%202025%20-%20(ACT%201151)%20CC.pdf",
       "publishedAt": "2025-12-31",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's official copy is a scanned image (0 text chars). Mirror, not primary publisher; content matches the official Act. Confirm reproduction terms before ingest.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "209a8c588508c641c94ce2dcc77194e9307e4880b276c5a26af1a4e33a6d7951",
       "fetchedAt": "2026-11-09T16:36:40.603Z"
     },
@@ -61,9 +61,9 @@
       "url": "https://ghtaxclub.com/wp-content/uploads/2026/01/VAT-Guidelines-for-VAT-ACT-1151.pdf",
       "publishedAt": "2026-01-01",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's official copy is a scanned image (0 text chars). Guidance note role from DESIGN §5. Confirm reproduction terms before ingest.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "d8bbe31c7c56083d438401567a60e25e0bad1d1c22057b28114770d62ce397c0",
       "fetchedAt": "2026-11-09T16:36:47.127Z"
     },
@@ -74,9 +74,9 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-VAT-Flat-Rate-Scheme.pdf",
       "publishedAt": "2020-09-01",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Frequently queried small-business VAT question. GRA terms as above.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "00b75aa024678f62ee72a23e2cad97a49debf8d64fa4f2832ca72a4247c1c661",
       "fetchedAt": "2026-11-09T16:36:47.786Z"
     },
@@ -87,9 +87,9 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-Withholding-of-Tax.pdf",
       "publishedAt": "2020-09-01",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "GRA terms as above.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "6af2954ad9987a9ad8cd2c6ae1d36b301828476d726dd492331df31527ef78aa",
       "fetchedAt": "2026-11-09T16:36:48.131Z"
     },
@@ -100,9 +100,9 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/WHT-TAX-CODES_DESCRIPTION-AND-RATES_2015.pdf",
       "publishedAt": "2015-01-01",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Rate tables feed facts.yaml (exact-match evals). GRA terms as above.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "effdf89580e5e5bb4de086774dd0a2ae3f23fa5fcde4f8c95c89279f3e10ad3e",
       "fetchedAt": "2026-11-09T16:36:48.240Z"
     },
@@ -113,9 +113,9 @@
       "url": "https://web.archive.org/web/20250515064013/https://ghalii.org/akn/gh/act/2019/992/eng@2019-08-02/source.pdf",
       "publishedAt": "2019-08-02",
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "RESOLVED 2026-11-09: RGD dead, ORC has no act library, ghalii.org 403s bots — Wayback snapshot of ghalii source.pdf has a full text layer (412pp). Wayback URLs are permanent. Confirm reproduction terms before ingest.",
-      "status": "fetched",
+      "status": "ingested",
       "contentHash": "ab7564da945238133a8a8cec0d15b376c31bdebc6c72ee9cc4000a5b4b398057",
       "fetchedAt": "2026-11-09T16:37:02.838Z"
     }
