@@ -43,13 +43,23 @@ const SPAN_COLORS: Record<string, string> = {
   error: "bg-red-100 text-red-700",
 };
 
+/** Locale-independent UTC timestamp — identical on server and client (no hydration mismatch). */
+function fmtUtc(iso: string): string {
+  const d = new Date(iso);
+  const p = (n: number) => String(n).padStart(2, "0");
+  return (
+    `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())} ` +
+    `${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())} UTC`
+  );
+}
+
 /** Plain-text rendering of the whole trace — pasted into error-analysis notes. */
 export function buildTraceText(t: TraceCardData): string {
   const hasError = t.spans.some((s) => s.step === "error");
   const abstained = t.answer.startsWith("Not found in the sources");
   const lines: string[] = [];
   lines.push(
-    `TRACE ${t.traceId} (${new Date(t.createdAt).toLocaleString()})`,
+    `TRACE ${t.traceId} (${fmtUtc(t.createdAt)})`,
     `QUESTION: ${t.question}`,
     `VERDICT: ${hasError ? "ERROR" : abstained ? "ABSTAINED" : "OK"}`,
     "",
@@ -124,8 +134,7 @@ export function TraceCard({ trace }: { trace: TraceCardData }) {
           <span className="flex-1 truncate text-sm text-zinc-800">{trace.question}</span>
           <span className="text-[10px] text-zinc-400">
             {trace.totalTokens} tok · ${trace.costUsd} ·{" "}
-            {(trace.latencyMs / 1000).toFixed(1)}s ·{" "}
-            {new Date(trace.createdAt).toLocaleString()}
+            {(trace.latencyMs / 1000).toFixed(1)}s · {fmtUtc(trace.createdAt)}
           </span>
           <button
             onClick={copy}
