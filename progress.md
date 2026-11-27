@@ -332,3 +332,4 @@ eval harness, dashboard, caching, admin UI. Evals are Phase 2; agents only if ev
    question about the project. Say what happened and why in everyday language, then
    add technical detail only after the plain version lands. The owner must be able to
    follow every step without decoding jargon first.
+| 2026-11-27 | **README rebuilt for reality** (§21): status line now says Phase 1 complete + baseline score; new `Baseline results` section with the full 75.9% table + what the failures teach + reproduce command; `What it does` split into built-today vs planned; `How it works` split into current naive pipeline vs planned agent pipeline; Getting started switched to OpenRouter key + eval:run/embed scripts + /admin/traces walkthrough; roadmap statuses filled (Phase 0/1 DONE, Phase 2 WIP); development-notes section documents the human-gate/AI-assist process per §3. | implementation session |
