@@ -127,7 +127,7 @@ Ask a question in the UI, click an `[S#]` chip to open the cited passage, then o
 
 ## Versioning
 
-SemVer git tags: **`vMAJOR.MINOR.PATCH`** — MAJOR = a phase from the roadmap completes, MINOR = new capability within a phase, PATCH = fixes and docs. Each tag ships with a GitHub Release whose notes come from the tracker's change log. Current: **`v0.6.0`** (eval runner + baseline; [all releases](https://github.com/kyeremehS/regulus/releases)). See [progress.md](progress.md) §1 (decision D5).
+SemVer git tags: **`vMAJOR.MINOR.PATCH`** — MAJOR = a phase from the roadmap completes, MINOR = new capability within a phase, PATCH = fixes and docs. **GitHub Releases are reserved for significant milestones** (phase completions, headline capabilities); day-to-day fixes land as commits recorded in the change log ([progress.md](progress.md) §6). Current: **`v0.6.1`** ([releases](https://github.com/kyeremehS/regulus/releases)). See [progress.md](progress.md) §1 (decision D5).
 
 ## Roadmap
 
