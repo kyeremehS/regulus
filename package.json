@@ -11,6 +11,7 @@
     "smoke:gateway": "tsx scripts/smoke-gateway.ts",
     "embed": "tsx scripts/embed.ts",
     "eval:validate": "tsx scripts/eval-validate.ts",
+    "eval:run": "tsx scripts/eval-run.ts",
     "db:generate": "drizzle-kit generate && tsx scripts/strip-bom.ts",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",

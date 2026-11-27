@@ -44,3 +44,6 @@ next-env.d.ts
 # ingestion artifacts
 /sources/raw/
 /sources/enriched/
+
+# derived eval run artifacts (DB eval_runs/eval_results is the record)
+/evals/runs/

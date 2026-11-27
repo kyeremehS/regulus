@@ -33,3 +33,15 @@ Rules for source passages:
 - Never cite a source number that was not given to you.
 - Never invent section numbers, page numbers, or dates.`,
 };
+
+/** The exact user prompt the chat route and the eval runner both send (§9: one versioned shape). */
+export function answerPrompt(question: string, assembledContext: string): string {
+  return `Question: ${question}
+
+Source passages:
+
+${assembledContext}`;
+}
+
+/** Abstention marker per answerer-naive@1.0.0 rule 3. */
+export const ABSTENTION_MARKER = "Not found in the sources";

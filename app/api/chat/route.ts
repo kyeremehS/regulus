@@ -9,7 +9,7 @@
  * Every turn is persisted (conversation, messages, trace with spans — §10.1).
  */
 import { streamModel } from "@/lib/gateway";
-import { ANSWERER_NAIVE, promptId } from "@/lib/prompts";
+import { ANSWERER_NAIVE, answerPrompt, promptId } from "@/lib/prompts";
 import { retrieve, assembleContext, manifestCorpusVersion } from "@/lib/retrieval";
 import { persistTurn, type TraceSpan } from "@/lib/trace";
 
@@ -77,11 +77,7 @@ export async function POST(request: Request) {
 
   // 2. One call: answer from the assembled context only (abstention + injection
   //    defenses live in the system prompt, answerer-naive@1.0.0).
-  const prompt = `Question: ${message}
-
-Source passages:
-
-${assembleContext(retrieved.passages)}`;
+  const prompt = answerPrompt(message, assembleContext(retrieved.passages));
 
   const handle = streamModel({
     tier: "large",
