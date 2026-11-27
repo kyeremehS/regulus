@@ -62,8 +62,13 @@ async function main() {
   }
 
   // --- Gates -----------------------------------------------------------------
+  // Only fetched/ingested sources belong in the answer corpus; candidates are
+  // pending fetch + terms review and are skipped by every gate below.
+  const INGESTIBLE = new Set(["fetched", "ingested"]);
+  const corpusSources = manifest.sources.filter((s) => INGESTIBLE.has(s.status));
+  const candidates = manifest.sources.filter((s) => !INGESTIBLE.has(s.status));
   const enrichedIds = new Set(enriched.map((e) => e.docId));
-  const missing = manifest.sources.filter((s) => !enrichedIds.has(s.id));
+  const missing = corpusSources.filter((s) => !enrichedIds.has(s.id));
   if (missing.length > 0) {
     console.error(
       `FAIL: manifest sources without an enriched file: ${missing.map((s) => s.id).join(", ")}`,
@@ -78,10 +83,10 @@ async function main() {
     );
     process.exit(1);
   }
-  const unchecked = manifest.sources.filter((s) => !s.termsChecked);
+  const unchecked = corpusSources.filter((s) => !s.termsChecked);
   if (unchecked.length > 0 && !forceUnverified) {
     console.error(
-      `FAIL: terms-of-use gate — ${unchecked.length}/${manifest.sources.length} sources have ` +
+      `FAIL: terms-of-use gate — ${unchecked.length}/${corpusSources.length} ingestible sources have ` +
         `termsChecked=false (§5/D3): ${unchecked.map((s) => s.id).join(", ")}.\n` +
         `Review each source's terms of use/licensing, flip termsChecked: true in ` +
         `sources/manifest.json, and re-run. (Escape hatch: --force-unverified.)`,
@@ -101,6 +106,7 @@ async function main() {
   }
   console.log(
     `corpus v${corpusVersion}: ${enriched.length} docs, ${totalChunks} chunks, model=${modelId} (${EMBEDDING_DIMENSIONS}d)` +
+      (candidates.length > 0 ? ` [${candidates.length} manifest candidates pending fetch/terms — skipped]` : "") +
       (unchecked.length > 0
         ? ` [--force-unverified: ingesting ${unchecked.length} terms-unchecked sources]`
         : ""),

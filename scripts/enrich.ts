@@ -106,6 +106,8 @@ export async function runEnrich(ids?: string[]): Promise<EnrichResult> {
 
   for (const source of manifest.sources) {
     if (ids && !ids.includes(source.id)) continue;
+    // Candidates (not yet fetched/terms-gated) have no chunks file by design.
+    if (source.status === "candidate" || source.status === "rejected") continue;
     try {
       const result = await enrichOne(source, manifest.corpusVersion, chunkFiles, seenIds, warnings);
       if (!result) continue;
