@@ -1,5 +1,5 @@
 {
-  "$comment": "Regulus v1 corpus manifest — DESIGN.md §5. URLs verified 2026-11-09; 4 sources re-pointed to text-layer copies after the parse gate caught GRA scans with no text layer (scripts/probe-textlayer.ts). TERMS: owner reviewed all 9 sources (official GRA/BRR publications + mirrors of public statute texts) and approved ingest 2026-11-26 — all termsChecked=true. Status: candidate | verified | fetched | ingested | rejected.",
+  "$comment": "Regulus v1 corpus manifest — DESIGN.md §5. URLs verified 2026-11-09; 4 sources re-pointed to text-layer copies after the parse gate caught GRA scans with no text layer (scripts/probe-textlayer.ts). TERMS: owner reviewed all 9 original sources (official GRA/BRR publications + mirrors of public statute texts) and approved ingest 2026-11-26 — all termsChecked=true. Status: candidate | verified | fetched | ingested | rejected. TERMS ROUND 2 (2026-11-27): owner approved all 11 discovery candidates after the compliance test (statutory texts = public law; 2 GRA practice notes = same call as 2026-11-26; non-commercial, attributed, no PDF redistribution).",
   "corpusVersion": "0.1.0",
   "sources": [
     {
@@ -13,7 +13,7 @@
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's own copy is a scanned image (0 text chars). Consolidated as amended by Acts 902/907/915/924/941/956/967/973; income-tax-amendments-updated-2026 covers later changes. Confirm reproduction terms before ingest.",
       "status": "ingested",
       "contentHash": "3afc57797c3bc6e879e2efadaf29c0e6eda5db22479a0dc63ee7a0958a4c6677",
-      "fetchedAt": "2026-11-09T16:36:37.112Z"
+      "fetchedAt": "2026-11-27T08:33:03.664Z"
     },
     {
       "id": "income-tax-amendments-updated-2026",
@@ -26,7 +26,7 @@
       "termsNotes": "Critical for corpus currency (§19 risk 4): keeps Act 896 answers current. GRA terms as above.",
       "status": "ingested",
       "contentHash": "fdd3f8179f3d8d75aa9a9b48fce525491687e4b55104534d66980a865f8bb294",
-      "fetchedAt": "2026-11-09T16:36:37.611Z"
+      "fetchedAt": "2026-11-27T08:33:04.452Z"
     },
     {
       "id": "vat-act-2013-act-870",
@@ -39,7 +39,7 @@
       "termsNotes": "Superseded in part by Act 1151 (2025) — both retained; effective dates disambiguate (§19 risk 4).",
       "status": "ingested",
       "contentHash": "32aa74aad647b525288e899a4c1a7084e38ad89040e0928b41be4b9f65a46408",
-      "fetchedAt": "2026-11-09T16:36:37.715Z"
+      "fetchedAt": "2026-11-27T08:33:04.712Z"
     },
     {
       "id": "vat-act-2025-act-1151",
@@ -52,7 +52,7 @@
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's official copy is a scanned image (0 text chars). Mirror, not primary publisher; content matches the official Act. Confirm reproduction terms before ingest.",
       "status": "ingested",
       "contentHash": "209a8c588508c641c94ce2dcc77194e9307e4880b276c5a26af1a4e33a6d7951",
-      "fetchedAt": "2026-11-09T16:36:40.603Z"
+      "fetchedAt": "2026-11-27T08:33:12.963Z"
     },
     {
       "id": "vat-guidelines-act-1151",
@@ -65,7 +65,7 @@
       "termsNotes": "TEXT-LAYER copy found 2026-11-09 — GRA's official copy is a scanned image (0 text chars). Guidance note role from DESIGN §5. Confirm reproduction terms before ingest.",
       "status": "ingested",
       "contentHash": "d8bbe31c7c56083d438401567a60e25e0bad1d1c22057b28114770d62ce397c0",
-      "fetchedAt": "2026-11-09T16:36:47.127Z"
+      "fetchedAt": "2026-11-27T08:33:23.236Z"
     },
     {
       "id": "practice-note-vat-flat-rate",
@@ -78,7 +78,7 @@
       "termsNotes": "Frequently queried small-business VAT question. GRA terms as above.",
       "status": "ingested",
       "contentHash": "00b75aa024678f62ee72a23e2cad97a49debf8d64fa4f2832ca72a4247c1c661",
-      "fetchedAt": "2026-11-09T16:36:47.786Z"
+      "fetchedAt": "2026-11-27T08:33:24.368Z"
     },
     {
       "id": "practice-note-withholding-tax",
@@ -91,7 +91,7 @@
       "termsNotes": "GRA terms as above.",
       "status": "ingested",
       "contentHash": "6af2954ad9987a9ad8cd2c6ae1d36b301828476d726dd492331df31527ef78aa",
-      "fetchedAt": "2026-11-09T16:36:48.131Z"
+      "fetchedAt": "2026-11-27T08:33:25.213Z"
     },
     {
       "id": "wht-guide-codes-rates-2015",
@@ -104,7 +104,7 @@
       "termsNotes": "Rate tables feed facts.yaml (exact-match evals). GRA terms as above.",
       "status": "ingested",
       "contentHash": "effdf89580e5e5bb4de086774dd0a2ae3f23fa5fcde4f8c95c89279f3e10ad3e",
-      "fetchedAt": "2026-11-09T16:36:48.240Z"
+      "fetchedAt": "2026-11-27T08:33:25.580Z"
     },
     {
       "id": "companies-act-2019-act-992",
@@ -117,7 +117,7 @@
       "termsNotes": "RESOLVED 2026-11-09: RGD dead, ORC has no act library, ghalii.org 403s bots — Wayback snapshot of ghalii source.pdf has a full text layer (412pp). Wayback URLs are permanent. Confirm reproduction terms before ingest.",
       "status": "ingested",
       "contentHash": "ab7564da945238133a8a8cec0d15b376c31bdebc6c72ee9cc4000a5b4b398057",
-      "fetchedAt": "2026-11-09T16:37:02.838Z"
+      "fetchedAt": "2026-11-27T08:33:52.346Z"
     },
     {
       "id": "revenue-administration-act-2016-act-915",
@@ -126,11 +126,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2023/01/Revenue-Administration-Act-2016-.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (83pp). Fill gap: tax objection/appeal procedure (absence-tax-objection-procedure). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "21f17d6c0c100e7ae076d92f27356feab30d237875ace4292896205b440fba52",
+      "fetchedAt": "2026-11-27T08:33:52.850Z"
     },
     {
       "id": "vat-regulations-2016-li-2243",
@@ -139,11 +139,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2022/07/VALUE-ADDED-TAX-REGULATIONS-2016-L.I.-2243.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (22pp). VAT administration detail (registration, invoicing, records). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "7652abcffb3942be0ad02cd6300abee8543d1b04bff281bedf8439f2346b1774",
+      "fetchedAt": "2026-11-27T08:33:53.373Z"
     },
     {
       "id": "customs-act-2015-act-891",
@@ -152,11 +152,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2023/08/Customs-Act-2015.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (122pp). Import duties side (Act 1151 cross-references the Harmonised System). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "192d4d3f8e867150357eb25cf8184f9761084ca77da1b7ba0275d59196337a1c",
+      "fetchedAt": "2026-11-27T08:33:57.447Z"
     },
     {
       "id": "getfund-act-2000-act-581",
@@ -165,11 +165,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/ge_trust_fund_act.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (12pp). Fill gap: GETFund levy (golden case gv01-027). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "caec7128ce41e2795bbe57284161fcf053e279739c2b47400e2c9882e0e3a3a0",
+      "fetchedAt": "2026-11-27T08:33:57.613Z"
     },
     {
       "id": "income-tax-amendment-act-2023-act-1094",
@@ -178,11 +178,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2023/04/INCOME-TAX-AMENDMENT-ACT-2023-ACT-1094.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (12pp). Currency for income tax between the base act and the 2026 amendments doc. Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "26ba452ebf63d609d6b0afc15c191b458359f705f6efb94c4a6a383dd8f3f586",
+      "fetchedAt": "2026-11-27T08:34:03.577Z"
     },
     {
       "id": "growth-sustainability-levy-act-2023-act-1095",
@@ -191,11 +191,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2023/04/GROWTH-AND-SUSTAINABILITY-LEVY-ACT-2023-ACT-1095.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (6pp). Current levy on top of CIT for businesses. Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "786886fff33649b9043a33631117f30db574ae5ac5866f077283fd323a5506dc",
+      "fetchedAt": "2026-11-27T08:34:04.962Z"
     },
     {
       "id": "stamp-duty-act-689",
@@ -204,11 +204,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/11/ACT689StampDutyAct.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (27pp). Business regulation scope (incorporation stamping). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "20f15cadc08e7e7565c7165b69122a72aa2f79f4dd651d2ea66ca552412c80d7",
+      "fetchedAt": "2026-11-27T08:34:05.208Z"
     },
     {
       "id": "free-zones-act-1995-act-504",
@@ -217,11 +217,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/10/Free-Zones-Act-1995-Act-504.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (16pp). Business/incentive regime. Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "9df47eaf6680399d5c199a8824a4201439e46084929c27e17205d497a88856b7",
+      "fetchedAt": "2026-11-27T08:34:05.293Z"
     },
     {
       "id": "transfer-pricing-regulations-2020-li-2412",
@@ -230,11 +230,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2023/12/Transfer-Pricing-Regulations-2020-LI-24121-_231207_142107.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (36pp). Related-party transactions for business queries. Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "d8d303a894fb9663ade03746699f1f4fdd49dc1ebf21737b070f572142c84ae3",
+      "fetchedAt": "2026-11-27T08:34:17.368Z"
     },
     {
       "id": "practice-note-capital-allowance",
@@ -243,11 +243,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-Capital-Allowance.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (34pp). Depreciable-asset deductions for business queries. Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "b523f6f76cb6656731156f35e2e71fdc516f26de65cace234e53cad454cafe8a",
+      "fetchedAt": "2026-11-27T08:34:17.868Z"
     },
     {
       "id": "practice-note-employment-paye",
@@ -256,11 +256,11 @@
       "url": "https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-Gains-or-Profits-from-Employment.pdf",
       "publishedAt": null,
       "type": "pdf",
-      "termsChecked": false,
+      "termsChecked": true,
       "termsNotes": "Candidate 2026-11-27 discovery pass; text layer verified (30pp). PAYE/employment income depth (golden cases cover PAYE bands). Confirm reproduction terms before ingest.",
-      "status": "candidate",
-      "contentHash": null,
-      "fetchedAt": null
+      "status": "fetched",
+      "contentHash": "dbb59e89b5e87a677a80939ee2e9be37373ba5c79b90abef64e829d33154ce82",
+      "fetchedAt": "2026-11-27T08:34:19.205Z"
     }
   ]
 }

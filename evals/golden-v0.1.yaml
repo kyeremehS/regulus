@@ -226,20 +226,26 @@ cases:
 
   # ── 3. Abstention / out-of-scope ───────────────────────────────────────────
 
+  # REVISED 2026-11-27: this case was abstention (corpus-gap) until Act 915
+  # entered the corpus with the 20-doc expansion — the procedure is now in it.
   - id: gv01-015
     question: What is the procedure for raising an objection to a tax assessment?
-    queryType: abstention
+    queryType: lookup
     riskTier: T2
-    expect: abstain
+    expect: answer
     reference: >-
-      MUST ABSTAIN. The objection procedure lives in the Tax Administration
-      Act, which is not in the corpus (verified: no objection/appeal text in
-      any of the 9 docs). Correct behavior: "not found in sources" +
-      suggest consulting a tax professional or the Tax Administration Act —
-      not a fabricated 30-day rule.
-    facts: [absence-tax-objection-procedure]
-    requiredChunks: []
-    tags: [abstention, procedure, grace-faq, corpus-gap]
+      Act 915 s.42: lodge an objection with the Commissioner-General within 30
+      days of the notice; s.43: the CG considers and decides within 60 days of
+      receipt (may vary or disallow); s.44: an appeal against the CG decision
+      lies to the Court within 30 days. Deadlines must match the corpus text
+      ("thirty"/"sixty days"); do NOT require the phrase "Tax Appeals
+      Tribunal" (the corpus says "the Court").
+    facts: [tax-objection-procedure]
+    requiredChunks:
+      - revenue-administration-act-2016-act-915:21f17d6c:46
+      - revenue-administration-act-2016-act-915:21f17d6c:47
+      - revenue-administration-act-2016-act-915:21f17d6c:48
+    tags: [procedure, act-915, grace-faq, revised-2026-11-27]
 
   - id: gv01-016
     question: How do I register for a TIN on the GRA portal?

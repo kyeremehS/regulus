@@ -204,14 +204,22 @@ facts:
       figure WITH its Act-870-era provenance AND flag that the corpus does not
       state the rate under Act 1151 — or abstain on the current rate.
 
-  - id: absence-tax-objection-procedure
-    label: Tax assessment objection procedure
-    value: ABSENT
-    expected: []
-    chunks: []
+  - id: tax-objection-procedure
+    label: Tax assessment objection procedure (Act 915, in corpus since 2026-11-27)
+    value: >-
+      Lodge an objection with the Commissioner-General within 30 days of the
+      notice (s.42); the CG decides within 60 days of receipt (s.43); an appeal
+      against the CG decision lies to the Court within 30 days (s.44).
+    expected: ["thirty days", "30 days", "sixty days", "60 days"]
+    chunks:
+      - revenue-administration-act-2016-act-915:21f17d6c:46
+      - revenue-administration-act-2016-act-915:21f17d6c:47
+      - revenue-administration-act-2016-act-915:21f17d6c:48
     note: >-
-      Verified absent 2026-11-09: no "notice of objection"/"Tax Appeals
-      Tribunal" text exists in any of the 9 corpus docs (objection hits in
-      Act 870/992 are unrelated cross-references). The procedure lives in the
-      Tax Administration Act, which is NOT in the corpus. Correct behavior:
-      abstain — "not found in sources" — never invent the 30-day rule.
+      SUPERSEDES absence-tax-objection-procedure (2026-11-09 → 2026-11-27).
+      Act 915 entered the corpus with the 20-doc expansion: s.42 (30-day
+      objection), s.43 (60-day objection decision), s.44 (appeal to the Court —
+      corpus text says "the Court", NOT "Tax Appeals Tribunal"; older
+      formulations should not be assumed). gv01-015 flipped from abstention
+      to answer the same day; case semantics re-validated against these
+      chunks.

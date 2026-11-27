@@ -1,0 +1,826 @@
+# PARSE INSPECTION DUMP
+Document: Practice Note on Gains or Profits from Employment (PAYE) (GRA)
+ID: practice-note-employment-paye
+Source: https://gra.gov.gh/wp-content/uploads/2020/09/Practice-Note-on-Gains-or-Profits-from-Employment.pdf
+Published: unknown
+Content hash: dbb59e89b5e87a677a80939ee2e9be37373ba5c79b90abef64e829d33154ce82
+Pages: 30  |  Body font size: 12.0  |  Blocks: 718  |  Headings detected: 22
+
+REVIEW CHECKLIST (§5 gate):
+  [ ] Section numbers present (e.g. '7.', '12.1')?
+  [ ] Headings identified (marked with #) look right?
+  [ ] Tables readable, or at least not scrambled nonsense?
+  [ ] Page numbers retained?
+  [ ] No obvious OCR garbage / missing glyph blocks?
+  [ ] Text order matches reading order?
+
+------------------------------------------------------------
+
+
+===== PAGE 1 =====
+
+Practice Note on Charitable Organisation
+# [p1 fs=32.0] GHANA REVENUE AUTHORITY
+# [p1 fs=29.0] Practice Note on
+# [p1 fs=29.0] Gains or Profits from Employment under
+the Income Tax Act, 2015 (ACT 896)
+# [p1 fs=21.0] Practice Note Number:DT/2016/011
+th
+# [p1 fs=21.0] Date of Issue:6October, 2016
+
+===== PAGE 2 =====
+
+# [p2 fs=13.0] TABLE OF CONTENT
+1.0TAX LAW.................................................................................................................1
+2.0INTERPRETATION................................................................................................1
+3.0THE PURPOSE OFTHIS PRACTICE NOTE..................................................1
+4.0APPLICATION OF THE LAW..............................................................................1
+4.1General rules for taxation of income from employment..............................................1
+4.2Taxation of benefits in kind..............................................................................................2
+4.3Quantification of taxable benefits in kind.......................................................................3
+4.4Calculation of income from payment for Redundancy................................................7
+4.5Treatment of Medical & Dental benefits on equal terms.............................................8
+4.6Employment Gift................................................................................................................9
+4.7Personal Reliefs................................................................................................................9
+4.8Payment providing passage to an individual in respect of first employment and
+termination of the employment.................................................................................................12
+4.9Provision of Accommodation on Site...........................................................................13
+4.10Payment made to Employee on a Non Discriminatory Basis...............................13
+4.11Treatment of Overtime and Bonus............................................................................14
+4.12Tax to be withheld from payment to casual workers..............................................18
+4.13Payment to temporary workers.................................................................................19
+4.14Payment to part-time employment............................................................................20
+5.0EMPLOYMENT INCOME ASSESSMENT FORMAT.....................................25
+i
+
+===== PAGE 3 =====
+
+1.0TAX LAW
+The Commissioner-General is empowered under paragraph 2 of the Seventh Schedule
+oftheIncomeTaxAct2015,Act896toissuePracticeNotessettingoutthe
+interpretationsplacedonprovisionsofAct896bytheCommissioner-General.
+Accordingly this Practice Note is issued in respect of the taxation of income from
+employment of an individual.
+2.0INTERPRETATION
+In this Practice Note the word “Act” means the Income Tax Act, 2015 (Act 896).
+Definitions and expressions used in this Practice Note have the same meaning as they
+have in the Act.
+3.0THE PURPOSE OF THIS PRACTICENOTE
+The purpose of this Practice Note is to give clarity and provide direction to officers of the
+Ghana Revenue Authority, Tax Practitioners, Consultants, Taxpayers and the general
+publiconthe taxation of an individual’s gains or profits from employment for a year of
+thth
+assessment as provided under sections 4, 51, 93 and 94 of the Act and the 4,5and
+th
+6Schedules of the Act as well as Regulations 2, 4, 5, 6, 7, 9, 10 and 18 of Income Tax
+Regulation, 2016 (LI 2244).
+It provides guidelines on the procedures and processes for calculating the individual’s
+income from employment to ensure consistency in the implementation of the Act.
+4.0APPLICATION OF THE LAW
+# [p3 fs=12.0] 4.1 General rules for taxation of income from employment
+The general rules for taxation of income from employment are:
+a)The income shall be “the individual’s gains or profits from any employment for
+a Year of Assessment including allowances paid in cash or given in kind.
+1
+
+===== PAGE 4 =====
+
+b)The basis period for computation of income of an individual from employment
+for a Year of Assessment shall be the period in which the income was earned
+within the calendar year.
+st
+c)In instances where employment commences on a date other than 1January
+of a calendar year, the basis period for computation of the individual’s income
+fromtheemploymentshallbetheperiodstartingfromthedateof
+st
+commencement of the employment and ending on 31December of the
+same year.
+d)The individual shall account for tax on employment income on a cash basis
+and calculation of the tax payable shall be based on a twelve months period
+st
+ending on 31December each year.
+e)No expenses are allowed under employment income apart from:
+(i)mortgage interest under subparagraph(3) of paragraph 4 of the
+sixth Schedule
+(ii)Contributions and donations to a worthwhile cause under Section
+100 of the Act
+# [p4 fs=12.0] 4.2 Taxation of benefits in kind
+Benefits in kind received from an employment arise where an employer makes
+payment for the personal needs of an employee by providing the employee with
+goods or services (instead of money).
+Benefits in kind that are subject to tax include benefits which are for the personal
+use or consumption needs of the employee such as:
+(i)Employer providing accommodation for an employee
+(ii)Employer providing for the education of the employee’s children
+(iii)Employer giving goods or services free or at a cost lower than the market
+value to the employee
+(iv)Employer providing domestic servants and security to employee
+(v)An employer absorbing the tax liability of an employee
+(vi)Payment of utility bills by employer on behalf of employee
+2
+
+===== PAGE 5 =====
+
+(vii)Share options
+# [p5 fs=12.0] 4.3 Quantification of taxable benefits in kind
+4.3.1Quantification according to market value
+In general, the value of benefit in kind is quantified according to the market value
+of the benefit. That means the benefit must be valued asthe amount that an
+independent, reasonable person would pay on the open market to receive
+the same goods or services.
+The rules of quantification of benefits in kind are as prescribed in the
+(i)Fourth Schedule of the Act
+(ii)Regulations and
+(iii)In the absence of Regulations, the market value, less the part of the
+cost of the benefit paid by the employee to the employer.
+4.3.2Quantification of Loan Benefits
+Basically an employer is not responsible for provision of loans to its employees.
+However as an incentive to the employees, an employer may undertake the
+function of providing soft term loans to its employees compared to what a free
+market may offer.
+(a)Where quantification is Nil
+A benefit consisting of a loan provided for a year of assessment in return for
+services, by way of employment is not quantified under the following condition
+(i)the loan is from an employer to an employee,
+(ii)the term of the loan does not exceed twelve months, and
+(iii)the aggregate amount of the loan and any similar loan outstanding
+at any time during the previous twelve months does not exceed
+three months basic salary
+Whereallthe above conditions apply quantification of loan benefit is nil.
+(b)Where quantification is applicable
+Where
+(i)The loan isfrom an entity to a member or manager of the entity or
+from an employer to an employee;
+3
+
+===== PAGE 6 =====
+
+(ii)The loan term exceeds twelve months; and
+(iii)the aggregate amount of the loan and any similar loan outstanding at
+any time during the previous twelve months exceed three months basic
+salary;
+(iv)the loan should be quantified as follows:
+The taxable loan benefit for the year of assessment is quantified asa quarter
+of the differencebetween the interest the employee pays (if any) and the
+interest that would have been paid using the statutoryrate applicable at the time
+the loan was taken.
+The Statutory rate means the Bank of Ghana rediscount rate or (the Monetary
+Policy Rate)
+Note: The loan benefit shall be determined monthly.
+Computation of Interest
+I = (P x R x T)/100
+Where
+I = Interest
+P = Principal
+R = Rate
+T = Duration of Loan (Year)
+Formula for calculating the loan benefits:
+{C = [A-B]/4}
+Where
+A = Interest payable at statutory rate
+B = Interest paid by the employee
+C = Loan benefits
+4
+
+===== PAGE 7 =====
+
+Illustration
+The table below shows the incomes of three employees of Done Company Limited
+GHSGHSGHS
+KofiAmaKojo
+Basic Salary56,520.0040,000.0050,000.00
+Housing allowance (10% of basic salary)5,652.004,000.005,000.00
+Transport allowance (15% of basic salary)8,478.006,000.007,500.00
+Clothing allowance (20% of basic salary)11,304.008,000.0010,000.00
+Total Cash emolument81,954.0058,000.0072,500.00
+Besides the cash emoluments stated above, the employees received loans from the
+employer as follows:
+(a) Kofi received a loan of GHS 8,000.00 at a rate of 8% payable within 12 months;
+(b) Ama received a loan of GHS 16,000.00 at a rate of 8% payable within 24
+months;
+(c) Kojo received a loan of GHS 10,000.00 payable within 16 months. This loan is in
+addition to an outstanding similar loan of GHS 5,000.00 during the previous
+twelve months.
+(Assume that the statutory rate is 22% p.a.)
+Required: Determine the loan benefits applicable to the three employees
+Solution
+KOFI
+Kofi will not be liable to tax on the loan benefit due to the fact that:
+(i)His loan repayment period does not exceed 12 months,
+(ii) He had no similar loan outstanding at any time during the previous twelve
+months, and
+5
+
+===== PAGE 8 =====
+
+(iii) His current loan amount of GHS8,000.00 does not exceed his three months’
+basic salary of GHS 14,130.00;
+Workings 1
+Kofi’s three month’s basic salary=GHS 56,520.00 x 3/12= GHS 14,130.00.
+AMA
+Ama will be liable to tax on the loan benefit in view of the fact that:
+(i)Her loan repayment period exceeds 12 months
+(ii) Her total loan amount of GHS 16,000.00 exceeds her three month’s basic salary
+of GHS 10,000.00
+Workings 2
+Ama’s three month’s basic salary = GHS 40,000.00 x 3/12=10,000.00
+Interest payable at statutory rate = GHS 16,000.00 x 22% x 2=7,040.00
+Actual loan interest paid= GHS 16,000.00 x 8% x 2=2,560.00
+Total loan interest benefit=4,480.00
+However taxable loan benefit is limited to (4,480 x 1/4)=1,120.00
+KOJO
+Kojo will be liable to tax on the loan benefit in view of the fact that:
+(i)His loan repayment period exceeds 12 months
+(ii) The aggregate of the current loan (GHS 10,000.00) and the similar outstanding
+loan (GHS5,000.00) during the previous twelve months is GHS15,000.00
+which exceeds his three month’s basic salary of GHS 12,500.00.
+Workings 3
+Kojo’s three month’s basic salary = GHS50,000.00 x 3/12=12,500.00
+Interest payable at statutory rate = GHS15,000.00 x 22% x 16/12=4,400.00
+6
+
+===== PAGE 9 =====
+
+Actual loan interest payable= GHS15,000.00 x 8% x 16/12=1,600.00
+Total loan interest benefit=2,800.00
+However taxable loan benefit is limited to (2,800.00 x 1/4)=700.00
+Loan benefits applicable to each employee is as follows
+NAMETOTAL INTERESTLOAN TERMMONTHLY INTEREST
+KOFINIL12NIL
+AMA1,120.002446.67
+KOJO700.001643.75
+KofiAmaKojo
+GHSGHSGHS
+Total Cash emolument81,954.0058,000.0072,500.00
+Loan benefit (workings 1,2 and 3)-560.00525.00
+Total Employment income81,954.0058,560.0073,025.00
+# [p9 fs=12.0] 4.4 Calculation of income from payment for Redundancy
+Generally, payments on termination of employment or redundancy are not taxable
+because they are not in return for services rendered.
+A Lump sum payment and other similar payment made to an employee on the
+termination of their contract of employment as a result of management decision but
+not through the employee’s own volition is exempt from tax.
+However a lump sum payment may have the attributes of a taxable remuneration
+and tax free compensation.
+(i)A payment that relates to the employee’s entitlements under his contract of
+service is taxable. (examples include- restraint of employment)
+NB:REVENUEOFFICERSMAYDEMANDTHECONDITIONSOF
+EMPLOYMENT FROM THE EMPLOYEE
+7
+
+===== PAGE 10 =====
+
+(ii) A lump sum payment made to an employee as a genuine compensation for loss
+of office will not be taxable
+Examples of payment that are taxable include:
+i.Payment in Lieu of Notice
+Payment in lieu of notice received from an employer and paid in accordance with
+the terms of employment contract is liable to tax.
+ii.Payment in Lieu of Leave
+Any salary received by an employee while on leave as part of the employee’s
+income is taxable.
+If the employee’s employment is terminated and any earned leave has not been
+taken, the employer may wish to make cash payment in lieu of leave to eliminate
+the accumulated leave balance. Cash in lieu of leave is similar to the salary paid
+when leave is taken, and this is taxable.
+NB:LUMP SUM PAYMENT MADE TO EMPLOYEES WHO RESIGN ON THEIR
+OWN VOLITION IS TAXABLE.
+# [p10 fs=12.0] 4.5 Treatment of Medical & Dental benefits on equal terms
+Payment for dental, medical services and payment for health insurance provided
+to the employee is exempt from tax if such services or payments are available to
+all employees on a non-discriminatory basis.
+Such services or payments must be available to all employees and must be
+provided without discrimination. For example the same categories of employees
+should have access to the same medical facility.
+Example
+(i)All junior staff should enjoy the same medical services and payments
+(ii)All senior staff should enjoy the same medical services and payments
+8
+
+===== PAGE 11 =====
+
+(iii)Allmanagementstaffshouldenjoythesamemedicalservicesand
+payments
+(iv)All top-management staff should enjoy the same medical services and
+payments
+# [p11 fs=12.0] 4.6 Employment Gift
+Gifts received in respect of an employment are taxable. Where there is a link
+between the payment and the employment and that the payment would never
+have been made but for the employment, that gift would be considered as a gift
+received in respect of the employment.
+Below are examples of gifts received in respect of employment:
+4.6.1Tips:
+Employees in certain trades receive tips which form a substantial part of their
+income. The payment of tips received from the employer or a third party as a
+reward for services rendered in the course of the employment are taxable.
+4.6.2Awards:
+Under an incentive scheme, prizes may be awarded by an employer to his
+employees for the efficient performance of their work (for example punctuality,
+production, sales, etc.) Such payments are taxable.
+4.6.3Appreciation:
+Gifts of any kind that is used to show appreciation are taxable.
+4.6.4End of Service Benefit and Ex-Gratia
+End of service benefit and ex-gratia paid either in cash or in kind is taxable
+# [p11 fs=12.0] 4.7 Personal Reliefs
+4.7.1Dependant Spouse or Dependent Children, Relief
+This is granted to:
+9
+
+===== PAGE 12 =====
+
+(i)Anindividualwhoprovidesthenecessitiesoflifeforthedependant
+spouse.
+(ii)Anindividualwhoprovidesthenecessitiesoflifefortwoormore
+dependant children).
+Note: If both couple are gainfully employed only one spouse may claim the relief
+4.7.2Disability Relief
+This is granted to an individual who is disabled.
+To qualify for this relief:
+(i)The individual must be certified by the Department of Social Welfare as a
+disabled person
+(ii) The relief is granted in respect of income from employment or business
+only.
+This means that the individual will not qualify for the disability relief in respect of
+investment income earned.
+4.7.3Old Age Relief
+This is granted to an individual who is sixty years of age and above.
+4.7.4Child Education Relief
+To qualify for this relief:
+(i)The individual must sponsor the education of the child or ward in a
+recognised, registered educational institution approved by the Ministry of
+Education.
+(ii) The relief is granted in respect of a maximum of three children.
+(iii) Only one person may claim the child education relief in respect of the
+same child, The other spouse may claim the child education relief in
+respect of other children but not in respect of the same child
+10
+
+===== PAGE 13 =====
+
+Thusanindividualwhosponsorstheeducationofhis orher wardinany
+recognized, registered educational institution (from kindergarten up to the tertiary
+level) qualifies for the relief
+EXAMPLE
+Kojo Bio is 59 years and single but caters for four of his sisters’ children. One of
+the children is in Kindergarten, two are in Senior High Schools while another is in
+the University.
+Determine the reliefs available to him
+The reliefs available to him are:
+(i)Dependent Children Relief (Marriage / responsibility)
+(ii)Child education relief in respect of 3 children only
+4.7.5Aged dependant relative relief
+This is granted to an individual who provides for the necessities of life for the
+dependant relative who is sixty years of age or more.
+To qualify for this relief:
+(i)The individual must provide for the necessities of life – food, clothing and
+shelter to the dependant relative.
+(ii)The relief is granted in respect of a maximum of two dependant relatives.
+(iii)Only one person may claim the aged dependant relative relief in respect of
+the same aged dependant relative,
+(iv)Other relatives may claim the aged dependant relative relief in respect of
+other relatives but not the same aged relative for whom another relative
+has already made a claim
+11
+
+===== PAGE 14 =====
+
+4.7.6Cost of Training Relief
+This is granted to an individual who undergoes training to update the individual’s
+professional, technical or vocational skills or knowledge.
+# [p14 fs=12.0] NB: “KNOWLEDGE” does not include academic knowledge
+4.7.7Upfront Reliefs
+Employees who apply for the reliefs listed below and satisfy all the necessary
+conditions may be granted the reliefs upfront on monthly basis. Such reliefs
+include:
+(i)Dependant Spouse or Dependent Children, Relief
+(ii)Child education relief in respect of 3 children only
+(iii)Disability Relief
+(iv)Aged Relief
+(v)Aged dependant relief
+# [p14 fs=12.0] 4.8 Payment providing passage to an individual in respect of firstemployment
+and termination of the employment
+Payment made to an individual for passage to or from the country in respect of first
+employment or termination of the employment is exempt from tax in the hands of the
+individual.
+In the case where the payment is extended to cover the family members of the
+individual, that payment will be taxable and treated as follows:
+(i)Where cash payment is made to cover the family members ofthe
+employee, the amount shall be treated as part ofcash emolument of the
+employee and taxed accordingly
+(ii)Where the employer buys a ticket for the employee and family members,
+the payment covering the family members shall be treated as a benefit in
+kind and taxed in the hands of the employee.
+12
+
+===== PAGE 15 =====
+
+# [p15 fs=12.0] 4.9 Provision of Accommodation on Site.
+Generally provision of accommodation by an employer to an employee constitutes a
+benefit in kind and is thus taxable.
+However, provision of accommodation by an employer carrying on a timber, mining,
+building, construction, farming business or petroleum operations to that person at a
+place or site where the field operation of the business is carried out is exempt from
+tax.
+Provision ofsuch accommodationis exempt from tax wherean employee is
+providedwithaccommodationataplaceorsiteinproximitytothephysical
+locationusedforthebusinessoroperations,takingintoconsiderationother
+factors that include the safety of the employee from health hazards associated
+with the business or operations.
+NB: DESPITE THE ABOVE, IF CASH PAYMENTS ARE MADE TO EMPLOYEES
+FOR RENT/ACCOMMODATION, THE PAYMENTSHALL BE ADDED TO THE
+# [p15 fs=12.0] EMPLOYEE’S INCOME AND TAXED
+4.10Payment made to Employee on a Non Discriminatory Basis.
+A payment made to employees on a non- discriminatory basis and which by reason
+ofthesize,typeandfrequencyofthepayments,areunreasonableor
+administratively impracticable for the employer to account for or to allocate to an
+individual is exempt from tax.
+Examples include the underlisted benefits
+(i)Free or subsidised meals provided by the employer, so long as the meals
+are available to staff generally and are not provided as part of a salary
+sacrifice
+13
+
+===== PAGE 16 =====
+
+(ii)Mobile phone usage where there is no landline phone and the mobile phone
+is available to all employees of similar rank or position for use in respect of
+the employment
+(iii)Bus services provided by the employer
+(iv)Annual staff parties and similar functions
+(v)Recreationalandsportsfacilitiesavailabletoallemployees(e.g.
+gymnasium facilities)
+(vi)Counsellingservicestoredundantemployeesandwelfarecounselling
+services available to employees generally
+(vii)Health screening and medical check-ups
+(viii) Provision of eye care tests and corrective glasses
+(ix)Provision of parking facilities for all employees
+4.11Treatment of Overtimeand Bonus
+# [p16 fs=12.0] 4.11.1 Amount to be withheld by employers from overtime.
+Where an employer makes a payment for overtime work to a qualifying junior
+employee during a year of assessment, the employer shall;
+(a)withhold tax from the total of that payment at the rate of five percent,
+where the amount paid does not exceed fifty percent of the basic salary of
+that employee for the month; or
+(b)withhold tax from the excessof that payment at the rate of ten percent, if
+the amount paid exceeds fifty percent of the basic salary of the employee
+for that month.
+“qualifying junior employee” means
+(i)a junior staff member and
+(ii) the qualifying employment income of that employee from the employment
+fortheyearofassessmentdoesnotexceedeighteenthousand
+currency points.
+14
+
+===== PAGE 17 =====
+
+ILLUSTRATION
+(i)Mr. Andoh is a junior staff member of BIGG Company Limited.His
+monthly basic salary is GHS700.00.He was paid an overtime totalling
+GHS50.00duringthemonthofJuly,2016.Computehistaxon
+overtime for the month of July, 2016.
+GHS
+Total basic salary for July, 2016700.00
+Over Time of GHS50.00 is [(50/700.00) x 100) = 7.14% of basic salary.
+Therefore the overtime payment is taxed @ 5%.
+Tax on over time payment is (5%X GHS50.00)=GHS2.50
+(ii) Mr.AndohwaspaidovertimetotallingGHS500duringthemonthof
+August, 2016. Compute his tax on the overtime payments for the
+month of August, 2016.
+GHS
+Total basic salary for August, 2016.=700.00
+Over Time of GHS500.00 is [(500.00/700.00) x 100) = 71.43% of basic salary.
+Therefore tax overtime as follows:
+(a) (50% x GHS700) = 350 @ 5%=GHS17.50
+(b) The difference (500 – 350) = 150 @ 10%= GHS15.00
+Total tax on over time of GHS500=GHS32.50
+(iii) Ata Kofi is a junior staff member of Youz Ltd.His monthly basic salary is
+GHS2,000.00. He was paid an overtime totalling GHS500.00 during
+the month of July, 2016. Compute his tax on overtime for the month of
+July, 2016.
+15
+
+===== PAGE 18 =====
+
+Although Ata Kofi is a junior staff member, he is not a Qualifying Junior
+Employee because his monthly basic salary is GHS2,000 which exceeds the
+maximum limit of GHS1,500. Therefore the entire amount of overtime payments
+made shall be considered as part of taxable income.
+GHS
+Total basic salary for July, 20162,000.00
+Over Time allowance500.00
+Total Income2,500.00
+The entire amount of Ata Kofi’s income of GHS2,500.00 will be taxed at the
+Individual (graduated) tax rates using the First Schedule of the Act
+(iv) Alfred Dusah is a senior staff member of GIIG Company Limited.His
+monthly basic salary is GHS1,490.00.He was paid an overtime
+totalling GHS650.00 during the month of July, 2016. Compute his tax
+on overtime for the month of July, 2016.
+Alfred Dusah is a senior staff member, therefore irrespective of the salary paid to
+him (GHS1,490 which is less than GHS1,500), all over time payments shall be
+considered as part of taxable income.
+GHS
+Total basic salary for July, 20161,490.00
+Over Time allowance650.00
+Total Income2,140.00
+The entire amount of Alfred Dusah’s income of GHS2,140.00 will be taxed at
+the Individual (graduated) tax rates using the First Schedule of the Act
+16
+
+===== PAGE 19 =====
+
+# [p19 fs=12.0] 4.11.2 Amount to be withheld by employers from Bonus payments
+Where an employer pays a bonus to an employee during a year of assessment,
+the employer shall,
+(a) where the total of the bonus payments made by that employer to the
+employeeduring the year ofassessment does notexceed fifteen
+percent of the annual basic salary of that employee, withhold tax from
+the gross amount of the payment at the rate of five percent; or
+(b) where the total bonus payments made by that employer to the employee
+during the year of assessment exceeds fifteen percent of the annual
+basic salary of that employee,
+(i)addtheexcesspaymentstotheemploymentincomeof
+thatemployee for that year; and
+(ii) withhold tax from the total amount obtained in accordance with
+the First Schedule of the Act
+EXAMPLE 1
+AffiaKomworkswithABBCcompanylimitedandonanannualBasicsalaryof
+GHS100,000.00.She was paid a bonus of GHS14,000.00 in July, 2016. Determine the
+tax on the bonus.
+Annual basic salary=GHS100,000.00
+Annual bonus paid=GHS14,000.00
+Annual bonus as a percentage of annual basic salary = {14,000.00 X 100 }= 14
+{100,000.00}
+Annual bonus paid is less than 15% of annual basic salary therefore the bonus of
+GHS14,000.00 will be taxed at a concessionary rate of 5%
+Tax on Bonus = (GHS14,000.00 x 5%) =GHS700.00
+17
+
+===== PAGE 20 =====
+
+EXAMPLE 2
+Kwame Fiavi works with CCD company limited and on an annual basic salary of
+GHS120,000.00. He was paid a bonus of GHS20,000.00 in December, 2016. Determine
+the tax on the bonus
+Annual basic salary= GHS120,000.00
+Annual bonus paid= GHS20,000.00
+Annual bonus as a percentage of annual basic salary = {20,000.00 X 100 }= 16.67%
+{120,000.00}
+Annual bonus paid is more than 15% of annual basic salary therefore part of the bonus
+(15% of annual basic salary) will be taxed at a concessionary rate of 5%.
+The excess bonus will be added to the income and taxed using the rates under the first
+schedule
+Annual bonus paid=GHS20,000.00
+15% of Annual basic salary(120,000.00 x 15%)=GHS18,000.00
+Excess bonus paid=GHS2,000.00
+TAXATION OF BONUS
+(i) GHS18,000.00 will be taxed at a concessionary rate of 5% = (GHS18,000.00 x
+5%)
+=GHS 900.00
+(ii)The excess bonus of GHS2,000.00 will be added to Kwame’s income for the
+year, and taxed using the rates under the First Schedule
+4.12Tax to be withheld from payment to casual workers
+(1) Where a person makes payment to a casual worker, that payment shall be
+treated as income earned by that casual worker, and the person shallwithhold
+18
+
+===== PAGE 21 =====
+
+tax from the gross income paid to that casual worker at the rate of five
+percent (5%).
+(2) The tax withheld shall be treated as a final tax
+(3) A “casual worker” has the meaning assigned in section 78 of the LabourAct,
+2003 (Act 651).
+ILLUSTRATION
+BejaminFio is a casual worker at the Tema Harbour. His total earnings for the month
+of July, 2016 was GHS243. Determine his tax liability for the month of July, 2016.
+Total incomeGHS243.00
+Tax @ 5% (243.00 x 0.05) – GHS12.15 FINAL TAX
+4.13Payment to temporary workers
+Where a person makes payment to a temporary worker as defined under section 78
+of the Labour Act, 2003 (Act 651), that payment shall be treated as income earned
+by that temporary worker, and the person shall withhold tax from that income in
+accordance with section 114 of the Act and the First Schedule to the Act.
+ILLUSTRATION
+AduBissah is a temporary worker at the Truefriend lime processing factory. His
+monthly salary is GHS405. Determine his tax liability for the month of July, 2016.
+Income for July, 2016GHS405.00.00
+Tax on income using the graduated rates under the First Schedule
+19
+
+===== PAGE 22 =====
+
+Chargeable Income= GHS405.00
+# [p22 fs=12.0] Tax payable= GHS13.57
+4.14Payment to part-time employment
+A part–time employment other than those mentioned under subsection (1)(a)(ii) of
+section 116 of the Act, shall be taxed
+(a)at the rate of ten percent on account, where the employee is a resident
+individual; and
+(b)at the rate mentioned in paragraph 2 of the First Schedule of the Act,
+where the employee is a non-resident individual.
+ILLUSTRATION
+Dr Peter Adams is a Gyaenacologist specialist at the Ridge Hospital. He also serves
+as a visiting Gyaenacologist at Safemother Clinic. He was paid an amount of
+GHS5,678.90 for the services he rendered to the clinic in the month of July, 2016.
+Required: Determine the amount of tax required to be deducted from his income by
+Safemother Clinic for the month of July, 2016
+Income for July, 2016GHS5,678.90
+Tax @ 10% (5,678.90 x 0.10) = GHS567.89 (ON ACCOUNT)
+NB: Dr. Peter Adams is required to file his return at the end of the year incorporating
+all the incomes that he earned for 2016 year of assessment.
+20
+
+===== PAGE 23 =====
+
+AMOUNT TO BE WITHHELD BY EMPLOYERS GENERALLY (REG 4 OF LI 2244)
+Regulation 4 of the LI 2244 provides that an employer should withhold sufficient tax
+from the income of the employee by applying the formula below:
+A x B
+C
+where
+Ais the amount of the payment for a particular month;
+Bis the employee's employment annual tax liability estimated using
+the rates under the First Schedule less tax previously withheld by
+the employer from prior qualifying cash payments made by the
+employer to the employee during the year; and
+Cis the payments to be made to the employee for the year less total
+prior payments made by the employer to the employee during the
+year of assessment
+In making the estimate the employer may, if satisfied, take into account:
+(a)any tax reliefs of the employee, and
+(b)any contribution made under section 112 of the National Pension
+Act, 2008 (Act 766)
+RATE OF INCOME TAX FOR INDIVIDUALS
+CHARGEABLE INCOMERATE OF TAX
+First2,5920%
+Next1,2965%
+Next1,81210%
+21
+
+===== PAGE 24 =====
+
+Next33,18017.5%
+Exceeding38,88025%
+# [p24 fs=12.0] 2016 CUMULATIVE TAX RATES
+CIRATETAXCUM CICUM TAX
+2,5920%0.002,5920.00
+1,2965%64.803,88064.80
+1,81210%181.205,700246.00
+33,18017.5%5,806.5038,8806,052.50
+>38,88025.0%
+ILLUSTRATION (a)
+Mr. David Mensah’s employment income for January, 2016 was GHS12,000
+p.a.
+Required: Compute the taxes to be withheld by his employer for the months
+of January – March, 2016
+January, 2016 Tax = (A X B) / C
+= (1,000 X 1,384.50) / 12,000
+= GHS115.38
+February, 2016 Tax = (A X B) / C
+= {1,000 X (1,384.50 - 115.38)} / (12,000 – 1,000)
+= {1,000 X (1,269.12)} / 11,000
+= GHS115.38
+March, 2016 Tax = (A X B) / C
+= {1,000 X (1,384.50 – 230.76)} / (12,000 – 2,000)
+22
+
+===== PAGE 25 =====
+
+= {1,000 X (1,153.74)} / 10,000
+= GHS115.38
+ILLUSTRATION (b)
+In July, 2016 Mr. David Mensah’s salary was increased to GHS18,000 p.a.
+with effect from 1/7/16
+Required: Compute the taxes to be withheld by his employer for the months
+of July– September, 2016
+July, 2016 Tax = (A X B) / C
+{1,500 X (2,398.50 – 692.28)} / (18,000 – 6,000)
+={1,500 X (1,706.22)} / (18,000 – 6,000)
+={2,559,330 / 12,000
+= GHS213.28
+August, 2016 Tax = (A X B) / C
+={1,500 X (2,398.50 – 905.50)} / (18,000 – 7,500)
+={1,500 X (1,492.28)} / 10,500
+={2,239,410 /10,500}
+= GHS213.28
+September, 2016 Tax = (A X B) / C
+={1,500 X (2,398.50 -1,118.84)} / (18,000 – 9,000)
+={1,500 X (1,137.48)} / (18,000 – 9,000)
+={1,919,490 / 9,000}
+23
+
+===== PAGE 26 =====
+
+= GHS213.28
+ILLUSTRATION (c)
+In July, 2016 Mr. David Mensah’s salary was increased to GHS18,000 p.a.
+with retrospective effect from January, 2016 and he was paid the salary
+arrears from January to June in addition to July salary.
+Required: Compute the taxes to be withheld by his employer for the months
+of January, July to September, 2016
+January, 2016 Tax = (A X B) / C
+= (1,000 X 1,384.50) / 12,000 = GHS115.38
+July, 2007 Tax = (A X B) / C
+= 1,500 + (500 x 6) X (2,398.50 – 692.28)} / (18,000 – 6,000)
+={(1,500 + 3,000) x (2,398.50 – 692.28)}/12,000
+={(4,500) x (1,706,22)}/12,000
+={7,677,990}/12,000
+= 639.83
+August, 2016 Tax = (A X B) / C
+= 1,500 X (2,398.50 -1,332.11)/ (18,000 – 10,500)
+= 1,500 X (1,066.39) / (18,000 – 10,500)
+= 1599585/ 7,500 =GHS213.28
+September, 2016 Tax = (A X B) / C
+24
+
+===== PAGE 27 =====
+
+= 1,500 X (2,398.50 -1,545.48)/ (18,000 – 12,000)
+= 1,500 X (853.11) / 6,000
+= 1279668/ 6,000 =GHS213.28
+5.0EMPLOYMENT INCOME ASSESSMENT FORMAT
+Name of Employee:
+Year of Assessment:
+Basis Period:
+GHSGHS
+BASIC SALARY(Sect 4)XXX
+ADD: ALL CASH ALLOWANCES(Sect 4)
+Cost of living allowanceXX
+Subsistence allowanceXX
+Entertainment allowanceXX
+Travel allowanceXX
+Night duty allowance, etc.XXXXX
+ADD: OTHER CASH BENEFITS(Sect. 4)
+FeesXX
+CommissionXX
+GratuitiesXX
+Leave payXX
+Overtime pay (Sect 4 & Reg. 5)XX
+Excess Bonus(Sect 4 & Reg. 5)XX
+A reimbursement of an expense incurred
+by an Individual or associate of the individual,XX
+A payment made to the Individual’s
+Agreement to Conditions of the employmentXX
+Other payments(including gifts, received
+25
+
+===== PAGE 28 =====
+
+in respect of an employment),XX
+All other taxable benefits in cash/ kindXXXXX
+INDIRECT CASH PAYMENTS
+A retirement Contribution made to a
+retirement fund on behalf of an employeeXX
+(Sect. 4 & 94)(excess contribution)
+A discharge of an expense incurred by an
+Individual or associate of the individualXX
+A payment made for the Individual’s
+Agreement to Conditions of the employmentXX
+Other Personal Liabilities paid by an employer:
+(Income tax etc. (Sect. 4)XXXXX
+TOTAL CASH EMOLUMENTS FROM EMPLOYMENTXXXX
+ADD: NON-CASH BENEFITS
+Car ElementXX
+Rent ElementXX
+Loan BenefitsXX
+Utility bills etc.XXXXX
+QUALIFYING EMPLOYMENT INCOMEXXXX
+OTHER NON-CASH BENEFITS(Sect 4 & 26)XXX
+ASSESSABLE INCOME FROM EMPLOYMENTXXXX
+LESS: RELIEFS (If Applicable)
+Marriage/ResponsibilityXX
+Disabled IndividualXX
+Old AgeXX
+Child EducationXX
+26
+
+===== PAGE 29 =====
+
+Aged Dependant RelativeXX
+Cost of TrainingXXXXX
+XXXX
+OTHER ALLOWABLE DEDUCTIONS
+Social Security Contribution
+(Sect 91,93, 95, 96 & Application of Act
+# [p29 fs=12.0] 766 National Pension Act, 2008)XX
+Voluntary (Provident Fund)XX
+Mortgage Interest (Sch. 6(4&5))XX
+Contributions and Donations
+to a Worthwhile Cause (Sect 100)XXXXXX
+CHARGEABLE INCOMEXXXX
+ADD: The income of a resident individual from employment
+exercised in a foreign country (Sect 103 & 111)XXX
+LESS: Foreign Tax Credit Allowable (Sect. 112)XXXXXX
+CHAGEABLE INCOME FROM EMPLOYMENTXXXX
+ADD OTHER INCOMES (FROM BUSINESS OR INVESTMENT)XXX
+TOTAL CHARGEABLE INCOMEXXXX
+st
+TAX THEREON @ GRADUATED RATES (1Schedule)XXX
+Less:Tax Paid On AccountXX
+Tax Credit (WHT)XX(xxx)
+TAX OUTSTANDING/(REFUND)XXXX
+27
+
+===== PAGE 30 =====
+
+28

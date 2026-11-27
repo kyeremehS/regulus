@@ -232,6 +232,8 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error("FAIL:", err);
+  console.error("FAIL:", err instanceof Error ? err.message : String(err));
+  const cause = (err as { cause?: unknown })?.cause;
+  if (cause) console.error("CAUSE:", cause instanceof Error ? `${cause.name}: ${cause.message}` : String(cause));
   process.exit(1);
 });
